@@ -15,12 +15,12 @@
      VRRR: ;R=                    
     =RRR+   YRitti;.     
     VRRR  :YRRRRRRRRt.   
-    .RRRY ;RRYYR;;iRRRR.         
+    .RRRY ;RRYYR;;iRRRR.     Los objetivos de este proyecto académico son:    
     :RRRi RR; .Rt  .XRRY        
-    :RRR= RV   +R.  .RRR  
-    :RRRt tR    Rt   IRR.         
-    RRRR  ;;   +R.  XRY              
-    ;RRRt     .R+ +RR:  
+    :RRR= RV   +R.  .RRR      -Consolidar los conocimientos de _Python_ y _SQL_.
+    :RRRt tR    Rt   IRR.     -Implementar control de versiones en equipo, usando _Git_ y _GitHub_.   
+    RRRR  ;;   +R.  XRY       -Usar _Scrum_ como marco de referencia, aplicando principios ágiles.       
+    ;RRRt     .R+ +RR:        -Mejorar la comunicación y presentación de resultados en equipo.
       ;RRRX;     YRIRX:   
         .+RRRRIiitRRY;     
          :;+ii+;tR:      
