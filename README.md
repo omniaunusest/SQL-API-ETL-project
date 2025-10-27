@@ -1,26 +1,26 @@
 
 
-          =IY;           
+          =IY;           Hola! 
          XRVRRi          
-        =Ri :RR          
-        VR   ;RR          
-        RY   tRY               
-        RX  ;RR;        chica,
-        tR=RRR           
+        =Ri :RR          Este repositorio ha sido creado para albergar nuestro estudio sobre las tendencias musicales entre los años 2018 y 2023, como proyecto del módulo 2, perteneciente al Grupo-03, de la Promo 60 de 
+        VR   ;RR         Adalab.
+        RY   tRY         
+        RX  ;RR;         A través de este análisis de los datos extraídos gracias a las APIs de Spotify y LastFM,  hemos querido hacer un recorrido por las canciones, álbumes y artistas más escuchados en 4 géneros,
+        tR=RRR           elegidos por las compañeras del proyecto, en esos 5 años seleccionados. 
          ;RRRR;           
-         ;RRRi        me pillas aquí a medias     
-         ;RRRV             
-        ;RRRRR:      soy un README.md sin redactar      
+         ;RRRi           Nuestra intención con la elección de ese rango de años es investigar cómo eran las tendencias musicales tanto pre como post-pandemia. Y con estos datos, invitar a realizar una pequeña reflexión
+         ;RRRV           acerca de cómo impactan los eventos sociales de carácter mundial en las necesidades e intereses musicales de las personas consumidoras. 
+        ;RRRRR:            
       :RRRV.RX            
      VRRR: ;R=                    
     =RRR+   YRitti;.     
     VRRR  :YRRRRRRRRt.   
-    .RRRY ;RRYYR;;iRRRR.         ya que estás aquí
-    :RRRi RR; .Rt  .XRRY        échame una mano con
-    :RRR= RV   +R.  .RRR  
-    :RRRt tR    Rt   IRR.          estas
-    RRRR  ;;   +R.  XRY               pintas
-    ;RRRt     .R+ +RR:  
+    .RRRY ;RRYYR;;iRRRR.     Los objetivos de este proyecto académico son:    
+    :RRRi RR; .Rt  .XRRY        
+    :RRR= RV   +R.  .RRR      -Consolidar los conocimientos de _Python_ y _SQL_.
+    :RRRt tR    Rt   IRR.     -Implementar control de versiones en equipo, usando _Git_ y _GitHub_.   
+    RRRR  ;;   +R.  XRY       -Usar _Scrum_ como marco de referencia, aplicando principios ágiles.       
+    ;RRRt     .R+ +RR:        -Mejorar la comunicación y presentación de resultados en equipo.
       ;RRRX;     YRIRX:   
         .+RRRRIiitRRY;     
          :;+ii+;tR:      
