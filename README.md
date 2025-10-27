@@ -1,1 +1,122 @@
-# da-promo-60-modulo2-equipo3
+
+
+          =IY;           Hola! 
+         XRVRRi          
+        =Ri :RR          Este repositorio ha sido creado para albergar nuestro estudio sobre las tendencias musicales entre los años 2018 y 2023, como proyecto del módulo 2, perteneciente al Grupo-03, de la Promo 60 de 
+        VR   ;RR         Adalab.
+        RY   tRY         
+        RX  ;RR;         A través de este análisis de los datos extraídos gracias a las APIs de Spotify y LastFM,  hemos querido hacer un recorrido por las canciones, álbumes y artistas más escuchados en 4 géneros,
+        tR=RRR           elegidos por las compañeras del proyecto, en esos 5 años seleccionados. 
+         ;RRRR;           
+         ;RRRi           Nuestra intención con la elección de ese rango de años es investigar cómo eran las tendencias musicales tanto pre como post-pandemia. Y con estos datos, invitar a realizar una pequeña reflexión
+         ;RRRV           acerca de cómo impactan los eventos sociales de carácter mundial en las necesidades e intereses musicales de las personas consumidoras. 
+        ;RRRRR:            
+      :RRRV.RX            
+     VRRR: ;R=                    
+    =RRR+   YRitti;.     
+    VRRR  :YRRRRRRRRt.   
+    .RRRY ;RRYYR;;iRRRR.     Los objetivos de este proyecto académico son:    
+    :RRRi RR; .Rt  .XRRY        
+    :RRR= RV   +R.  .RRR      -Consolidar los conocimientos de _Python_ y _SQL_.
+    :RRRt tR    Rt   IRR.     -Implementar control de versiones en equipo, usando _Git_ y _GitHub_.   
+    RRRR  ;;   +R.  XRY       -Usar _Scrum_ como marco de referencia, aplicando principios ágiles.       
+    ;RRRt     .R+ +RR:        -Mejorar la comunicación y presentación de resultados en equipo.
+      ;RRRX;     YRIRX:   
+        .+RRRRIiitRRY;     
+         :;+ii+;tR:      
+             ;R:                     
+             iR       
+    ;VRRi    Vi       
+    RRRRR.  tR.       
+    YRRR+ ;YV:                  
+    .tRRRRR+          
+      .;;:
+#
+# Aquí va mi título y una descripción breve
+
+Aquí unas líneas que explique el propósito del proyecto.
+
+*Ejemplo:*
+    
+        Análisis de datos de tendencias musicales tiempos de pre-pandemia, pandemia y pospandemia: extracción, limpieza y creación de BB. DD. en MySQL para jerarquizar los resultados a partir de datos de Spotify y last.fm
+
+## Índice
+1. [¿Cómo usar esto?](#1-cómo-usar-esto)
+2. [Estructura del repositorio](#2-estructura-del-repositorio)
+3. [Fuente de los datos](#3-fuente-de-los-datos)
+4. [Proceso de limpieza y transformación](#4-proceso-de-limpieza-y-transformación)
+5. [Esquema de la base de datos](#5-esquema-de-la-base-de-datos)
+7. [Autoras y licencias](#7-autoras-y-licencia)
+8. [Posibles mejoras](#9-posibles-mejoras)
+
+
+#
+## 1. ¿Cómo usar esto?
+
+Versión de Python, librerías necesarias (pandas, spotipy, etc.) y cómo instalarlas (ej: pip install -r requirements.txt).
+
+Versión de la base de datos (MySQL)
+
+#### Instrucciones para replicar el proyecto:
+
+Cómo ejecutar los scripts y cargar los datos en MySQL.
+
+*Ejemplo:*
+
+`bash Copiarpython scripts/clean_data.py`
+
+`python scripts/load_to_sql.py`
+
+#
+## 2. Estructura del repositorio
+
+Explicación de carpetas y archivos principales:
+
+    fase-1-extraccion-individual-x-genero: Datos crudos y procesados.
+#
+    /scripts: Scripts de limpieza y carga.
+#
+    /sql: Esquemas y consultas SQL.
+#
+    README.md: Este archivo.
+
+#
+### 3. Fuente de los datos
+
+Origen de los datos (API) y fecha de obtención.
+
+*Ejemplo:*
+
+    "Datos obtenidos de la API de Spotify para desarroladores en octubre 2025."
+
+#
+## 4. Proceso de limpieza y transformación
+
+Pasos clave: manejo de nulos, normalización, formato de fechas, etc.
+
+*Ejemplo:*
+        
+         "Se eliminaron registros con más del 30% de valores nulos y se estandarizaron los nombres de columnas."
+#
+## 5. Esquema de la base de datos
+
+Diagrama o tabla con las tablas, columnas y relaciones.
+
+## 6. Ejemplo de uso
+
+Consulta SQL básica para validar la carga.
+
+*Ejemplo:*
+
+`SELECT COUNT() FROM ventas;`
+
+#
+## 7. Autoras y licencia
+
+Nombres de las colaboradoras y tipo de licencia (MIT, GPL, etc.).
+
+
+
+## 9. Posibles mejoras
+
+Ideas para futuras actualizaciones (ej: automatizar la extracción).
