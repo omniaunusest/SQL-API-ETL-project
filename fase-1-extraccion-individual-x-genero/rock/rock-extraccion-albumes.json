@@ -9,14 +9,6 @@
     },
     {
         "tipo":"album",
-        "artista":"R.E.M.",
-        "genero":"rock",
-        "nombre":"R.E.M. At The BBC (Live)",
-        "año":2018,
-        "id":"35B6Tl6RKNSP6fyZrzR6Qb"
-    },
-    {
-        "tipo":"album",
         "artista":"Muse",
         "genero":"rock",
         "nombre":"Simulation Theory (Super Deluxe)",
@@ -41,14 +33,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Andrés Calamaro",
-        "genero":"rock",
-        "nombre":"Cargar La Suerte",
-        "año":2018,
-        "id":"5y3l6sn4M3ACns2H51wGrl"
-    },
-    {
-        "tipo":"album",
         "artista":"Bon Jovi",
         "genero":"rock",
         "nombre":"This House Is Not For Sale (Deluxe)",
@@ -65,6 +49,22 @@
     },
     {
         "tipo":"album",
+        "artista":"Andrés Calamaro",
+        "genero":"rock",
+        "nombre":"Cargar La Suerte",
+        "año":2018,
+        "id":"5y3l6sn4M3ACns2H51wGrl"
+    },
+    {
+        "tipo":"album",
+        "artista":"R.E.M.",
+        "genero":"rock",
+        "nombre":"R.E.M. At The BBC (Live)",
+        "año":2018,
+        "id":"35B6Tl6RKNSP6fyZrzR6Qb"
+    },
+    {
+        "tipo":"album",
         "artista":"Hombres G",
         "genero":"rock",
         "nombre":"Huevos Revueltos (En Vivo)",
@@ -73,11 +73,51 @@
     },
     {
         "tipo":"album",
+        "artista":"The Beatles",
+        "genero":"rock",
+        "nombre":"The Beatles",
+        "año":2018,
+        "id":"1WMVvswNzB9i2UMh9svso5"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Rolling Stones",
+        "genero":"rock",
+        "nombre":"Voodoo Lounge Uncut (Live)",
+        "año":2018,
+        "id":"0a9Rwt5iRRZ6KNyO60PXoW"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Rolling Stones",
+        "genero":"rock",
+        "nombre":"From The Vault: No Security - San Jose 1999 (Live)",
+        "año":2018,
+        "id":"6tKuUM65RFjYbwVKqMAMjw"
+    },
+    {
+        "tipo":"album",
         "artista":"Fleetwood Mac",
         "genero":"rock",
         "nombre":"50 Years - Don't Stop",
         "año":2018,
         "id":"06JqOkwwy91OxrApXclzYf"
+    },
+    {
+        "tipo":"album",
+        "artista":"Café Quijano",
+        "genero":"rock",
+        "nombre":"La vida no es La la la",
+        "año":2018,
+        "id":"6NOpwklddtNapys5hvkfJP"
+    },
+    {
+        "tipo":"album",
+        "artista":"Café Quijano",
+        "genero":"rock",
+        "nombre":"La vida no es La la la (Edición especial)",
+        "año":2018,
+        "id":"7tLNiAmdSjOwJVZ6QqOtYL"
     },
     {
         "tipo":"album",
@@ -113,67 +153,11 @@
     },
     {
         "tipo":"album",
-        "artista":"The Rolling Stones",
+        "artista":"Arctic Monkeys",
         "genero":"rock",
-        "nombre":"Voodoo Lounge Uncut (Live)",
+        "nombre":"Tranquility Base Hotel & Casino",
         "año":2018,
-        "id":"0a9Rwt5iRRZ6KNyO60PXoW"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Rolling Stones",
-        "genero":"rock",
-        "nombre":"From The Vault: No Security - San Jose 1999 (Live)",
-        "año":2018,
-        "id":"6tKuUM65RFjYbwVKqMAMjw"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Beatles",
-        "genero":"rock",
-        "nombre":"The Beatles",
-        "año":2018,
-        "id":"1WMVvswNzB9i2UMh9svso5"
-    },
-    {
-        "tipo":"album",
-        "artista":"Café Quijano",
-        "genero":"rock",
-        "nombre":"La vida no es La la la",
-        "año":2018,
-        "id":"6NOpwklddtNapys5hvkfJP"
-    },
-    {
-        "tipo":"album",
-        "artista":"Café Quijano",
-        "genero":"rock",
-        "nombre":"La vida no es La la la (Edición especial)",
-        "año":2018,
-        "id":"7tLNiAmdSjOwJVZ6QqOtYL"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Goo Goo Dolls",
-        "genero":"rock",
-        "nombre":"The Audience Is That Way (The Rest of the Show) [Vol. 2; Live]",
-        "año":2018,
-        "id":"4KxahUmUH7PzAKuvzh2dk2"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Goo Goo Dolls",
-        "genero":"rock",
-        "nombre":"The Audience Is This Way (Live)",
-        "año":2018,
-        "id":"132zIHHxoXPWyGuEyKnflz"
-    },
-    {
-        "tipo":"album",
-        "artista":"Twenty One Pilots",
-        "genero":"rock",
-        "nombre":"Trench",
-        "año":2018,
-        "id":"621cXqrTSSJi1WqDMSLmbL"
+        "id":"7v6FNgLDS8KmaWA1amUtqe"
     },
     {
         "tipo":"album",
@@ -185,19 +169,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Arctic Monkeys",
+        "artista":"Twenty One Pilots",
         "genero":"rock",
-        "nombre":"Tranquility Base Hotel & Casino",
+        "nombre":"Trench",
         "año":2018,
-        "id":"7v6FNgLDS8KmaWA1amUtqe"
-    },
-    {
-        "tipo":"album",
-        "artista":"Imagine Dragons",
-        "genero":"rock",
-        "nombre":"Origins (Deluxe)",
-        "año":2018,
-        "id":"3JfSxDfmwS5OeHPwLSkrfr"
+        "id":"621cXqrTSSJi1WqDMSLmbL"
     },
     {
         "tipo":"album",
@@ -206,6 +182,14 @@
         "nombre":"Bohemian Rhapsody (The Original Soundtrack)",
         "año":2018,
         "id":"6i6folBtxKV28WX3msQ4FE"
+    },
+    {
+        "tipo":"album",
+        "artista":"Imagine Dragons",
+        "genero":"rock",
+        "nombre":"Origins (Deluxe)",
+        "año":2018,
+        "id":"3JfSxDfmwS5OeHPwLSkrfr"
     },
     {
         "tipo":"album",
@@ -233,14 +217,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Mikel Erentxun",
-        "genero":"rock",
-        "nombre":"Live At The Roxy",
-        "año":2018,
-        "id":"04Pjqqbry6QsST02oQSNB4"
-    },
-    {
-        "tipo":"album",
         "artista":"The Doors",
         "genero":"rock",
         "nombre":"Waiting for the Sun (50th Anniversary Deluxe Edition)",
@@ -265,27 +241,11 @@
     },
     {
         "tipo":"album",
-        "artista":"YUNGBLUD",
-        "genero":"rock",
-        "nombre":"21st Century Liability",
-        "año":2018,
-        "id":"1p64R5tjTpC2oH24YLdQgq"
-    },
-    {
-        "tipo":"album",
         "artista":"Bastille",
         "genero":"rock",
         "nombre":"Other People’s Heartache (Pt. 4)",
         "año":2018,
         "id":"3cGGFGQJ027VtMknlIHNNi"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Smashing Pumpkins",
-        "genero":"rock",
-        "nombre":"SHINY AND OH SO BRIGHT, VOL. 1 \/ LP: NO PAST. NO FUTURE. NO SUN.",
-        "año":2018,
-        "id":"20tssRttKLtNfZBlLXzrSs"
     },
     {
         "tipo":"album",
@@ -297,19 +257,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Three Days Grace",
+        "artista":"Mikel Erentxun",
         "genero":"rock",
-        "nombre":"Outsider",
+        "nombre":"Live At The Roxy",
         "año":2018,
-        "id":"3e8KUqPO1wRmwqAxENX38s"
-    },
-    {
-        "tipo":"album",
-        "artista":"Simply Red",
-        "genero":"rock",
-        "nombre":"Symphonica in Rosso (Live at Ziggo Dome, Amsterdam)",
-        "año":2018,
-        "id":"0Up2CehvjnZ70Q01OcAI7Y"
+        "id":"04Pjqqbry6QsST02oQSNB4"
     },
     {
         "tipo":"album",
@@ -318,6 +270,46 @@
         "nombre":"Coti Sorokin Y Los Brillantes En El Teatro Colón (Live At Teatro Colón \/ 2018)",
         "año":2018,
         "id":"2mOyu90MRFWXbDJ6ToJsE8"
+    },
+    {
+        "tipo":"album",
+        "artista":"YUNGBLUD",
+        "genero":"rock",
+        "nombre":"21st Century Liability",
+        "año":2018,
+        "id":"1p64R5tjTpC2oH24YLdQgq"
+    },
+    {
+        "tipo":"album",
+        "artista":"Three Days Grace",
+        "genero":"rock",
+        "nombre":"Outsider",
+        "año":2018,
+        "id":"3e8KUqPO1wRmwqAxENX38s"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Smashing Pumpkins",
+        "genero":"rock",
+        "nombre":"SHINY AND OH SO BRIGHT, VOL. 1 \/ LP: NO PAST. NO FUTURE. NO SUN.",
+        "año":2018,
+        "id":"20tssRttKLtNfZBlLXzrSs"
+    },
+    {
+        "tipo":"album",
+        "artista":"Eric Clapton",
+        "genero":"rock",
+        "nombre":"Happy Xmas",
+        "año":2018,
+        "id":"1L3jhywNGVbRmOjprKPvzj"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lenny Kravitz",
+        "genero":"rock",
+        "nombre":"Raise Vibration",
+        "año":2018,
+        "id":"4e83uqVOZLxULgNO6z8dhL"
     },
     {
         "tipo":"album",
@@ -337,27 +329,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Eric Clapton",
+        "artista":"Simply Red",
         "genero":"rock",
-        "nombre":"Happy Xmas",
+        "nombre":"Symphonica in Rosso (Live at Ziggo Dome, Amsterdam)",
         "año":2018,
-        "id":"1L3jhywNGVbRmOjprKPvzj"
-    },
-    {
-        "tipo":"album",
-        "artista":"Sting",
-        "genero":"rock",
-        "nombre":"44\/876 (Deluxe)",
-        "año":2018,
-        "id":"1CoVw7saic0ozYSDTeQ26l"
-    },
-    {
-        "tipo":"album",
-        "artista":"Lenny Kravitz",
-        "genero":"rock",
-        "nombre":"Raise Vibration",
-        "año":2018,
-        "id":"4e83uqVOZLxULgNO6z8dhL"
+        "id":"0Up2CehvjnZ70Q01OcAI7Y"
     },
     {
         "tipo":"album",
@@ -377,6 +353,38 @@
     },
     {
         "tipo":"album",
+        "artista":"Sting",
+        "genero":"rock",
+        "nombre":"44\/876 (Deluxe)",
+        "año":2018,
+        "id":"1CoVw7saic0ozYSDTeQ26l"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Goo Goo Dolls",
+        "genero":"rock",
+        "nombre":"The Audience Is That Way (The Rest of the Show) [Vol. 2; Live]",
+        "año":2018,
+        "id":"4KxahUmUH7PzAKuvzh2dk2"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Goo Goo Dolls",
+        "genero":"rock",
+        "nombre":"The Audience Is This Way (Live)",
+        "año":2018,
+        "id":"132zIHHxoXPWyGuEyKnflz"
+    },
+    {
+        "tipo":"album",
+        "artista":"Volbeat",
+        "genero":"rock",
+        "nombre":"Let's Boogie! (Live from Telia Parken)",
+        "año":2018,
+        "id":"7MD30fGABWb74T0kKLUeTt"
+    },
+    {
+        "tipo":"album",
         "artista":"Babasonicos",
         "genero":"rock",
         "nombre":"Discutible",
@@ -393,27 +401,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Volbeat",
-        "genero":"rock",
-        "nombre":"Let's Boogie! (Live from Telia Parken)",
-        "año":2018,
-        "id":"7MD30fGABWb74T0kKLUeTt"
-    },
-    {
-        "tipo":"album",
         "artista":"Nine Inch Nails",
         "genero":"rock",
         "nombre":"Bad Witch",
         "año":2018,
         "id":"1eiF9Yybmi5Iuz0UCfxGt3"
-    },
-    {
-        "tipo":"album",
-        "artista":"Simple Minds",
-        "genero":"rock",
-        "nombre":"Walk Between Worlds",
-        "año":2018,
-        "id":"1SV5pB0Sxjyz8PleTokE17"
     },
     {
         "tipo":"album",
@@ -425,19 +417,27 @@
     },
     {
         "tipo":"album",
-        "artista":"Chicago",
-        "genero":"rock",
-        "nombre":"Chicago II - Live on Soundstage",
-        "año":2018,
-        "id":"4H1gFDFrapLnqRMPcOikRR"
-    },
-    {
-        "tipo":"album",
         "artista":"Alice In Chains",
         "genero":"rock",
         "nombre":"Rainier Fog",
         "año":2018,
         "id":"6cTOWANHC25V29GXpfwyFt"
+    },
+    {
+        "tipo":"album",
+        "artista":"Simple Minds",
+        "genero":"rock",
+        "nombre":"Walk Between Worlds",
+        "año":2018,
+        "id":"1SV5pB0Sxjyz8PleTokE17"
+    },
+    {
+        "tipo":"album",
+        "artista":"Billy Idol",
+        "genero":"rock",
+        "nombre":"Vital Idol: Revitalized",
+        "año":2018,
+        "id":"0muJUVeQXtAA1eRO4mgDU9"
     },
     {
         "tipo":"album",
@@ -465,19 +465,27 @@
     },
     {
         "tipo":"album",
+        "artista":"Chicago",
+        "genero":"rock",
+        "nombre":"Chicago II - Live on Soundstage",
+        "año":2018,
+        "id":"4H1gFDFrapLnqRMPcOikRR"
+    },
+    {
+        "tipo":"album",
+        "artista":"Franz Ferdinand",
+        "genero":"rock",
+        "nombre":"Always Ascending",
+        "año":2018,
+        "id":"5mGnBhRKFyZ3hcqNJLl08W"
+    },
+    {
+        "tipo":"album",
         "artista":"Paul McCartney",
         "genero":"rock",
         "nombre":"Egypt Station",
         "año":2018,
         "id":"3uLrSFrNqa8CULSIU7e9v5"
-    },
-    {
-        "tipo":"album",
-        "artista":"Billy Idol",
-        "genero":"rock",
-        "nombre":"Vital Idol: Revitalized",
-        "año":2018,
-        "id":"0muJUVeQXtAA1eRO4mgDU9"
     },
     {
         "tipo":"album",
@@ -513,22 +521,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Franz Ferdinand",
-        "genero":"rock",
-        "nombre":"Always Ascending",
-        "año":2018,
-        "id":"5mGnBhRKFyZ3hcqNJLl08W"
-    },
-    {
-        "tipo":"album",
-        "artista":"Snow Patrol",
-        "genero":"rock",
-        "nombre":"Wildness (Deluxe)",
-        "año":2018,
-        "id":"7CGzC8FDgpAMyp36T7yyEa"
-    },
-    {
-        "tipo":"album",
         "artista":"Mark Knopfler",
         "genero":"rock",
         "nombre":"Down The Road Wherever (Deluxe)",
@@ -553,11 +545,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Los Enanitos Verdes",
+        "artista":"Snow Patrol",
         "genero":"rock",
-        "nombre":"Huevos Revueltos (En Vivo)",
+        "nombre":"Wildness (Deluxe)",
         "año":2018,
-        "id":"5TzKiFldM8bjWQEroSrrAm"
+        "id":"7CGzC8FDgpAMyp36T7yyEa"
     },
     {
         "tipo":"album",
@@ -566,6 +558,22 @@
         "nombre":"Aztlán",
         "año":2018,
         "id":"0yFFH0eR0XJSoF0S5d5peT"
+    },
+    {
+        "tipo":"album",
+        "artista":"Los Enanitos Verdes",
+        "genero":"rock",
+        "nombre":"Huevos Revueltos (En Vivo)",
+        "año":2018,
+        "id":"5TzKiFldM8bjWQEroSrrAm"
+    },
+    {
+        "tipo":"album",
+        "artista":"AJR",
+        "genero":"rock",
+        "nombre":"The Click (Deluxe Edition)",
+        "año":2018,
+        "id":"6JQLDydERhZKXqwQLb9uUY"
     },
     {
         "tipo":"album",
@@ -585,27 +593,11 @@
     },
     {
         "tipo":"album",
-        "artista":"AJR",
-        "genero":"rock",
-        "nombre":"The Click (Deluxe Edition)",
-        "año":2018,
-        "id":"6JQLDydERhZKXqwQLb9uUY"
-    },
-    {
-        "tipo":"album",
         "artista":"Khruangbin",
         "genero":"rock",
         "nombre":"Con Todo El Mundo",
         "año":2018,
         "id":"3lziDe2aT9qXSDxeYuNm2y"
-    },
-    {
-        "tipo":"album",
-        "artista":"Breaking Benjamin",
-        "genero":"rock",
-        "nombre":"Ember",
-        "año":2018,
-        "id":"2D1s85eD7MLnPd3zjfK4tr"
     },
     {
         "tipo":"album",
@@ -641,11 +633,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Los Auténticos Decadentes",
+        "artista":"Breaking Benjamin",
         "genero":"rock",
-        "nombre":"Fiesta Nacional (Mtv Unplugged)",
+        "nombre":"Ember",
         "año":2018,
-        "id":"72XWQY6SO3b4M01tHYsIM7"
+        "id":"2D1s85eD7MLnPd3zjfK4tr"
     },
     {
         "tipo":"album",
@@ -657,19 +649,11 @@
     },
     {
         "tipo":"album",
-        "artista":"RADWIMPS",
+        "artista":"Los Auténticos Decadentes",
         "genero":"rock",
-        "nombre":"ANTI ANTI GENERATION",
+        "nombre":"Fiesta Nacional (Mtv Unplugged)",
         "año":2018,
-        "id":"59jm6kUIwtwx5tk6jWOUMv"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Kooks",
-        "genero":"rock",
-        "nombre":"Let's Go Sunshine",
-        "año":2018,
-        "id":"60n4GXgyCv2a7rBfgVu9Pe"
+        "id":"72XWQY6SO3b4M01tHYsIM7"
     },
     {
         "tipo":"album",
@@ -681,11 +665,27 @@
     },
     {
         "tipo":"album",
-        "artista":"Thirty Seconds To Mars",
+        "artista":"RADWIMPS",
         "genero":"rock",
-        "nombre":"America",
+        "nombre":"ANTI ANTI GENERATION",
         "año":2018,
-        "id":"20gUpQ10nKsikE5YRnZN0l"
+        "id":"59jm6kUIwtwx5tk6jWOUMv"
+    },
+    {
+        "tipo":"album",
+        "artista":"Smash Mouth",
+        "genero":"rock",
+        "nombre":"Fush Yu Mang (Acoustic)",
+        "año":2018,
+        "id":"2vMCcTbRIY42yIBwxCCwIp"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Kooks",
+        "genero":"rock",
+        "nombre":"Let's Go Sunshine",
+        "año":2018,
+        "id":"60n4GXgyCv2a7rBfgVu9Pe"
     },
     {
         "tipo":"album",
@@ -705,22 +705,6 @@
     },
     {
         "tipo":"album",
-        "artista":"LiSA",
-        "genero":"rock",
-        "nombre":"LiVE is Smile Always～LiTTLE DEViL PARADE～ at さいたまスーパーアリーナ",
-        "año":2018,
-        "id":"4SE7J6cEdMBciRY9RpfAHg"
-    },
-    {
-        "tipo":"album",
-        "artista":"Smash Mouth",
-        "genero":"rock",
-        "nombre":"Fush Yu Mang (Acoustic)",
-        "año":2018,
-        "id":"2vMCcTbRIY42yIBwxCCwIp"
-    },
-    {
-        "tipo":"album",
         "artista":"Roy Orbison",
         "genero":"rock",
         "nombre":"Unchained Melodies: Roy Orbison & The Royal Philharmonic Orchestra",
@@ -737,6 +721,22 @@
     },
     {
         "tipo":"album",
+        "artista":"LiSA",
+        "genero":"rock",
+        "nombre":"LiVE is Smile Always～LiTTLE DEViL PARADE～ at さいたまスーパーアリーナ",
+        "año":2018,
+        "id":"4SE7J6cEdMBciRY9RpfAHg"
+    },
+    {
+        "tipo":"album",
+        "artista":"Thirty Seconds To Mars",
+        "genero":"rock",
+        "nombre":"America",
+        "año":2018,
+        "id":"20gUpQ10nKsikE5YRnZN0l"
+    },
+    {
+        "tipo":"album",
         "artista":"The Mamas & The Papas",
         "genero":"rock",
         "nombre":"California Dreaming",
@@ -750,6 +750,14 @@
         "nombre":"California Live!!!",
         "año":2019,
         "id":"66wHocGbxJN8UlbFZm2ZHj"
+    },
+    {
+        "tipo":"album",
+        "artista":"Keane",
+        "genero":"rock",
+        "nombre":"Cause And Effect (Deluxe)",
+        "año":2019,
+        "id":"2V3ebysBMSaKfYUcsCWmKX"
     },
     {
         "tipo":"album",
@@ -777,19 +785,19 @@
     },
     {
         "tipo":"album",
-        "artista":"Keane",
-        "genero":"rock",
-        "nombre":"Cause And Effect (Deluxe)",
-        "año":2019,
-        "id":"2V3ebysBMSaKfYUcsCWmKX"
-    },
-    {
-        "tipo":"album",
         "artista":"Bon Jovi",
         "genero":"rock",
         "nombre":"The Rarities Collection",
         "año":2019,
         "id":"28d4oyzkk8kHeR9A35mkWp"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Cranberries",
+        "genero":"rock",
+        "nombre":"In the End",
+        "año":2019,
+        "id":"4cfq0YAgWhhIqTkVkYyvbC"
     },
     {
         "tipo":"album",
@@ -817,6 +825,14 @@
     },
     {
         "tipo":"album",
+        "artista":"The Beatles",
+        "genero":"rock",
+        "nombre":"Abbey Road (Super Deluxe Edition)",
+        "año":2019,
+        "id":"5iT3F2EhjVQVrO4PKhsP8c"
+    },
+    {
+        "tipo":"album",
         "artista":"Julieta Venegas",
         "genero":"rock",
         "nombre":"La Enamorada",
@@ -825,19 +841,35 @@
     },
     {
         "tipo":"album",
-        "artista":"The Cranberries",
-        "genero":"rock",
-        "nombre":"In the End",
-        "año":2019,
-        "id":"4cfq0YAgWhhIqTkVkYyvbC"
-    },
-    {
-        "tipo":"album",
         "artista":"Creedence Clearwater Revival",
         "genero":"rock",
         "nombre":"Live At Woodstock",
         "año":2019,
         "id":"56jhCxU4IQs54Od4ariSaY"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Rolling Stones",
+        "genero":"rock",
+        "nombre":"Bridges To Buenos Aires (Live)",
+        "año":2019,
+        "id":"6hLki1jDiueXKBP1IlkZCH"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Rolling Stones",
+        "genero":"rock",
+        "nombre":"Bridges To Bremen (Live)",
+        "año":2019,
+        "id":"1yOEzokWXzaNJk73ujxlPi"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Rolling Stones",
+        "genero":"rock",
+        "nombre":"Honk (Deluxe)",
+        "año":2019,
+        "id":"6GMdkihFQDTjdxCPvv0Xiw"
     },
     {
         "tipo":"album",
@@ -881,46 +913,6 @@
     },
     {
         "tipo":"album",
-        "artista":"The Rolling Stones",
-        "genero":"rock",
-        "nombre":"Bridges To Buenos Aires (Live)",
-        "año":2019,
-        "id":"6hLki1jDiueXKBP1IlkZCH"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Rolling Stones",
-        "genero":"rock",
-        "nombre":"Bridges To Bremen (Live)",
-        "año":2019,
-        "id":"1yOEzokWXzaNJk73ujxlPi"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Rolling Stones",
-        "genero":"rock",
-        "nombre":"Honk (Deluxe)",
-        "año":2019,
-        "id":"6GMdkihFQDTjdxCPvv0Xiw"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Beatles",
-        "genero":"rock",
-        "nombre":"Abbey Road (Super Deluxe Edition)",
-        "año":2019,
-        "id":"5iT3F2EhjVQVrO4PKhsP8c"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Goo Goo Dolls",
-        "genero":"rock",
-        "nombre":"Miracle Pill",
-        "año":2019,
-        "id":"79gY3R2V5HcDbnrMp6wuVP"
-    },
-    {
-        "tipo":"album",
         "artista":"Juanes",
         "genero":"rock",
         "nombre":"Más Futuro Que Pasado",
@@ -945,43 +937,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Mikel Erentxun",
-        "genero":"rock",
-        "nombre":"El último vuelo del hombre bala",
-        "año":2019,
-        "id":"43qdA5bD2Nd2q6WenkmfD8"
-    },
-    {
-        "tipo":"album",
         "artista":"The Doors",
         "genero":"rock",
         "nombre":"The Soft Parade (50th Anniversary Deluxe Edition)",
         "año":2019,
         "id":"0MuuO7q58HbGU3qUjICucE"
-    },
-    {
-        "tipo":"album",
-        "artista":"Pearl Jam",
-        "genero":"rock",
-        "nombre":"Vault 9: Live in Seattle 12\/8\/93",
-        "año":2019,
-        "id":"1D4fI3BbLIJL1aNhGztjUK"
-    },
-    {
-        "tipo":"album",
-        "artista":"YUNGBLUD",
-        "genero":"rock",
-        "nombre":"YUNGBLUD (Live In Atlanta)",
-        "año":2019,
-        "id":"207fkpKCM1uvB5R5G6uT0W"
-    },
-    {
-        "tipo":"album",
-        "artista":"Milky Chance",
-        "genero":"rock",
-        "nombre":"Mind The Moon",
-        "año":2019,
-        "id":"3msNbiI057b6ypzeOTjgxJ"
     },
     {
         "tipo":"album",
@@ -1017,38 +977,6 @@
     },
     {
         "tipo":"album",
-        "artista":"TOMORROW X TOGETHER",
-        "genero":"rock",
-        "nombre":"The Dream Chapter: MAGIC",
-        "año":2019,
-        "id":"7yDyRk7Wvvw7JM1kqV4tJf"
-    },
-    {
-        "tipo":"album",
-        "artista":"Electric Light Orchestra",
-        "genero":"rock",
-        "nombre":"Jeff Lynne's ELO - From Out Of Nowhere",
-        "año":2019,
-        "id":"4JjLldxv4cJVhZpkyJIq4C"
-    },
-    {
-        "tipo":"album",
-        "artista":"Skillet",
-        "genero":"rock",
-        "nombre":"Victorious",
-        "año":2019,
-        "id":"6uBm8oGd1fJNWpCsaURaPZ"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Script",
-        "genero":"rock",
-        "nombre":"Sunsets & Full Moons",
-        "año":2019,
-        "id":"4BSDAmxxjYJnePMfh8kSJM"
-    },
-    {
-        "tipo":"album",
         "artista":"Foreigner",
         "genero":"rock",
         "nombre":"Double Vision: Then and Now",
@@ -1073,6 +1001,86 @@
     },
     {
         "tipo":"album",
+        "artista":"Mikel Erentxun",
+        "genero":"rock",
+        "nombre":"El último vuelo del hombre bala",
+        "año":2019,
+        "id":"43qdA5bD2Nd2q6WenkmfD8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Pearl Jam",
+        "genero":"rock",
+        "nombre":"Vault 9: Live in Seattle 12\/8\/93",
+        "año":2019,
+        "id":"1D4fI3BbLIJL1aNhGztjUK"
+    },
+    {
+        "tipo":"album",
+        "artista":"YUNGBLUD",
+        "genero":"rock",
+        "nombre":"YUNGBLUD (Live In Atlanta)",
+        "año":2019,
+        "id":"207fkpKCM1uvB5R5G6uT0W"
+    },
+    {
+        "tipo":"album",
+        "artista":"TOMORROW X TOGETHER",
+        "genero":"rock",
+        "nombre":"The Dream Chapter: MAGIC",
+        "año":2019,
+        "id":"7yDyRk7Wvvw7JM1kqV4tJf"
+    },
+    {
+        "tipo":"album",
+        "artista":"Skillet",
+        "genero":"rock",
+        "nombre":"Victorious",
+        "año":2019,
+        "id":"6uBm8oGd1fJNWpCsaURaPZ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Milky Chance",
+        "genero":"rock",
+        "nombre":"Mind The Moon",
+        "año":2019,
+        "id":"3msNbiI057b6ypzeOTjgxJ"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Script",
+        "genero":"rock",
+        "nombre":"Sunsets & Full Moons",
+        "año":2019,
+        "id":"4BSDAmxxjYJnePMfh8kSJM"
+    },
+    {
+        "tipo":"album",
+        "artista":"Bonnie Tyler",
+        "genero":"rock",
+        "nombre":"Between the Earth and the Stars",
+        "año":2019,
+        "id":"6cI8jVa7SfMGD33Bbceg3F"
+    },
+    {
+        "tipo":"album",
+        "artista":"Electric Light Orchestra",
+        "genero":"rock",
+        "nombre":"Jeff Lynne's ELO - From Out Of Nowhere",
+        "año":2019,
+        "id":"4JjLldxv4cJVhZpkyJIq4C"
+    },
+    {
+        "tipo":"album",
+        "artista":"Rod Stewart",
+        "genero":"rock",
+        "nombre":"You're In My Heart: Rod Stewart (with The Royal Philharmonic Orchestra)",
+        "año":2019,
+        "id":"2yIXnKzy6cfqb1b3eWRxr5"
+    },
+    {
+        "tipo":"album",
         "artista":"Simply Red",
         "genero":"rock",
         "nombre":"Blue Eyed Soul",
@@ -1086,22 +1094,6 @@
         "nombre":"Philadelphia",
         "año":2019,
         "id":"2yaT2iovnjDDrMQt9ZkCBq"
-    },
-    {
-        "tipo":"album",
-        "artista":"Bonnie Tyler",
-        "genero":"rock",
-        "nombre":"Between the Earth and the Stars",
-        "año":2019,
-        "id":"6cI8jVa7SfMGD33Bbceg3F"
-    },
-    {
-        "tipo":"album",
-        "artista":"Rod Stewart",
-        "genero":"rock",
-        "nombre":"You're In My Heart: Rod Stewart (with The Royal Philharmonic Orchestra)",
-        "año":2019,
-        "id":"2yIXnKzy6cfqb1b3eWRxr5"
     },
     {
         "tipo":"album",
@@ -1121,19 +1113,11 @@
     },
     {
         "tipo":"album",
-        "artista":"TOOL",
+        "artista":"The Goo Goo Dolls",
         "genero":"rock",
-        "nombre":"Fear Inoculum",
+        "nombre":"Miracle Pill",
         "año":2019,
-        "id":"7acEciVtnuTzmwKptkjth5"
-    },
-    {
-        "tipo":"album",
-        "artista":"Deep Purple",
-        "genero":"rock",
-        "nombre":"Live in Rome 2013",
-        "año":2019,
-        "id":"3y9upUoIh5JqePrmisKlDN"
+        "id":"79gY3R2V5HcDbnrMp6wuVP"
     },
     {
         "tipo":"album",
@@ -1145,11 +1129,27 @@
     },
     {
         "tipo":"album",
+        "artista":"Deep Purple",
+        "genero":"rock",
+        "nombre":"Live in Rome 2013",
+        "año":2019,
+        "id":"3y9upUoIh5JqePrmisKlDN"
+    },
+    {
+        "tipo":"album",
         "artista":"Gustavo Cerati",
         "genero":"rock",
         "nombre":"Fuerza Natural Tour, en vivo en Monterrey, MX, 2009",
         "año":2019,
         "id":"7vcORBIdIHJ38tOAQn1J4S"
+    },
+    {
+        "tipo":"album",
+        "artista":"America",
+        "genero":"rock",
+        "nombre":"50th Anniversary: The Collection",
+        "año":2019,
+        "id":"1dFdKXFhg5NzP8seepz1CL"
     },
     {
         "tipo":"album",
@@ -1177,27 +1177,19 @@
     },
     {
         "tipo":"album",
-        "artista":"Chicago",
+        "artista":"Weezer",
         "genero":"rock",
-        "nombre":"Chicago Christmas (2019)",
+        "nombre":"Weezer (Black Album)",
         "año":2019,
-        "id":"6BVWek3XpRMwAEbb5AZCe0"
+        "id":"49cHEhh4pSeWvV0HW3OYo6"
     },
     {
         "tipo":"album",
-        "artista":"Chicago",
+        "artista":"Weezer",
         "genero":"rock",
-        "nombre":"Live",
+        "nombre":"Weezer (Teal Album)",
         "año":2019,
-        "id":"0CSgSY6s79naUI0wBlaIHi"
-    },
-    {
-        "tipo":"album",
-        "artista":"America",
-        "genero":"rock",
-        "nombre":"50th Anniversary: The Collection",
-        "año":2019,
-        "id":"1dFdKXFhg5NzP8seepz1CL"
+        "id":"65sHj9PvsbyD0uugGHjueN"
     },
     {
         "tipo":"album",
@@ -1217,19 +1209,19 @@
     },
     {
         "tipo":"album",
-        "artista":"Weezer",
+        "artista":"Chicago",
         "genero":"rock",
-        "nombre":"Weezer (Black Album)",
+        "nombre":"Chicago Christmas (2019)",
         "año":2019,
-        "id":"49cHEhh4pSeWvV0HW3OYo6"
+        "id":"6BVWek3XpRMwAEbb5AZCe0"
     },
     {
         "tipo":"album",
-        "artista":"Weezer",
+        "artista":"Chicago",
         "genero":"rock",
-        "nombre":"Weezer (Teal Album)",
+        "nombre":"Live",
         "año":2019,
-        "id":"65sHj9PvsbyD0uugGHjueN"
+        "id":"0CSgSY6s79naUI0wBlaIHi"
     },
     {
         "tipo":"album",
@@ -1238,6 +1230,14 @@
         "nombre":"Social Cues",
         "año":2019,
         "id":"2VuZJsJBPLwg9BeQFQle8G"
+    },
+    {
+        "tipo":"album",
+        "artista":"Paul McCartney",
+        "genero":"rock",
+        "nombre":"Egypt Station (Explorer's Edition)",
+        "año":2019,
+        "id":"3UdA4CPd2ktoIbzo1UREWc"
     },
     {
         "tipo":"album",
@@ -1257,27 +1257,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Paul McCartney",
-        "genero":"rock",
-        "nombre":"Egypt Station (Explorer's Edition)",
-        "año":2019,
-        "id":"3UdA4CPd2ktoIbzo1UREWc"
-    },
-    {
-        "tipo":"album",
         "artista":"Snow Patrol",
         "genero":"rock",
         "nombre":"Reworked",
         "año":2019,
         "id":"13VzURK9KxMXgmiL8AWp8L"
-    },
-    {
-        "tipo":"album",
-        "artista":"Los Enanitos Verdes",
-        "genero":"rock",
-        "nombre":"Obras Cumbres",
-        "año":2019,
-        "id":"5F3sqMJ5K2yHZN0xqhCwC8"
     },
     {
         "tipo":"album",
@@ -1289,35 +1273,19 @@
     },
     {
         "tipo":"album",
+        "artista":"Los Enanitos Verdes",
+        "genero":"rock",
+        "nombre":"Obras Cumbres",
+        "año":2019,
+        "id":"5F3sqMJ5K2yHZN0xqhCwC8"
+    },
+    {
+        "tipo":"album",
         "artista":"ONE OK ROCK",
         "genero":"rock",
         "nombre":"Eye of the Storm",
         "año":2019,
         "id":"1obI3635eoYwWYhGs2vEeP"
-    },
-    {
-        "tipo":"album",
-        "artista":"Jimi Hendrix",
-        "genero":"rock",
-        "nombre":"Songs For Groovy Children: The Fillmore East Concerts",
-        "año":2019,
-        "id":"1kCKuBSxO5w8MPN31pP9K9"
-    },
-    {
-        "tipo":"album",
-        "artista":"AJR",
-        "genero":"rock",
-        "nombre":"Neotheater",
-        "año":2019,
-        "id":"29Xikj6r9kQDSbnZWCCW2s"
-    },
-    {
-        "tipo":"album",
-        "artista":"back number",
-        "genero":"rock",
-        "nombre":"MAGIC",
-        "año":2019,
-        "id":"4dERKKPWhbvX7zxFTzNzNn"
     },
     {
         "tipo":"album",
@@ -1329,19 +1297,27 @@
     },
     {
         "tipo":"album",
+        "artista":"AJR",
+        "genero":"rock",
+        "nombre":"Neotheater",
+        "año":2019,
+        "id":"29Xikj6r9kQDSbnZWCCW2s"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jimi Hendrix",
+        "genero":"rock",
+        "nombre":"Songs For Groovy Children: The Fillmore East Concerts",
+        "año":2019,
+        "id":"1kCKuBSxO5w8MPN31pP9K9"
+    },
+    {
+        "tipo":"album",
         "artista":"Khruangbin",
         "genero":"rock",
         "nombre":"Hasta El Cielo",
         "año":2019,
         "id":"1Rsx5dQQpFp7qhhMhCWQTn"
-    },
-    {
-        "tipo":"album",
-        "artista":"Ramones",
-        "genero":"rock",
-        "nombre":"It's Alive (Live; 40th Anniversary Deluxe Edition)",
-        "año":2019,
-        "id":"66WJlKvZEWvs9HoKMYTlhx"
     },
     {
         "tipo":"album",
@@ -1369,11 +1345,11 @@
     },
     {
         "tipo":"album",
-        "artista":"The Who",
+        "artista":"back number",
         "genero":"rock",
-        "nombre":"WHO (Deluxe)",
+        "nombre":"MAGIC",
         "año":2019,
-        "id":"2WuaYvGgx9MS1Vj37aBiyU"
+        "id":"4dERKKPWhbvX7zxFTzNzNn"
     },
     {
         "tipo":"album",
@@ -1401,6 +1377,38 @@
     },
     {
         "tipo":"album",
+        "artista":"TOOL",
+        "genero":"rock",
+        "nombre":"Fear Inoculum",
+        "año":2019,
+        "id":"7acEciVtnuTzmwKptkjth5"
+    },
+    {
+        "tipo":"album",
+        "artista":"Two Door Cinema Club",
+        "genero":"rock",
+        "nombre":"False Alarm",
+        "año":2019,
+        "id":"4XgX7TI2RY3vzjKhKJrkGq"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Who",
+        "genero":"rock",
+        "nombre":"WHO (Deluxe)",
+        "año":2019,
+        "id":"2WuaYvGgx9MS1Vj37aBiyU"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ramones",
+        "genero":"rock",
+        "nombre":"It's Alive (Live; 40th Anniversary Deluxe Edition)",
+        "año":2019,
+        "id":"66WJlKvZEWvs9HoKMYTlhx"
+    },
+    {
+        "tipo":"album",
         "artista":"RADWIMPS",
         "genero":"rock",
         "nombre":"Weathering With You -Complete Version-",
@@ -1417,35 +1425,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Two Door Cinema Club",
-        "genero":"rock",
-        "nombre":"False Alarm",
-        "año":2019,
-        "id":"4XgX7TI2RY3vzjKhKJrkGq"
-    },
-    {
-        "tipo":"album",
         "artista":"The Kooks",
         "genero":"rock",
         "nombre":"Live at the Moth Club, London, 05\/09\/2018",
         "año":2019,
         "id":"0VFkg1LxH6dptwytI8W8YF"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Doobie Brothers",
-        "genero":"rock",
-        "nombre":"Live from the Beacon Theatre",
-        "año":2019,
-        "id":"4yMCP7luwPcVplJdFmfOgj"
-    },
-    {
-        "tipo":"album",
-        "artista":"No Te Va Gustar",
-        "genero":"rock",
-        "nombre":"Otras Canciones",
-        "año":2019,
-        "id":"72SqrtijWJKq6ukitktd1D"
     },
     {
         "tipo":"album",
@@ -1457,19 +1441,27 @@
     },
     {
         "tipo":"album",
+        "artista":"No Te Va Gustar",
+        "genero":"rock",
+        "nombre":"Otras Canciones",
+        "año":2019,
+        "id":"72SqrtijWJKq6ukitktd1D"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Animals",
+        "genero":"rock",
+        "nombre":"On Air 1964-67 (Live 1964-67)",
+        "año":2019,
+        "id":"5oH3myu3spjfIRxly3dHLH"
+    },
+    {
+        "tipo":"album",
         "artista":"Iggy Pop",
         "genero":"rock",
         "nombre":"Free",
         "año":2019,
         "id":"7BLKzTgaj5fHkNpSPGwjwh"
-    },
-    {
-        "tipo":"album",
-        "artista":"LiSA",
-        "genero":"rock",
-        "nombre":"LiVE is Smile Always～ASiA TOUR 2018～[eN] at 大阪城ホール",
-        "año":2019,
-        "id":"4Qnvx699mcQtrxIJ0j4O41"
     },
     {
         "tipo":"album",
@@ -1497,11 +1489,19 @@
     },
     {
         "tipo":"album",
-        "artista":"The Animals",
+        "artista":"LiSA",
         "genero":"rock",
-        "nombre":"On Air 1964-67 (Live 1964-67)",
+        "nombre":"LiVE is Smile Always～ASiA TOUR 2018～[eN] at 大阪城ホール",
         "año":2019,
-        "id":"5oH3myu3spjfIRxly3dHLH"
+        "id":"4Qnvx699mcQtrxIJ0j4O41"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Doobie Brothers",
+        "genero":"rock",
+        "nombre":"Live from the Beacon Theatre",
+        "año":2019,
+        "id":"4yMCP7luwPcVplJdFmfOgj"
     },
     {
         "tipo":"album",
@@ -1545,35 +1545,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Green Day",
-        "genero":"rock",
-        "nombre":"No Fun Mondays",
-        "año":2020,
-        "id":"6pjuzPdAkJPdNBiKzcloXL"
-    },
-    {
-        "tipo":"album",
-        "artista":"Green Day",
-        "genero":"rock",
-        "nombre":"Father of All...",
-        "año":2020,
-        "id":"7ij8wQxCAexZiXZbMOHcxE"
-    },
-    {
-        "tipo":"album",
         "artista":"Metallica",
         "genero":"rock",
         "nombre":"S&M2",
         "año":2020,
         "id":"7Hc3m7konwS0ugyN8vJhNg"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Killers",
-        "genero":"rock",
-        "nombre":"Imploding The Mirage",
-        "año":2020,
-        "id":"1uROBP2G4MP0O4w1v5Cpbg"
     },
     {
         "tipo":"album",
@@ -1633,6 +1609,30 @@
     },
     {
         "tipo":"album",
+        "artista":"Green Day",
+        "genero":"rock",
+        "nombre":"No Fun Mondays",
+        "año":2020,
+        "id":"6pjuzPdAkJPdNBiKzcloXL"
+    },
+    {
+        "tipo":"album",
+        "artista":"Green Day",
+        "genero":"rock",
+        "nombre":"Father of All...",
+        "año":2020,
+        "id":"7ij8wQxCAexZiXZbMOHcxE"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Killers",
+        "genero":"rock",
+        "nombre":"Imploding The Mirage",
+        "año":2020,
+        "id":"1uROBP2G4MP0O4w1v5Cpbg"
+    },
+    {
+        "tipo":"album",
         "artista":"Linkin Park",
         "genero":"rock",
         "nombre":"Hybrid Theory (20th Anniversary Edition)",
@@ -1657,14 +1657,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Fleetwood Mac",
-        "genero":"rock",
-        "nombre":"Transmission Impossible",
-        "año":2020,
-        "id":"4Ktz8mPkDmGBQ1nRWNulV9"
-    },
-    {
-        "tipo":"album",
         "artista":"The Rolling Stones",
         "genero":"rock",
         "nombre":"Steel Wheels Live",
@@ -1681,6 +1673,14 @@
     },
     {
         "tipo":"album",
+        "artista":"Fleetwood Mac",
+        "genero":"rock",
+        "nombre":"Transmission Impossible",
+        "año":2020,
+        "id":"4Ktz8mPkDmGBQ1nRWNulV9"
+    },
+    {
+        "tipo":"album",
         "artista":"U2",
         "genero":"rock",
         "nombre":"All That You Can’t Leave Behind (20th Anniversary Edition \/ Super Deluxe \/ Remastered 2020)",
@@ -1689,27 +1689,11 @@
     },
     {
         "tipo":"album",
-        "artista":"The Goo Goo Dolls",
+        "artista":"Arctic Monkeys",
         "genero":"rock",
-        "nombre":"It's Christmas All Over (Deluxe)",
+        "nombre":"Live at the Royal Albert Hall",
         "año":2020,
-        "id":"5AN66eD3rSmTJMGNw0YjKz"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Goo Goo Dolls",
-        "genero":"rock",
-        "nombre":"It's Christmas All Over",
-        "año":2020,
-        "id":"7dIaQDvQjqlqwYHfjdE6GE"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Goo Goo Dolls",
-        "genero":"rock",
-        "nombre":"Miracle Pill (Deluxe)",
-        "año":2020,
-        "id":"6etjNp7RzH8zVjFkukAyQV"
+        "id":"7Heaa0B4KOxdWhSICTR2wE"
     },
     {
         "tipo":"album",
@@ -1718,14 +1702,6 @@
         "nombre":"Tragas o Escupes",
         "año":2020,
         "id":"654eDsgy2UItWWpSOly0U7"
-    },
-    {
-        "tipo":"album",
-        "artista":"Arctic Monkeys",
-        "genero":"rock",
-        "nombre":"Live at the Royal Albert Hall",
-        "año":2020,
-        "id":"7Heaa0B4KOxdWhSICTR2wE"
     },
     {
         "tipo":"album",
@@ -1761,14 +1737,6 @@
     },
     {
         "tipo":"album",
-        "artista":"The Doors",
-        "genero":"rock",
-        "nombre":"Morrison Hotel (50th Anniversary Deluxe Edition)",
-        "año":2020,
-        "id":"44rCgxcyCycEQybZn793dz"
-    },
-    {
-        "tipo":"album",
         "artista":"Marilyn Manson",
         "genero":"rock",
         "nombre":"WE ARE CHAOS",
@@ -1777,11 +1745,43 @@
     },
     {
         "tipo":"album",
+        "artista":"The Doors",
+        "genero":"rock",
+        "nombre":"Morrison Hotel (50th Anniversary Deluxe Edition)",
+        "año":2020,
+        "id":"44rCgxcyCycEQybZn793dz"
+    },
+    {
+        "tipo":"album",
         "artista":"Los Rodriguez",
         "genero":"rock",
         "nombre":"En Las Ventas 7 septiembre 1993 (En directo)",
         "año":2020,
         "id":"30GKlcBPFyyhVjAxH6TC5Q"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lynyrd Skynyrd",
+        "genero":"rock",
+        "nombre":"Blowin' Down The Road (Georgia Super Jam '78 DIR Broadcast Remastered)",
+        "año":2020,
+        "id":"0lXeCZzWl0fS0NZQ2CymGa"
+    },
+    {
+        "tipo":"album",
+        "artista":"ATEEZ",
+        "genero":"rock",
+        "nombre":"ZERO : FEVER Part.1",
+        "año":2020,
+        "id":"01IFxHiVOY6uf3vUFVXEoI"
+    },
+    {
+        "tipo":"album",
+        "artista":"Foreigner",
+        "genero":"rock",
+        "nombre":"The Can't Slow Down B-Sides and Extra Tracks",
+        "año":2020,
+        "id":"62rjgkx2R0pqas3qTmWNfz"
     },
     {
         "tipo":"album",
@@ -1801,14 +1801,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Lynyrd Skynyrd",
-        "genero":"rock",
-        "nombre":"Blowin' Down The Road (Georgia Super Jam '78 DIR Broadcast Remastered)",
-        "año":2020,
-        "id":"0lXeCZzWl0fS0NZQ2CymGa"
-    },
-    {
-        "tipo":"album",
         "artista":"YUNGBLUD",
         "genero":"rock",
         "nombre":"weird!",
@@ -1817,19 +1809,19 @@
     },
     {
         "tipo":"album",
-        "artista":"Dave Stewart",
+        "artista":"The Strokes",
         "genero":"rock",
-        "nombre":"Amitié",
+        "nombre":"The New Abnormal",
         "año":2020,
-        "id":"46lxdP9TY1y8hLJyy2NWFE"
+        "id":"2xkZV2Hl1Omi8rk2D7t5lN"
     },
     {
         "tipo":"album",
-        "artista":"ATEEZ",
+        "artista":"Skillet",
         "genero":"rock",
-        "nombre":"ZERO : FEVER Part.1",
+        "nombre":"Victorious: The Aftermath (Deluxe)",
         "año":2020,
-        "id":"01IFxHiVOY6uf3vUFVXEoI"
+        "id":"3YhTX4XmDv0BHQ8gReEStW"
     },
     {
         "tipo":"album",
@@ -1838,14 +1830,6 @@
         "nombre":"Alive In Texas '79 (LIVE KBFH Broadcast)",
         "año":2020,
         "id":"12bEDQZeHEmML4eTVJkrTi"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Strokes",
-        "genero":"rock",
-        "nombre":"The New Abnormal",
-        "año":2020,
-        "id":"2xkZV2Hl1Omi8rk2D7t5lN"
     },
     {
         "tipo":"album",
@@ -1862,22 +1846,6 @@
         "nombre":"Live From The Forum MMXVIII",
         "año":2020,
         "id":"4N9EiC0CRRh8CQMBepM3p7"
-    },
-    {
-        "tipo":"album",
-        "artista":"Skillet",
-        "genero":"rock",
-        "nombre":"Victorious: The Aftermath (Deluxe)",
-        "año":2020,
-        "id":"3YhTX4XmDv0BHQ8gReEStW"
-    },
-    {
-        "tipo":"album",
-        "artista":"Foreigner",
-        "genero":"rock",
-        "nombre":"The Can't Slow Down B-Sides and Extra Tracks",
-        "año":2020,
-        "id":"62rjgkx2R0pqas3qTmWNfz"
     },
     {
         "tipo":"album",
@@ -1905,11 +1873,27 @@
     },
     {
         "tipo":"album",
-        "artista":"Deep Purple",
+        "artista":"The Goo Goo Dolls",
         "genero":"rock",
-        "nombre":"Whoosh!",
+        "nombre":"It's Christmas All Over (Deluxe)",
         "año":2020,
-        "id":"392MAwI1VwplUzLrz8R5p2"
+        "id":"5AN66eD3rSmTJMGNw0YjKz"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Goo Goo Dolls",
+        "genero":"rock",
+        "nombre":"It's Christmas All Over",
+        "año":2020,
+        "id":"7dIaQDvQjqlqwYHfjdE6GE"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Goo Goo Dolls",
+        "genero":"rock",
+        "nombre":"Miracle Pill (Deluxe)",
+        "año":2020,
+        "id":"6etjNp7RzH8zVjFkukAyQV"
     },
     {
         "tipo":"album",
@@ -1918,6 +1902,14 @@
         "nombre":"Rewind, Replay, Rebound (Live in Deutschland)",
         "año":2020,
         "id":"0YmDs7WoVGrVevnmWZMA73"
+    },
+    {
+        "tipo":"album",
+        "artista":"Deep Purple",
+        "genero":"rock",
+        "nombre":"Whoosh!",
+        "año":2020,
+        "id":"392MAwI1VwplUzLrz8R5p2"
     },
     {
         "tipo":"album",
@@ -1934,14 +1926,6 @@
         "nombre":"Ghosts V: Together",
         "año":2020,
         "id":"296zqVG4gI7mDSUD0CytXM"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Black Keys",
-        "genero":"rock",
-        "nombre":"Brothers (Deluxe Remastered Anniversary Edition)",
-        "año":2020,
-        "id":"7lhJVTvqL3QbwGN12QLiVj"
     },
     {
         "tipo":"album",
@@ -1974,6 +1958,14 @@
         "nombre":"Beneath the Eyrie (Deluxe)",
         "año":2020,
         "id":"6B5r9RGdvo8WryuFEZkwXz"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Black Keys",
+        "genero":"rock",
+        "nombre":"Brothers (Deluxe Remastered Anniversary Edition)",
+        "año":2020,
+        "id":"7lhJVTvqL3QbwGN12QLiVj"
     },
     {
         "tipo":"album",
@@ -2033,6 +2025,14 @@
     },
     {
         "tipo":"album",
+        "artista":"Dave Stewart",
+        "genero":"rock",
+        "nombre":"Amitié",
+        "año":2020,
+        "id":"46lxdP9TY1y8hLJyy2NWFE"
+    },
+    {
+        "tipo":"album",
         "artista":".Feast",
         "genero":"rock",
         "nombre":"Uang Muka",
@@ -2046,14 +2046,6 @@
         "nombre":"MULTIVERSES (Revisi Final Fix Banget)",
         "año":2020,
         "id":"3OOL3zaZdN14LLDpzRWj8e"
-    },
-    {
-        "tipo":"album",
-        "artista":"Jimi Hendrix",
-        "genero":"rock",
-        "nombre":"Live In Maui",
-        "año":2020,
-        "id":"0LfCx4srto1jxBVvW4uqJy"
     },
     {
         "tipo":"album",
@@ -2073,6 +2065,14 @@
     },
     {
         "tipo":"album",
+        "artista":"Jimi Hendrix",
+        "genero":"rock",
+        "nombre":"Live In Maui",
+        "año":2020,
+        "id":"0LfCx4srto1jxBVvW4uqJy"
+    },
+    {
+        "tipo":"album",
         "artista":"Khruangbin",
         "genero":"rock",
         "nombre":"Late Night Tales: Khruangbin",
@@ -2086,14 +2086,6 @@
         "nombre":"Mordechai",
         "año":2020,
         "id":"2IzUZlhtBvPQYs74KeG6fb"
-    },
-    {
-        "tipo":"album",
-        "artista":"Breaking Benjamin",
-        "genero":"rock",
-        "nombre":"Aurora",
-        "año":2020,
-        "id":"3pfiqQljVzq48rfw0bNdpz"
     },
     {
         "tipo":"album",
@@ -2113,19 +2105,35 @@
     },
     {
         "tipo":"album",
-        "artista":"The Who",
+        "artista":"Breaking Benjamin",
         "genero":"rock",
-        "nombre":"WHO (Deluxe & Live At Kingston)",
+        "nombre":"Aurora",
         "año":2020,
-        "id":"1xSNEy7p90VpUfuT60f8qV"
+        "id":"3pfiqQljVzq48rfw0bNdpz"
     },
     {
         "tipo":"album",
-        "artista":"The Who",
+        "artista":"Fito Paez",
         "genero":"rock",
-        "nombre":"Live In Amsterdam",
+        "nombre":"La Conquista del Espacio",
         "año":2020,
-        "id":"6PxvCMWxGdirx8VdavjTyf"
+        "id":"0hUTkPlrlHbLkrKB8JLTXQ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chuck Berry",
+        "genero":"rock",
+        "nombre":"Rockin' N Rollin' The New Year",
+        "año":2020,
+        "id":"6R6JAtw3RWeVQZ7FN8qQLL"
+    },
+    {
+        "tipo":"album",
+        "artista":"Los Auténticos Decadentes",
+        "genero":"rock",
+        "nombre":"Foro Sol - 17 Nov 2017 (En Vivo)",
+        "año":2020,
+        "id":"15BaEoAe29NVQamVLZtlht"
     },
     {
         "tipo":"album",
@@ -2153,35 +2161,19 @@
     },
     {
         "tipo":"album",
-        "artista":"Los Auténticos Decadentes",
+        "artista":"The Who",
         "genero":"rock",
-        "nombre":"Foro Sol - 17 Nov 2017 (En Vivo)",
+        "nombre":"WHO (Deluxe & Live At Kingston)",
         "año":2020,
-        "id":"15BaEoAe29NVQamVLZtlht"
+        "id":"1xSNEy7p90VpUfuT60f8qV"
     },
     {
         "tipo":"album",
-        "artista":"Fito Paez",
+        "artista":"The Who",
         "genero":"rock",
-        "nombre":"La Conquista del Espacio",
+        "nombre":"Live In Amsterdam",
         "año":2020,
-        "id":"0hUTkPlrlHbLkrKB8JLTXQ"
-    },
-    {
-        "tipo":"album",
-        "artista":"Chuck Berry",
-        "genero":"rock",
-        "nombre":"Rockin' N Rollin' The New Year",
-        "año":2020,
-        "id":"6R6JAtw3RWeVQZ7FN8qQLL"
-    },
-    {
-        "tipo":"album",
-        "artista":"No Te Va Gustar",
-        "genero":"rock",
-        "nombre":"Otras Canciones en Vivo en Latinoamérica",
-        "año":2020,
-        "id":"4UGpnKpfb814RkAWPUtSVP"
+        "id":"6PxvCMWxGdirx8VdavjTyf"
     },
     {
         "tipo":"album",
@@ -2190,6 +2182,14 @@
         "nombre":"Breaking Away (Live 1982)",
         "año":2020,
         "id":"1YCZpBSyfQaIturuU1O2Hu"
+    },
+    {
+        "tipo":"album",
+        "artista":"No Te Va Gustar",
+        "genero":"rock",
+        "nombre":"Otras Canciones en Vivo en Latinoamérica",
+        "año":2020,
+        "id":"4UGpnKpfb814RkAWPUtSVP"
     },
     {
         "tipo":"album",
@@ -2225,6 +2225,14 @@
     },
     {
         "tipo":"album",
+        "artista":"Richard Marx",
+        "genero":"rock",
+        "nombre":"LIMITLESS",
+        "año":2020,
+        "id":"6YpjSM8jdCaFgEGSPx49wZ"
+    },
+    {
+        "tipo":"album",
         "artista":"George Harrison",
         "genero":"rock",
         "nombre":"Live in Denmark 1969",
@@ -2249,22 +2257,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Richard Marx",
-        "genero":"rock",
-        "nombre":"LIMITLESS",
-        "año":2020,
-        "id":"6YpjSM8jdCaFgEGSPx49wZ"
-    },
-    {
-        "tipo":"album",
-        "artista":"Pretenders",
-        "genero":"rock",
-        "nombre":"Hate for Sale",
-        "año":2020,
-        "id":"2joKvA9yLGNbbNZSUjr5l8"
-    },
-    {
-        "tipo":"album",
         "artista":"Men At Work",
         "genero":"rock",
         "nombre":"Live in Christchurch 1982",
@@ -2281,6 +2273,14 @@
     },
     {
         "tipo":"album",
+        "artista":"ENHYPEN",
+        "genero":"rock",
+        "nombre":"DIMENSION : DILEMMA",
+        "año":2021,
+        "id":"5jGRqioNCSWZGBl3QmyuFI"
+    },
+    {
+        "tipo":"album",
         "artista":"Pink Floyd",
         "genero":"rock",
         "nombre":"Live at Knebworth 1990",
@@ -2289,35 +2289,11 @@
     },
     {
         "tipo":"album",
-        "artista":"The Offspring",
+        "artista":"Keane",
         "genero":"rock",
-        "nombre":"Let The Bad Times Roll (Deluxe Edition)",
+        "nombre":"Live At Largo",
         "año":2021,
-        "id":"7CiSh3Wv5DrOmoxIZhzBYm"
-    },
-    {
-        "tipo":"album",
-        "artista":"R.E.M.",
-        "genero":"rock",
-        "nombre":"New Adventures In Hi-Fi (25th Anniversary Edition)",
-        "año":2021,
-        "id":"5wBz69rJgZF0s2y2KWQXfV"
-    },
-    {
-        "tipo":"album",
-        "artista":"Green Day",
-        "genero":"rock",
-        "nombre":"BBC Sessions (Live)",
-        "año":2021,
-        "id":"7igexfyHGnY4qMAyOzc4q8"
-    },
-    {
-        "tipo":"album",
-        "artista":"Green Day",
-        "genero":"rock",
-        "nombre":"Insomniac (25th Anniversary Deluxe Edition)",
-        "año":2021,
-        "id":"2nrqcI2e61NN375lBaQIg0"
+        "id":"5fikhiF8XXSbQ8cdL1K4nf"
     },
     {
         "tipo":"album",
@@ -2334,30 +2310,6 @@
         "nombre":"Metallica (Remastered 2021)",
         "año":2021,
         "id":"3dck2tBxGfxj9m3CguDgjb"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Killers",
-        "genero":"rock",
-        "nombre":"Pressure Machine",
-        "año":2021,
-        "id":"1qMFjBarjO2xD15BwXZguD"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Killers",
-        "genero":"rock",
-        "nombre":"Pressure Machine (Abridged)",
-        "año":2021,
-        "id":"7j8a2kSxAtenkXPim6mwUB"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Killers",
-        "genero":"rock",
-        "nombre":"Imploding The Mirage (Deluxe)",
-        "año":2021,
-        "id":"7CicJk8ELO3w5os2fr2LBQ"
     },
     {
         "tipo":"album",
@@ -2385,6 +2337,54 @@
     },
     {
         "tipo":"album",
+        "artista":"Green Day",
+        "genero":"rock",
+        "nombre":"BBC Sessions (Live)",
+        "año":2021,
+        "id":"7igexfyHGnY4qMAyOzc4q8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Green Day",
+        "genero":"rock",
+        "nombre":"Insomniac (25th Anniversary Deluxe Edition)",
+        "año":2021,
+        "id":"2nrqcI2e61NN375lBaQIg0"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Killers",
+        "genero":"rock",
+        "nombre":"Pressure Machine",
+        "año":2021,
+        "id":"1qMFjBarjO2xD15BwXZguD"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Killers",
+        "genero":"rock",
+        "nombre":"Pressure Machine (Abridged)",
+        "año":2021,
+        "id":"7j8a2kSxAtenkXPim6mwUB"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Killers",
+        "genero":"rock",
+        "nombre":"Imploding The Mirage (Deluxe)",
+        "año":2021,
+        "id":"7CicJk8ELO3w5os2fr2LBQ"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Offspring",
+        "genero":"rock",
+        "nombre":"Let The Bad Times Roll (Deluxe Edition)",
+        "año":2021,
+        "id":"7CiSh3Wv5DrOmoxIZhzBYm"
+    },
+    {
+        "tipo":"album",
         "artista":"Andrés Calamaro",
         "genero":"rock",
         "nombre":"Dios Los Cría",
@@ -2393,11 +2393,19 @@
     },
     {
         "tipo":"album",
-        "artista":"Keane",
+        "artista":"The Cranberries",
         "genero":"rock",
-        "nombre":"Live At Largo",
+        "nombre":"Remembering Dolores",
         "año":2021,
-        "id":"5fikhiF8XXSbQ8cdL1K4nf"
+        "id":"3YsIgJc0Df1D3VV2MXRgxq"
+    },
+    {
+        "tipo":"album",
+        "artista":"R.E.M.",
+        "genero":"rock",
+        "nombre":"New Adventures In Hi-Fi (25th Anniversary Edition)",
+        "año":2021,
+        "id":"5wBz69rJgZF0s2y2KWQXfV"
     },
     {
         "tipo":"album",
@@ -2425,11 +2433,19 @@
     },
     {
         "tipo":"album",
-        "artista":"The Cranberries",
+        "artista":"Radiohead",
         "genero":"rock",
-        "nombre":"Remembering Dolores",
+        "nombre":"KID A MNESIA",
         "año":2021,
-        "id":"3YsIgJc0Df1D3VV2MXRgxq"
+        "id":"6ofEQubaL265rIW6WnCU8y"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Beatles",
+        "genero":"rock",
+        "nombre":"Let It Be (Super Deluxe)",
+        "año":2021,
+        "id":"1BdxbYp1FaNejpDgtDo25V"
     },
     {
         "tipo":"album",
@@ -2449,35 +2465,11 @@
     },
     {
         "tipo":"album",
-        "artista":"The Beatles",
-        "genero":"rock",
-        "nombre":"Let It Be (Super Deluxe)",
-        "año":2021,
-        "id":"1BdxbYp1FaNejpDgtDo25V"
-    },
-    {
-        "tipo":"album",
-        "artista":"Radiohead",
-        "genero":"rock",
-        "nombre":"KID A MNESIA",
-        "año":2021,
-        "id":"6ofEQubaL265rIW6WnCU8y"
-    },
-    {
-        "tipo":"album",
         "artista":"U2",
         "genero":"rock",
         "nombre":"Achtung Baby (30th Anniversary Edition)",
         "año":2021,
         "id":"4YW8huyK8igJHvCJFLjuYT"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Goo Goo Dolls",
-        "genero":"rock",
-        "nombre":"Rarities",
-        "año":2021,
-        "id":"1TS1FCWROvDReo3tkMHqu5"
     },
     {
         "tipo":"album",
@@ -2521,6 +2513,14 @@
     },
     {
         "tipo":"album",
+        "artista":"The Doors",
+        "genero":"rock",
+        "nombre":"L.A. Woman (50th Anniversary Deluxe Edition)",
+        "año":2021,
+        "id":"5zJ5Hz4a5OACoowuL3x86m"
+    },
+    {
+        "tipo":"album",
         "artista":"KISS",
         "genero":"rock",
         "nombre":"Destroyer (45th Anniversary Super Deluxe)",
@@ -2537,43 +2537,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Mikel Erentxun",
-        "genero":"rock",
-        "nombre":"Amigos de Guardia",
-        "año":2021,
-        "id":"3NdU6BRIm44g194MrjBGGh"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Doors",
-        "genero":"rock",
-        "nombre":"L.A. Woman (50th Anniversary Deluxe Edition)",
-        "año":2021,
-        "id":"5zJ5Hz4a5OACoowuL3x86m"
-    },
-    {
-        "tipo":"album",
         "artista":"Lynyrd Skynyrd",
         "genero":"rock",
         "nombre":"Nothing Comes Easy 1991-2012",
         "año":2021,
         "id":"75cuk2fS8mTSJB0GkA72wM"
-    },
-    {
-        "tipo":"album",
-        "artista":"Nickelback",
-        "genero":"rock",
-        "nombre":"Live from Red Rocks",
-        "año":2021,
-        "id":"2q1WacLvjOnffRIbzbL6Px"
-    },
-    {
-        "tipo":"album",
-        "artista":"Milky Chance",
-        "genero":"rock",
-        "nombre":"Trip Tape",
-        "año":2021,
-        "id":"707cK3j40hIquI15sOcYXP"
     },
     {
         "tipo":"album",
@@ -2601,14 +2569,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Journey",
-        "genero":"rock",
-        "nombre":"Rollin' On (Live 1981)",
-        "año":2021,
-        "id":"0TxlT7lB8gEFSxF5oEnw20"
-    },
-    {
-        "tipo":"album",
         "artista":"Miguel Ríos",
         "genero":"rock",
         "nombre":"Un Largo Tiempo (Versión Extendida)",
@@ -2622,6 +2582,30 @@
         "nombre":"Un Largo Tiempo",
         "año":2021,
         "id":"40vTaOK8syNrNIzLQzMeJG"
+    },
+    {
+        "tipo":"album",
+        "artista":"Mikel Erentxun",
+        "genero":"rock",
+        "nombre":"Amigos de Guardia",
+        "año":2021,
+        "id":"3NdU6BRIm44g194MrjBGGh"
+    },
+    {
+        "tipo":"album",
+        "artista":"Nickelback",
+        "genero":"rock",
+        "nombre":"Live from Red Rocks",
+        "año":2021,
+        "id":"2q1WacLvjOnffRIbzbL6Px"
+    },
+    {
+        "tipo":"album",
+        "artista":"Journey",
+        "genero":"rock",
+        "nombre":"Rollin' On (Live 1981)",
+        "año":2021,
+        "id":"0TxlT7lB8gEFSxF5oEnw20"
     },
     {
         "tipo":"album",
@@ -2649,11 +2633,27 @@
     },
     {
         "tipo":"album",
-        "artista":"Kings of Leon",
+        "artista":"Milky Chance",
         "genero":"rock",
-        "nombre":"When You See Yourself",
+        "nombre":"Trip Tape",
         "año":2021,
-        "id":"5mi6IbVDNVKpOO702ejPn6"
+        "id":"707cK3j40hIquI15sOcYXP"
+    },
+    {
+        "tipo":"album",
+        "artista":"Bonnie Tyler",
+        "genero":"rock",
+        "nombre":"The East West Years 1995-1998",
+        "año":2021,
+        "id":"0qVZBIxpE79lgstVi7NyDE"
+    },
+    {
+        "tipo":"album",
+        "artista":"Bonnie Tyler",
+        "genero":"rock",
+        "nombre":"The Best Is yet to Come",
+        "año":2021,
+        "id":"2Fv0SIMGv99Sl607qo6msv"
     },
     {
         "tipo":"album",
@@ -2697,43 +2697,35 @@
     },
     {
         "tipo":"album",
-        "artista":"Simply Red",
+        "artista":"Eric Clapton",
         "genero":"rock",
-        "nombre":"Remixed Vol. 1 (1985 – 2000)",
+        "nombre":"The Lady In The Balcony: Lockdown Sessions (Live)",
         "año":2021,
-        "id":"3gasfdY9NwSH3iR0KxEhfm"
+        "id":"2pnfVMvTS8ozs9f1dbLubY"
     },
     {
         "tipo":"album",
-        "artista":"Daryl Hall & John Oates",
+        "artista":"Eric Clapton",
         "genero":"rock",
-        "nombre":"Automatic Action (Live '85)",
+        "nombre":"Eric Clapton (Anniversary Deluxe Edition)",
         "año":2021,
-        "id":"2JKuZz5wuyejAaek0Nv92A"
+        "id":"1Mivil35SHdgKFvxZeEmp4"
     },
     {
         "tipo":"album",
-        "artista":"Daryl Hall & John Oates",
+        "artista":"Cyndi Lauper",
         "genero":"rock",
-        "nombre":"Lean And Hungry (Live Chicago '83)",
+        "nombre":"True Colors (35th Anniversary Edition)",
         "año":2021,
-        "id":"6HtN0R4RzGM8ILAYkkPYRp"
+        "id":"1WhoSmTtuxxzeLhKpYVfE6"
     },
     {
         "tipo":"album",
-        "artista":"Bonnie Tyler",
+        "artista":"Kings of Leon",
         "genero":"rock",
-        "nombre":"The East West Years 1995-1998",
+        "nombre":"When You See Yourself",
         "año":2021,
-        "id":"0qVZBIxpE79lgstVi7NyDE"
-    },
-    {
-        "tipo":"album",
-        "artista":"Bonnie Tyler",
-        "genero":"rock",
-        "nombre":"The Best Is yet to Come",
-        "año":2021,
-        "id":"2Fv0SIMGv99Sl607qo6msv"
+        "id":"5mi6IbVDNVKpOO702ejPn6"
     },
     {
         "tipo":"album",
@@ -2761,27 +2753,35 @@
     },
     {
         "tipo":"album",
-        "artista":"Cyndi Lauper",
+        "artista":"Simply Red",
         "genero":"rock",
-        "nombre":"True Colors (35th Anniversary Edition)",
+        "nombre":"Remixed Vol. 1 (1985 – 2000)",
         "año":2021,
-        "id":"1WhoSmTtuxxzeLhKpYVfE6"
+        "id":"3gasfdY9NwSH3iR0KxEhfm"
     },
     {
         "tipo":"album",
-        "artista":"Eric Clapton",
+        "artista":"Daryl Hall & John Oates",
         "genero":"rock",
-        "nombre":"The Lady In The Balcony: Lockdown Sessions (Live)",
+        "nombre":"Automatic Action (Live '85)",
         "año":2021,
-        "id":"2pnfVMvTS8ozs9f1dbLubY"
+        "id":"2JKuZz5wuyejAaek0Nv92A"
     },
     {
         "tipo":"album",
-        "artista":"Eric Clapton",
+        "artista":"Daryl Hall & John Oates",
         "genero":"rock",
-        "nombre":"Eric Clapton (Anniversary Deluxe Edition)",
+        "nombre":"Lean And Hungry (Live Chicago '83)",
         "año":2021,
-        "id":"1Mivil35SHdgKFvxZeEmp4"
+        "id":"6HtN0R4RzGM8ILAYkkPYRp"
+    },
+    {
+        "tipo":"album",
+        "artista":"TOTO",
+        "genero":"rock",
+        "nombre":"With A Little Help From My Friends (Live)",
+        "año":2021,
+        "id":"4sQCwdnGtegrTY7EfYwkQY"
     },
     {
         "tipo":"album",
@@ -2801,11 +2801,19 @@
     },
     {
         "tipo":"album",
-        "artista":"TOTO",
+        "artista":"The Goo Goo Dolls",
         "genero":"rock",
-        "nombre":"With A Little Help From My Friends (Live)",
+        "nombre":"Rarities",
         "año":2021,
-        "id":"4sQCwdnGtegrTY7EfYwkQY"
+        "id":"1TS1FCWROvDReo3tkMHqu5"
+    },
+    {
+        "tipo":"album",
+        "artista":"Volbeat",
+        "genero":"rock",
+        "nombre":"Servant Of The Mind (Deluxe)",
+        "año":2021,
+        "id":"1ujOfCZxF2d2R5oOfJbxnP"
     },
     {
         "tipo":"album",
@@ -2857,11 +2865,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Volbeat",
+        "artista":"Mötley Crüe",
         "genero":"rock",
-        "nombre":"Servant Of The Mind (Deluxe)",
+        "nombre":"Looks That Kill (Live Pasadena '82)",
         "año":2021,
-        "id":"1ujOfCZxF2d2R5oOfJbxnP"
+        "id":"0HHe1RJtYjweAHoUlo5J2v"
     },
     {
         "tipo":"album",
@@ -2873,19 +2881,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Mötley Crüe",
+        "artista":"Portugal. The Man",
         "genero":"rock",
-        "nombre":"Looks That Kill (Live Pasadena '82)",
+        "nombre":"Oregon City Sessions",
         "año":2021,
-        "id":"0HHe1RJtYjweAHoUlo5J2v"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Black Keys",
-        "genero":"rock",
-        "nombre":"Delta Kream",
-        "año":2021,
-        "id":"682pJqnx8hcrCfSjvyNBki"
+        "id":"0BzIFo6hW30NFn7NpZxfPL"
     },
     {
         "tipo":"album",
@@ -2921,27 +2921,35 @@
     },
     {
         "tipo":"album",
-        "artista":"Chicago",
+        "artista":"The Black Keys",
         "genero":"rock",
-        "nombre":"Slow Motion Riders (Live 1983)",
+        "nombre":"Delta Kream",
         "año":2021,
-        "id":"0zkyVwdbeDpJbvdwfmFYIk"
+        "id":"682pJqnx8hcrCfSjvyNBki"
     },
     {
         "tipo":"album",
-        "artista":"Chicago",
+        "artista":"Weezer",
         "genero":"rock",
-        "nombre":"Chicago at Carnegie Hall - Complete (Live)",
+        "nombre":"Van Weezer",
         "año":2021,
-        "id":"5qEfX4GfTdzfRbZL8ZQky1"
+        "id":"4QIZtPbEAQTu1smtYyDHXz"
     },
     {
         "tipo":"album",
-        "artista":"Chicago",
+        "artista":"Weezer",
         "genero":"rock",
-        "nombre":"Another Day In The Park (Live 1982)",
+        "nombre":"OK Human",
         "año":2021,
-        "id":"6ma5iuBvfGBRTup0N8Jwew"
+        "id":"0dL9rGQxUeIqpiUndXaQLl"
+    },
+    {
+        "tipo":"album",
+        "artista":"Billy Idol",
+        "genero":"rock",
+        "nombre":"Happy Holidays",
+        "año":2021,
+        "id":"1CHbNUmk6dE4I7bdKkEQGg"
     },
     {
         "tipo":"album",
@@ -2950,6 +2958,14 @@
         "nombre":"White Blood Cells (Deluxe)",
         "año":2021,
         "id":"6GihsFNBG2k9xGjJ8U0G2E"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chris Isaak",
+        "genero":"rock",
+        "nombre":"Beyond The Sun (10th Anniversary Sun Records Edition)",
+        "año":2021,
+        "id":"4GuHiRs9SkWg67n6U0gmO6"
     },
     {
         "tipo":"album",
@@ -2985,35 +3001,35 @@
     },
     {
         "tipo":"album",
-        "artista":"Portugal. The Man",
-        "genero":"rock",
-        "nombre":"Oregon City Sessions",
-        "año":2021,
-        "id":"0BzIFo6hW30NFn7NpZxfPL"
-    },
-    {
-        "tipo":"album",
-        "artista":"Weezer",
-        "genero":"rock",
-        "nombre":"Van Weezer",
-        "año":2021,
-        "id":"4QIZtPbEAQTu1smtYyDHXz"
-    },
-    {
-        "tipo":"album",
-        "artista":"Weezer",
-        "genero":"rock",
-        "nombre":"OK Human",
-        "año":2021,
-        "id":"0dL9rGQxUeIqpiUndXaQLl"
-    },
-    {
-        "tipo":"album",
         "artista":"Mazzy Star",
         "genero":"rock",
         "nombre":"Sounding At Night (Live 1993)",
         "año":2021,
         "id":"1Pcfk1p0bPt24YcCHMupmi"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chicago",
+        "genero":"rock",
+        "nombre":"Slow Motion Riders (Live 1983)",
+        "año":2021,
+        "id":"0zkyVwdbeDpJbvdwfmFYIk"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chicago",
+        "genero":"rock",
+        "nombre":"Chicago at Carnegie Hall - Complete (Live)",
+        "año":2021,
+        "id":"5qEfX4GfTdzfRbZL8ZQky1"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chicago",
+        "genero":"rock",
+        "nombre":"Another Day In The Park (Live 1982)",
+        "año":2021,
+        "id":"6ma5iuBvfGBRTup0N8Jwew"
     },
     {
         "tipo":"album",
@@ -3025,14 +3041,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Chris Isaak",
-        "genero":"rock",
-        "nombre":"Beyond The Sun (10th Anniversary Sun Records Edition)",
-        "año":2021,
-        "id":"4GuHiRs9SkWg67n6U0gmO6"
-    },
-    {
-        "tipo":"album",
         "artista":"Paul McCartney",
         "genero":"rock",
         "nombre":"McCartney III Imagined",
@@ -3041,27 +3049,19 @@
     },
     {
         "tipo":"album",
-        "artista":"Rage Against The Machine",
-        "genero":"rock",
-        "nombre":"Paintings Of Rebellion (Live '95)",
-        "año":2021,
-        "id":"0j5ordW5EZlElgcED0p1JH"
-    },
-    {
-        "tipo":"album",
-        "artista":"Billy Idol",
-        "genero":"rock",
-        "nombre":"Happy Holidays",
-        "año":2021,
-        "id":"1CHbNUmk6dE4I7bdKkEQGg"
-    },
-    {
-        "tipo":"album",
         "artista":"The Beach Boys",
         "genero":"rock",
         "nombre":"\"Feel Flows\" The Sunflower & Surf’s Up Sessions 1969-1971 (Super Deluxe)",
         "año":2021,
         "id":"3mXapRk3gmW2Uk6TZlDMvM"
+    },
+    {
+        "tipo":"album",
+        "artista":"Rage Against The Machine",
+        "genero":"rock",
+        "nombre":"Paintings Of Rebellion (Live '95)",
+        "año":2021,
+        "id":"0j5ordW5EZlElgcED0p1JH"
     },
     {
         "tipo":"album",
@@ -3089,14 +3089,6 @@
     },
     {
         "tipo":"album",
-        "artista":"AJR",
-        "genero":"rock",
-        "nombre":"OK ORCHESTRA",
-        "año":2021,
-        "id":"7rbdgYKz1DI4gXMWveqS5T"
-    },
-    {
-        "tipo":"album",
         "artista":"BABYMETAL",
         "genero":"rock",
         "nombre":"10 BABYMETAL BUDOKAN (LIVE)",
@@ -3110,6 +3102,14 @@
         "nombre":"10 BABYMETAL YEARS",
         "año":2021,
         "id":"0ztKD3Y9cIQcuK7XhwIVph"
+    },
+    {
+        "tipo":"album",
+        "artista":"AJR",
+        "genero":"rock",
+        "nombre":"OK ORCHESTRA",
+        "año":2021,
+        "id":"7rbdgYKz1DI4gXMWveqS5T"
     },
     {
         "tipo":"album",
@@ -3137,38 +3137,6 @@
     },
     {
         "tipo":"album",
-        "artista":"The Who",
-        "genero":"rock",
-        "nombre":"Live 1970",
-        "año":2021,
-        "id":"6VrsFDXz2QStALP4MsmEhF"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Who",
-        "genero":"rock",
-        "nombre":"The Who Sell Out (Super Deluxe)",
-        "año":2021,
-        "id":"2JyNDhGhp0hiizSPuUs0i9"
-    },
-    {
-        "tipo":"album",
-        "artista":"Def Leppard",
-        "genero":"rock",
-        "nombre":"X, Yeah! & Songs From The Sparkle Lounge: Rarities From The Vault",
-        "año":2021,
-        "id":"4jfGZWacmLBQ17NpjMOjz9"
-    },
-    {
-        "tipo":"album",
-        "artista":"Los Auténticos Decadentes",
-        "genero":"rock",
-        "nombre":"ADN (Capítulo A)",
-        "año":2021,
-        "id":"5rinlFOFMszDRgJYFJJsDs"
-    },
-    {
-        "tipo":"album",
         "artista":"Fito Paez",
         "genero":"rock",
         "nombre":"Los Años Salvajes",
@@ -3193,19 +3161,35 @@
     },
     {
         "tipo":"album",
-        "artista":"RADWIMPS",
+        "artista":"Los Auténticos Decadentes",
         "genero":"rock",
-        "nombre":"FOREVER DAZE",
+        "nombre":"ADN (Capítulo A)",
         "año":2021,
-        "id":"1fYi13JilVgZfmml6oTQt5"
+        "id":"5rinlFOFMszDRgJYFJJsDs"
     },
     {
         "tipo":"album",
-        "artista":"RADWIMPS",
+        "artista":"Def Leppard",
         "genero":"rock",
-        "nombre":"2+0+2+1+3+1+1= 10 years 10 songs",
+        "nombre":"X, Yeah! & Songs From The Sparkle Lounge: Rarities From The Vault",
         "año":2021,
-        "id":"5xC3tDmG3LAyHh9wJf1Ujv"
+        "id":"4jfGZWacmLBQ17NpjMOjz9"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Who",
+        "genero":"rock",
+        "nombre":"Live 1970",
+        "año":2021,
+        "id":"6VrsFDXz2QStALP4MsmEhF"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Who",
+        "genero":"rock",
+        "nombre":"The Who Sell Out (Super Deluxe)",
+        "año":2021,
+        "id":"2JyNDhGhp0hiizSPuUs0i9"
     },
     {
         "tipo":"album",
@@ -3241,6 +3225,22 @@
     },
     {
         "tipo":"album",
+        "artista":"RADWIMPS",
+        "genero":"rock",
+        "nombre":"FOREVER DAZE",
+        "año":2021,
+        "id":"1fYi13JilVgZfmml6oTQt5"
+    },
+    {
+        "tipo":"album",
+        "artista":"RADWIMPS",
+        "genero":"rock",
+        "nombre":"2+0+2+1+3+1+1= 10 years 10 songs",
+        "año":2021,
+        "id":"5xC3tDmG3LAyHh9wJf1Ujv"
+    },
+    {
+        "tipo":"album",
         "artista":"The Kooks",
         "genero":"rock",
         "nombre":"Inside In, Inside Out (15th Anniversary Deluxe)",
@@ -3249,27 +3249,19 @@
     },
     {
         "tipo":"album",
-        "artista":"3 Doors Down",
-        "genero":"rock",
-        "nombre":"The Better Life (20th Anniversary \/ Deluxe)",
-        "año":2021,
-        "id":"2drHOqyJSkIzS3zFUWMjMF"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Doobie Brothers",
-        "genero":"rock",
-        "nombre":"Liberté",
-        "año":2021,
-        "id":"2n0oR2fuj2Wzmv6r4LM1tn"
-    },
-    {
-        "tipo":"album",
         "artista":"No Te Va Gustar",
         "genero":"rock",
         "nombre":"Luz",
         "año":2021,
         "id":"4C6joZxFL6lTg6tJDE9N6o"
+    },
+    {
+        "tipo":"album",
+        "artista":"Natalie Imbruglia",
+        "genero":"rock",
+        "nombre":"Firebird",
+        "año":2021,
+        "id":"7uR0WmniogdAeIinq4CCXY"
     },
     {
         "tipo":"album",
@@ -3297,11 +3289,19 @@
     },
     {
         "tipo":"album",
-        "artista":"Natalie Imbruglia",
+        "artista":"The Doobie Brothers",
         "genero":"rock",
-        "nombre":"Firebird",
+        "nombre":"Liberté",
         "año":2021,
-        "id":"7uR0WmniogdAeIinq4CCXY"
+        "id":"2n0oR2fuj2Wzmv6r4LM1tn"
+    },
+    {
+        "tipo":"album",
+        "artista":"3 Doors Down",
+        "genero":"rock",
+        "nombre":"The Better Life (20th Anniversary \/ Deluxe)",
+        "año":2021,
+        "id":"2drHOqyJSkIzS3zFUWMjMF"
     },
     {
         "tipo":"album",
@@ -3310,6 +3310,46 @@
         "nombre":"En Concierto (La Riviera, 2021)",
         "año":2021,
         "id":"4FMW2R5sfyBDndyKm6n0ky"
+    },
+    {
+        "tipo":"album",
+        "artista":"ENHYPEN",
+        "genero":"rock",
+        "nombre":"定め",
+        "año":2022,
+        "id":"58Rn6sczqcudAs9bryXXBv"
+    },
+    {
+        "tipo":"album",
+        "artista":"ENHYPEN",
+        "genero":"rock",
+        "nombre":"DIMENSION : ANSWER",
+        "año":2022,
+        "id":"3nOj9hsnptBEDt9ie2lra5"
+    },
+    {
+        "tipo":"album",
+        "artista":"Muse",
+        "genero":"rock",
+        "nombre":"Will Of The People",
+        "año":2022,
+        "id":"5qK8S5JRF8au6adIVtBsmk"
+    },
+    {
+        "tipo":"album",
+        "artista":"Billy Joel",
+        "genero":"rock",
+        "nombre":"Live at Yankee Stadium",
+        "año":2022,
+        "id":"3ZcQQSHbMn6hIoNboBJjbF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Aerosmith",
+        "genero":"rock",
+        "nombre":"1971: The Road Starts Hear",
+        "año":2022,
+        "id":"1TEsUEdGcXTXyRmqv3u2iO"
     },
     {
         "tipo":"album",
@@ -3337,11 +3377,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Billy Joel",
+        "artista":"David Bowie",
         "genero":"rock",
-        "nombre":"Live at Yankee Stadium",
+        "nombre":"Moonage Daydream – A Brett Morgen Film",
         "año":2022,
-        "id":"3ZcQQSHbMn6hIoNboBJjbF"
+        "id":"4bdMmY8jiVxvSOPg2IL0u8"
     },
     {
         "tipo":"album",
@@ -3353,35 +3393,27 @@
     },
     {
         "tipo":"album",
-        "artista":"Aerosmith",
-        "genero":"rock",
-        "nombre":"1971: The Road Starts Hear",
-        "año":2022,
-        "id":"1TEsUEdGcXTXyRmqv3u2iO"
-    },
-    {
-        "tipo":"album",
-        "artista":"Muse",
-        "genero":"rock",
-        "nombre":"Will Of The People",
-        "año":2022,
-        "id":"5qK8S5JRF8au6adIVtBsmk"
-    },
-    {
-        "tipo":"album",
-        "artista":"David Bowie",
-        "genero":"rock",
-        "nombre":"Moonage Daydream – A Brett Morgen Film",
-        "año":2022,
-        "id":"4bdMmY8jiVxvSOPg2IL0u8"
-    },
-    {
-        "tipo":"album",
         "artista":"Andrés Calamaro",
         "genero":"rock",
         "nombre":"Honestidad Extra Brut",
         "año":2022,
         "id":"2igu5nucdp13VGX64SBpKs"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Beatles",
+        "genero":"rock",
+        "nombre":"Revolver (Super Deluxe)",
+        "año":2022,
+        "id":"7C221PnWhYGv8Tc0xSbfdc"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Beatles",
+        "genero":"rock",
+        "nombre":"Get Back (Rooftop Performance)",
+        "año":2022,
+        "id":"6emgUTDksZyhhWmtjM9FCs"
     },
     {
         "tipo":"album",
@@ -3409,30 +3441,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Elvis Presley",
-        "genero":"rock",
-        "nombre":"Elvis On Tour",
-        "año":2022,
-        "id":"7GsLjMQBwLaKbXHTV9s11S"
-    },
-    {
-        "tipo":"album",
-        "artista":"Elvis Presley",
-        "genero":"rock",
-        "nombre":"Let´s Rock",
-        "año":2022,
-        "id":"1sdBTrsKUxO40tfYjefD5b"
-    },
-    {
-        "tipo":"album",
-        "artista":"Elvis Presley",
-        "genero":"rock",
-        "nombre":"Elvis Updated (New Orchestrations Overdubbed)",
-        "año":2022,
-        "id":"0szU0BQqgwDxoqpUhnuYM9"
-    },
-    {
-        "tipo":"album",
         "artista":"The Rolling Stones",
         "genero":"rock",
         "nombre":"Licked Live In NYC",
@@ -3457,30 +3465,6 @@
     },
     {
         "tipo":"album",
-        "artista":"The Beatles",
-        "genero":"rock",
-        "nombre":"Revolver (Super Deluxe)",
-        "año":2022,
-        "id":"7C221PnWhYGv8Tc0xSbfdc"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Beatles",
-        "genero":"rock",
-        "nombre":"Get Back (Rooftop Performance)",
-        "año":2022,
-        "id":"6emgUTDksZyhhWmtjM9FCs"
-    },
-    {
-        "tipo":"album",
-        "artista":"Dire Straits",
-        "genero":"rock",
-        "nombre":"Money For Nothing (Remastered 2022)",
-        "año":2022,
-        "id":"2GU13jRAYoBgYExvDvFnUU"
-    },
-    {
-        "tipo":"album",
         "artista":"Café Quijano",
         "genero":"rock",
         "nombre":"Manhattan",
@@ -3489,35 +3473,27 @@
     },
     {
         "tipo":"album",
-        "artista":"The Goo Goo Dolls",
+        "artista":"Elvis Presley",
         "genero":"rock",
-        "nombre":"Chaos In Bloom",
+        "nombre":"Elvis On Tour",
         "año":2022,
-        "id":"2uHbskNXxJFARyl686aN6T"
+        "id":"7GsLjMQBwLaKbXHTV9s11S"
     },
     {
         "tipo":"album",
-        "artista":"Juanes",
+        "artista":"Elvis Presley",
         "genero":"rock",
-        "nombre":"Un Día Normal (20th Anniversary Remastered)",
+        "nombre":"Let´s Rock",
         "año":2022,
-        "id":"1u6LVowYLLPQVSS2o67YyW"
+        "id":"1sdBTrsKUxO40tfYjefD5b"
     },
     {
         "tipo":"album",
-        "artista":"Red Hot Chili Peppers",
+        "artista":"Elvis Presley",
         "genero":"rock",
-        "nombre":"Return of the Dream Canteen",
+        "nombre":"Elvis Updated (New Orchestrations Overdubbed)",
         "año":2022,
-        "id":"0KJc9ksnoJJsdpQxV3z5i1"
-    },
-    {
-        "tipo":"album",
-        "artista":"Red Hot Chili Peppers",
-        "genero":"rock",
-        "nombre":"Unlimited Love",
-        "año":2022,
-        "id":"2ITVvrNiINKRiW7wA3w6w6"
+        "id":"0szU0BQqgwDxoqpUhnuYM9"
     },
     {
         "tipo":"album",
@@ -3529,19 +3505,19 @@
     },
     {
         "tipo":"album",
-        "artista":"Imagine Dragons",
+        "artista":"Dire Straits",
         "genero":"rock",
-        "nombre":"Night Visions (Expanded Edition \/ Super Deluxe)",
+        "nombre":"Money For Nothing (Remastered 2022)",
         "año":2022,
-        "id":"0LLA5YL3g2UReWlP7nWqGh"
+        "id":"2GU13jRAYoBgYExvDvFnUU"
     },
     {
         "tipo":"album",
-        "artista":"Imagine Dragons",
+        "artista":"Juanes",
         "genero":"rock",
-        "nombre":"Mercury - Acts 1 & 2",
+        "nombre":"Un Día Normal (20th Anniversary Remastered)",
         "año":2022,
-        "id":"6yiXkzHvC0OTmhfDQOEWtS"
+        "id":"1u6LVowYLLPQVSS2o67YyW"
     },
     {
         "tipo":"album",
@@ -3569,6 +3545,54 @@
     },
     {
         "tipo":"album",
+        "artista":"Red Hot Chili Peppers",
+        "genero":"rock",
+        "nombre":"Return of the Dream Canteen",
+        "año":2022,
+        "id":"0KJc9ksnoJJsdpQxV3z5i1"
+    },
+    {
+        "tipo":"album",
+        "artista":"Red Hot Chili Peppers",
+        "genero":"rock",
+        "nombre":"Unlimited Love",
+        "año":2022,
+        "id":"2ITVvrNiINKRiW7wA3w6w6"
+    },
+    {
+        "tipo":"album",
+        "artista":"Imagine Dragons",
+        "genero":"rock",
+        "nombre":"Night Visions (Expanded Edition \/ Super Deluxe)",
+        "año":2022,
+        "id":"0LLA5YL3g2UReWlP7nWqGh"
+    },
+    {
+        "tipo":"album",
+        "artista":"Imagine Dragons",
+        "genero":"rock",
+        "nombre":"Mercury - Acts 1 & 2",
+        "año":2022,
+        "id":"6yiXkzHvC0OTmhfDQOEWtS"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ghost",
+        "genero":"rock",
+        "nombre":"IMPERA",
+        "año":2022,
+        "id":"3fn4HfVz5dhmE0PG24rh6h"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Doors",
+        "genero":"rock",
+        "nombre":"Spirits (Live 1972)",
+        "año":2022,
+        "id":"58uO6Ij934R3FAo6oop5Hw"
+    },
+    {
+        "tipo":"album",
         "artista":"KISS",
         "genero":"rock",
         "nombre":"KISS Off The Soundboard: Live In Des Moines",
@@ -3593,70 +3617,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Ghost",
-        "genero":"rock",
-        "nombre":"IMPERA",
-        "año":2022,
-        "id":"3fn4HfVz5dhmE0PG24rh6h"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Doors",
-        "genero":"rock",
-        "nombre":"Spirits (Live 1972)",
-        "año":2022,
-        "id":"58uO6Ij934R3FAo6oop5Hw"
-    },
-    {
-        "tipo":"album",
-        "artista":"Pearl Jam",
-        "genero":"rock",
-        "nombre":"Gigaton (Tour Edition)",
-        "año":2022,
-        "id":"5GpbdECRp0anE9UNlu7cPN"
-    },
-    {
-        "tipo":"album",
-        "artista":"YUNGBLUD",
-        "genero":"rock",
-        "nombre":"YUNGBLUD",
-        "año":2022,
-        "id":"3Hthv2JVzYaWq0TyElU5lF"
-    },
-    {
-        "tipo":"album",
-        "artista":"Nickelback",
-        "genero":"rock",
-        "nombre":"Get Rollin'",
-        "año":2022,
-        "id":"5uLm9XqpibzmIaFUz80jLb"
-    },
-    {
-        "tipo":"album",
-        "artista":"Dave Stewart",
-        "genero":"rock",
-        "nombre":"Ebony Mcqueen",
-        "año":2022,
-        "id":"5TG1LggtQnnemu1Hspg7vB"
-    },
-    {
-        "tipo":"album",
-        "artista":"Milky Chance",
-        "genero":"rock",
-        "nombre":"Trip Tape II",
-        "año":2022,
-        "id":"3anT3sq943fma4yCM5FhvG"
-    },
-    {
-        "tipo":"album",
-        "artista":"Milky Chance",
-        "genero":"rock",
-        "nombre":"Sadnecessary (Acoustic Version)",
-        "año":2022,
-        "id":"09SbGYWO9I7924ggHaM18y"
-    },
-    {
-        "tipo":"album",
         "artista":"ATEEZ",
         "genero":"rock",
         "nombre":"THE WORLD EP.1 : MOVEMENT",
@@ -3670,30 +3630,6 @@
         "nombre":"BEYOND : ZERO",
         "año":2022,
         "id":"4k7ECCNLLIukf1rwPaOxoY"
-    },
-    {
-        "tipo":"album",
-        "artista":"Journey",
-        "genero":"rock",
-        "nombre":"Live in Concert at Lollapalooza",
-        "año":2022,
-        "id":"1OPM2JlagOs8Zh7cdYQT0o"
-    },
-    {
-        "tipo":"album",
-        "artista":"Journey",
-        "genero":"rock",
-        "nombre":"Freedom",
-        "año":2022,
-        "id":"6EBjdKsgkosFJK5tB5YFLu"
-    },
-    {
-        "tipo":"album",
-        "artista":"Miguel Ríos",
-        "genero":"rock",
-        "nombre":"Rock & Ríos (Edición 40º Aniversario)",
-        "año":2022,
-        "id":"1Q4daCjo4eCT59hZXKiMjn"
     },
     {
         "tipo":"album",
@@ -3721,19 +3657,51 @@
     },
     {
         "tipo":"album",
-        "artista":"Blondie",
+        "artista":"Miguel Ríos",
         "genero":"rock",
-        "nombre":"Against The Odds: 1974 - 1982",
+        "nombre":"Rock & Ríos (Edición 40º Aniversario)",
         "año":2022,
-        "id":"0xgjNfcoYavtty8592ehW9"
+        "id":"1Q4daCjo4eCT59hZXKiMjn"
     },
     {
         "tipo":"album",
-        "artista":"Scorpions",
+        "artista":"Pearl Jam",
         "genero":"rock",
-        "nombre":"Rock Believer (Deluxe)",
+        "nombre":"Gigaton (Tour Edition)",
         "año":2022,
-        "id":"3buy6DvCMUseqKyEC4RI4g"
+        "id":"5GpbdECRp0anE9UNlu7cPN"
+    },
+    {
+        "tipo":"album",
+        "artista":"Nickelback",
+        "genero":"rock",
+        "nombre":"Get Rollin'",
+        "año":2022,
+        "id":"5uLm9XqpibzmIaFUz80jLb"
+    },
+    {
+        "tipo":"album",
+        "artista":"YUNGBLUD",
+        "genero":"rock",
+        "nombre":"YUNGBLUD",
+        "año":2022,
+        "id":"3Hthv2JVzYaWq0TyElU5lF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Journey",
+        "genero":"rock",
+        "nombre":"Live in Concert at Lollapalooza",
+        "año":2022,
+        "id":"1OPM2JlagOs8Zh7cdYQT0o"
+    },
+    {
+        "tipo":"album",
+        "artista":"Journey",
+        "genero":"rock",
+        "nombre":"Freedom",
+        "año":2022,
+        "id":"6EBjdKsgkosFJK5tB5YFLu"
     },
     {
         "tipo":"album",
@@ -3753,11 +3721,43 @@
     },
     {
         "tipo":"album",
-        "artista":"Daryl Hall & John Oates",
+        "artista":"Blondie",
         "genero":"rock",
-        "nombre":"Marigold Sky",
+        "nombre":"Against The Odds: 1974 - 1982",
         "año":2022,
-        "id":"54ulCzfsXM4WXdvvaz262J"
+        "id":"0xgjNfcoYavtty8592ehW9"
+    },
+    {
+        "tipo":"album",
+        "artista":"Milky Chance",
+        "genero":"rock",
+        "nombre":"Trip Tape II",
+        "año":2022,
+        "id":"3anT3sq943fma4yCM5FhvG"
+    },
+    {
+        "tipo":"album",
+        "artista":"Milky Chance",
+        "genero":"rock",
+        "nombre":"Sadnecessary (Acoustic Version)",
+        "año":2022,
+        "id":"09SbGYWO9I7924ggHaM18y"
+    },
+    {
+        "tipo":"album",
+        "artista":"Scorpions",
+        "genero":"rock",
+        "nombre":"Rock Believer (Deluxe)",
+        "año":2022,
+        "id":"3buy6DvCMUseqKyEC4RI4g"
+    },
+    {
+        "tipo":"album",
+        "artista":"Eric Clapton",
+        "genero":"rock",
+        "nombre":"Nothing But the Blues (Live)",
+        "año":2022,
+        "id":"5PGQW0n8n0JDxmpPkAgwIc"
     },
     {
         "tipo":"album",
@@ -3777,11 +3777,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Eric Clapton",
+        "artista":"Daryl Hall & John Oates",
         "genero":"rock",
-        "nombre":"Nothing But the Blues (Live)",
+        "nombre":"Marigold Sky",
         "año":2022,
-        "id":"5PGQW0n8n0JDxmpPkAgwIc"
+        "id":"54ulCzfsXM4WXdvvaz262J"
     },
     {
         "tipo":"album",
@@ -3798,6 +3798,14 @@
         "nombre":"The Bridge (Super Deluxe)",
         "año":2022,
         "id":"3ZCIcCsU3wAG2o8p8WfNjk"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Goo Goo Dolls",
+        "genero":"rock",
+        "nombre":"Chaos In Bloom",
+        "año":2022,
+        "id":"2uHbskNXxJFARyl686aN6T"
     },
     {
         "tipo":"album",
@@ -3849,11 +3857,27 @@
     },
     {
         "tipo":"album",
+        "artista":"America",
+        "genero":"rock",
+        "nombre":"Live at Goodbye Summer’71",
+        "año":2022,
+        "id":"1o1m0mirg6aM8MZJm9nGIM"
+    },
+    {
+        "tipo":"album",
         "artista":"Mötley Crüe",
         "genero":"rock",
         "nombre":"Turn Me Loose (Live 1983)",
         "año":2022,
         "id":"6UMYrojonxseyUIsSmFOVf"
+    },
+    {
+        "tipo":"album",
+        "artista":"Pixies",
+        "genero":"rock",
+        "nombre":"Doggerel",
+        "año":2022,
+        "id":"5zADZ7IhW2hZqJwkUmQVQY"
     },
     {
         "tipo":"album",
@@ -3870,94 +3894,6 @@
         "nombre":"Direction of the Heart",
         "año":2022,
         "id":"2HW50pzz8fOkfdauYGPNYb"
-    },
-    {
-        "tipo":"album",
-        "artista":"Pixies",
-        "genero":"rock",
-        "nombre":"Doggerel",
-        "año":2022,
-        "id":"5zADZ7IhW2hZqJwkUmQVQY"
-    },
-    {
-        "tipo":"album",
-        "artista":"Chicago",
-        "genero":"rock",
-        "nombre":"Born For This Moment",
-        "año":2022,
-        "id":"0PNqISvKipkWgdEY7JzPwD"
-    },
-    {
-        "tipo":"album",
-        "artista":"Chicago",
-        "genero":"rock",
-        "nombre":"Live On The Run (Live 1978)",
-        "año":2022,
-        "id":"287kGx5yITOfYo4oa9UGFt"
-    },
-    {
-        "tipo":"album",
-        "artista":"Chicago",
-        "genero":"rock",
-        "nombre":"New York 1977",
-        "año":2022,
-        "id":"6Wiert0AEyhDavkQgn62lv"
-    },
-    {
-        "tipo":"album",
-        "artista":"America",
-        "genero":"rock",
-        "nombre":"Live at Goodbye Summer’71",
-        "año":2022,
-        "id":"1o1m0mirg6aM8MZJm9nGIM"
-    },
-    {
-        "tipo":"album",
-        "artista":"Neil Young",
-        "genero":"rock",
-        "nombre":"World Record",
-        "año":2022,
-        "id":"2QoxFzceB9dTpgDJyvIhPZ"
-    },
-    {
-        "tipo":"album",
-        "artista":"Neil Young",
-        "genero":"rock",
-        "nombre":"Noise and Flowers (Live)",
-        "año":2022,
-        "id":"2el3N84KcZPpe02VZFYQRT"
-    },
-    {
-        "tipo":"album",
-        "artista":"Neil Young",
-        "genero":"rock",
-        "nombre":"Toast",
-        "año":2022,
-        "id":"0FPLAG5uTGDobvQRxHsrNx"
-    },
-    {
-        "tipo":"album",
-        "artista":"Neil Young",
-        "genero":"rock",
-        "nombre":"Royce Hall 1971 (Live)",
-        "año":2022,
-        "id":"3zl5hZUwuB0whKkVX8PUj4"
-    },
-    {
-        "tipo":"album",
-        "artista":"Neil Young",
-        "genero":"rock",
-        "nombre":"Dorothy Chandler Pavilion 1971 (Live)",
-        "año":2022,
-        "id":"4BExWlE5dqZYBpmRZoBdsL"
-    },
-    {
-        "tipo":"album",
-        "artista":"Neil Young",
-        "genero":"rock",
-        "nombre":"Citizen Kane Jr. Blues 1974 (Live at The Bottom Line)",
-        "año":2022,
-        "id":"0NtkhBKUAZy1vMKzsJjtex"
     },
     {
         "tipo":"album",
@@ -4025,6 +3961,86 @@
     },
     {
         "tipo":"album",
+        "artista":"Neil Young",
+        "genero":"rock",
+        "nombre":"World Record",
+        "año":2022,
+        "id":"2QoxFzceB9dTpgDJyvIhPZ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Neil Young",
+        "genero":"rock",
+        "nombre":"Noise and Flowers (Live)",
+        "año":2022,
+        "id":"2el3N84KcZPpe02VZFYQRT"
+    },
+    {
+        "tipo":"album",
+        "artista":"Neil Young",
+        "genero":"rock",
+        "nombre":"Toast",
+        "año":2022,
+        "id":"0FPLAG5uTGDobvQRxHsrNx"
+    },
+    {
+        "tipo":"album",
+        "artista":"Neil Young",
+        "genero":"rock",
+        "nombre":"Royce Hall 1971 (Live)",
+        "año":2022,
+        "id":"3zl5hZUwuB0whKkVX8PUj4"
+    },
+    {
+        "tipo":"album",
+        "artista":"Neil Young",
+        "genero":"rock",
+        "nombre":"Dorothy Chandler Pavilion 1971 (Live)",
+        "año":2022,
+        "id":"4BExWlE5dqZYBpmRZoBdsL"
+    },
+    {
+        "tipo":"album",
+        "artista":"Neil Young",
+        "genero":"rock",
+        "nombre":"Citizen Kane Jr. Blues 1974 (Live at The Bottom Line)",
+        "año":2022,
+        "id":"0NtkhBKUAZy1vMKzsJjtex"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chicago",
+        "genero":"rock",
+        "nombre":"Born For This Moment",
+        "año":2022,
+        "id":"0PNqISvKipkWgdEY7JzPwD"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chicago",
+        "genero":"rock",
+        "nombre":"Live On The Run (Live 1978)",
+        "año":2022,
+        "id":"287kGx5yITOfYo4oa9UGFt"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chicago",
+        "genero":"rock",
+        "nombre":"New York 1977",
+        "año":2022,
+        "id":"6Wiert0AEyhDavkQgn62lv"
+    },
+    {
+        "tipo":"album",
+        "artista":"Franz Ferdinand",
+        "genero":"rock",
+        "nombre":"Hits To The Head",
+        "año":2022,
+        "id":"43mvJjFIAQWC8aREggBId5"
+    },
+    {
+        "tipo":"album",
         "artista":"ZZ Top",
         "genero":"rock",
         "nombre":"RAW (‘That Little Ol' Band From Texas’ Original Soundtrack)",
@@ -4033,19 +4049,11 @@
     },
     {
         "tipo":"album",
-        "artista":"Rage Against The Machine",
+        "artista":"Mike Oldfield",
         "genero":"rock",
-        "nombre":"Live & Rare",
+        "nombre":"Tubular Bells - 50th Anniversary Celebration",
         "año":2022,
-        "id":"2s4mduKoB7tgHDpEonT401"
-    },
-    {
-        "tipo":"album",
-        "artista":"INXS",
-        "genero":"rock",
-        "nombre":"Shabooh Shoobah (40th Anniversary \/ Deluxe Edition)",
-        "año":2022,
-        "id":"1OQ57qoQXuhjGRpRRPQgGV"
+        "id":"1mXx2SK27ERGcMERAfeji8"
     },
     {
         "tipo":"album",
@@ -4065,22 +4073,6 @@
     },
     {
         "tipo":"album",
-        "artista":"Mike Oldfield",
-        "genero":"rock",
-        "nombre":"Tubular Bells - 50th Anniversary Celebration",
-        "año":2022,
-        "id":"1mXx2SK27ERGcMERAfeji8"
-    },
-    {
-        "tipo":"album",
-        "artista":"Franz Ferdinand",
-        "genero":"rock",
-        "nombre":"Hits To The Head",
-        "año":2022,
-        "id":"43mvJjFIAQWC8aREggBId5"
-    },
-    {
-        "tipo":"album",
         "artista":"Mark Knopfler",
         "genero":"rock",
         "nombre":"The Studio Albums 2009 – 2018",
@@ -4097,6 +4089,22 @@
     },
     {
         "tipo":"album",
+        "artista":"INXS",
+        "genero":"rock",
+        "nombre":"Shabooh Shoobah (40th Anniversary \/ Deluxe Edition)",
+        "año":2022,
+        "id":"1OQ57qoQXuhjGRpRRPQgGV"
+    },
+    {
+        "tipo":"album",
+        "artista":"Rage Against The Machine",
+        "genero":"rock",
+        "nombre":"Live & Rare",
+        "año":2022,
+        "id":"2s4mduKoB7tgHDpEonT401"
+    },
+    {
+        "tipo":"album",
         "artista":"Train",
         "genero":"rock",
         "nombre":"AM Gold",
@@ -4105,11 +4113,11 @@
     },
     {
         "tipo":"album",
-        "artista":"ONE OK ROCK",
+        "artista":"Dave Stewart",
         "genero":"rock",
-        "nombre":"Luxury Disease (Japanese Version)",
+        "nombre":"Ebony Mcqueen",
         "año":2022,
-        "id":"1GDFRCws0YeYcDQYL6UWCD"
+        "id":"5TG1LggtQnnemu1Hspg7vB"
     },
     {
         "tipo":"album",
@@ -4137,6 +4145,14 @@
     },
     {
         "tipo":"album",
+        "artista":"ONE OK ROCK",
+        "genero":"rock",
+        "nombre":"Luxury Disease (Japanese Version)",
+        "año":2022,
+        "id":"1GDFRCws0YeYcDQYL6UWCD"
+    },
+    {
+        "tipo":"album",
         "artista":"Jimi Hendrix",
         "genero":"rock",
         "nombre":"Los Angeles Forum - April 26, 1969 (Live)",
@@ -4150,22 +4166,6 @@
         "nombre":"Ali",
         "año":2022,
         "id":"4dfAJiDQHQf4dGX0ZdtxPh"
-    },
-    {
-        "tipo":"album",
-        "artista":"Def Leppard",
-        "genero":"rock",
-        "nombre":"Diamond Star Halos",
-        "año":2022,
-        "id":"5arLkguGPIDSGzCT8Cjt6K"
-    },
-    {
-        "tipo":"album",
-        "artista":"Los Auténticos Decadentes",
-        "genero":"rock",
-        "nombre":"ADN (Capítulo D)",
-        "año":2022,
-        "id":"2AFeBZRa2auMfG0RDrbBu1"
     },
     {
         "tipo":"album",
@@ -4193,19 +4193,19 @@
     },
     {
         "tipo":"album",
-        "artista":"RADWIMPS",
+        "artista":"Los Auténticos Decadentes",
         "genero":"rock",
-        "nombre":"Suzume (Motion Picture Soundtrack)",
+        "nombre":"ADN (Capítulo D)",
         "año":2022,
-        "id":"6Ar5HxNWXtvraqs7FI7bYq"
+        "id":"2AFeBZRa2auMfG0RDrbBu1"
     },
     {
         "tipo":"album",
-        "artista":"RADWIMPS",
+        "artista":"Def Leppard",
         "genero":"rock",
-        "nombre":"Original Soundtrack of \"The Last Ten Years\"",
+        "nombre":"Diamond Star Halos",
         "año":2022,
-        "id":"3FyR41ewiOZHop9rFnOZ1m"
+        "id":"5arLkguGPIDSGzCT8Cjt6K"
     },
     {
         "tipo":"album",
@@ -4214,14 +4214,6 @@
         "nombre":"Keep On Smiling",
         "año":2022,
         "id":"1PKL24mnakuCYCZkHgKgwJ"
-    },
-    {
-        "tipo":"album",
-        "artista":"The Kooks",
-        "genero":"rock",
-        "nombre":"10 Tracks to Echo in the Dark",
-        "año":2022,
-        "id":"4aHwEq65yWoM0KQkaE1Dsv"
     },
     {
         "tipo":"album",
@@ -4249,6 +4241,30 @@
     },
     {
         "tipo":"album",
+        "artista":"RADWIMPS",
+        "genero":"rock",
+        "nombre":"Suzume (Motion Picture Soundtrack)",
+        "año":2022,
+        "id":"6Ar5HxNWXtvraqs7FI7bYq"
+    },
+    {
+        "tipo":"album",
+        "artista":"RADWIMPS",
+        "genero":"rock",
+        "nombre":"Original Soundtrack of \"The Last Ten Years\"",
+        "año":2022,
+        "id":"3FyR41ewiOZHop9rFnOZ1m"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Kooks",
+        "genero":"rock",
+        "nombre":"10 Tracks to Echo in the Dark",
+        "año":2022,
+        "id":"4aHwEq65yWoM0KQkaE1Dsv"
+    },
+    {
+        "tipo":"album",
         "artista":"Iggy Pop",
         "genero":"rock",
         "nombre":"Après (10th-anniversary edition)",
@@ -4262,38 +4278,6 @@
         "nombre":"Theatre Of Cruelty (Live at The Whisky a Go Go, 8901 Sunset Blvd at Clark, West Hollywood, CA. 1973)",
         "año":2022,
         "id":"23uNdlvLr6ltEXDWhl4CcH"
-    },
-    {
-        "tipo":"album",
-        "artista":"LiSA",
-        "genero":"rock",
-        "nombre":"「鬼滅の刃」無限列車編 オリジナルサウンドトラック",
-        "año":2022,
-        "id":"319uh4R4DZ2oEIEaGSFyAF"
-    },
-    {
-        "tipo":"album",
-        "artista":"LiSA",
-        "genero":"rock",
-        "nombre":"LANDER",
-        "año":2022,
-        "id":"0YOUWQVuRAc2SpGdJJt6xv"
-    },
-    {
-        "tipo":"album",
-        "artista":"LiSA",
-        "genero":"rock",
-        "nombre":"LiVE is Smile Always～Eve&Birth～「the Birth」 at 日本武道館",
-        "año":2022,
-        "id":"3LWOLTeq5sovwS8SC9cUNH"
-    },
-    {
-        "tipo":"album",
-        "artista":"LiSA",
-        "genero":"rock",
-        "nombre":"LiVE is Smile Always～unlasting shadow～ at Zepp Haneda(TOKYO)",
-        "año":2022,
-        "id":"6jE8BsIS66qmLN7N6CQpoQ"
     },
     {
         "tipo":"album",
@@ -4336,1059 +4320,35 @@
         "id":"4pS4IdMzD9eICPhkIT4h0U"
     },
     {
-        "tipo":"cancion",
-        "artista":"Bunbury",
-        "genero":"rock",
-        "nombre":"Aunque no sea conmigo - 2018 Remaster",
-        "año":2018,
-        "id":"0rCxrlZhWzLy5ULIEDL3zs"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Café Quijano",
-        "genero":"rock",
-        "nombre":"Perdonarme (feat. Taburete)",
-        "año":2018,
-        "id":"4jhyxXSs9e7bmTMOn3txCj"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Twenty One Pilots",
-        "genero":"rock",
-        "nombre":"Chlorine",
-        "año":2018,
-        "id":"23OXdR7YuUBVWh5hSnYJau"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Juanes",
-        "genero":"rock",
-        "nombre":"Besos En Guerra",
-        "año":2018,
-        "id":"1mlGScrDQqHqmhdIqE8MmA"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Imagine Dragons",
-        "genero":"rock",
-        "nombre":"Bad Liar",
-        "año":2018,
-        "id":"2RSHsoi04658QL5xgQVov3"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Imagine Dragons",
-        "genero":"rock",
-        "nombre":"Natural",
-        "año":2018,
-        "id":"2FY7b99s15jUprqC0M5NCT"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Mrs. GREEN APPLE",
-        "genero":"rock",
-        "nombre":"点描の唄",
-        "año":2018,
-        "id":"1sIIlVrnPhrvmTrHtzM7tV"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Ghost",
-        "genero":"rock",
-        "nombre":"Dance Macabre",
-        "año":2018,
-        "id":"4pIKFpwflOdhYNIRmPTj3E"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Ghost",
-        "genero":"rock",
-        "nombre":"Rats",
-        "año":2018,
-        "id":"1WjcX541kITk0ACPf5K6Bp"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Bastille",
-        "genero":"rock",
-        "nombre":"Happier",
-        "año":2018,
-        "id":"7BqHUALzNBTanL6OvsqmC1"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Lenny Kravitz",
-        "genero":"rock",
-        "nombre":"Low",
-        "año":2018,
-        "id":"3zcccQe4KhGXRqRBUwGU3G"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Mazzy Star",
-        "genero":"rock",
-        "nombre":"Quiet, The Winter Harbor",
-        "año":2018,
-        "id":"4V79NKNUFkjzHWcPLtdlNM"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Zoé",
-        "genero":"rock",
-        "nombre":"Azul",
-        "año":2018,
-        "id":"7ffkdwy4EvMSeUnPVSyqqw"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Zoé",
-        "genero":"rock",
-        "nombre":"Hielo",
-        "año":2018,
-        "id":"2YiqBesMJpszYU6raDOG0R"
-    },
-    {
-        "tipo":"cancion",
-        "artista":".Feast",
-        "genero":"rock",
-        "nombre":"Peradaban",
-        "año":2018,
-        "id":"4YxEeCKhUl1DawPzsxCPbq"
-    },
-    {
-        "tipo":"cancion",
-        "artista":".Feast",
-        "genero":"rock",
-        "nombre":"Kami Belum Tentu",
-        "año":2018,
-        "id":"38yM3PwNtTSsb8UqEgqaUl"
-    },
-    {
-        "tipo":"cancion",
-        "artista":".Feast",
-        "genero":"rock",
-        "nombre":"Berita Kehilangan",
-        "año":2018,
-        "id":"1OGXIoBfCR3vQSgcMY9Or4"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"AJR",
-        "genero":"rock",
-        "nombre":"Burn the House Down",
-        "año":2018,
-        "id":"4u8Gkqyg87iGSW3hQbbnQZ"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Khruangbin",
-        "genero":"rock",
-        "nombre":"August 10",
-        "año":2018,
-        "id":"2MIavWMdvbYuRoA2Cw6VkN"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Def Leppard",
-        "genero":"rock",
-        "nombre":"When Love And Hate Collide",
-        "año":2018,
-        "id":"4YwR2G26Pp5jNUX3gN3EIP"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Los Auténticos Decadentes",
-        "genero":"rock",
-        "nombre":"Loco (Tu Forma de Ser) [Ft. Rubén Albarrán] - MTV Unplugged",
-        "año":2018,
-        "id":"0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Los Auténticos Decadentes",
-        "genero":"rock",
-        "nombre":"Amor (Ft. Mon Laferte) - MTV Unplugged",
-        "año":2018,
-        "id":"1QjfU3jkGInap7Vm9lVJIQ"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"RADWIMPS",
-        "genero":"rock",
-        "nombre":"Sokkenai",
-        "año":2018,
-        "id":"1rYg6v89UhWyPMbr8uf4fl"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Thirty Seconds To Mars",
-        "genero":"rock",
-        "nombre":"Walk on Water",
-        "año":2018,
-        "id":"3TpzgwcbhrZWW9Qrj6MmKd"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Air Supply",
-        "genero":"rock",
-        "nombre":"Making Love Out of Nothing at All",
-        "año":2018,
-        "id":"01MXkFA8sL7at6txavDErt"
-    },
-    {
-        "tipo":"cancion",
+        "tipo":"album",
         "artista":"LiSA",
         "genero":"rock",
-        "nombre":"ADAMAS",
-        "año":2018,
-        "id":"6RpBs7BsS9oiHKtzJXsMOS"
+        "nombre":"「鬼滅の刃」無限列車編 オリジナルサウンドトラック",
+        "año":2022,
+        "id":"319uh4R4DZ2oEIEaGSFyAF"
     },
     {
-        "tipo":"cancion",
-        "artista":"Mrs. GREEN APPLE",
-        "genero":"rock",
-        "nombre":"インフェルノ",
-        "año":2019,
-        "id":"2vOAHp8PBBFYqvQUWSoITY"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Mrs. GREEN APPLE",
-        "genero":"rock",
-        "nombre":"青と夏",
-        "año":2019,
-        "id":"5BC6kr6etk2Y9J62AyI4i3"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Ghost",
-        "genero":"rock",
-        "nombre":"Mary On A Cross",
-        "año":2019,
-        "id":"2wBnZdVWa5jVpvYRfGU7rP"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"YUNGBLUD",
-        "genero":"rock",
-        "nombre":"I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
-        "año":2019,
-        "id":"2gTdDMpNxIRFSiu7HutMCg"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"YUNGBLUD",
-        "genero":"rock",
-        "nombre":"11 Minutes (with Halsey feat. Travis Barker)",
-        "año":2019,
-        "id":"4mGdjNMo0RonTlOEb7cYg4"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"ATEEZ",
-        "genero":"rock",
-        "nombre":"WONDERLAND",
-        "año":2019,
-        "id":"6k67RdkVjTZj79c1cRz7IQ"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Skillet",
-        "genero":"rock",
-        "nombre":"Finish Line",
-        "año":2019,
-        "id":"2GJ1xx5ZoeIJYbQKLSpoZ3"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Sting",
-        "genero":"rock",
-        "nombre":"Reste",
-        "año":2019,
-        "id":"4F0B8TLdJVACskfkkTqHDI"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"TOOL",
-        "genero":"rock",
-        "nombre":"Pneuma",
-        "año":2019,
-        "id":"03sEzk1VyrUZSgyhoQR0LZ"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Black Keys",
-        "genero":"rock",
-        "nombre":"Lo\/Hi",
-        "año":2019,
-        "id":"25YlltWXRb9k7KbrEBRuhJ"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Cage The Elephant",
-        "genero":"rock",
-        "nombre":"Social Cues",
-        "año":2019,
-        "id":"1KuVdyg8d6NlRhbpHxg5UF"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Cage The Elephant",
-        "genero":"rock",
-        "nombre":"Black Madonna",
-        "año":2019,
-        "id":"4Y6GIje3GErVRIq1Ff5BJq"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Cage The Elephant",
-        "genero":"rock",
-        "nombre":"Ready To Let Go",
-        "año":2019,
-        "id":"4UyAtnwhaKv7EG1BdkBYRI"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Foster The People",
-        "genero":"rock",
-        "nombre":"Imagination",
-        "año":2019,
-        "id":"2flxduIqEbsicdmPyj1WVW"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Temper Trap",
-        "genero":"rock",
-        "nombre":"Sweet Disposition - Vintage Culture & Lazy Bear Remix",
-        "año":2019,
-        "id":"6SMu65IO3zujrIEObLwgZt"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"ONE OK ROCK",
-        "genero":"rock",
-        "nombre":"Stand Out Fit In",
-        "año":2019,
-        "id":"4zXRMjTaeflesB3Ih4eHnJ"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"ONE OK ROCK",
-        "genero":"rock",
-        "nombre":"Wasted Nights",
-        "año":2019,
-        "id":"39LyUQIy7idLxPdsjyZsxe"
-    },
-    {
-        "tipo":"cancion",
-        "artista":".Feast",
-        "genero":"rock",
-        "nombre":"Tarian Penghancur Raya",
-        "año":2019,
-        "id":"5vyvUHRYcvFx6aINr6xDpr"
-    },
-    {
-        "tipo":"cancion",
-        "artista":".Feast",
-        "genero":"rock",
-        "nombre":"Gelora",
-        "año":2019,
-        "id":"7ywPDpN6mmGK8bqTH1Bgxf"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"AJR",
-        "genero":"rock",
-        "nombre":"100 Bad Days",
-        "año":2019,
-        "id":"0WmH9fXWCQ51RQi1kWPJrI"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"back number",
-        "genero":"rock",
-        "nombre":"HAPPY BIRTHDAY",
-        "año":2019,
-        "id":"4FMz2RFrbDGzJO7K4D0vS3"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"No Te Va Gustar",
-        "genero":"rock",
-        "nombre":"Chau",
-        "año":2019,
-        "id":"3uP1USIwwDpOA8uw0LjY2P"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"No Te Va Gustar",
-        "genero":"rock",
-        "nombre":"A Las Nueve",
-        "año":2019,
-        "id":"68cko9zdsKwaxgb98sF36S"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"No Te Va Gustar",
-        "genero":"rock",
-        "nombre":"De Nada Sirve",
-        "año":2019,
-        "id":"2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Smash Mouth",
-        "genero":"rock",
-        "nombre":"All Star - Breathe Carolina Remix",
-        "año":2019,
-        "id":"6wKJjrWWP4qpzYbE8oQkc4"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Tame Impala",
-        "genero":"rock",
-        "nombre":"Borderline",
-        "año":2020,
-        "id":"5hM5arv9KDbCHS0k9uqwjr"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Jarabe De Palo",
-        "genero":"rock",
-        "nombre":"Eso Que Tú Me Das",
-        "año":2020,
-        "id":"40tFJtuES1da2fg0OurUdI"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Kenshi Yonezu",
-        "genero":"rock",
-        "nombre":"Lemon",
-        "año":2020,
-        "id":"04TshWXkhV1qkqHzf31Hn6"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Kenshi Yonezu",
-        "genero":"rock",
-        "nombre":"感電",
-        "año":2020,
-        "id":"6H0PLsSYMzDOqhLgyOlzIj"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Mikel Erentxun",
-        "genero":"rock",
-        "nombre":"Resistiré",
-        "año":2020,
-        "id":"5Z3eEWd02O1RekV96ohDPx"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Mikel Erentxun",
-        "genero":"rock",
-        "nombre":"Héroes",
-        "año":2020,
-        "id":"5AAAI4coWxZ69lnvxIt33t"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"YUNGBLUD",
-        "genero":"rock",
-        "nombre":"parents",
-        "año":2020,
-        "id":"5v4OkFH0TJ6W1hCFxyn0px"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Strokes",
-        "genero":"rock",
-        "nombre":"The Adults Are Talking",
-        "año":2020,
-        "id":"5ruzrDWcT0vuJIOMW7gMnW"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Strokes",
-        "genero":"rock",
-        "nombre":"Selfless",
-        "año":2020,
-        "id":"2t0wwvR15fc3K1ey8OiOaN"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Strokes",
-        "genero":"rock",
-        "nombre":"Ode To The Mets",
-        "año":2020,
-        "id":"1BLOVHYYlH4JUHQGcpt75R"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Strokes",
-        "genero":"rock",
-        "nombre":"Why Are Sundays So Depressing",
-        "año":2020,
-        "id":"1aOxOpH4AkGAd8OMrKjyNY"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Coti",
-        "genero":"rock",
-        "nombre":"Color Esperanza 2020",
-        "año":2020,
-        "id":"3eSJmGWqoBRx5wbFCtvPtz"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Black Keys",
-        "genero":"rock",
-        "nombre":"Howlin' for You",
-        "año":2020,
-        "id":"4yffABDkB5A9flvr9vQFck"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Black Keys",
-        "genero":"rock",
-        "nombre":"Tighten Up",
-        "año":2020,
-        "id":"3C542UknrX76XSRXTyQ1Qg"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Black Keys",
-        "genero":"rock",
-        "nombre":"Everlasting Light",
-        "año":2020,
-        "id":"50ruR1ueH4wroJBpJOnjQS"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Foster The People",
-        "genero":"rock",
-        "nombre":"Lamb's Wool",
-        "año":2020,
-        "id":"7egu63DOhNpivWOpGtzqGS"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Starship",
-        "genero":"rock",
-        "nombre":"Jane",
-        "año":2020,
-        "id":"5N41XVCfmPwiBTBiQuuKnG"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"John Lennon",
-        "genero":"rock",
-        "nombre":"Beautiful Boy (Darling Boy) - Ultimate Mix",
-        "año":2020,
-        "id":"5Sonv4VmN362mdHGCY4wyZ"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Khruangbin",
-        "genero":"rock",
-        "nombre":"Texas Sun",
-        "año":2020,
-        "id":"24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Khruangbin",
-        "genero":"rock",
-        "nombre":"So We Won't Forget",
-        "año":2020,
-        "id":"4HpFU6eMThgW6Cael5AwYy"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Khruangbin",
-        "genero":"rock",
-        "nombre":"Midnight",
-        "año":2020,
-        "id":"7pnVHbcqbmP7LA1ey3ydvu"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Khruangbin",
-        "genero":"rock",
-        "nombre":"Time (You and I)",
-        "año":2020,
-        "id":"0S3BtG3i5tkQmehJhIhHF3"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"4 Non Blondes",
-        "genero":"rock",
-        "nombre":"What's Up? - Piano Version",
-        "año":2020,
-        "id":"3jQnnfM88ZB7bSD6XjeET4"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Hoobastank",
-        "genero":"rock",
-        "nombre":"The Reason - Acoustic Version",
-        "año":2020,
-        "id":"3rH8cmK0vjnyw9bZdwGkgT"
-    },
-    {
-        "tipo":"cancion",
+        "tipo":"album",
         "artista":"LiSA",
         "genero":"rock",
-        "nombre":"紅蓮華",
-        "año":2020,
-        "id":"0qMip0B2D4ePEjBJvAtYre"
+        "nombre":"LANDER",
+        "año":2022,
+        "id":"0YOUWQVuRAc2SpGdJJt6xv"
     },
     {
-        "tipo":"cancion",
+        "tipo":"album",
         "artista":"LiSA",
         "genero":"rock",
-        "nombre":"再会 (produced by Ayase)",
-        "año":2020,
-        "id":"52IsIvHidofM9JMjw78Jyz"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Metallica",
-        "genero":"rock",
-        "nombre":"Enter Sandman - Remastered 2021",
-        "año":2021,
-        "id":"3DwQ7AH3xGD9h65ezslm6q"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Metallica",
-        "genero":"rock",
-        "nombre":"Nothing Else Matters - Remastered 2021",
-        "año":2021,
-        "id":"6QAsrXPnMSXIbV0yEJHlEX"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Metallica",
-        "genero":"rock",
-        "nombre":"The Unforgiven - Remastered 2021",
-        "año":2021,
-        "id":"5lqyqPU3JkpCbUbLmTVQPW"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Metallica",
-        "genero":"rock",
-        "nombre":"Sad But True - Remastered 2021",
-        "año":2021,
-        "id":"5ltXoDLlI0rFZAmOXbAp5T"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Phil Collins",
-        "genero":"rock",
-        "nombre":"You'll Be In My Heart - From \"Tarzan\"\/Soundtrack Version",
-        "año":2021,
-        "id":"1fTDYdx5zYfWJSX0JlKO8o"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Elton John",
-        "genero":"rock",
-        "nombre":"Cold Heart - PNAU Remix",
-        "año":2021,
-        "id":"6JIC3hbC28JZKZ8AlAqX8h"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Elton John",
-        "genero":"rock",
-        "nombre":"Hold Me Closer",
-        "año":2021,
-        "id":"5TJEBoTCDbJXiKMdCN9pd3"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Maroon 5",
-        "genero":"rock",
-        "nombre":"Memories",
-        "año":2021,
-        "id":"4cktbXiXOapiLBMprHFErI"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Mikel Erentxun",
-        "genero":"rock",
-        "nombre":"En algún lugar (feat. Santi Balmes & Víctor Cabezuelo)",
-        "año":2021,
-        "id":"4QnamyKKsm5qDfs49tX0pY"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Milky Chance",
-        "genero":"rock",
-        "nombre":"Colorado",
-        "año":2021,
-        "id":"35iR1qzexmbcUSgA01S4gI"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"TOMORROW X TOGETHER",
-        "genero":"rock",
-        "nombre":"0X1=LOVESONG (I Know I Love You) feat. Seori",
-        "año":2021,
-        "id":"1Z8TPHiKeCUyClxV6WTTIf"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Sting",
-        "genero":"rock",
-        "nombre":"What Could Have Been (from the series Arcane League of Legends)",
-        "año":2021,
-        "id":"6YB9jhzVEzw8CKeXD7Vx8j"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"YOASOBI",
-        "genero":"rock",
-        "nombre":"夜に駆ける",
-        "año":2021,
-        "id":"6MCjmGYlw6mQVWRFVgBRvB"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"YOASOBI",
-        "genero":"rock",
-        "nombre":"怪物",
-        "año":2021,
-        "id":"2vjY3jGKElvqXoaGNEuYef"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"YOASOBI",
-        "genero":"rock",
-        "nombre":"群青",
-        "año":2021,
-        "id":"1zd35Y44Blc1CwwVbW3Qnk"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"YOASOBI",
-        "genero":"rock",
-        "nombre":"たぶん",
-        "año":2021,
-        "id":"398dL22bDbKbAmiOnPaq7o"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"YOASOBI",
-        "genero":"rock",
-        "nombre":"あの夢をなぞって",
-        "año":2021,
-        "id":"5ptl2PXkiSth54HCuGO7vN"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Volbeat",
-        "genero":"rock",
-        "nombre":"Shotgun Blues",
-        "año":2021,
-        "id":"2SMNxADB0ffqaIoOwl2x06"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Airbag",
-        "genero":"rock",
-        "nombre":"Pensamientos",
-        "año":2021,
-        "id":"1H7ktqkQx1PIuPfNtqvaBs"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The White Stripes",
-        "genero":"rock",
-        "nombre":"Seven Nation Army - The Glitch Mob Remix",
-        "año":2021,
-        "id":"4IiuExPFijOGZnVxGsKWcc"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Starship",
-        "genero":"rock",
-        "nombre":"Don't Stop Believin'",
-        "año":2021,
-        "id":"7eoZfsPCc96nUdu6T4bNYe"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Zoé",
-        "genero":"rock",
-        "nombre":"Karmadame",
-        "año":2021,
-        "id":"1xO5aVaGg8ksIuH1TL9Ba3"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Train",
-        "genero":"rock",
-        "nombre":"Vacation",
-        "año":2021,
-        "id":"1gV4GZAVR9hcxC29J0lDH5"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"AJR",
-        "genero":"rock",
-        "nombre":"Bang!",
-        "año":2021,
-        "id":"2I2AqFb0f9UNnolWc2MafC"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"AJR",
-        "genero":"rock",
-        "nombre":"World's Smallest Violin",
-        "año":2021,
-        "id":"68EkhVWIeULhHxcbi1QhzK"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"AJR",
-        "genero":"rock",
-        "nombre":"Way Less Sad",
-        "año":2021,
-        "id":"6YIivt0G3ZUuNrM62jp9pL"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Los Auténticos Decadentes",
-        "genero":"rock",
-        "nombre":"Golpes en el Corazón",
-        "año":2021,
-        "id":"7eJwMB9yFdETWrRsC4VNGh"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"4 Non Blondes",
-        "genero":"rock",
-        "nombre":"What's Up? - Single Version",
-        "año":2021,
-        "id":"6ZGd4ygnoSk8VDvLUWiuU9"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"No Te Va Gustar",
-        "genero":"rock",
-        "nombre":"No Te Imaginás",
-        "año":2021,
-        "id":"7x00uv5aDR0MA8eIk7xAuf"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Iggy Pop",
-        "genero":"rock",
-        "nombre":"I WANNA BE YOUR SLAVE (with Iggy Pop)",
-        "año":2021,
-        "id":"1ojRut8t5RYNmLpJkEdJ3V"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Imagine Dragons",
-        "genero":"rock",
-        "nombre":"Bones",
+        "nombre":"LiVE is Smile Always～Eve&Birth～「the Birth」 at 日本武道館",
         "año":2022,
-        "id":"54ipXppHLA8U4yqpOFTUhr"
+        "id":"3LWOLTeq5sovwS8SC9cUNH"
     },
     {
-        "tipo":"cancion",
-        "artista":"Imagine Dragons",
-        "genero":"rock",
-        "nombre":"Enemy (with JID) - from the series Arcane League of Legends",
-        "año":2022,
-        "id":"3CIyK1V4JEJkg02E4EJnDl"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Ghost",
-        "genero":"rock",
-        "nombre":"Call Me Little Sunshine",
-        "año":2022,
-        "id":"4xAmbn7xiy6wGOs4oaxv70"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Ghost",
-        "genero":"rock",
-        "nombre":"Spillways",
-        "año":2022,
-        "id":"0WHtcCpZnoyFlQg3Mf2cdN"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Milky Chance",
-        "genero":"rock",
-        "nombre":"Synchronize",
-        "año":2022,
-        "id":"3GXgrEjBjonrQrPEEi13yU"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"ATEEZ",
-        "genero":"rock",
-        "nombre":"HALAZIA",
-        "año":2022,
-        "id":"5cTnKClHyczcUhFT8MKBZe"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"ATEEZ",
-        "genero":"rock",
-        "nombre":"Guerrilla",
-        "año":2022,
-        "id":"0tYZo2UhV1lrUez5CA0Iyw"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Sting",
-        "genero":"rock",
-        "nombre":"Redlight",
-        "año":2022,
-        "id":"48Jf12YHPBCAfAzi255Rvr"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Black Keys",
-        "genero":"rock",
-        "nombre":"Wild Child",
-        "año":2022,
-        "id":"02bJ6uGeHKfNOhIc9qyA8e"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Portugal. The Man",
-        "genero":"rock",
-        "nombre":"What, Me Worry?",
-        "año":2022,
-        "id":"0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"The Temper Trap",
-        "genero":"rock",
-        "nombre":"Love Lost",
-        "año":2022,
-        "id":"2z9iuAxKv4TTeCrPAxxKg9"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"ONE OK ROCK",
-        "genero":"rock",
-        "nombre":"Renegades",
-        "año":2022,
-        "id":"5o26lUmCY1740Unf5hkTik"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Placebo",
-        "genero":"rock",
-        "nombre":"Beautiful James",
-        "año":2022,
-        "id":"4yjKZ7rNGjYRmIjqXVJqGm"
-    },
-    {
-        "tipo":"cancion",
-        "artista":".Feast",
-        "genero":"rock",
-        "nombre":"Gugatan Rakyat Semesta",
-        "año":2022,
-        "id":"3Li1q9Z1AyDQbpadhERTPU"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"AJR",
-        "genero":"rock",
-        "nombre":"Record Player",
-        "año":2022,
-        "id":"7Gk8IPlFTLUcoIH3mtASI0"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Khruangbin",
-        "genero":"rock",
-        "nombre":"Mariella",
-        "año":2022,
-        "id":"3dvXRk7TZ929m21p49RR5P"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Khruangbin",
-        "genero":"rock",
-        "nombre":"B-Side",
-        "año":2022,
-        "id":"2DccHqTquzubziHAPZRdct"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"RADWIMPS",
-        "genero":"rock",
-        "nombre":"Suzume",
-        "año":2022,
-        "id":"1n1y2kFPISpF9WGD3JaFo5"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"alt-J",
-        "genero":"rock",
-        "nombre":"U&ME",
-        "año":2022,
-        "id":"7Kl5wPMTXal1ZUMqSSKVa0"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"4 Non Blondes",
-        "genero":"rock",
-        "nombre":"What's Up? - Live 1993",
-        "año":2022,
-        "id":"1geDfNd2aONhI6HfLsb9Bk"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Iggy Pop",
-        "genero":"rock",
-        "nombre":"Et Si Tu n'existais Pas",
-        "año":2022,
-        "id":"0hiwKOnFAJoCXYsniNg5MH"
-    },
-    {
-        "tipo":"cancion",
+        "tipo":"album",
         "artista":"LiSA",
         "genero":"rock",
-        "nombre":"炎",
+        "nombre":"LiVE is Smile Always～unlasting shadow～ at Zepp Haneda(TOKYO)",
         "año":2022,
-        "id":"3YXGSpMR27cthwFJfwd5DY"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"LiSA",
-        "genero":"rock",
-        "nombre":"明け星",
-        "año":2022,
-        "id":"4zfiFwHNwOH0iNKTSGp4kx"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"LiSA",
-        "genero":"rock",
-        "nombre":"白銀",
-        "año":2022,
-        "id":"7qWVkBPOykbDGQ2D51tYiq"
-    },
-    {
-        "tipo":"cancion",
-        "artista":"Amistades Peligrosas",
-        "genero":"rock",
-        "nombre":"Me Haces Tanto Bien - Versión 2023",
-        "año":2022,
-        "id":"3kXYIjQ67qz3ZJJuE9v65b"
+        "id":"6jE8BsIS66qmLN7N6CQpoQ"
     }
 ]
