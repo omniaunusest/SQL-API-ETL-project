@@ -1,44 +1,40 @@
 
-
-          =IY;           Hola! 
+          =IY;         Hola! 
          XRVRRi          
-        =Ri :RR          Este repositorio ha sido creado para albergar nuestro estudio sobre las tendencias musicales entre los años 2018 y 2023, como proyecto del módulo 2, perteneciente al Grupo-03, de la Promo 60 de 
-        VR   ;RR         Adalab.
-        RY   tRY         
-        RX  ;RR;         A través de este análisis de los datos extraídos gracias a las APIs de Spotify y LastFM,  hemos querido hacer un recorrido por las canciones, álbumes y artistas más escuchados en 4 géneros,
-        tR=RRR           elegidos por las compañeras del proyecto, en esos 5 años seleccionados. 
-         ;RRRR;           
-         ;RRRi           Nuestra intención con la elección de ese rango de años es investigar cómo eran las tendencias musicales tanto pre como post-pandemia. Y con estos datos, invitar a realizar una pequeña reflexión
-         ;RRRV           acerca de cómo impactan los eventos sociales de carácter mundial en las necesidades e intereses musicales de las personas consumidoras. 
-        ;RRRRR:            
-      :RRRV.RX            
-     VRRR: ;R=                    
-    =RRR+   YRitti;.     
-    VRRR  :YRRRRRRRRt.   
-    .RRRY ;RRYYR;;iRRRR.     Los objetivos de este proyecto académico son:    
-    :RRRi RR; .Rt  .XRRY        
-    :RRR= RV   +R.  .RRR      -Consolidar los conocimientos de _Python_ y _SQL_.
-    :RRRt tR    Rt   IRR.     -Implementar control de versiones en equipo, usando _Git_ y _GitHub_.   
-    RRRR  ;;   +R.  XRY       -Usar _Scrum_ como marco de referencia, aplicando principios ágiles.       
-    ;RRRt     .R+ +RR:        -Mejorar la comunicación y presentación de resultados en equipo.
-      ;RRRX;     YRIRX:   
-        .+RRRRIiitRRY;     
-         :;+ii+;tR:      
-             ;R:                     
-             iR       
-    ;VRRi    Vi       
-    RRRRR.  tR.       
-    YRRR+ ;YV:                  
-    .tRRRRR+          
-      .;;:
+        =Ri :RR        Este repositorio ha sido creado para albergar nuestro estudio sobre las
+        VR   ;RR          tendencias musicales entre los años 2018 y 2022. 
+        RY   tRY          
+        RX  ;RR;      
+        tR=RRR         A través de este análisis de los datos extraídos a través de las APIs de Spotify    
+         ;RRRR;           y last.fm, hemos querido aprovechar para hacer un recorrido por las canciones,
+         ;RRRi            álbumes y artistas más escuchados en 5 géneros (pop, rock, metal, RnB, country) 
+         ;RRRV            elegidos compañeras del proyecto, en esos 5 años seleccionados.
+        ;RRRRR:        
+      :RRRV.RX         Nuestra intención con la elección de ese rango de años es investigar cómo eran las  
+     VRRR: ;R=            tendencias musicales tanto en pre-pandemia como post-pandemia por el COVID-19.
+    =RRR+   YRitti;.      
+    VRRR  :YRRRRRRRRt.     Y con estos datos, invitar a una pequeña reflexión acerca de cómo impactan
+    .RRRY ;RRYYR;;iRRRR.       los eventos de carácter mundial en las necesidades e intereses musicales
+    :RRRi RR; .Rt  .XRRY       de las personas, tomando de muestra los usuarios de tales plataformas.
+    :RRR= RV   +R.  .RRR      
+    :RRRt tR    Rt   IRR.                  
+    RRRR  ;;   +R.  XRY                Los objetivos de este proyecto académico son:  
+    ;RRRt     .R+ +RR:                 
+      ;RRRX;     YRIRX:                -Consolidar los conocimientos de _Python_ y _SQL_.
+        .+RRRRIiitRRY;                 -Implementar control de versiones en equipo, usando _Git_ y _GitHub_.
+         :;+ii+;tR:                    -Usar _SCRUM_ como marco de referencia, aplicando principios ágiles.
+             ;R:                       -Mejorar la comunicación y presentación de resultados en equipo.
+             iR                       
+    ;VRRi    Vi                       
+    RRRRR.  tR.     
+    YRRR+ ;YV:                
+    .tRRRRR+    Este proyecto está desarollado por el Equipo 3, en el marco del módulo 2, como parte del bootcamp
+      .;;:                                    Data Analytics & IA de Adalab
+#
 #
 # Aquí va mi título y una descripción breve
 
-Aquí unas líneas que explique el propósito del proyecto.
-
-*Ejemplo:*
-    
-        Análisis de datos de tendencias musicales tiempos de pre-pandemia, pandemia y pospandemia: extracción, limpieza y creación de BB. DD. en MySQL para jerarquizar los resultados a partir de datos de Spotify y last.fm
+Análisis de datos de tendencias musicales tiempos de pre-pandemia, pandemia y pospandemia: extracción, limpieza y creación de BB. DD. en MySQL para jerarquizar los resultados a partir de datos obtenidos a través de las APIS de Spotify y last.fm
 
 ## Índice
 1. [¿Cómo usar esto?](#1-cómo-usar-esto)
@@ -53,19 +49,53 @@ Aquí unas líneas que explique el propósito del proyecto.
 #
 ## 1. ¿Cómo usar esto?
 
-Versión de Python, librerías necesarias (pandas, spotipy, etc.) y cómo instalarlas (ej: pip install -r requirements.txt).
+Python 3.8 o superior.
+Versión de MySQL-Worbench.
 
-Versión de la base de datos (MySQL)
+.Librerías:
 
-#### Instrucciones para replicar el proyecto:
+pandas
+`pip install pandas`
 
-Cómo ejecutar los scripts y cargar los datos en MySQL.
+spotipy
+`pip install spotipy`
 
-*Ejemplo:*
+python-dotenv
+`pip install python-dotenv`
 
-`bash Copiarpython scripts/clean_data.py`
+### Instrucciones para usar python-dotenv (una librería que permite cargar variables de entorno desde un archivo *.env* a tu código Python)
 
-`python scripts/load_to_sql.py`
+1. Crea un archivo *.env* en la misma carpeta que el *.ipynb* donde vas a usar tus credenciales.
+2. Escribe en él:
+
+    `CLIENT_ID = tu_client_id_de_spotify`
+    `CLIENT_SECRET=tu_client_secret_de_spotify`
+
+3. Crea un archivo *.gitignore* en la misma carpeta.
+4. Escribe dentro *`.env`* (así evitamos que GitHub suba el archivo con nuestras credenciales personales al repositorio, permanecerá en nuestra carpeta en el ordenador).
+5. Guarda los **dos archivos** y ejecuta el *.ipynb* donde lo quieras usar.
+
+A continuación tendrás que importar la nueva librería:
+
+    from dotenv import load_dotenv
+    import os
+
+Ejecutar dotenv:
+
+    load_dotenv()  # carga nuestras claves
+    guardadasclient_id = os.getenv("CLIENT_ID")
+    client_secret = os.getenv("CLIENT_SECRET")
+
+Y ya puedes sustituir tus credenciales por estas nuevas variables.
+
+### Instrucciones para replicar el proyecto:
+
+.Clona este repositorio:
+
+    git clone https://github.com/micaelalafratta/da-promo-60-modulo2-equipo3.git
+
+.Es recomendable tener cuenta de desarrollador en [Spotify](https://developer.spotify.com/) para obtener `CLIENT_ID` y `CLIENT_SECRET` (las credenciales de la API)
+
 
 #
 ## 2. Estructura del repositorio
@@ -114,7 +144,6 @@ Consulta SQL básica para validar la carga.
 ## 7. Autoras y licencia
 
 Nombres de las colaboradoras y tipo de licencia (MIT, GPL, etc.).
-
 
 
 ## 9. Posibles mejoras

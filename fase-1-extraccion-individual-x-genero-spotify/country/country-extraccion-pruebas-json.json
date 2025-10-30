@@ -1,0 +1,6994 @@
+[
+    {
+        "tipo":"album",
+        "artista":"Eric Church",
+        "genero":"country",
+        "nombre":"Desperate Man",
+        "año":2018,
+        "id":"5TjDN2hfsgNWVtP8Ew56Xx"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tyler Childers",
+        "genero":"country",
+        "nombre":"Live on Red Barn Radio I & II",
+        "año":2018,
+        "id":"7lf0m3iNU59X4r8udCQcB6"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jason Aldean",
+        "genero":"country",
+        "nombre":"Rearview Town",
+        "año":2018,
+        "id":"0m3ZCK4dSvyq6KUzEWdMhE"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jordan Davis",
+        "genero":"country",
+        "nombre":"Home State",
+        "año":2018,
+        "id":"3CXa4AY5Rt4kymz1vW90WR"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"My Way",
+        "año":2018,
+        "id":"6x4hSL5zCjExduI7LygbhX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Made in the USA Collection",
+        "año":2018,
+        "id":"4Rk985z2b6kG2SHNriLyu1"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Last Man Standing",
+        "año":2018,
+        "id":"59kwBSCOkQiV6L6tUxkNjU"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kacey Musgraves",
+        "genero":"country",
+        "nombre":"Golden Hour",
+        "año":2018,
+        "id":"7f6xPqyaolTiziKf5R5Z0c"
+    },
+    {
+        "tipo":"album",
+        "artista":"Thomas Rhett",
+        "genero":"country",
+        "nombre":"Life Changes (Deluxe Version)",
+        "año":2018,
+        "id":"4aHakdIA1e8HoRRUsYszDY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Luke Combs",
+        "genero":"country",
+        "nombre":"This One's for You Too (Deluxe Edition)",
+        "año":2018,
+        "id":"53Oa5Bu0UTU8o8qCTaHKoz"
+    },
+    {
+        "tipo":"album",
+        "artista":"Morgan Wallen",
+        "genero":"country",
+        "nombre":"If I Know Me",
+        "año":2018,
+        "id":"6WKNoni6aDzCTUN1CtJJ5R"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dolly Parton",
+        "genero":"country",
+        "nombre":"Dumplin' Original Motion Picture Soundtrack",
+        "año":2018,
+        "id":"50FL6Vavo5CtZ1S9QQSJeO"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"Goodnight Nashville",
+        "año":2018,
+        "id":"4BEol4SQk5NthGSNpaxIal"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"Waylon & Willie III",
+        "año":2018,
+        "id":"138S8GterIlZRtIQCzMeml"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"Waylon & Willie 2",
+        "año":2018,
+        "id":"4o9I622N2dNhGOiaHqjwad"
+    },
+    {
+        "tipo":"album",
+        "artista":"Shaboozey",
+        "genero":"country",
+        "nombre":"Lady Wrangler",
+        "año":2018,
+        "id":"2xUAnts1jM9tnbxi23Jf5O"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dan + Shay",
+        "genero":"country",
+        "nombre":"Dan + Shay",
+        "año":2018,
+        "id":"0g1F5eGVwX4Sxi1n8ojPkE"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Chicks",
+        "genero":"country",
+        "nombre":"DCX MMXVI Live",
+        "año":2018,
+        "id":"0RzDIlNvie24VMspi1EaXF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"Unapologetically (Deluxe Edition)",
+        "año":2018,
+        "id":"7Ht6xQ80vFtSe2n2KjAAsA"
+    },
+    {
+        "tipo":"album",
+        "artista":"Colter Wall",
+        "genero":"country",
+        "nombre":"Songs of the Plains",
+        "año":2018,
+        "id":"6DzYh2Z00xNWG8wtfB6kIY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brett Young",
+        "genero":"country",
+        "nombre":"Ticket To L.A.",
+        "año":2018,
+        "id":"3TJSHb2z7Zo2K8ff8bMSik"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kenny Chesney",
+        "genero":"country",
+        "nombre":"Songs for the Saints",
+        "año":2018,
+        "id":"77spqXa3VNN0mw13PgWWyY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Miranda Lambert",
+        "genero":"country",
+        "nombre":"Interstate Gospel",
+        "año":2018,
+        "id":"0IXxmmlfSQxgJNWnNjHhgJ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Soap&Skin",
+        "genero":"country",
+        "nombre":"From Gas to Solid \/ you are my friend",
+        "año":2018,
+        "id":"0jDK15E80QD5ekIOlqdY7h"
+    },
+    {
+        "tipo":"album",
+        "artista":"Bishop Briggs",
+        "genero":"country",
+        "nombre":"Church Of Scars",
+        "año":2018,
+        "id":"1TTxcgs3zEngN0EB56yXzY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Toby Keith",
+        "genero":"country",
+        "nombre":"Should've Been A Cowboy (25th Anniversary Edition)",
+        "año":2018,
+        "id":"2mnvw4iQGWL0xjdSTn4kVH"
+    },
+    {
+        "tipo":"album",
+        "artista":"Carrie Underwood",
+        "genero":"country",
+        "nombre":"Cry Pretty",
+        "año":2018,
+        "id":"6LURWtPusB5fGenqj0lbFd"
+    },
+    {
+        "tipo":"album",
+        "artista":"Keith Urban",
+        "genero":"country",
+        "nombre":"Graffiti U",
+        "año":2018,
+        "id":"6vdArdBxeqXrgT6OTuYY01"
+    },
+    {
+        "tipo":"album",
+        "artista":"Elle King",
+        "genero":"country",
+        "nombre":"Shake The Spirit",
+        "año":2018,
+        "id":"0YYboPBsKcVDrXiNfNIi7o"
+    },
+    {
+        "tipo":"album",
+        "artista":"LeAnn Rimes",
+        "genero":"country",
+        "nombre":"It's Christmas, Eve (Original Motion Picture Soundtrack)",
+        "año":2018,
+        "id":"3AKlrhnIEBP30JVMGyustQ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jeff Tweedy",
+        "genero":"country",
+        "nombre":"WARM",
+        "año":2018,
+        "id":"6dsqls3emhakKWVRPHzhtI"
+    },
+    {
+        "tipo":"album",
+        "artista":"Josh Turner",
+        "genero":"country",
+        "nombre":"I Serve A Savior",
+        "año":2018,
+        "id":"0qmQNcXPAl8V4wPFWC3QDx"
+    },
+    {
+        "tipo":"album",
+        "artista":"Don Williams",
+        "genero":"country",
+        "nombre":"Don Williams His Great Songs",
+        "año":2018,
+        "id":"63sQYPABh5Z6Bkl5hNVyXR"
+    },
+    {
+        "tipo":"album",
+        "artista":"Don Williams",
+        "genero":"country",
+        "nombre":"The Essential Collection",
+        "año":2018,
+        "id":"47OCc1jklv24r1M03i7XYm"
+    },
+    {
+        "tipo":"album",
+        "artista":"Don Williams",
+        "genero":"country",
+        "nombre":"29 Country Best",
+        "año":2018,
+        "id":"7n8ZUhLGPc1GfrUjYA0pjQ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dierks Bentley",
+        "genero":"country",
+        "nombre":"The Mountain",
+        "año":2018,
+        "id":"45fVgJb5lmzatX9VZ4yzSO"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Jinks",
+        "genero":"country",
+        "nombre":"Lifers",
+        "año":2018,
+        "id":"0Y28vln6HsP0J2lS2MDTdP"
+    },
+    {
+        "tipo":"album",
+        "artista":"Glen Campbell",
+        "genero":"country",
+        "nombre":"Sings For The King",
+        "año":2018,
+        "id":"70GFMxzTjdOzyZKaxRv3ex"
+    },
+    {
+        "tipo":"album",
+        "artista":"Glen Campbell",
+        "genero":"country",
+        "nombre":"Live Anthology",
+        "año":2018,
+        "id":"0E8GZQAximOCOgCgfIM1Lx"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ane Brun",
+        "genero":"country",
+        "nombre":"Leave Me Breathless (Live)",
+        "año":2018,
+        "id":"1TgrdefAzE1Ko7LmcHwTHL"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ane Brun",
+        "genero":"country",
+        "nombre":"Live At Berwaldhallen",
+        "año":2018,
+        "id":"7r1UEAGQOGbbMVE6k350us"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cole Swindell",
+        "genero":"country",
+        "nombre":"All of It",
+        "año":2018,
+        "id":"2SxBuClrOCg8WZPXEDobmm"
+    },
+    {
+        "tipo":"album",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"Telling All My Secrets",
+        "año":2018,
+        "id":"4ZRa15xusMfr3hLWUNGBG0"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ryan Bingham",
+        "genero":"country",
+        "nombre":"Ryan Bingham Live",
+        "año":2018,
+        "id":"29bty57BCHovTMKuNU0Cod"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"River Rat",
+        "año":2018,
+        "id":"233FY0KocFZURYuvjXHa5Z"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Supernatural",
+        "año":2018,
+        "id":"1qRlmVdluS9cfQdWcCsCvX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"The Oven",
+        "año":2018,
+        "id":"5iKJKEcHpSNoOSydROu8rU"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Creeker",
+        "año":2018,
+        "id":"6NNrT0xplohraGBZpk6HER"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Project X, Vol. 1",
+        "año":2018,
+        "id":"7tv7HpimwWgaLp3Q5zRvVw"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"Providence Canyon",
+        "año":2018,
+        "id":"5PRI3Le2iKuhNdJ8yebeVj"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"Lil G.L.'s Blue Bonanza",
+        "año":2018,
+        "id":"4I2PjcEXMey70fuH0J43QX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"Lonesome as a Shadow",
+        "año":2018,
+        "id":"308oGhQCGxttKUQkkkrHiE"
+    },
+    {
+        "tipo":"album",
+        "artista":"Reba McEntire",
+        "genero":"country",
+        "nombre":"My Kind Of Christmas",
+        "año":2018,
+        "id":"0V59zTtkUXNwrrLkzlGXTK"
+    },
+    {
+        "tipo":"album",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Have Mercy",
+        "año":2018,
+        "id":"6kWjgKGWFiLztOzkILPqrc"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tracy Lawrence",
+        "genero":"country",
+        "nombre":"Frozen in Time",
+        "año":2018,
+        "id":"0bpYCKASUHOnzZm1B1VfEe"
+    },
+    {
+        "tipo":"album",
+        "artista":"Josh Meloy",
+        "genero":"country",
+        "nombre":"Washington Street",
+        "año":2018,
+        "id":"3SxJ7P02IiPttjyt2mR0Gr"
+    },
+    {
+        "tipo":"album",
+        "artista":"Scotty McCreery",
+        "genero":"country",
+        "nombre":"Seasons Change",
+        "año":2018,
+        "id":"2DFoTBlnZYCW4FuHAZxJMj"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Bellamy Brothers",
+        "genero":"country",
+        "nombre":"The Bellamy Brothers: Let Your Love Flow (Live)",
+        "año":2018,
+        "id":"2vLjRMAZ0cukxSNWswDKin"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Strait",
+        "genero":"country",
+        "nombre":"Honky Tonk Time Machine",
+        "año":2019,
+        "id":"1IwWcySO6hKQ8dsFVtJfz4"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ethel Cain",
+        "genero":"country",
+        "nombre":"Golden Age",
+        "año":2019,
+        "id":"1wvJf32qDHmwku12nfzVGN"
+    },
+    {
+        "tipo":"album",
+        "artista":"HARDY",
+        "genero":"country",
+        "nombre":"HIXTAPE: Vol. 1",
+        "año":2019,
+        "id":"4sQGLSnIbYXHipTFyxPsMs"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kane Brown",
+        "genero":"country",
+        "nombre":"Experiment Extended",
+        "año":2019,
+        "id":"4yf4bD1iM96hBH6aIc6SaF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Eric Church",
+        "genero":"country",
+        "nombre":"61 Days In Church Volume 5",
+        "año":2019,
+        "id":"6TKll42LRpYtifeJcNmifp"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tyler Childers",
+        "genero":"country",
+        "nombre":"Country Squire",
+        "año":2019,
+        "id":"2T9P5dSm786uuxA5tkI1Xb"
+    },
+    {
+        "tipo":"album",
+        "artista":"Florida Georgia Line",
+        "genero":"country",
+        "nombre":"The Acoustic Sessions",
+        "año":2019,
+        "id":"3GV2TdiVjl8E5XXBEuiiyX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Florida Georgia Line",
+        "genero":"country",
+        "nombre":"Can't Say I Ain't Country",
+        "año":2019,
+        "id":"64nhe9s692yKECAoMcEQ8U"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Johnson",
+        "genero":"country",
+        "nombre":"Ain't Nothin' to It",
+        "año":2019,
+        "id":"62aYom0k3j1RBe4uPC64ob"
+    },
+    {
+        "tipo":"album",
+        "artista":"Nick Cave & The Bad Seeds",
+        "genero":"country",
+        "nombre":"Ghosteen",
+        "año":2019,
+        "id":"5TkXgoeyGznBNOjrw17eA7"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jon Pardi",
+        "genero":"country",
+        "nombre":"Heartache Medication",
+        "año":2019,
+        "id":"2ny0Q7DWoI2GH1TlQTuBdD"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jason Aldean",
+        "genero":"country",
+        "nombre":"9",
+        "año":2019,
+        "id":"2f0DzdU6QbWtZqSlN7s1s5"
+    },
+    {
+        "tipo":"album",
+        "artista":"Blake Shelton",
+        "genero":"country",
+        "nombre":"Fully Loaded: God's Country",
+        "año":2019,
+        "id":"4Kd33JPxTOcjTM29FrKoyT"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zac Brown Band",
+        "genero":"country",
+        "nombre":"The Owl",
+        "año":2019,
+        "id":"4MiBVyve588OD16F3Cis1J"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Ride Me Back Home",
+        "año":2019,
+        "id":"4eIsAOEVirxfsiQpwbhBpP"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Denver",
+        "genero":"country",
+        "nombre":"Lime Creek Christmas",
+        "año":2019,
+        "id":"2KZMTqlM1skos6CeXsMagi"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Denver",
+        "genero":"country",
+        "nombre":"Simply - John Denver",
+        "año":2019,
+        "id":"3nK8ILn8Qd9cQTFj3WIVth"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brooks & Dunn",
+        "genero":"country",
+        "nombre":"Reboot",
+        "año":2019,
+        "id":"0U3nI78LUpAwprraUf7vAS"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kacey Musgraves",
+        "genero":"country",
+        "nombre":"The Kacey Musgraves Christmas Show",
+        "año":2019,
+        "id":"0KY2QQMpqsy1tOyNhr4zxI"
+    },
+    {
+        "tipo":"album",
+        "artista":"Thomas Rhett",
+        "genero":"country",
+        "nombre":"Center Point Road",
+        "año":2019,
+        "id":"5gnWhEFNbtCn0RLG2cp90g"
+    },
+    {
+        "tipo":"album",
+        "artista":"Riley Green",
+        "genero":"country",
+        "nombre":"Different 'Round Here (Big Machine Radio Release Special)",
+        "año":2019,
+        "id":"4dQIUjDgwA5F8qtS5wpR29"
+    },
+    {
+        "tipo":"album",
+        "artista":"Riley Green",
+        "genero":"country",
+        "nombre":"Different 'Round Here",
+        "año":2019,
+        "id":"0wEnZguPw6l4Rcdgzcm5qv"
+    },
+    {
+        "tipo":"album",
+        "artista":"Luke Combs",
+        "genero":"country",
+        "nombre":"What You See Is What You Get",
+        "año":2019,
+        "id":"0S9D5NIDp2YXhYwlvuJzqx"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kenny Rogers",
+        "genero":"country",
+        "nombre":"The Love Of God (Deluxe Edition)",
+        "año":2019,
+        "id":"7MOaU1lmI1F2WbNP1UTTkS"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"The Gift: The Journey of Johnny Cash: Original Score Music From A Film by Thom Zimny",
+        "año":2019,
+        "id":"3XbChOKBtsjQUHtrsYdYs0"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"The Johnny Cash Story",
+        "año":2019,
+        "id":"1EVFolgmcNPKMONxmH3m0j"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"DeAnn",
+        "año":2019,
+        "id":"0npZ1Ryg8HaFGeb2HKYQIz"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"Crosses and Crossroads",
+        "año":2019,
+        "id":"5n9eRSSDsuEa7MR99P4MwX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"Whiskey Sessions II",
+        "año":2019,
+        "id":"3NBc6ecSbBtLB3Z3qBQ0TN"
+    },
+    {
+        "tipo":"album",
+        "artista":"Hozier",
+        "genero":"country",
+        "nombre":"Wasteland, Baby! (Special Edition)",
+        "año":2019,
+        "id":"7hf5xjz74wwX1wS76DU2Ik"
+    },
+    {
+        "tipo":"album",
+        "artista":"Hozier",
+        "genero":"country",
+        "nombre":"Wasteland, Baby!",
+        "año":2019,
+        "id":"5j1ZsFyNCsnt62prbs85eE"
+    },
+    {
+        "tipo":"album",
+        "artista":"Barns Courtney",
+        "genero":"country",
+        "nombre":"404",
+        "año":2019,
+        "id":"4XOMJHVuzJVWmqUdp4SYKP"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kris Kristofferson",
+        "genero":"country",
+        "nombre":"The Bottom Line Archive: In Their Own Words With Vin Scelsa (Live)",
+        "año":2019,
+        "id":"7fyFvSYbzn43diLL42uzJe"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dylan Scott",
+        "genero":"country",
+        "nombre":"Merry Christmas",
+        "año":2019,
+        "id":"1KEjtvYamAHainJr186Hhz"
+    },
+    {
+        "tipo":"album",
+        "artista":"Wilco",
+        "genero":"country",
+        "nombre":"Ode to Joy",
+        "año":2019,
+        "id":"023pQhsaEoks0T6AfL5cry"
+    },
+    {
+        "tipo":"album",
+        "artista":"Koe Wetzel",
+        "genero":"country",
+        "nombre":"Harold Saul High",
+        "año":2019,
+        "id":"1tkILSHrftqtIaop0bcCqg"
+    },
+    {
+        "tipo":"album",
+        "artista":"Miranda Lambert",
+        "genero":"country",
+        "nombre":"Wildcard",
+        "año":2019,
+        "id":"5Or2XM0Gjy6Y8qlaERqsSn"
+    },
+    {
+        "tipo":"album",
+        "artista":"Billy Ray Cyrus",
+        "genero":"country",
+        "nombre":"The SnakeDoctor Circus",
+        "año":2019,
+        "id":"2RxnVDoAfCVxYFsTOQWNcB"
+    },
+    {
+        "tipo":"album",
+        "artista":"Maren Morris",
+        "genero":"country",
+        "nombre":"GIRL",
+        "año":2019,
+        "id":"3XpxioqzCTiqOSuHTXuaGf"
+    },
+    {
+        "tipo":"album",
+        "artista":"Bishop Briggs",
+        "genero":"country",
+        "nombre":"CHAMPION",
+        "año":2019,
+        "id":"10XDik8bnbbPTfpO05tjwx"
+    },
+    {
+        "tipo":"album",
+        "artista":"Old Dominion",
+        "genero":"country",
+        "nombre":"Old Dominion",
+        "año":2019,
+        "id":"0eu2mZjF6JQTuLCu9ils6m"
+    },
+    {
+        "tipo":"album",
+        "artista":"Whiskey Myers",
+        "genero":"country",
+        "nombre":"Whiskey Myers",
+        "año":2019,
+        "id":"7uh1mlmiWi3TbIVRVFQvnF"
+    },
+    {
+        "tipo":"album",
+        "artista":"ERNEST",
+        "genero":"country",
+        "nombre":"Locals Only",
+        "año":2019,
+        "id":"7sWeI7uM3iREIhBqwxWrsZ"
+    },
+    {
+        "tipo":"album",
+        "artista":"LeAnn Rimes",
+        "genero":"country",
+        "nombre":"Rimes (Live at Gruene Hall)",
+        "año":2019,
+        "id":"7pDJliLnXe9yBdjh5Tq8Y0"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lady A",
+        "genero":"country",
+        "nombre":"Ocean (Big Machine Radio Release Special)",
+        "año":2019,
+        "id":"1kGXqdeoCyZgK2hyfs8bnj"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lady A",
+        "genero":"country",
+        "nombre":"Ocean",
+        "año":2019,
+        "id":"2Ni5tXmyXPTG4jeQxvSqjv"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jeff Tweedy",
+        "genero":"country",
+        "nombre":"WARMER",
+        "año":2019,
+        "id":"6wIkxlcWROUTKlwU6vrJL9"
+    },
+    {
+        "tipo":"album",
+        "artista":"Vince Gill",
+        "genero":"country",
+        "nombre":"Okie",
+        "año":2019,
+        "id":"74K88Q3Yroy6hTgpj1tXsw"
+    },
+    {
+        "tipo":"album",
+        "artista":"Yelawolf",
+        "genero":"country",
+        "nombre":"Ghetto Cowboy",
+        "año":2019,
+        "id":"2dTnaecImWLJOMrJgF5HAt"
+    },
+    {
+        "tipo":"album",
+        "artista":"Yelawolf",
+        "genero":"country",
+        "nombre":"Trunk Muzik 3",
+        "año":2019,
+        "id":"6JLpYHnehuGyPxEz79kcaF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Sturgill Simpson",
+        "genero":"country",
+        "nombre":"SOUND & FURY",
+        "año":2019,
+        "id":"2ITJBRqMwZ0luWBnnZQ4Hq"
+    },
+    {
+        "tipo":"album",
+        "artista":"Billy Strings",
+        "genero":"country",
+        "nombre":"Home",
+        "año":2019,
+        "id":"6Wpawdx7fSuBAKY0t793fx"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zach Williams",
+        "genero":"country",
+        "nombre":"Rescue Story",
+        "año":2019,
+        "id":"4TlLYmspdNdUAIitDn3WEk"
+    },
+    {
+        "tipo":"album",
+        "artista":"Marty Robbins",
+        "genero":"country",
+        "nombre":"El Paso in Concert",
+        "año":2019,
+        "id":"2KYDTCSzhVuOMvp369hYI1"
+    },
+    {
+        "tipo":"album",
+        "artista":"Marty Robbins",
+        "genero":"country",
+        "nombre":"Lovesick Blues (Remastered)",
+        "año":2019,
+        "id":"4KcpvOMtTmahueiLvdddcq"
+    },
+    {
+        "tipo":"album",
+        "artista":"Marty Robbins",
+        "genero":"country",
+        "nombre":"El Paso (Remastered)",
+        "año":2019,
+        "id":"4QRKcH16J2HOUGpZHMjEz7"
+    },
+    {
+        "tipo":"album",
+        "artista":"Marty Robbins",
+        "genero":"country",
+        "nombre":"Bounquet of Roses (Remastered)",
+        "año":2019,
+        "id":"1Vv3THdw8NEfoMoVEjKoXr"
+    },
+    {
+        "tipo":"album",
+        "artista":"Don Williams",
+        "genero":"country",
+        "nombre":"Where Do I Go from Here",
+        "año":2019,
+        "id":"3fjmJK4OqxWBHUMb2nYf6d"
+    },
+    {
+        "tipo":"album",
+        "artista":"Don Williams",
+        "genero":"country",
+        "nombre":"Heroes of the Big Country - Don Williams",
+        "año":2019,
+        "id":"5xr9X14sVcjFRoVwIwznsG"
+    },
+    {
+        "tipo":"album",
+        "artista":"Don Williams",
+        "genero":"country",
+        "nombre":"Spend Some Time with Me",
+        "año":2019,
+        "id":"6ncf5JvRzPbO7jxscFk6BX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Flatland Cavalry",
+        "genero":"country",
+        "nombre":"Homeland Insecurity",
+        "año":2019,
+        "id":"46iIgbFvYElruf1xWRri1h"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Jinks",
+        "genero":"country",
+        "nombre":"The Wanting",
+        "año":2019,
+        "id":"7z61BPFroHPWdYXOcVdwag"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Jinks",
+        "genero":"country",
+        "nombre":"After the Fire",
+        "año":2019,
+        "id":"6fdC5dNZIRssH16hpkZF5a"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Marshall Tucker Band",
+        "genero":"country",
+        "nombre":"New Year's in New Orleans! Roll up '78 and Light up '79!",
+        "año":2019,
+        "id":"1sPuuYm3RiRHjDn3CknzhN"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Highwaymen",
+        "genero":"country",
+        "nombre":"Lonely Are The Brave (Live 1992)",
+        "año":2019,
+        "id":"1bnbkBzq0QlKZTFIA15ZsO"
+    },
+    {
+        "tipo":"album",
+        "artista":"Glen Campbell",
+        "genero":"country",
+        "nombre":"The Legacy (1961-2017)",
+        "año":2019,
+        "id":"32Lf9kBHBFcTxhft0Y5Tid"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brantley Gilbert",
+        "genero":"country",
+        "nombre":"Fire & Brimstone",
+        "año":2019,
+        "id":"54NjC2mCWlhIE3Ji4G9Vl0"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Dead South",
+        "genero":"country",
+        "nombre":"Sugar & Joy",
+        "año":2019,
+        "id":"1WfWOhA1BNiEqrg7OwsOF2"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Fogerty",
+        "genero":"country",
+        "nombre":"50 Year Trip: Live at Red Rocks",
+        "año":2019,
+        "id":"1PebwIM1j8wJHfN8JjuOln"
+    },
+    {
+        "tipo":"album",
+        "artista":"Linda Ronstadt",
+        "genero":"country",
+        "nombre":"Live in Hollywood (Deluxe Edition)",
+        "año":2019,
+        "id":"39PKVgUiha3jSkFTxZVOmK"
+    },
+    {
+        "tipo":"album",
+        "artista":"Linda Ronstadt",
+        "genero":"country",
+        "nombre":"Live in Hollywood",
+        "año":2019,
+        "id":"2BbcfLv9Sa82xqHdB1Nf15"
+    },
+    {
+        "tipo":"album",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"Let It Roll (Big Machine Radio Release Special)",
+        "año":2019,
+        "id":"43QxCHfUshTbuJUByhFxC3"
+    },
+    {
+        "tipo":"album",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"Let It Roll",
+        "año":2019,
+        "id":"558uSttH0s3zk6tRa0T7tF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Travis Tritt",
+        "genero":"country",
+        "nombre":"Homegrown",
+        "año":2019,
+        "id":"33wuqormTepECEQLjwHuMY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Travis Tritt",
+        "genero":"country",
+        "nombre":"Live on Soundstage (Classic Series)",
+        "año":2019,
+        "id":"333QSnzTnISHhl52kHlZYm"
+    },
+    {
+        "tipo":"album",
+        "artista":"Bryan Martin",
+        "genero":"country",
+        "nombre":"If It Was Easy",
+        "año":2019,
+        "id":"5X20tAHJfLP9xJu0TD7VLq"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ryan Bingham",
+        "genero":"country",
+        "nombre":"American Love Song",
+        "año":2019,
+        "id":"6MiafQveSkts5v397zarWq"
+    },
+    {
+        "tipo":"album",
+        "artista":"Merle Haggard",
+        "genero":"country",
+        "nombre":"Last Train to Nashville (Live 1981)",
+        "año":2019,
+        "id":"00TduFxDBPEhdgEq6KLDtY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Merle Haggard",
+        "genero":"country",
+        "nombre":"When Times Were Good",
+        "año":2019,
+        "id":"6HqGJkwzb44R93uYERsAFD"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"She Thinks I Still Care",
+        "año":2019,
+        "id":"3Jnoeov9OvsQHHRkNypYnF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Hooligan",
+        "año":2019,
+        "id":"3OxuPlrexRMapxoCFMvVjw"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Parachute",
+        "año":2019,
+        "id":"0x1pqWmdjByJt0lVEUr99c"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Creeker 2",
+        "año":2019,
+        "id":"0J44j4QlNYWmnOAfetHSyc"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"The Valley",
+        "año":2019,
+        "id":"6dTJpHAJfG3B9jmE7rsolg"
+    },
+    {
+        "tipo":"album",
+        "artista":"Reba McEntire",
+        "genero":"country",
+        "nombre":"Stronger Than The Truth",
+        "año":2019,
+        "id":"0t8w6fzU9MeMEiLTeiUmVb"
+    },
+    {
+        "tipo":"album",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Room 41",
+        "año":2019,
+        "id":"2nJf3V7nGHcoVJTKb8A7se"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tracy Lawrence",
+        "genero":"country",
+        "nombre":"Made In America",
+        "año":2019,
+        "id":"6C6C6SNLW94EoxnPStqvSV"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tracy Lawrence",
+        "genero":"country",
+        "nombre":"Texas Tornado",
+        "año":2019,
+        "id":"3LxZUMdl1nPvSlTU5GlSRv"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charles Wesley Godwin",
+        "genero":"country",
+        "nombre":"Seneca",
+        "año":2019,
+        "id":"4jvlMjz329DXzWF9XtELvu"
+    },
+    {
+        "tipo":"album",
+        "artista":"Watchhouse",
+        "genero":"country",
+        "nombre":"Tides of a Teardrop",
+        "año":2019,
+        "id":"2SWy4Nbpw77DzLkwXba7Hk"
+    },
+    {
+        "tipo":"album",
+        "artista":"Justin Moore",
+        "genero":"country",
+        "nombre":"Late Nights And Longnecks (Big Machine Radio Release Special)",
+        "año":2019,
+        "id":"7zWRRC8wHbEVsFYEfQVqR8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Justin Moore",
+        "genero":"country",
+        "nombre":"Late Nights And Longnecks",
+        "año":2019,
+        "id":"6k7PNoooJpFHVVd2ZE9t2K"
+    },
+    {
+        "tipo":"album",
+        "artista":"Patsy Cline",
+        "genero":"country",
+        "nombre":"She's Got You (Remastered)",
+        "año":2019,
+        "id":"0tFS3o4dtSFcZThhLPvqH7"
+    },
+    {
+        "tipo":"album",
+        "artista":"Patsy Cline",
+        "genero":"country",
+        "nombre":"I Fall to Pieces (Remastered)",
+        "año":2019,
+        "id":"0LLWFkUp3YTISxbiTLLnqk"
+    },
+    {
+        "tipo":"album",
+        "artista":"Patsy Cline",
+        "genero":"country",
+        "nombre":"Crazy (Remastered)",
+        "año":2019,
+        "id":"03XVUS7aCCYb9hh7fqlgXn"
+    },
+    {
+        "tipo":"album",
+        "artista":"Steve Earle",
+        "genero":"country",
+        "nombre":"GUY",
+        "año":2019,
+        "id":"6uIsL1dOrLolqxh3PgvfeZ"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Bellamy Brothers",
+        "genero":"country",
+        "nombre":"Over the Moon",
+        "año":2019,
+        "id":"4En1TpXgcBQ624hz7HCoSs"
+    },
+    {
+        "tipo":"album",
+        "artista":"Joy Williams",
+        "genero":"country",
+        "nombre":"Front Porch",
+        "año":2019,
+        "id":"0vK1POb7cjZdlZkShnqEDu"
+    },
+    {
+        "tipo":"album",
+        "artista":"HARDY",
+        "genero":"country",
+        "nombre":"A ROCK",
+        "año":2020,
+        "id":"6UlHZq45Z2Wlea0A0wcg8y"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tyler Childers",
+        "genero":"country",
+        "nombre":"Long Violent History",
+        "año":2020,
+        "id":"6mnyZZR498NtFOkjGfGl8s"
+    },
+    {
+        "tipo":"album",
+        "artista":"Nick Cave & The Bad Seeds",
+        "genero":"country",
+        "nombre":"Idiot Prayer (Nick Cave Alone at Alexandra Palace)",
+        "año":2020,
+        "id":"2q5FE0HvayCsZ0iz2CBjIp"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jon Pardi",
+        "genero":"country",
+        "nombre":"Heartache Medication (Deluxe Version)",
+        "año":2020,
+        "id":"79374TlgGM42y0R0z5LDxv"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jon Pardi",
+        "genero":"country",
+        "nombre":"Rancho Fiesta Sessions",
+        "año":2020,
+        "id":"01AWRFHGz9ioWiPcFgqGrv"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Red Headed Stranger (Live From Austin City Limits, 1976)",
+        "año":2020,
+        "id":"4xlj8NdKchoQ277fBbiZCm"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"First Rose of Spring",
+        "año":2020,
+        "id":"5WVhM9o7WmTU8n4JgGYHdC"
+    },
+    {
+        "tipo":"album",
+        "artista":"Riley Green",
+        "genero":"country",
+        "nombre":"If It Wasn't For Trucks (Big Machine Radio Release Special)",
+        "año":2020,
+        "id":"25BFs1sFMT7yn0MUTTdphp"
+    },
+    {
+        "tipo":"album",
+        "artista":"Luke Combs",
+        "genero":"country",
+        "nombre":"What You See Ain't Always What You Get (Deluxe Edition)",
+        "año":2020,
+        "id":"25TJxI6ZH6XjT8geRQAFz5"
+    },
+    {
+        "tipo":"album",
+        "artista":"Luke Bryan",
+        "genero":"country",
+        "nombre":"Born Here Live Here Die Here",
+        "año":2020,
+        "id":"0wnaUYW25dVLAzk41fp1Ez"
+    },
+    {
+        "tipo":"album",
+        "artista":"Shania Twain",
+        "genero":"country",
+        "nombre":"The Woman In Me (Super Deluxe Diamond Edition)",
+        "año":2020,
+        "id":"1wA2xlIBYafcDO9xV13O35"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dolly Parton",
+        "genero":"country",
+        "nombre":"A Holly Dolly Christmas (Ultimate Deluxe Edition)",
+        "año":2020,
+        "id":"0UKCFUDo5hCdAB4b6tPqQe"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"Johnny Cash and The Royal Philharmonic Orchestra",
+        "año":2020,
+        "id":"5dkglmRYnnvIxZSR5hJcNT"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"A Golden Hour Of Johnny Cash",
+        "año":2020,
+        "id":"0dTrQGVqVQrQ1XYpXDsqBl"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"Elisabeth",
+        "año":2020,
+        "id":"3TkSm0esbUBPygKvMrwWQn"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chris Stapleton",
+        "genero":"country",
+        "nombre":"Starting Over",
+        "año":2020,
+        "id":"0sOeI7pbAmIc8aDFyvkBUW"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"Waylon & Willie IV",
+        "año":2020,
+        "id":"4RjBKqrFun5Q72gIsSkN7R"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"Self Medicated",
+        "año":2020,
+        "id":"5LtYMFZoC0elRSipbMV5sw"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"A Beautiful Disaster",
+        "año":2020,
+        "id":"5NaOVfywXItXB2KMRj8aMZ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Emmylou Harris",
+        "genero":"country",
+        "nombre":"Always On The Sunny Side (Live, Santa Cruz '79)",
+        "año":2020,
+        "id":"5LpzyHPh7lEPpXMVmaUWLW"
+    },
+    {
+        "tipo":"album",
+        "artista":"Emmylou Harris",
+        "genero":"country",
+        "nombre":"Out of Nashville",
+        "año":2020,
+        "id":"1h7b9J24ZAwwrbemMbcEJm"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Chicks",
+        "genero":"country",
+        "nombre":"Gaslighter",
+        "año":2020,
+        "id":"1YV5Rh6n8dLOycCqWcUSq4"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kris Kristofferson",
+        "genero":"country",
+        "nombre":"Boboquivari '71 [KCET Broadcast (Live & Remastered)]",
+        "año":2020,
+        "id":"7vhZ3JFe4Yc7tRl06Xq1zb"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jimmy Buffett",
+        "genero":"country",
+        "nombre":"Songs You Don't Know By Heart",
+        "año":2020,
+        "id":"3UdbDZgh2gOj7BCZiOrbeE"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jimmy Buffett",
+        "genero":"country",
+        "nombre":"Life On the Flip Side",
+        "año":2020,
+        "id":"0ne63EVUZXiNCCPsi9n9Sc"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"ballerini",
+        "año":2020,
+        "id":"6VHAJu9jfrIAubwug9riDk"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"kelsea",
+        "año":2020,
+        "id":"11sr6VmBTa9Tkzwte11LDZ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Colter Wall",
+        "genero":"country",
+        "nombre":"Western Swing & Waltzes and Other Punchy Songs",
+        "año":2020,
+        "id":"2YpWqM7XcDt45IQWYL6Y0t"
+    },
+    {
+        "tipo":"album",
+        "artista":"Russell Dickerson",
+        "genero":"country",
+        "nombre":"Southern Symphony",
+        "año":2020,
+        "id":"1bOe91hwJ86djRfpQdknmb"
+    },
+    {
+        "tipo":"album",
+        "artista":"Randy Travis",
+        "genero":"country",
+        "nombre":"Heart of Hearts: The Complete Albums 1990-1996",
+        "año":2020,
+        "id":"6u2EvuhFwHMGHdZOVS5dp3"
+    },
+    {
+        "tipo":"album",
+        "artista":"Randy Travis",
+        "genero":"country",
+        "nombre":"Deeper Than the Holler: The Complete Albums 1986-1989",
+        "año":2020,
+        "id":"2Rxj2uRyYZuz7RTdrYfN0f"
+    },
+    {
+        "tipo":"album",
+        "artista":"Randy Travis",
+        "genero":"country",
+        "nombre":"Precious Memories (Worship & Faith)",
+        "año":2020,
+        "id":"1JYA0LdRvrBFktI2Fiy00o"
+    },
+    {
+        "tipo":"album",
+        "artista":"Wilco",
+        "genero":"country",
+        "nombre":"summerteeth (Deluxe Edition)",
+        "año":2020,
+        "id":"04SEJKcDKWsr5KA4lxMKAv"
+    },
+    {
+        "tipo":"album",
+        "artista":"Koe Wetzel",
+        "genero":"country",
+        "nombre":"Sellout",
+        "año":2020,
+        "id":"5lbVCoz3kk3ITB6BRBfBMy"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kenny Chesney",
+        "genero":"country",
+        "nombre":"Here And Now (Deluxe)",
+        "año":2020,
+        "id":"1KElY4EWWoOIQeYfpUbJrM"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kenny Chesney",
+        "genero":"country",
+        "nombre":"Here And Now",
+        "año":2020,
+        "id":"0t7ccDIa3CbqzFrL9rOpaw"
+    },
+    {
+        "tipo":"album",
+        "artista":"Rascal Flatts",
+        "genero":"country",
+        "nombre":"Twenty Years Of Rascal Flatts - The Greatest Hits (Big Machine Radio Release Special)",
+        "año":2020,
+        "id":"0qiEFHxD21aAxZ6NofQLJX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Rascal Flatts",
+        "genero":"country",
+        "nombre":"Twenty Years Of Rascal Flatts - The Greatest Hits",
+        "año":2020,
+        "id":"7iJH0tFXr2zjAAqqYKG2Ms"
+    },
+    {
+        "tipo":"album",
+        "artista":"Rascal Flatts",
+        "genero":"country",
+        "nombre":"How They Remember You (Big Machine Radio Release Special)",
+        "año":2020,
+        "id":"6wN2iLP9UMQwdQxLSkp1rX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Rascal Flatts",
+        "genero":"country",
+        "nombre":"How They Remember You",
+        "año":2020,
+        "id":"1XwToQelPUXtUKSYUApT9G"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tim McGraw",
+        "genero":"country",
+        "nombre":"McGraw Machine Hits: 2013-2019 (Big Machine Radio Release Special)",
+        "año":2020,
+        "id":"39xDxmvMjrPLPakxZm0osw"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tim McGraw",
+        "genero":"country",
+        "nombre":"Here On Earth",
+        "año":2020,
+        "id":"1txWLNMKiZ5K6ezFMtyjLM"
+    },
+    {
+        "tipo":"album",
+        "artista":"Old Dominion",
+        "genero":"country",
+        "nombre":"One Man Band - Medley",
+        "año":2020,
+        "id":"0gQx1jvK5DlZ5w78vfeQWC"
+    },
+    {
+        "tipo":"album",
+        "artista":"Carrie Underwood",
+        "genero":"country",
+        "nombre":"My Gift",
+        "año":2020,
+        "id":"1wI9NGtQCnhyweuVACpXW4"
+    },
+    {
+        "tipo":"album",
+        "artista":"Keith Urban",
+        "genero":"country",
+        "nombre":"THE SPEED OF NOW Part 1",
+        "año":2020,
+        "id":"4F3rUFQcKJm6b1BsJRwAbf"
+    },
+    {
+        "tipo":"album",
+        "artista":"LeAnn Rimes",
+        "genero":"country",
+        "nombre":"CHANT: The Human & The Holy",
+        "año":2020,
+        "id":"1Am7TK3scBmJC5e5O7Tlel"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lady A",
+        "genero":"country",
+        "nombre":"Ocean (Deluxe Edition)",
+        "año":2020,
+        "id":"6AkxOYoywRR9OJx1gWGxwf"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lady A",
+        "genero":"country",
+        "nombre":"On This Winter's Night (Deluxe)",
+        "año":2020,
+        "id":"6ww6efJkv3ytQfbEyMosPu"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jeff Tweedy",
+        "genero":"country",
+        "nombre":"Love Is The King",
+        "año":2020,
+        "id":"4luinFPZgIsSXjsKqb42LI"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jeff Tweedy",
+        "genero":"country",
+        "nombre":"Showbiz Kids (Soundtrack to the HBO Documentary Film)",
+        "año":2020,
+        "id":"1XxXW0gpZkFw9krv7DAILO"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jeff Tweedy",
+        "genero":"country",
+        "nombre":"Chicago 2017",
+        "año":2020,
+        "id":"0x5Bsyh5DbFSChrkSIE0sn"
+    },
+    {
+        "tipo":"album",
+        "artista":"Josh Turner",
+        "genero":"country",
+        "nombre":"Country State Of Mind",
+        "año":2020,
+        "id":"7aM9Q3hl6uxC4xGuDdVyBY"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Crane Wives",
+        "genero":"country",
+        "nombre":"Here I Am: Live from the Listening Room",
+        "año":2020,
+        "id":"2Hmj5cbWG69USjmvitUmBF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Sturgill Simpson",
+        "genero":"country",
+        "nombre":"Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "año":2020,
+        "id":"3N51Ixwph25awFqhoACG0U"
+    },
+    {
+        "tipo":"album",
+        "artista":"Sturgill Simpson",
+        "genero":"country",
+        "nombre":"Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
+        "año":2020,
+        "id":"1S6sk9yusYQoadSAbx3ZB8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Jinks",
+        "genero":"country",
+        "nombre":"Red Rocks Live",
+        "año":2020,
+        "id":"1ammT3CoDJ3BBp4V4vd5lh"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Marshall Tucker Band",
+        "genero":"country",
+        "nombre":"New Year's Eve In California, 1973 (KSAN Broadcast)",
+        "año":2020,
+        "id":"59OQOxNN92jwtgHFLgF3xI"
+    },
+    {
+        "tipo":"album",
+        "artista":"Glen Campbell",
+        "genero":"country",
+        "nombre":"In The Beginning",
+        "año":2020,
+        "id":"1sPADYPPkvHOM2AL0c0i1e"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brantley Gilbert",
+        "genero":"country",
+        "nombre":"Fire & Brimstone (Deluxe Edition)",
+        "año":2020,
+        "id":"0kKGVv7XAWy9YH5KJRFn8G"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brantley Gilbert",
+        "genero":"country",
+        "nombre":"Fire & Brimstone (Deluxe Edition \/ Big Machine Radio Release Special)",
+        "año":2020,
+        "id":"4tzPbPVyS5UO6nFJK2gYOL"
+    },
+    {
+        "tipo":"album",
+        "artista":"The White Buffalo",
+        "genero":"country",
+        "nombre":"On The Widow's Walk (Deluxe)",
+        "año":2020,
+        "id":"4jP977hwv6FgmgZJb6e6xN"
+    },
+    {
+        "tipo":"album",
+        "artista":"The White Buffalo",
+        "genero":"country",
+        "nombre":"On The Widow's Walk",
+        "año":2020,
+        "id":"7fg2q8C1btKOKtbUb8IHfj"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ane Brun",
+        "genero":"country",
+        "nombre":"How Beauty Holds The Hand Of Sorrow",
+        "año":2020,
+        "id":"6mwNo8VXEexlUCGN88j3xX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ane Brun",
+        "genero":"country",
+        "nombre":"After The Great Storm",
+        "año":2020,
+        "id":"4WPlykK9LywNb2wRJQzJYE"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dustin Lynch",
+        "genero":"country",
+        "nombre":"Tullahoma",
+        "año":2020,
+        "id":"2jGU6wUOYlyscEVAh6dtg5"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Fogerty",
+        "genero":"country",
+        "nombre":"Chasing Down A Hoodoo (Oakland, California Live '89)",
+        "año":2020,
+        "id":"1i7xeULSfWHml2014ddYV5"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Fogerty",
+        "genero":"country",
+        "nombre":"Fogerty's Factory (Expanded)",
+        "año":2020,
+        "id":"2XEZpzmR4rejt49yidHZVn"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Fogerty",
+        "genero":"country",
+        "nombre":"Fogerty's Factory",
+        "año":2020,
+        "id":"794N3a6M74JFoIr6ubamIA"
+    },
+    {
+        "tipo":"album",
+        "artista":"Linda Ronstadt",
+        "genero":"country",
+        "nombre":"Beneath The Halo Moon (Berkeley California '74 KMET Broadcast Remastered)",
+        "año":2020,
+        "id":"79RZtCb0QLXiWE5x0An3aU"
+    },
+    {
+        "tipo":"album",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"Live From The Palomino (Full Length)",
+        "año":2020,
+        "id":"6VGsbgkfyJunkERCXbRAuS"
+    },
+    {
+        "tipo":"album",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"Live From The Palomino",
+        "año":2020,
+        "id":"5Ck7OfACj7bJ99vRf2oY3T"
+    },
+    {
+        "tipo":"album",
+        "artista":"Sam Hunt",
+        "genero":"country",
+        "nombre":"SOUTHSIDE",
+        "año":2020,
+        "id":"1xRcR4iSouBrfVhuqFkPAJ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lee Brice",
+        "genero":"country",
+        "nombre":"Hey World",
+        "año":2020,
+        "id":"7zhKZcqIJkkeqrswshd15r"
+    },
+    {
+        "tipo":"album",
+        "artista":"Wednesday",
+        "genero":"country",
+        "nombre":"I Was Trying to Describe You to Someone",
+        "año":2020,
+        "id":"07dXaYcSea0bdLcwmpeZJw"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Grand Ole Opry's New Star",
+        "año":2020,
+        "id":"3q1pNuqByDW7pOk6uIKOod"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"The Complete George Jones, Vol. 3",
+        "año":2020,
+        "id":"27EW8EcWQc0I1kVlGaymvI"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"The Complete George Jones, Vol. 2",
+        "año":2020,
+        "id":"6zImy6PvT8jv2Cj4eNiOdQ"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"The Complete George Jones, Vol. 1",
+        "año":2020,
+        "id":"4yrR8kKdmAkkjMIotPzjdI"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"White Lightning",
+        "año":2020,
+        "id":"6xkwkPKsulTK6TuNh2BudI"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Let's Spend an Evening with George Jones",
+        "año":2020,
+        "id":"1UWlK9pXjuV9kYRCAgAszx"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Anthology: The Deluxe Collection (Remastered)",
+        "año":2020,
+        "id":"1SQfqgTkzn102uxIKCbN12"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Numero Uno Country",
+        "año":2020,
+        "id":"7EqQwl5PWdt1BGvx66czd1"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"The Various Singles of George Jones",
+        "año":2020,
+        "id":"1ZQxkh7IknNe7yxmXaWZDg"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"The Fabulous Country Music Sound of George Jones",
+        "año":2020,
+        "id":"0AB94LvJBzidp66I6mB6Bq"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"George Jones Sings Bob Willis",
+        "año":2020,
+        "id":"2WhXmvUyQ7mRvkhWMBfIdM"
+    },
+    {
+        "tipo":"album",
+        "artista":"Conway Twitty",
+        "genero":"country",
+        "nombre":"A Moment in Time: An Evening with Conway Twitty & Orchestra (Live)",
+        "año":2020,
+        "id":"3Qvj56N8wHxb5sDwgBldlA"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Everlasting Country",
+        "año":2020,
+        "id":"7mFiNeWbo3Cz01uHw2hfaZ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Corey Kent",
+        "genero":"country",
+        "nombre":"From the West",
+        "año":2020,
+        "id":"4wKMRAcoYuhOn5jhpuW1Ue"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"Keep 'Em on They Toes",
+        "año":2020,
+        "id":"0NrDp8wKKFdhyHSMlcHBnD"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"No Place Left to Leave (2006)",
+        "año":2020,
+        "id":"2dUlzOFbYohtRpYHXklj0K"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"Welcome to Hard Times",
+        "año":2020,
+        "id":"6zo8AF0lCWc216j4GTYARj"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"Field Recordings, Vol. 1",
+        "año":2020,
+        "id":"2C4pCAR41BjNeDEEn1M7tM"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Michael Montgomery",
+        "genero":"country",
+        "nombre":"Life's a Dance: The Atlantic Albums 1992-2000",
+        "año":2020,
+        "id":"27HDhaZ1H33h9iQHTnEXVm"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Michael Montgomery",
+        "genero":"country",
+        "nombre":"Sold: The Atlantic Singles 1992 - 2000",
+        "año":2020,
+        "id":"3oJcZT5UJcv18hx0fi2XvU"
+    },
+    {
+        "tipo":"album",
+        "artista":"Reba McEntire",
+        "genero":"country",
+        "nombre":"Rumor Has It (30th Anniversary Edition)",
+        "año":2020,
+        "id":"164LWFbi9ynXhbbYPOseKo"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ryan Adams",
+        "genero":"country",
+        "nombre":"Wednesdays",
+        "año":2020,
+        "id":"2gK2hMSg8rNam7mHpmy3Ek"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Steeldrivers",
+        "genero":"country",
+        "nombre":"Bad For You",
+        "año":2020,
+        "id":"4Ciw110gdWtwcleY7KQMRI"
+    },
+    {
+        "tipo":"album",
+        "artista":"Gabby Barrett",
+        "genero":"country",
+        "nombre":"Goldmine",
+        "año":2020,
+        "id":"4Iqfx63CZhFGGIHiAvLxXY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Justin Moore",
+        "genero":"country",
+        "nombre":"Live at the Ryman",
+        "año":2020,
+        "id":"2whvNZuhYac09csrAN05CI"
+    },
+    {
+        "tipo":"album",
+        "artista":"Steve Earle",
+        "genero":"country",
+        "nombre":"Ghosts of West Virginia",
+        "año":2020,
+        "id":"3QM2ypoX90glMEFVy5mCka"
+    },
+    {
+        "tipo":"album",
+        "artista":"Josh Meloy",
+        "genero":"country",
+        "nombre":"Oklahoma",
+        "año":2020,
+        "id":"0WiOb4EttRiuPO0C9Ofoxh"
+    },
+    {
+        "tipo":"album",
+        "artista":"Muscadine Bloodline",
+        "genero":"country",
+        "nombre":"Burn It at Both Ends",
+        "año":2020,
+        "id":"4ErAl5hH3SIKCackOBqBVA"
+    },
+    {
+        "tipo":"album",
+        "artista":"Little Big Town",
+        "genero":"country",
+        "nombre":"Nightfall",
+        "año":2020,
+        "id":"4qs02AtQxPiPkklCBD7y8q"
+    },
+    {
+        "tipo":"album",
+        "artista":"Shelby Lynne",
+        "genero":"country",
+        "nombre":"Shelby Lynne",
+        "año":2020,
+        "id":"6L9MAc8jkcsZLYFxMRmVYK"
+    },
+    {
+        "tipo":"album",
+        "artista":"Treaty Oak Revival",
+        "genero":"country",
+        "nombre":"No Vacancy",
+        "año":2021,
+        "id":"21fAzUzwhkiSEHCzhtSC2x"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ethel Cain",
+        "genero":"country",
+        "nombre":"Inbred",
+        "año":2021,
+        "id":"013WXRAOja0kZ6gnlTCwJ5"
+    },
+    {
+        "tipo":"album",
+        "artista":"Eric Church",
+        "genero":"country",
+        "nombre":"Soul",
+        "año":2021,
+        "id":"4MRgsu0MBuBHzMhTLBgnNz"
+    },
+    {
+        "tipo":"album",
+        "artista":"Eric Church",
+        "genero":"country",
+        "nombre":"Heart",
+        "año":2021,
+        "id":"5aWReU8nqP0WiJPRwiNTyt"
+    },
+    {
+        "tipo":"album",
+        "artista":"Florida Georgia Line",
+        "genero":"country",
+        "nombre":"Life Rolls On (Deluxe)",
+        "año":2021,
+        "id":"40g5hYGdp9TDQriLdIh7p9"
+    },
+    {
+        "tipo":"album",
+        "artista":"Florida Georgia Line",
+        "genero":"country",
+        "nombre":"Life Rolls On (Deluxe \/ Big Machine Radio Release Special)",
+        "año":2021,
+        "id":"0ZBVckb7D7y6vbYfgkFMCu"
+    },
+    {
+        "tipo":"album",
+        "artista":"Florida Georgia Line",
+        "genero":"country",
+        "nombre":"Life Rolls On",
+        "año":2021,
+        "id":"6dfdmMDGw988CzNEFdnIcY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Johnson",
+        "genero":"country",
+        "nombre":"A Cody Johnson Christmas",
+        "año":2021,
+        "id":"0cLuZfaaFMtFmMIadVO0z8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Johnson",
+        "genero":"country",
+        "nombre":"Human The Double Album",
+        "año":2021,
+        "id":"3og8X1LYiVq3nPdMxpM9Wb"
+    },
+    {
+        "tipo":"album",
+        "artista":"Alan Jackson",
+        "genero":"country",
+        "nombre":"Where Have You Gone",
+        "año":2021,
+        "id":"5AOdiY7XlBfcv7sfexeEjc"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jason Aldean",
+        "genero":"country",
+        "nombre":"MACON",
+        "año":2021,
+        "id":"4MJPulC5XmELvmbrs1XHC9"
+    },
+    {
+        "tipo":"album",
+        "artista":"Blake Shelton",
+        "genero":"country",
+        "nombre":"Body Language (Deluxe)",
+        "año":2021,
+        "id":"6ObNVnYp53VJNtIcdo03WJ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Blake Shelton",
+        "genero":"country",
+        "nombre":"Body Language",
+        "año":2021,
+        "id":"0s1A44tg1Y21SLHDylmugR"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zac Brown Band",
+        "genero":"country",
+        "nombre":"The Comeback",
+        "año":2021,
+        "id":"3HAqDprp8YxHEguHkCcfOC"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jordan Davis",
+        "genero":"country",
+        "nombre":"Buy Dirt",
+        "año":2021,
+        "id":"2y9DFhTWC7QQJMvygK0TzO"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"The Willie Nelson Family",
+        "año":2021,
+        "id":"2gSxAG6hqMBsvyBZ0ZnJwt"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Texas Willie",
+        "año":2021,
+        "id":"5T1yfNWRZKRQSIWFkxtAre"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Highway Call (Live '79)",
+        "año":2021,
+        "id":"7iqCeK6KpIR6HEpOCKfp3Q"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"That's Life",
+        "año":2021,
+        "id":"3i0UVz6teoPDfy3JhK74Tr"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lainey Wilson",
+        "genero":"country",
+        "nombre":"Sayin’ What I’m Thinkin’",
+        "año":2021,
+        "id":"2WBvIseHSAwsPP4YbNgZXR"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Denver",
+        "genero":"country",
+        "nombre":"Shelter From The Storm (Live 1982)",
+        "año":2021,
+        "id":"5QiHABqWAdWqctFczxUrJK"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kacey Musgraves",
+        "genero":"country",
+        "nombre":"star-crossed",
+        "año":2021,
+        "id":"6y9LbrjY2TpaLvtbE7FTkc"
+    },
+    {
+        "tipo":"album",
+        "artista":"Thomas Rhett",
+        "genero":"country",
+        "nombre":"Country Again (Side A)",
+        "año":2021,
+        "id":"3W2BTPUHJX51hweWPNRenv"
+    },
+    {
+        "tipo":"album",
+        "artista":"Thomas Rhett",
+        "genero":"country",
+        "nombre":"Country Again (Side A \/ Big Machine Radio Release Special)",
+        "año":2021,
+        "id":"7lzkTI4eeOk55C0kMj5waG"
+    },
+    {
+        "tipo":"album",
+        "artista":"Riley Green",
+        "genero":"country",
+        "nombre":"Behind The Bar",
+        "año":2021,
+        "id":"5okzhzPKByC8n0NxBYD2e5"
+    },
+    {
+        "tipo":"album",
+        "artista":"Luke Bryan",
+        "genero":"country",
+        "nombre":"Born Here Live Here Die Here (Deluxe Edition)",
+        "año":2021,
+        "id":"1Trg5OuUpkNFLF21HdbOg6"
+    },
+    {
+        "tipo":"album",
+        "artista":"Morgan Wallen",
+        "genero":"country",
+        "nombre":"Dangerous: The Double Album (Bonus)",
+        "año":2021,
+        "id":"1e2J1wYxM6KcpEHFDVXBke"
+    },
+    {
+        "tipo":"album",
+        "artista":"Morgan Wallen",
+        "genero":"country",
+        "nombre":"Dangerous: The Double Album",
+        "año":2021,
+        "id":"1AlJetbC3AI9aGsiGn0O6T"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"Bear's Sonic Journals: Live At The Carousel Ballroom, April 24 1968",
+        "año":2021,
+        "id":"2l3eazQi1Gt5hg1mu5tjaa"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"Johnny Cash: Forever Words Expanded",
+        "año":2021,
+        "id":"5QkKD6xmHdaoxCRL5NHvIp"
+    },
+    {
+        "tipo":"album",
+        "artista":"KALEO",
+        "genero":"country",
+        "nombre":"Surface Sounds",
+        "año":2021,
+        "id":"1ZuNUNl8jvYmW4w1lR2CW3"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"Ballads of the Broken",
+        "año":2021,
+        "id":"4HNIAKT3412itayEYv2BxL"
+    },
+    {
+        "tipo":"album",
+        "artista":"Emmylou Harris",
+        "genero":"country",
+        "nombre":"Beyond the Palace (Live 1983)",
+        "año":2021,
+        "id":"72nn0YPkXwk3DeoKqXTmf2"
+    },
+    {
+        "tipo":"album",
+        "artista":"Emmylou Harris",
+        "genero":"country",
+        "nombre":"Ramble in Music City: The Lost Concert (Live)",
+        "año":2021,
+        "id":"67Coweh6bxMgu7wijLpzGa"
+    },
+    {
+        "tipo":"album",
+        "artista":"Emmylou Harris",
+        "genero":"country",
+        "nombre":"Pbs Soundstage",
+        "año":2021,
+        "id":"5BpN9DyeSJ64bi8rH4rbjQ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dan + Shay",
+        "genero":"country",
+        "nombre":"Good Things",
+        "año":2021,
+        "id":"7L8IHgiomfEpxOm61vgPTm"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kris Kristofferson",
+        "genero":"country",
+        "nombre":"Somewhere Along The Way (Live 1981)",
+        "año":2021,
+        "id":"5Ck9Jz5K9HGtLYyOJ49pwP"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kris Kristofferson",
+        "genero":"country",
+        "nombre":"Whisper Of The Raindrops (Live New York '79)",
+        "año":2021,
+        "id":"2E0SKW8ltBZp8lL73C3QLF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jimmy Buffett",
+        "genero":"country",
+        "nombre":"Strollin' Down The Avenue (Live 1980)",
+        "año":2021,
+        "id":"50JscrFGn0Ra6wHdwHi46H"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brett Young",
+        "genero":"country",
+        "nombre":"Brett Young & Friends Sing The Christmas Classics",
+        "año":2021,
+        "id":"0qWmDshW80OTUuipP3Wvla"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brett Young",
+        "genero":"country",
+        "nombre":"Weekends Look A Little Acoustic These Days",
+        "año":2021,
+        "id":"4kVKg4LdknIwFgktCrYMy0"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brett Young",
+        "genero":"country",
+        "nombre":"Weekends Look A Little Different These Days (Big Machine Radio Release Special)",
+        "año":2021,
+        "id":"2L7PqA5PHNpplw2FyeFtLu"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brett Young",
+        "genero":"country",
+        "nombre":"Weekends Look A Little Different These Days",
+        "año":2021,
+        "id":"2JJ2v7A5nR6HaYxyO2T0PX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Randy Travis",
+        "genero":"country",
+        "nombre":"First Impressions (Live 1986)",
+        "año":2021,
+        "id":"7COq78vaBtpSXb02adh7xL"
+    },
+    {
+        "tipo":"album",
+        "artista":"Randy Travis",
+        "genero":"country",
+        "nombre":"My Wandering Ways (Live 1986)",
+        "año":2021,
+        "id":"0x8AqO5YQRUmI4Aq7yaCJj"
+    },
+    {
+        "tipo":"album",
+        "artista":"Miranda Lambert",
+        "genero":"country",
+        "nombre":"The Marfa Tapes",
+        "año":2021,
+        "id":"0Jck41FMi9tJooKSHApv9p"
+    },
+    {
+        "tipo":"album",
+        "artista":"Parker McCollum",
+        "genero":"country",
+        "nombre":"Gold Chain Cowboy (Special Edition)",
+        "año":2021,
+        "id":"3OUUrRZtEpwfScVgNVNKx0"
+    },
+    {
+        "tipo":"album",
+        "artista":"Parker McCollum",
+        "genero":"country",
+        "nombre":"Gold Chain Cowboy",
+        "año":2021,
+        "id":"6uiblZVOgKdhYp96cSCtqu"
+    },
+    {
+        "tipo":"album",
+        "artista":"Toby Keith",
+        "genero":"country",
+        "nombre":"Peso in My Pocket",
+        "año":2021,
+        "id":"18AunqcqOhcZYZewF5uQFQ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Warren Zeiders",
+        "genero":"country",
+        "nombre":"Acoustic Covers (Deluxe)",
+        "año":2021,
+        "id":"2tSbrXGTWwgkNnXD6LCABm"
+    },
+    {
+        "tipo":"album",
+        "artista":"Warren Zeiders",
+        "genero":"country",
+        "nombre":"Acoustic Covers",
+        "año":2021,
+        "id":"0K2mpuVrs4BpjxiX6TYKw7"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tim McGraw",
+        "genero":"country",
+        "nombre":"Here On Earth (Ultimate Edition)",
+        "año":2021,
+        "id":"5kNJYMb1mTyoqKx1tBTt53"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tim McGraw",
+        "genero":"country",
+        "nombre":"Here On Earth (Ultimate Edition \/ Big Machine Radio Release Special)",
+        "año":2021,
+        "id":"5g5uono9ZO5JKfwb57WsMI"
+    },
+    {
+        "tipo":"album",
+        "artista":"Old Dominion",
+        "genero":"country",
+        "nombre":"Time, Tequila & Therapy",
+        "año":2021,
+        "id":"1yjrtwm2ru1qPGBPBUDE0x"
+    },
+    {
+        "tipo":"album",
+        "artista":"Carrie Underwood",
+        "genero":"country",
+        "nombre":"My Gift (Special Edition)",
+        "año":2021,
+        "id":"7m0f2Km7Zlc7quAIvCYPMr"
+    },
+    {
+        "tipo":"album",
+        "artista":"Carrie Underwood",
+        "genero":"country",
+        "nombre":"My Savior",
+        "año":2021,
+        "id":"4Dep4FHb2IMFImgEhs83ww"
+    },
+    {
+        "tipo":"album",
+        "artista":"LeAnn Rimes",
+        "genero":"country",
+        "nombre":"Whatever We Wanna (Deluxe Edition)",
+        "año":2021,
+        "id":"7v7X8Z234pWMa69SjHe39o"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lady A",
+        "genero":"country",
+        "nombre":"What A Song Can Do (Behind The Songs)",
+        "año":2021,
+        "id":"5gtchqpPcKoPVibkVbqXEm"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lady A",
+        "genero":"country",
+        "nombre":"What A Song Can Do",
+        "año":2021,
+        "id":"6WFBqvXyejttGfBbyJllyd"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lady A",
+        "genero":"country",
+        "nombre":"What A Song Can Do (Chapter One)",
+        "año":2021,
+        "id":"1GMVHbMadbjNGFoOYXwnLb"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jeff Tweedy",
+        "genero":"country",
+        "nombre":"Live Is The King",
+        "año":2021,
+        "id":"1CxhjvovjuPCVqbheI9Wq8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Josh Turner",
+        "genero":"country",
+        "nombre":"King Size Manger",
+        "año":2021,
+        "id":"0IhisfwJXGoH7uPK3pXqTA"
+    },
+    {
+        "tipo":"album",
+        "artista":"Josh Turner",
+        "genero":"country",
+        "nombre":"Your Man (Deluxe Edition)",
+        "año":2021,
+        "id":"5BisZyw1ZjizuIEuutPgLq"
+    },
+    {
+        "tipo":"album",
+        "artista":"Vince Gill",
+        "genero":"country",
+        "nombre":"LIVE at the Prince of Wales Hotel 1988",
+        "año":2021,
+        "id":"6nC8K117lVinU3fzMwLAd2"
+    },
+    {
+        "tipo":"album",
+        "artista":"Yelawolf",
+        "genero":"country",
+        "nombre":"Mud Mouth",
+        "año":2021,
+        "id":"2gCg9nIRbDzzAAdBFXdK6I"
+    },
+    {
+        "tipo":"album",
+        "artista":"Yelawolf",
+        "genero":"country",
+        "nombre":"Mile Zero",
+        "año":2021,
+        "id":"6EqCld1oPG9E3r79vvSRH7"
+    },
+    {
+        "tipo":"album",
+        "artista":"Yelawolf",
+        "genero":"country",
+        "nombre":"Slumafia",
+        "año":2021,
+        "id":"5DNbsXxquVJ5xfcIC9Mz6m"
+    },
+    {
+        "tipo":"album",
+        "artista":"Yelawolf",
+        "genero":"country",
+        "nombre":"TURQUOiSE TORNADO",
+        "año":2021,
+        "id":"1h97T5Edn4s9cPgp84SQhY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Yelawolf",
+        "genero":"country",
+        "nombre":"Yelawolf Blacksheep",
+        "año":2021,
+        "id":"7BuxO3aiE8Vzw3piIe0iYg"
+    },
+    {
+        "tipo":"album",
+        "artista":"Sturgill Simpson",
+        "genero":"country",
+        "nombre":"The Ballad of Dood & Juanita",
+        "año":2021,
+        "id":"5CigVuEyiAYaNYx2M2w4hh"
+    },
+    {
+        "tipo":"album",
+        "artista":"Sierra Ferrell",
+        "genero":"country",
+        "nombre":"Long Time Coming",
+        "año":2021,
+        "id":"5ZI0k3IynnC5C9QKMmY7cB"
+    },
+    {
+        "tipo":"album",
+        "artista":"Billy Strings",
+        "genero":"country",
+        "nombre":"Renewal",
+        "año":2021,
+        "id":"2as5ea7TPPkXI2OINaMjZR"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chris Young",
+        "genero":"country",
+        "nombre":"Famous Friends",
+        "año":2021,
+        "id":"4WyhB7bn1Dy3w7GBWUAO1a"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zach Williams",
+        "genero":"country",
+        "nombre":"I Don't Want Christmas to End",
+        "año":2021,
+        "id":"76Vw1t2n6PBb0GiQK7p5aj"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zach Williams",
+        "genero":"country",
+        "nombre":"Rescue Story (Deluxe Edition)",
+        "año":2021,
+        "id":"7JEm896GLAu8zHBvVmfWD5"
+    },
+    {
+        "tipo":"album",
+        "artista":"Marty Robbins",
+        "genero":"country",
+        "nombre":"Keep A Movin' (Live 1982)",
+        "año":2021,
+        "id":"32i24hKiBGpF9h4toqqfHs"
+    },
+    {
+        "tipo":"album",
+        "artista":"Don Williams",
+        "genero":"country",
+        "nombre":"Midnight In Reseda (Live 1982)",
+        "año":2021,
+        "id":"0ePdhXKZ4u8PbKR1qHu3QP"
+    },
+    {
+        "tipo":"album",
+        "artista":"Alison Krauss",
+        "genero":"country",
+        "nombre":"Raise The Roof (Deluxe Edition)",
+        "año":2021,
+        "id":"48wFAtpgBV5rUTTDrNKCoN"
+    },
+    {
+        "tipo":"album",
+        "artista":"Flatland Cavalry",
+        "genero":"country",
+        "nombre":"Welcome To Countryland",
+        "año":2021,
+        "id":"3eMDuIysSkp3nUlmTrxbfx"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Jinks",
+        "genero":"country",
+        "nombre":"Mercy",
+        "año":2021,
+        "id":"3OMTlnEISam5mlHSO9kdxq"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Jinks",
+        "genero":"country",
+        "nombre":"Adobe Sessions (Unplugged)",
+        "año":2021,
+        "id":"1uUMv9ejI04bDiTqPpRZRn"
+    },
+    {
+        "tipo":"album",
+        "artista":"Glen Campbell",
+        "genero":"country",
+        "nombre":"Kentucky Means Paradise",
+        "año":2021,
+        "id":"2fQQjkmW5xGXYXIxkOkw0Q"
+    },
+    {
+        "tipo":"album",
+        "artista":"Glen Campbell",
+        "genero":"country",
+        "nombre":"Live From The Troubadour",
+        "año":2021,
+        "id":"4zKEAKSVPzTIftRDlYbc2O"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Dead South",
+        "genero":"country",
+        "nombre":"Served Live",
+        "año":2021,
+        "id":"6dY8EqTx6FK9dDPcPvoxIR"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Fogerty",
+        "genero":"country",
+        "nombre":"Rollin' Stone (Live '85)",
+        "año":2021,
+        "id":"0tt5SzFLcsz5HVaUeuxyiO"
+    },
+    {
+        "tipo":"album",
+        "artista":"Linda Ronstadt",
+        "genero":"country",
+        "nombre":"Hiding In Shadows (Live '73)",
+        "año":2021,
+        "id":"7L2aQ20TtjPzGjaacx6KH7"
+    },
+    {
+        "tipo":"album",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"The Sonic Ranch",
+        "año":2021,
+        "id":"7k57LNUL2eLCJh6jAUS11S"
+    },
+    {
+        "tipo":"album",
+        "artista":"Travis Tritt",
+        "genero":"country",
+        "nombre":"Set In Stone",
+        "año":2021,
+        "id":"3CWTCSCfkdNjK9156mLZO8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Alabama",
+        "genero":"country",
+        "nombre":"Down The River (Live 1981)",
+        "año":2021,
+        "id":"2mbHp3i5wkDyaPLRsHFdT9"
+    },
+    {
+        "tipo":"album",
+        "artista":"Billy Currington",
+        "genero":"country",
+        "nombre":"Intuition",
+        "año":2021,
+        "id":"7eYbDtNCk3TKTGkyW2dQ0Z"
+    },
+    {
+        "tipo":"album",
+        "artista":"Wednesday",
+        "genero":"country",
+        "nombre":"Twin Plagues",
+        "año":2021,
+        "id":"00rOqMAZR9zHdtRP5KQ64H"
+    },
+    {
+        "tipo":"album",
+        "artista":"Wednesday",
+        "genero":"country",
+        "nombre":"Wednesday on Audiotree Live",
+        "año":2021,
+        "id":"4nPYFvFPLnB6F7OACccawN"
+    },
+    {
+        "tipo":"album",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"Naughty List",
+        "año":2021,
+        "id":"0BXmUn9V11LhVai6Ac6vb1"
+    },
+    {
+        "tipo":"album",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"Midtown Diaries",
+        "año":2021,
+        "id":"50zMs3AwxduoOoQoN17955"
+    },
+    {
+        "tipo":"album",
+        "artista":"Merle Haggard",
+        "genero":"country",
+        "nombre":"Beyond The Borderline (with The Strangers) [Live 1995]",
+        "año":2021,
+        "id":"0oazOAAAPwwomnoXityFSl"
+    },
+    {
+        "tipo":"album",
+        "artista":"Merle Haggard",
+        "genero":"country",
+        "nombre":"Rancho del Cielo, California (Live 1982)",
+        "año":2021,
+        "id":"3BRmBAEe25woGtxQwMTPiw"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Takin' It Hard (1983) [Live]",
+        "año":2021,
+        "id":"6BUxG9y5zSra7kuvxoUirI"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Ultimate Star Collection",
+        "año":2021,
+        "id":"6U1f7JDJNDrzQsExjwbjYg"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Our Favourites",
+        "año":2021,
+        "id":"5FEZeQRTshv55pISumx0IM"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Same Ol Same Ol",
+        "año":2021,
+        "id":"3i0K87zR61IaWGgshaf85n"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"DJ Cliffy D Presents: Upchurch Remixed",
+        "año":2021,
+        "id":"0sJqMIlNPmSNVbsBul7GKa"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Mud to Gold",
+        "año":2021,
+        "id":"2C9n12izeGNvEJ0FlSUTxX"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Hideas: The Album",
+        "año":2021,
+        "id":"74krWdYGCfCa4yeoUj6Sgr"
+    },
+    {
+        "tipo":"album",
+        "artista":"Corey Kent",
+        "genero":"country",
+        "nombre":"'21",
+        "año":2021,
+        "id":"7oN35iFAcEdziP5U3qly9O"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"Music City USA",
+        "año":2021,
+        "id":"1S3byHYDcWlhc7TVkbG2zY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"10 for Slim: Charley Crockett Sings James Hand",
+        "año":2021,
+        "id":"23PJHxx2tEjg9PjfPVL4f2"
+    },
+    {
+        "tipo":"album",
+        "artista":"Reba McEntire",
+        "genero":"country",
+        "nombre":"Revived Remixed Revisited",
+        "año":2021,
+        "id":"0CeiSJnHBxX9aTzhJdpljp"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ryan Adams",
+        "genero":"country",
+        "nombre":"Big Colors",
+        "año":2021,
+        "id":"7IKoFG0yRzDmqalNLJpw6y"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tracy Lawrence",
+        "genero":"country",
+        "nombre":"Hindsight 2020, Vol. 2: Price of Fame",
+        "año":2021,
+        "id":"1JMwwPDmqXfqmL59K47S7N"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tracy Lawrence",
+        "genero":"country",
+        "nombre":"Hindsight 2020, Vol 1: Stairway to Heaven Highway to Hell",
+        "año":2021,
+        "id":"3pYor2RqsNKlE9bE3IztSz"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charles Wesley Godwin",
+        "genero":"country",
+        "nombre":"How the Mighty Fall",
+        "año":2021,
+        "id":"2a0WpuqyjACGd5VmXflGu7"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lauren Alaina",
+        "genero":"country",
+        "nombre":"Sitting Pretty On Top Of The World",
+        "año":2021,
+        "id":"50rJgPQvYLeiC3Ub9c5tGJ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Gabby Barrett",
+        "genero":"country",
+        "nombre":"Goldmine (Deluxe)",
+        "año":2021,
+        "id":"07ta8NK5ZipBOVSQgbGxtd"
+    },
+    {
+        "tipo":"album",
+        "artista":"Gabby Barrett",
+        "genero":"country",
+        "nombre":"Live From The Goldmine",
+        "año":2021,
+        "id":"0VL6FmdjxL0fgeOXXwzZKM"
+    },
+    {
+        "tipo":"album",
+        "artista":"Watchhouse",
+        "genero":"country",
+        "nombre":"Watchhouse",
+        "año":2021,
+        "id":"2ZURBTlzCG2WCMuEwvRBaK"
+    },
+    {
+        "tipo":"album",
+        "artista":"Justin Moore",
+        "genero":"country",
+        "nombre":"Straight Outta The Country (Big Machine Radio Release Special)",
+        "año":2021,
+        "id":"3OxawPDU8xKIheat88rTAh"
+    },
+    {
+        "tipo":"album",
+        "artista":"Justin Moore",
+        "genero":"country",
+        "nombre":"Straight Outta The Country",
+        "año":2021,
+        "id":"1rW4SdSGRziYMzyteohUwP"
+    },
+    {
+        "tipo":"album",
+        "artista":"Steve Earle",
+        "genero":"country",
+        "nombre":"J.T.",
+        "año":2021,
+        "id":"7B6RM1dHpQQqVx9rbnK9JD"
+    },
+    {
+        "tipo":"album",
+        "artista":"Scotty McCreery",
+        "genero":"country",
+        "nombre":"Same Truck",
+        "año":2021,
+        "id":"0R9QjGSDl6EX4yWu3Rr1eU"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Bellamy Brothers",
+        "genero":"country",
+        "nombre":"Covers from the Brothers",
+        "año":2021,
+        "id":"6qw0cRb3EGJsDBqI7D5bxo"
+    },
+    {
+        "tipo":"album",
+        "artista":"Shelby Lynne",
+        "genero":"country",
+        "nombre":"The Servant",
+        "año":2021,
+        "id":"5GcpeGlmzXvSZnU8zX4h6Q"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Red Clay Strays",
+        "genero":"country",
+        "nombre":"Moment of Truth",
+        "año":2022,
+        "id":"1TGX3TzhBOkAOWyoS3TWVF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zach Top",
+        "genero":"country",
+        "nombre":"Zach Top",
+        "año":2022,
+        "id":"7tlQptcUoYxzRxr4VzodtW"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ethel Cain",
+        "genero":"country",
+        "nombre":"Preacher’s Daughter",
+        "año":2022,
+        "id":"3WmujGwOS0ANHkJRnMH6n8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kane Brown",
+        "genero":"country",
+        "nombre":"Different Man",
+        "año":2022,
+        "id":"7dfTBn7wtgKEchVmyipBl1"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tyler Childers",
+        "genero":"country",
+        "nombre":"Can I Take My Hounds to Heaven?",
+        "año":2022,
+        "id":"38DbwWdACUMpVMfRTxGnvi"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cody Johnson",
+        "genero":"country",
+        "nombre":"Cody Johnson & The Rockin’ CJB Live",
+        "año":2022,
+        "id":"4VFBMu9CJECPk7fAG2oHkr"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jon Pardi",
+        "genero":"country",
+        "nombre":"Mr. Saturday Night",
+        "año":2022,
+        "id":"2QriWWJQt8g8XXoC1ATDPa"
+    },
+    {
+        "tipo":"album",
+        "artista":"Jason Aldean",
+        "genero":"country",
+        "nombre":"GEORGIA",
+        "año":2022,
+        "id":"3DmTwDlyCJ4zEFM6qmquL4"
+    },
+    {
+        "tipo":"album",
+        "artista":"Blake Shelton",
+        "genero":"country",
+        "nombre":"Cheers, It's Christmas (Super Deluxe)",
+        "año":2022,
+        "id":"7BKMLhbGps9SDjUh8FEv8o"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zac Brown Band",
+        "genero":"country",
+        "nombre":"The Comeback (Deluxe)",
+        "año":2022,
+        "id":"1aNIT8Eao5zaUVkmZ3ib0J"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Live At Budokan",
+        "año":2022,
+        "id":"1rXXez3sVB1qPY8sOoR9yk"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Vaults",
+        "año":2022,
+        "id":"1t0X6YrWoHevVJ2SudCU7b"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"A Beautiful Time",
+        "año":2022,
+        "id":"7oPKRoThZFX1xQ7X05cfFG"
+    },
+    {
+        "tipo":"album",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Way Up High (Live 1981)",
+        "año":2022,
+        "id":"5Nbz76cz6zpyIhowhH1pVe"
+    },
+    {
+        "tipo":"album",
+        "artista":"Lainey Wilson",
+        "genero":"country",
+        "nombre":"Bell Bottom Country",
+        "año":2022,
+        "id":"06q6BDUpP6OS8Xnx3YC2M0"
+    },
+    {
+        "tipo":"album",
+        "artista":"John Denver",
+        "genero":"country",
+        "nombre":"Silver Sun (Live 1971)",
+        "año":2022,
+        "id":"0KWpYPmBQti0i0mGNOB620"
+    },
+    {
+        "tipo":"album",
+        "artista":"Thomas Rhett",
+        "genero":"country",
+        "nombre":"Where We Started (Behind The Songs)",
+        "año":2022,
+        "id":"2M4oeAu1AXn2CWGbnfUL2O"
+    },
+    {
+        "tipo":"album",
+        "artista":"Thomas Rhett",
+        "genero":"country",
+        "nombre":"Where We Started",
+        "año":2022,
+        "id":"794M3R461sLnY042CsB3xW"
+    },
+    {
+        "tipo":"album",
+        "artista":"Riley Green",
+        "genero":"country",
+        "nombre":"We Out Here: Live",
+        "año":2022,
+        "id":"5cxqlKuwtwuJOxFmAL2SSB"
+    },
+    {
+        "tipo":"album",
+        "artista":"Luke Combs",
+        "genero":"country",
+        "nombre":"Growin' Up",
+        "año":2022,
+        "id":"1m9DVgV0kEBiVZ4ElhJEte"
+    },
+    {
+        "tipo":"album",
+        "artista":"Shania Twain",
+        "genero":"country",
+        "nombre":"Not Just A Girl (The Highlights)",
+        "año":2022,
+        "id":"1Gqoca4RxsEZCIAgx6PsTS"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dolly Parton",
+        "genero":"country",
+        "nombre":"Higher And Higher (Live 1977)",
+        "año":2022,
+        "id":"2yBT9p4xgUwqN4Nis9NkGY"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dolly Parton",
+        "genero":"country",
+        "nombre":"Run, Rose, Run",
+        "año":2022,
+        "id":"50A9Yv2SPJByoZIDO5WVzG"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"My Way Volume III",
+        "año":2022,
+        "id":"3vfyNA8OEZeBw7swiHpNpC"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"My Way Volume II",
+        "año":2022,
+        "id":"1rdbKYyYmlL6JDHyOSD7ja"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"My Way",
+        "año":2022,
+        "id":"6teWeXPsyNQqlZlZMZHPNT"
+    },
+    {
+        "tipo":"album",
+        "artista":"Johnny Cash",
+        "genero":"country",
+        "nombre":"The Man in Black Walks the Line",
+        "año":2022,
+        "id":"5fGYp3tPqwAZv8lCxwMCRs"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"All My Homies Hate Ticketmaster (Live from Red Rocks)",
+        "año":2022,
+        "id":"5hVCiOPye3IDJG4rbO44UH"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"American Heartbreak",
+        "año":2022,
+        "id":"7IouDrXPdAZwT1NzVV3vef"
+    },
+    {
+        "tipo":"album",
+        "artista":"Shaboozey",
+        "genero":"country",
+        "nombre":"Cowboys Live Forever, Outlaws Never Die",
+        "año":2022,
+        "id":"3QEQeBF0NJ5BvvPY8lyWsP"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kris Kristofferson",
+        "genero":"country",
+        "nombre":"Live At Gilley’s - Pasadena, TX: September 15, 1981",
+        "año":2022,
+        "id":"5rOE5BS0taHYktPqCILDti"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dylan Scott",
+        "genero":"country",
+        "nombre":"Livin' My Best Life",
+        "año":2022,
+        "id":"5UkfLfGyiREHCmzM1kEUV0"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"SUBJECT TO CHANGE",
+        "año":2022,
+        "id":"6twfTQ122kNcHAUXjFbe8a"
+    },
+    {
+        "tipo":"album",
+        "artista":"Hank Williams, Jr.",
+        "genero":"country",
+        "nombre":"Rich White Honky Blues",
+        "año":2022,
+        "id":"38rR3FBk86jQHnEqmozisW"
+    },
+    {
+        "tipo":"album",
+        "artista":"Russell Dickerson",
+        "genero":"country",
+        "nombre":"Russell Dickerson",
+        "año":2022,
+        "id":"1yq5iFSGYrr3NA3UidIgi8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Wilco",
+        "genero":"country",
+        "nombre":"Cruel Country",
+        "año":2022,
+        "id":"5prfZewHLWnEMaWdDdgEb5"
+    },
+    {
+        "tipo":"album",
+        "artista":"Koe Wetzel",
+        "genero":"country",
+        "nombre":"Hell Paso",
+        "año":2022,
+        "id":"5seABmIu2cnoRMDoVHZvOD"
+    },
+    {
+        "tipo":"album",
+        "artista":"Miranda Lambert",
+        "genero":"country",
+        "nombre":"Palomino",
+        "año":2022,
+        "id":"69z5d2iu6PdaRZWvx8YVUl"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kid Rock",
+        "genero":"country",
+        "nombre":"Bad Reputation",
+        "año":2022,
+        "id":"6VT4srQhYdpdUDaAmD6Pro"
+    },
+    {
+        "tipo":"album",
+        "artista":"Maren Morris",
+        "genero":"country",
+        "nombre":"Humble Quest: In Rare Form",
+        "año":2022,
+        "id":"5he9k8l3BJF3MtTerCtaq8"
+    },
+    {
+        "tipo":"album",
+        "artista":"Maren Morris",
+        "genero":"country",
+        "nombre":"Humble Quest",
+        "año":2022,
+        "id":"3BEDHGAd2zJh5dUL4dbmiw"
+    },
+    {
+        "tipo":"album",
+        "artista":"Warren Zeiders",
+        "genero":"country",
+        "nombre":"717 Tapes the Album",
+        "año":2022,
+        "id":"1GI8XiKz756eajoeB4onFU"
+    },
+    {
+        "tipo":"album",
+        "artista":"Whiskey Myers",
+        "genero":"country",
+        "nombre":"Tornillo",
+        "año":2022,
+        "id":"7zQvPIbond03mxCRO4c8zs"
+    },
+    {
+        "tipo":"album",
+        "artista":"Carrie Underwood",
+        "genero":"country",
+        "nombre":"Denim & Rhinestones",
+        "año":2022,
+        "id":"2owWAe2Sg7kh14s1JzR67u"
+    },
+    {
+        "tipo":"album",
+        "artista":"LeAnn Rimes",
+        "genero":"country",
+        "nombre":"god's work",
+        "año":2022,
+        "id":"03Y0AUSO0y4o22FL1732Yi"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tom MacDonald",
+        "genero":"country",
+        "nombre":"The Brave",
+        "año":2022,
+        "id":"65qvJgkTyLzOgZOlQcqUfg"
+    },
+    {
+        "tipo":"album",
+        "artista":"Yelawolf",
+        "genero":"country",
+        "nombre":"Sometimes Y",
+        "año":2022,
+        "id":"0ZFqRtDxJIX8qHgQMAeJuT"
+    },
+    {
+        "tipo":"album",
+        "artista":"Billy Strings",
+        "genero":"country",
+        "nombre":"Me \/ And \/ Dad",
+        "año":2022,
+        "id":"3sEnM8BV4F3dQno5rFzdW1"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chris Young",
+        "genero":"country",
+        "nombre":"Famous Friends (Deluxe Edition)",
+        "año":2022,
+        "id":"7mbLTPhCpEBvLwaiTTJrx9"
+    },
+    {
+        "tipo":"album",
+        "artista":"Zach Williams",
+        "genero":"country",
+        "nombre":"A Hundred Highways",
+        "año":2022,
+        "id":"2lM8WoZ3N1ou1fP0CcXoXi"
+    },
+    {
+        "tipo":"album",
+        "artista":"Alison Krauss",
+        "genero":"country",
+        "nombre":"Telluride Bluegrass Festival (Live 1989)",
+        "año":2022,
+        "id":"6T1gCX2fo8un2q8KdVaXj0"
+    },
+    {
+        "tipo":"album",
+        "artista":"Flatland Cavalry",
+        "genero":"country",
+        "nombre":"Far Out West Sessions",
+        "año":2022,
+        "id":"3NBu070teiIiuoivtTPpWC"
+    },
+    {
+        "tipo":"album",
+        "artista":"Chase Matthew",
+        "genero":"country",
+        "nombre":"Born For This",
+        "año":2022,
+        "id":"6n793gAf5WMUZM2ZZOh2l4"
+    },
+    {
+        "tipo":"album",
+        "artista":"Saint Avangeline",
+        "genero":"country",
+        "nombre":"Gardener of Eden",
+        "año":2022,
+        "id":"4p5V21sNL5vwaU4JEvAhjp"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brantley Gilbert",
+        "genero":"country",
+        "nombre":"So Help Me God (Deluxe Edition \/ Behind The Songs)",
+        "año":2022,
+        "id":"2hMhjTOc0ovUo1LPoLBhLt"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brantley Gilbert",
+        "genero":"country",
+        "nombre":"So Help Me God",
+        "año":2022,
+        "id":"01WU13PMkMohKI8mHJJ0DL"
+    },
+    {
+        "tipo":"album",
+        "artista":"The Dead South",
+        "genero":"country",
+        "nombre":"Easy Listening for Jerks, Pt. 2",
+        "año":2022,
+        "id":"6v6ZJt4l99JznyJ9YnMwwK"
+    },
+    {
+        "tipo":"album",
+        "artista":"The White Buffalo",
+        "genero":"country",
+        "nombre":"Year Of The Dark Horse",
+        "año":2022,
+        "id":"4cKn5nMheAisLgzM4gOwaA"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ane Brun",
+        "genero":"country",
+        "nombre":"Nærmere",
+        "año":2022,
+        "id":"0ZELoqtqVsqR20PcHGImVR"
+    },
+    {
+        "tipo":"album",
+        "artista":"Dustin Lynch",
+        "genero":"country",
+        "nombre":"Blue In The Sky",
+        "año":2022,
+        "id":"2u0DD4sNHOcgbuJrJyMUu3"
+    },
+    {
+        "tipo":"album",
+        "artista":"Linda Ronstadt",
+        "genero":"country",
+        "nombre":"Canciones de mi Padre (Deluxe Edition)",
+        "año":2022,
+        "id":"7gEyyfLwQtAuhc3eZRp0LZ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cole Swindell",
+        "genero":"country",
+        "nombre":"Stereotype Broken",
+        "año":2022,
+        "id":"0rsIuMdNjcwbnS9kL4DKAf"
+    },
+    {
+        "tipo":"album",
+        "artista":"Cole Swindell",
+        "genero":"country",
+        "nombre":"Stereotype",
+        "año":2022,
+        "id":"5UgaQfAOaOdfLxFClw8EWa"
+    },
+    {
+        "tipo":"album",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"The Last Resort: Greetings From (Behind The Songs)",
+        "año":2022,
+        "id":"5oD4Jnkft8cOr1e9H5Pmd1"
+    },
+    {
+        "tipo":"album",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"The Last Resort: Greetings From",
+        "año":2022,
+        "id":"6qURbeUcbhHdGXDAUzZcag"
+    },
+    {
+        "tipo":"album",
+        "artista":"Travis Tritt",
+        "genero":"country",
+        "nombre":"Set In Stone (Acoustic)",
+        "año":2022,
+        "id":"5PPmMVK8kVU5FgavJvBDeb"
+    },
+    {
+        "tipo":"album",
+        "artista":"Bryan Martin",
+        "genero":"country",
+        "nombre":"Self Inflicted Scars",
+        "año":2022,
+        "id":"2MiSaUtCnkqNRK2BZx2TZt"
+    },
+    {
+        "tipo":"album",
+        "artista":"Wednesday",
+        "genero":"country",
+        "nombre":"Mowing the Leaves Instead of Piling 'em Up",
+        "año":2022,
+        "id":"0MMXVgaB5WFWLEbaRpgUlA"
+    },
+    {
+        "tipo":"album",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"This Is the Heavy",
+        "año":2022,
+        "id":"7hWoBHqzfN4QMcVPFSqbBS"
+    },
+    {
+        "tipo":"album",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"The Low Light Sessions",
+        "año":2022,
+        "id":"6UMZCXdMMgh4q5nKtGiKKC"
+    },
+    {
+        "tipo":"album",
+        "artista":"Merle Haggard",
+        "genero":"country",
+        "nombre":"Lonesome Whistle Blow (Live 1981)",
+        "año":2022,
+        "id":"5kSj1oZ9XdQgg70xs3vyLr"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Your Heart",
+        "año":2022,
+        "id":"4HzDN7hkDXbIvBoy7JXK0e"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Cold Cold Heart",
+        "año":2022,
+        "id":"4sj3f0B5mi8LIyCG2kAIWC"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Treasure of Love",
+        "año":2022,
+        "id":"1Xl6wQRSOmcRv0mei22wx3"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Done Gone",
+        "año":2022,
+        "id":"5DDzlaQsjOzNnUt3jDpmma"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"More Starday & Musicor Originals",
+        "año":2022,
+        "id":"6eZFR3KFLy8NVrUIcvjcBI"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Starday & Musicor Originals",
+        "año":2022,
+        "id":"3IeTpM3hlyTlLheCHcAb7Z"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Will The Circle Be Unbroken (Original Starday Records Recordings)",
+        "año":2022,
+        "id":"381GtwXREmchX0BemgaDwz"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"George Jones - Duets From Musicor Records (Original Musicor Records Recordings)",
+        "año":2022,
+        "id":"3ZR47FTh6hZwfT6bXVaBQQ"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"All-Time Greats (Original Musicor Records Recordings)",
+        "año":2022,
+        "id":"245zKauGzH5i28hHe7fqvd"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"You Gotta Be My Baby (Original Starday Records Recordings)",
+        "año":2022,
+        "id":"3juoVUa1mdMwooeEumoJRD"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"How Beautiful Heaven Must Be (Original Musicor Records Recordings)",
+        "año":2022,
+        "id":"1d2zEpdy3ExW0c4jYahVUz"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Two Of The Greatest: George Jones Sings Songs Written By Dallas Frazier (Original Musicor Records Recordings)",
+        "año":2022,
+        "id":"0V32xNvWHhO4HP9H6BNbps"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Both Have Gone: George Jones Sings Songs Written By Dallas Frazier (Original Musicor Records Recordings)",
+        "año":2022,
+        "id":"6o2bDK469JhbKIQg74AXA4"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Five Classic Albums Plus (Grand Ole Opry's New Star \/ George Jones Sings \/ Sings White Lightning and Other Favorites \/ Salutes Hank Williams \/ Sings Bob Wills) (Digitally Remastered)",
+        "año":2022,
+        "id":"5vop4K5sdgKA56r2TJeYEz"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"A Portrait of George Jones",
+        "año":2022,
+        "id":"7c9KbW58ii3AgWoc6MzdAk"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Les idoles américaines de la country : George Jones, Vol. 5",
+        "año":2022,
+        "id":"5ihgwGpz9BjGh0fwiPyk5R"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Les idoles américaines de la country : George Jones, Vol. 4",
+        "año":2022,
+        "id":"3mHeNXDiz7fv2ozcMfGxoF"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Les idoles américaines de la country : George Jones, Vol. 6",
+        "año":2022,
+        "id":"2BczkjTJ0WvO7Fk6CQUxML"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Les idoles américaines de la country : George Jones, Vol. 3",
+        "año":2022,
+        "id":"7rHD0nGoLwgaYNPxd0UuKN"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"The Hank Williams Collection (Remastered Edition)",
+        "año":2022,
+        "id":"2Las94wbQuxbSkS94PSidb"
+    },
+    {
+        "tipo":"album",
+        "artista":"George Jones",
+        "genero":"country",
+        "nombre":"Made In The USA Collection (Extended Edition)",
+        "año":2022,
+        "id":"4zeqDfziGZwSa63w4Bz943"
+    },
+    {
+        "tipo":"album",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"People's Champ",
+        "año":2022,
+        "id":"05nUDymtjkkya5l7gtyznT"
+    },
+    {
+        "tipo":"album",
+        "artista":"Kameron Marlowe",
+        "genero":"country",
+        "nombre":"We Were Cowboys",
+        "año":2022,
+        "id":"3ZGZNsbL4jY4pnOxxlYOCG"
+    },
+    {
+        "tipo":"album",
+        "artista":"Anne Wilson",
+        "genero":"country",
+        "nombre":"My Jesus (Anniversary Deluxe)",
+        "año":2022,
+        "id":"3ics5XSj02ZTkwmm3S2yrF"
+    },
+    {
+        "tipo":"album",
+        "artista":"Anne Wilson",
+        "genero":"country",
+        "nombre":"My Jesus",
+        "año":2022,
+        "id":"32hskBTJCQ3rmYAsUmol3Q"
+    },
+    {
+        "tipo":"album",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"And Now, Let's Turn to Page…",
+        "año":2022,
+        "id":"6F4P5ZIpxK35FkaGe1d1sA"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"The Man from Waco",
+        "año":2022,
+        "id":"2CegSVMbZ18cUUUBAhpesV"
+    },
+    {
+        "tipo":"album",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"Lil G.L. Presents: Jukebox Charley",
+        "año":2022,
+        "id":"77TxsDRR6TflkdQoOPFsm7"
+    },
+    {
+        "tipo":"album",
+        "artista":"Reba McEntire",
+        "genero":"country",
+        "nombre":"The Ultimate Christmas Collection",
+        "año":2022,
+        "id":"6S4DIqGyZGra6iZyZNI9jQ"
+    },
+    {
+        "tipo":"album",
+        "artista":"Reba McEntire",
+        "genero":"country",
+        "nombre":"My Chains Are Gone",
+        "año":2022,
+        "id":"3ohEFNgpDUA4xmIfdSCkTN"
+    },
+    {
+        "tipo":"album",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Country Coming Down",
+        "año":2022,
+        "id":"3hYtvhC4TBoNfoWgtioNMR"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ryan Adams",
+        "genero":"country",
+        "nombre":"Devolver",
+        "año":2022,
+        "id":"1C5CVsW4oyntbxWjsd1e1h"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ryan Adams",
+        "genero":"country",
+        "nombre":"FM",
+        "año":2022,
+        "id":"7rNMFgROobX4kniUvoqQrI"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ryan Adams",
+        "genero":"country",
+        "nombre":"Romeo & Juliet",
+        "año":2022,
+        "id":"18PHfu6JEvh0iRaTVOdsvw"
+    },
+    {
+        "tipo":"album",
+        "artista":"Ryan Adams",
+        "genero":"country",
+        "nombre":"Chris",
+        "año":2022,
+        "id":"1MMiRTfDofw1aZpg91ls5X"
+    },
+    {
+        "tipo":"album",
+        "artista":"Tracy Lawrence",
+        "genero":"country",
+        "nombre":"Hindsight 2020, Vol. 3: Angelina",
+        "año":2022,
+        "id":"6F5ZMloLs7b8dlLioHvHHR"
+    },
+    {
+        "tipo":"album",
+        "artista":"Watchhouse",
+        "genero":"country",
+        "nombre":"Watchhouse (Duo)",
+        "año":2022,
+        "id":"2UZLRGQmNZLPuKFn9JVwjo"
+    },
+    {
+        "tipo":"album",
+        "artista":"Steve Earle",
+        "genero":"country",
+        "nombre":"JERRY JEFF",
+        "año":2022,
+        "id":"6YTJcezbZXEwldrHQh8j1J"
+    },
+    {
+        "tipo":"album",
+        "artista":"Scotty McCreery",
+        "genero":"country",
+        "nombre":"Same Truck (Deluxe)",
+        "año":2022,
+        "id":"2yTXzy4Vn3vEReGhrwociL"
+    },
+    {
+        "tipo":"album",
+        "artista":"Muscadine Bloodline",
+        "genero":"country",
+        "nombre":"Dispatch to 16th Ave.",
+        "año":2022,
+        "id":"4oNeyMqut0MLJpV85MMKqu"
+    },
+    {
+        "tipo":"album",
+        "artista":"Little Big Town",
+        "genero":"country",
+        "nombre":"Mr. Sun",
+        "año":2022,
+        "id":"1zb7kVc7JA7ew7OIdj0wOB"
+    },
+    {
+        "tipo":"album",
+        "artista":"Shelby Lynne",
+        "genero":"country",
+        "nombre":"Love, Shelby",
+        "año":2022,
+        "id":"7jlxBMAbNZfxIGPxg1OKgl"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tyler Childers",
+        "genero":"country",
+        "nombre":"Shake the Frost (Live)",
+        "año":2018,
+        "id":"19MkwMrRjO7773zpuGss1o"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tyler Childers",
+        "genero":"country",
+        "nombre":"Charleston Girl (Live)",
+        "año":2018,
+        "id":"3R6yNicsZrWF8ybl02imcB"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Florida Georgia Line",
+        "genero":"country",
+        "nombre":"Meant to Be (feat. Florida Georgia Line)",
+        "año":2018,
+        "id":"4e4fqjx0Izh4svvTef1z7e"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jason Aldean",
+        "genero":"country",
+        "nombre":"You Make It Easy",
+        "año":2018,
+        "id":"2TXtN9MoV308Y0z1HvyTfV"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jordan Davis",
+        "genero":"country",
+        "nombre":"Slow Dance In A Parking Lot",
+        "año":2018,
+        "id":"6MBUUSIWCzaXW4q58Ktrv9"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jordan Davis",
+        "genero":"country",
+        "nombre":"Singles You Up",
+        "año":2018,
+        "id":"4LiMQ6G9n84rDUBs9wtwz6"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jordan Davis",
+        "genero":"country",
+        "nombre":"Take It From Me",
+        "año":2018,
+        "id":"3dCZm5HrG0jIXAHfNkg2H0"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kacey Musgraves",
+        "genero":"country",
+        "nombre":"Slow Burn",
+        "año":2018,
+        "id":"6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kacey Musgraves",
+        "genero":"country",
+        "nombre":"Butterflies",
+        "año":2018,
+        "id":"30VHURM5NOfoZmqp2iKawS"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kacey Musgraves",
+        "genero":"country",
+        "nombre":"Rainbow",
+        "año":2018,
+        "id":"79qxwHypONUt3AFq0WPpT9"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kacey Musgraves",
+        "genero":"country",
+        "nombre":"Golden Hour",
+        "año":2018,
+        "id":"0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kacey Musgraves",
+        "genero":"country",
+        "nombre":"High Horse",
+        "año":2018,
+        "id":"2U2Z1IXnmJIvlknWizFykZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Riley Green",
+        "genero":"country",
+        "nombre":"When She Comes Home Tonight",
+        "año":2018,
+        "id":"3QE9qyQrIgefznSchAYJPB"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Luke Combs",
+        "genero":"country",
+        "nombre":"Beautiful Crazy",
+        "año":2018,
+        "id":"2rxQMGVafnNaRaXlRMWPde"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Luke Combs",
+        "genero":"country",
+        "nombre":"She Got the Best of Me",
+        "año":2018,
+        "id":"698eQRku24PIYPQPHItKlA"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Morgan Wallen",
+        "genero":"country",
+        "nombre":"Whiskey Glasses",
+        "año":2018,
+        "id":"57TEkZN3f84tFJFHFrD4pO"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dan + Shay",
+        "genero":"country",
+        "nombre":"Tequila",
+        "año":2018,
+        "id":"42fw0rxRO2xbesF6mJfd4Y"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dan + Shay",
+        "genero":"country",
+        "nombre":"Speechless",
+        "año":2018,
+        "id":"3GJ4hzg4lrGwU51Y3VARbF"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dan + Shay",
+        "genero":"country",
+        "nombre":"All To Myself",
+        "año":2018,
+        "id":"08tq1XcHwVt5PHXUo87i0D"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Barns Courtney",
+        "genero":"country",
+        "nombre":"Sinners",
+        "año":2018,
+        "id":"0eUgkunDciOOiao9Sjw3PW"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"This Feeling",
+        "año":2018,
+        "id":"4NBTZtAt1F13VvlSKe6KTl"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"Miss Me More",
+        "año":2018,
+        "id":"5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brett Young",
+        "genero":"country",
+        "nombre":"Catch",
+        "año":2018,
+        "id":"53cGGBxGPaRjP0HVUESyW5"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brett Young",
+        "genero":"country",
+        "nombre":"Here Tonight",
+        "año":2018,
+        "id":"38nVuIj9mi5a8oopOJhSJk"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kenny Chesney",
+        "genero":"country",
+        "nombre":"Get Along",
+        "año":2018,
+        "id":"6n6OQfBpCgzF9oEg8zhBN7"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Soap&Skin",
+        "genero":"country",
+        "nombre":"What A Wonderful World",
+        "año":2018,
+        "id":"1HVCTkwQwbYQvNjiv4Os8d"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Soap&Skin",
+        "genero":"country",
+        "nombre":"Safe With Me",
+        "año":2018,
+        "id":"6JXNQLqk8iSHgHp4ag7498"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Soap&Skin",
+        "genero":"country",
+        "nombre":"Italy",
+        "año":2018,
+        "id":"6d8fUSacSzAzpYukmdGibg"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kid Rock",
+        "genero":"country",
+        "nombre":"American Bad Ass - 2018 Remaster",
+        "año":2018,
+        "id":"1ut6qrFOKodxA2vIs9sQW1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Maren Morris",
+        "genero":"country",
+        "nombre":"The Middle",
+        "año":2018,
+        "id":"09IStsImFySgyp0pIQdqAc"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bishop Briggs",
+        "genero":"country",
+        "nombre":"River",
+        "año":2018,
+        "id":"3mRLHiSHYtC8Hk7bzZdUs1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bishop Briggs",
+        "genero":"country",
+        "nombre":"White Flag",
+        "año":2018,
+        "id":"2ph6BRhGcUzc2W9wIulG5k"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bishop Briggs",
+        "genero":"country",
+        "nombre":"Never Tear Us Apart",
+        "año":2018,
+        "id":"0zdzgfhY18Au7dD1hOrTrX"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bishop Briggs",
+        "genero":"country",
+        "nombre":"River - King Kavalier Remix",
+        "año":2018,
+        "id":"0hQvOfNoBr9EV2jCIF6JCQ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bishop Briggs",
+        "genero":"country",
+        "nombre":"Dream",
+        "año":2018,
+        "id":"3fHZJOvXmyHeFLFS1sDE30"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bishop Briggs",
+        "genero":"country",
+        "nombre":"Wild Horses",
+        "año":2018,
+        "id":"1vHyZsydQf4h2yDhujnqvQ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Carrie Underwood",
+        "genero":"country",
+        "nombre":"The Champion - Bonus Track",
+        "año":2018,
+        "id":"2F6JxWMP2ZfmVErc3ZTmqQ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Elle King",
+        "genero":"country",
+        "nombre":"Baby Outlaw",
+        "año":2018,
+        "id":"6duWrSlajEdgjAfaiKZV31"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dierks Bentley",
+        "genero":"country",
+        "nombre":"Burning Man",
+        "año":2018,
+        "id":"4a1oIihVt6xSnDRpgX387M"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cody Jinks",
+        "genero":"country",
+        "nombre":"Must Be the Whiskey",
+        "año":2018,
+        "id":"324iakwekGIBGV93syJsVe"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tyler Braden",
+        "genero":"country",
+        "nombre":"Leave Me Alone",
+        "año":2018,
+        "id":"6OI4kx6HcKUAgZKGr9IlXg"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cole Swindell",
+        "genero":"country",
+        "nombre":"Break Up in the End",
+        "año":2018,
+        "id":"5Z19ylxppfnfdP4JH0u8oj"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"Drunk Me",
+        "año":2018,
+        "id":"1G4cdOtF36ZCs6i2dZoC87"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Turn up the Night",
+        "año":2018,
+        "id":"1gQf9pbGGzVkph7BUfwi6X"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"Come Home Soon",
+        "año":2018,
+        "id":"1cphwoceaKmjUZSRKYbFh2"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Everybody Walkin' This Land",
+        "año":2018,
+        "id":"4Zd9xGAwSs1Hw2hhKRnsJ6"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lauren Alaina",
+        "genero":"country",
+        "nombre":"Ladies In The '90s",
+        "año":2018,
+        "id":"4Whem9s6OoP7yFT60m2tU9"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Josh Meloy",
+        "genero":"country",
+        "nombre":"Washington Street",
+        "año":2018,
+        "id":"7lXhOInU1PuJad7zK6pzPt"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Scotty McCreery",
+        "genero":"country",
+        "nombre":"Five More Minutes",
+        "año":2018,
+        "id":"3qTmB5HxP9ilJaiM6B1yuk"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Scotty McCreery",
+        "genero":"country",
+        "nombre":"This Is It",
+        "año":2018,
+        "id":"74CEfiZthUGX5yUNNUM4bj"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Scotty McCreery",
+        "genero":"country",
+        "nombre":"In Between",
+        "año":2018,
+        "id":"2IuazAsyvbb3fFZb0Uvsmk"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Muscadine Bloodline",
+        "genero":"country",
+        "nombre":"Can't Tell You No",
+        "año":2018,
+        "id":"1bvAesXIGNwaE4U7N4QPbj"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Red Clay Strays",
+        "genero":"country",
+        "nombre":"Good Godly Woman",
+        "año":2019,
+        "id":"6GWMddXRoGtOQRMwxItviV"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"HARDY",
+        "genero":"country",
+        "nombre":"ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+        "año":2019,
+        "id":"2tev2oEdAUyNtR1U8gQ8c4"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kane Brown",
+        "genero":"country",
+        "nombre":"One Thing Right",
+        "año":2019,
+        "id":"7gZXCjAy6nxKCQWLEeX4LZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kane Brown",
+        "genero":"country",
+        "nombre":"Saturday Nights REMIX",
+        "año":2019,
+        "id":"0W5oXFrxZNBTIS1eMW9Ofz"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tyler Childers",
+        "genero":"country",
+        "nombre":"All Your'n",
+        "año":2019,
+        "id":"0fCwTrRNfoNk962ati8n2K"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Florida Georgia Line",
+        "genero":"country",
+        "nombre":"Simple",
+        "año":2019,
+        "id":"4L9Ds4mpD3SuYoWwFUlv16"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cody Johnson",
+        "genero":"country",
+        "nombre":"On My Way to You",
+        "año":2019,
+        "id":"3OjNkFFZavF89xvRqWCXmU"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jon Pardi",
+        "genero":"country",
+        "nombre":"Heartache Medication",
+        "año":2019,
+        "id":"5qdQPrWmZv8xYhMJCDrdHF"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Blake Shelton",
+        "genero":"country",
+        "nombre":"God's Country",
+        "año":2019,
+        "id":"4TCeFZNjGNQIpCuZmJkkE2"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Blake Shelton",
+        "genero":"country",
+        "nombre":"Nobody But You (Duet with Gwen Stefani)",
+        "año":2019,
+        "id":"5M8goiFYynmNxhueYW6grR"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brooks & Dunn",
+        "genero":"country",
+        "nombre":"1, 2 Many",
+        "año":2019,
+        "id":"226le7T3p82reYWzsi9Hsz"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brooks & Dunn",
+        "genero":"country",
+        "nombre":"Brand New Man - with Luke Combs",
+        "año":2019,
+        "id":"001UkMQHw4zXfFNdKpwXAF"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Thomas Rhett",
+        "genero":"country",
+        "nombre":"Beer Can’t Fix",
+        "año":2019,
+        "id":"7idmHTAQQPUFqdjXkoooXD"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Riley Green",
+        "genero":"country",
+        "nombre":"There Was This Girl",
+        "año":2019,
+        "id":"7grWGhX8SHNmyGOkMNVMCt"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Riley Green",
+        "genero":"country",
+        "nombre":"I Wish Grandpas Never Died",
+        "año":2019,
+        "id":"7Dxes6VnfbZYV0S2QTnVuT"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dolly Parton",
+        "genero":"country",
+        "nombre":"There Was Jesus",
+        "año":2019,
+        "id":"6oizwmD5yHvlQUw0xvirrY"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"Heading South",
+        "año":2019,
+        "id":"2Dct3GykKZ58hpWRFfe2Qd"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Hozier",
+        "genero":"country",
+        "nombre":"Would That I",
+        "año":2019,
+        "id":"0L3oQdYUvVbsOOPJSkZ3C3"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Hozier",
+        "genero":"country",
+        "nombre":"Almost (Sweet Music)",
+        "año":2019,
+        "id":"7uttm8Iurm5uK67Vr9G2Sp"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Barns Courtney",
+        "genero":"country",
+        "nombre":"\"99\"",
+        "año":2019,
+        "id":"0FDtfURDoNGv0sjNnvscPR"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Barns Courtney",
+        "genero":"country",
+        "nombre":"Babylon",
+        "año":2019,
+        "id":"2SlHCUAxHuyqGJ51tMIaH8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Wilco",
+        "genero":"country",
+        "nombre":"Love Is Everywhere (Beware)",
+        "año":2019,
+        "id":"0cWKIr2hzxT6vuxFrCzcMz"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Koe Wetzel",
+        "genero":"country",
+        "nombre":"Ragweed",
+        "año":2019,
+        "id":"3MxWqiFH3s8Mll4CljGLfa"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Poor Man's Poison",
+        "genero":"country",
+        "nombre":"Hell's Comin' with Me",
+        "año":2019,
+        "id":"5N0lmKQfQpXNQNjUGlPKIT"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Miranda Lambert",
+        "genero":"country",
+        "nombre":"Bluebird",
+        "año":2019,
+        "id":"0kPeZAyIhIfeZNrtfjJGDB"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Billy Ray Cyrus",
+        "genero":"country",
+        "nombre":"Old Town Road (feat. Billy Ray Cyrus) - Remix",
+        "año":2019,
+        "id":"2YpeDb67231RjR0MgVLzsG"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Billy Ray Cyrus",
+        "genero":"country",
+        "nombre":"Old Town Road - Diplo Remix",
+        "año":2019,
+        "id":"3kgKVcBpBGuSeaEC0AZGlb"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Billy Ray Cyrus",
+        "genero":"country",
+        "nombre":"Old Town Road - Remix",
+        "año":2019,
+        "id":"6jmZlyf9DxcIoRrjw02YXm"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Maren Morris",
+        "genero":"country",
+        "nombre":"The Bones",
+        "año":2019,
+        "id":"7yFhA2fUsL2oIMWlw5DaHQ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Maren Morris",
+        "genero":"country",
+        "nombre":"The Bones - with Hozier",
+        "año":2019,
+        "id":"1yTTMcUhL7rtz08Dsgb7Qb"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bishop Briggs",
+        "genero":"country",
+        "nombre":"CHAMPION",
+        "año":2019,
+        "id":"14oFxKTXuTpYgKe2vy0Cih"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Old Dominion",
+        "genero":"country",
+        "nombre":"One Man Band",
+        "año":2019,
+        "id":"7cA3PnUQDlUyBBwpRozQeo"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Old Dominion",
+        "genero":"country",
+        "nombre":"Make It Sweet",
+        "año":2019,
+        "id":"3Mnr3yyQk1aUPYgbpOQE31"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Whiskey Myers",
+        "genero":"country",
+        "nombre":"Bury My Bones",
+        "año":2019,
+        "id":"6yggZbtgrxPNwWOs06cS8L"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lady A",
+        "genero":"country",
+        "nombre":"What If I Never Get Over You",
+        "año":2019,
+        "id":"0qkdE1C0ufnUISKwhg8Wh6"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Yelawolf",
+        "genero":"country",
+        "nombre":"You and Me",
+        "año":2019,
+        "id":"53QA7j4pHWAtbE3D0Glh7Q"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Billy Strings",
+        "genero":"country",
+        "nombre":"Taking Water",
+        "año":2019,
+        "id":"6CFWS3OAIybkmUQHOZt33S"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Billy Strings",
+        "genero":"country",
+        "nombre":"Away From The Mire",
+        "año":2019,
+        "id":"6oPDKGwBri4OLQX5IYu02T"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Billy Strings",
+        "genero":"country",
+        "nombre":"Watch It Fall",
+        "año":2019,
+        "id":"348k0fvTj8lMXdkUR7mJZ4"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Williams",
+        "genero":"country",
+        "nombre":"There Was Jesus",
+        "año":2019,
+        "id":"6oizwmD5yHvlQUw0xvirrY"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Williams",
+        "genero":"country",
+        "nombre":"Rescue Story",
+        "año":2019,
+        "id":"0P0IfSuzTC6bLUsHjmDuvW"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Williams",
+        "genero":"country",
+        "nombre":"Less Like Me",
+        "año":2019,
+        "id":"7gmH5daETvXydroHAJoZQT"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dave Fenley",
+        "genero":"country",
+        "nombre":"Stuck on You",
+        "año":2019,
+        "id":"6pEfFObFiaxylYr9yHX3V1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dave Fenley",
+        "genero":"country",
+        "nombre":"Help Me Hold On",
+        "año":2019,
+        "id":"07gDXogi68AUkCvJ4LiF53"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dave Fenley",
+        "genero":"country",
+        "nombre":"Turn the Page",
+        "año":2019,
+        "id":"628jPE3QF6leQNwUC4m7nJ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cody Jinks",
+        "genero":"country",
+        "nombre":"Ain't a Train",
+        "año":2019,
+        "id":"26rNkQarR1C3XItosI6P3i"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tyler Braden",
+        "genero":"country",
+        "nombre":"Thank Me for That",
+        "año":2019,
+        "id":"5s8wmYKFbYfHO0W49vKuv4"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Dead South",
+        "genero":"country",
+        "nombre":"Broken Cowboy",
+        "año":2019,
+        "id":"4LDpOJkDGGyuxvXyLFYSSN"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Dead South",
+        "genero":"country",
+        "nombre":"Black Lung",
+        "año":2019,
+        "id":"382o5X75WPYVvWNJI2HqCQ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Dead South",
+        "genero":"country",
+        "nombre":"Diamond Ring",
+        "año":2019,
+        "id":"2ZkOdMecUO8UZtNEmL5htz"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"Cheatin’ Songs",
+        "año":2019,
+        "id":"01dBLHq3UWyDRWDZJXj235"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"Mr. Lonely",
+        "año":2019,
+        "id":"6V6Fma9lttQBnIaeHdZ4eC"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"Fourteen Gears",
+        "año":2019,
+        "id":"6oQZavCjiMN7q2tGmK8K2F"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"OurVinyl",
+        "genero":"country",
+        "nombre":"Sure Don't Miss You (OurVinyl Session)",
+        "año":2019,
+        "id":"7Mze4xkzLpL2MJROXVuOOZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"OurVinyl",
+        "genero":"country",
+        "nombre":"State Line (OurVinyl Sessions)",
+        "año":2019,
+        "id":"4nww7V9xrzGSyxzb14G0pG"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"Slow Ride",
+        "año":2019,
+        "id":"4C6wFHj4l4an2UCVGXR6c5"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Ryan Bingham",
+        "genero":"country",
+        "nombre":"Wolves",
+        "año":2019,
+        "id":"48WgsmbLBu9emLSodjG0O5"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Holler Boys",
+        "año":2019,
+        "id":"3z0dzcrMa0e9TpP6xxKwaU"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Hey Boy, Hey Girl",
+        "año":2019,
+        "id":"47f6eZgviwSZciXGv2iWYg"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"Feet Off The Ground (feat. Jade Bird)",
+        "año":2019,
+        "id":"5HlqJxuU7T8Tqn56f2d3Pg"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Cocaine Country Dancing",
+        "año":2019,
+        "id":"2v7nHAyV9SyyuAJKX3Ntaj"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Holy Ghost Fire",
+        "año":2019,
+        "id":"4bzvtKQtQj97GCc58blg0K"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Charles Wesley Godwin",
+        "genero":"country",
+        "nombre":"Hardwood Floors",
+        "año":2019,
+        "id":"7ombTZVkZmszWGo4QX4nSo"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Charles Wesley Godwin",
+        "genero":"country",
+        "nombre":"Seneca Creek",
+        "año":2019,
+        "id":"1aH17xIbWJQToV9dEa89z8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lauren Alaina",
+        "genero":"country",
+        "nombre":"ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+        "año":2019,
+        "id":"2tev2oEdAUyNtR1U8gQ8c4"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Watchhouse",
+        "genero":"country",
+        "nombre":"Golden Embers",
+        "año":2019,
+        "id":"4OkKz8LhKo846kN3nncNZs"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Watchhouse",
+        "genero":"country",
+        "nombre":"The Wolves",
+        "año":2019,
+        "id":"0n7eIgN6SqXohLpAEd27Jr"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Justin Moore",
+        "genero":"country",
+        "nombre":"Why We Drink",
+        "año":2019,
+        "id":"4lSfhHd5Knwl8yQw2cVjAD"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Justin Moore",
+        "genero":"country",
+        "nombre":"The Ones That Didn’t Make It Back Home",
+        "año":2019,
+        "id":"6Vmb8Ru0BvjWGozOVGApRd"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Josh Meloy",
+        "genero":"country",
+        "nombre":"Natural Born Killer",
+        "año":2019,
+        "id":"3MOU5I7wm7ItM6A9zz34YL"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Muscadine Bloodline",
+        "genero":"country",
+        "nombre":"Put Me in My Place",
+        "año":2019,
+        "id":"4CEEBr79p52p9U7mkBfzUy"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Joy Williams",
+        "genero":"country",
+        "nombre":"Front Porch",
+        "año":2019,
+        "id":"5sVyefkGgQeYCgnqr4KslQ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Joy Williams",
+        "genero":"country",
+        "nombre":"The Trouble with Wanting",
+        "año":2019,
+        "id":"5ZUObJNpVt2l9GogUSfALc"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Joy Williams",
+        "genero":"country",
+        "nombre":"No Place Like You",
+        "año":2019,
+        "id":"2ZcVl0rG4CFi7KHNeUxvFa"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Joy Williams",
+        "genero":"country",
+        "nombre":"Canary",
+        "año":2019,
+        "id":"0CTwMHxWBYOcuA2K02qcOf"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"HARDY",
+        "genero":"country",
+        "nombre":"GIVE HEAVEN SOME HELL",
+        "año":2020,
+        "id":"6kBbetvAHiBSNIpndZBs6W"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kane Brown",
+        "genero":"country",
+        "nombre":"Be Like That - feat. Swae Lee & Khalid",
+        "año":2020,
+        "id":"5f1joOtoMeyppIcJGZQvqJ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Eric Church",
+        "genero":"country",
+        "nombre":"Roll Me Up and Smoke Me When I Die - Live",
+        "año":2020,
+        "id":"5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Willie Nelson",
+        "genero":"country",
+        "nombre":"Roll Me Up and Smoke Me When I Die - Live",
+        "año":2020,
+        "id":"5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Thomas Rhett",
+        "genero":"country",
+        "nombre":"Broke (feat. Thomas Rhett)",
+        "año":2020,
+        "id":"1etcoCl2mkHpMHkMVco8iz"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Luke Combs",
+        "genero":"country",
+        "nombre":"Forever After All",
+        "año":2020,
+        "id":"6IBcOGPsniK3Pso1wHIhew"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Luke Bryan",
+        "genero":"country",
+        "nombre":"Knockin' Boots",
+        "año":2020,
+        "id":"2opQESZb7JsRKCvWMBPeuv"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Luke Bryan",
+        "genero":"country",
+        "nombre":"One Margarita",
+        "año":2020,
+        "id":"1Y3TlYJNhIa7k4YAvFkJAB"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Teddy Swims",
+        "genero":"country",
+        "nombre":"You're Still The One",
+        "año":2020,
+        "id":"4guQztGKAETkvuTekNeqBe"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"Revival",
+        "año":2020,
+        "id":"2QfX9Pdz3q66fN3kCXl0Js"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Chris Stapleton",
+        "genero":"country",
+        "nombre":"You Should Probably Leave",
+        "año":2020,
+        "id":"2UikqkwBv7aIvlixeVXHWt"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Chris Stapleton",
+        "genero":"country",
+        "nombre":"Starting Over",
+        "año":2020,
+        "id":"3K07bGe8iljQ3mOKArHLDo"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Chris Stapleton",
+        "genero":"country",
+        "nombre":"Cold",
+        "año":2020,
+        "id":"24nhOvYX2gk3txBbMzXeUB"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Chris Stapleton",
+        "genero":"country",
+        "nombre":"Joy Of My Life",
+        "año":2020,
+        "id":"4EuaDcxHmHKS6gZ5iuGba0"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Emmylou Harris",
+        "genero":"country",
+        "nombre":"Roll Me Up and Smoke Me When I Die - Live",
+        "año":2020,
+        "id":"5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Emmylou Harris",
+        "genero":"country",
+        "nombre":"On The Road Again - Live",
+        "año":2020,
+        "id":"0vcJzE2LuNY9aoq2hdMjHZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kris Kristofferson",
+        "genero":"country",
+        "nombre":"Roll Me Up and Smoke Me When I Die - Live",
+        "año":2020,
+        "id":"5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kris Kristofferson",
+        "genero":"country",
+        "nombre":"On The Road Again - Live",
+        "año":2020,
+        "id":"0vcJzE2LuNY9aoq2hdMjHZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jimmy Buffett",
+        "genero":"country",
+        "nombre":"Roll Me Up and Smoke Me When I Die - Live",
+        "año":2020,
+        "id":"5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jimmy Buffett",
+        "genero":"country",
+        "nombre":"On The Road Again - Live",
+        "año":2020,
+        "id":"0vcJzE2LuNY9aoq2hdMjHZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"half of my hometown (feat. Kenny Chesney)",
+        "año":2020,
+        "id":"1yRke3PmsyFrYlFZOAkABk"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"hole in the bottle",
+        "año":2020,
+        "id":"2yySWxfeRN2QRZnFMnYMQl"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Colter Wall",
+        "genero":"country",
+        "nombre":"Cowpoke",
+        "año":2020,
+        "id":"0QJKUh0ga2ubfuVs8DM7bq"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Russell Dickerson",
+        "genero":"country",
+        "nombre":"Love You Like I Used To",
+        "año":2020,
+        "id":"5oVEXLYT47mTPnHwTGHciX"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Russell Dickerson",
+        "genero":"country",
+        "nombre":"Home Sweet",
+        "año":2020,
+        "id":"6gbgP1TVtL3OjcMOdzY1BD"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sons of Legion",
+        "genero":"country",
+        "nombre":"Power",
+        "año":2020,
+        "id":"6tNZq8XsV3FWUR0u4gDrDF"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sons of Legion",
+        "genero":"country",
+        "nombre":"Brand New Day",
+        "año":2020,
+        "id":"365Hns7Hf2P1s05HoCyf2V"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Koe Wetzel",
+        "genero":"country",
+        "nombre":"Drunk Driving",
+        "año":2020,
+        "id":"3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Poor Man's Poison",
+        "genero":"country",
+        "nombre":"Feed the Machine",
+        "año":2020,
+        "id":"40wmXUgVB0N5eLK8CuOhm3"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Parker McCollum",
+        "genero":"country",
+        "nombre":"Young Man's Blues",
+        "año":2020,
+        "id":"6ywiHcxaHBR39gRhud37XK"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Keith Urban",
+        "genero":"country",
+        "nombre":"One Too Many",
+        "año":2020,
+        "id":"3X7H1FAiWAW937WvsFeMhe"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"LeAnn Rimes",
+        "genero":"country",
+        "nombre":"The Right Kind Of Wrong",
+        "año":2020,
+        "id":"0bJ03Oyk12EZhfn5OEfOVu"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Josh Turner",
+        "genero":"country",
+        "nombre":"Forever And Ever, Amen",
+        "año":2020,
+        "id":"17BbthWRrVc1kukJua4uh5"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tom MacDonald",
+        "genero":"country",
+        "nombre":"People So Stupid",
+        "año":2020,
+        "id":"3rjJAqZWPjDhsTkCmc2HcY"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Vince Gill",
+        "genero":"country",
+        "nombre":"Roll Me Up and Smoke Me When I Die - Live",
+        "año":2020,
+        "id":"5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Vince Gill",
+        "genero":"country",
+        "nombre":"On The Road Again - Live",
+        "año":2020,
+        "id":"0vcJzE2LuNY9aoq2hdMjHZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sturgill Simpson",
+        "genero":"country",
+        "nombre":"I Don't Mind",
+        "año":2020,
+        "id":"0NkiEX9bdIm7a06pJBbOYs"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sturgill Simpson",
+        "genero":"country",
+        "nombre":"All Around You",
+        "año":2020,
+        "id":"2su9lOnI21rEmHdBcWjM2B"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Alison Krauss",
+        "genero":"country",
+        "nombre":"Amazing Grace (arr. Mercurio)",
+        "año":2020,
+        "id":"1OWoYQ9tGoufbJGY0YOdAI"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Flatland Cavalry",
+        "genero":"country",
+        "nombre":"West Texas in My Eye",
+        "año":2020,
+        "id":"7rr2MisgPp9gRn1ydcwpe7"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dave Fenley",
+        "genero":"country",
+        "nombre":"Grandpa (Tell Me 'bout the Good Old Days)",
+        "año":2020,
+        "id":"1XhDpX7rrCFrI3ExwrNoU3"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dustin Lynch",
+        "genero":"country",
+        "nombre":"Ridin’ Roads",
+        "año":2020,
+        "id":"2VPmBOuy7ZAOFSzKwW2IEt"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dustin Lynch",
+        "genero":"country",
+        "nombre":"Thinking 'Bout You (feat. Lauren Alaina)",
+        "año":2020,
+        "id":"6NebrV4ZigAoXIRbe11hxh"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dustin Lynch",
+        "genero":"country",
+        "nombre":"Good Girl",
+        "año":2020,
+        "id":"3NgcaTIgVh77DdwAInp996"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sam Hunt",
+        "genero":"country",
+        "nombre":"Body Like A Back Road",
+        "año":2020,
+        "id":"7FpBQ067pHB67deawpbbcY"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sam Hunt",
+        "genero":"country",
+        "nombre":"Kinfolks",
+        "año":2020,
+        "id":"52lGuLAkIVbm4LZkSf9nj0"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sam Hunt",
+        "genero":"country",
+        "nombre":"Hard To Forget",
+        "año":2020,
+        "id":"10xuH52YSXHWFwCaF1fsDd"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lee Brice",
+        "genero":"country",
+        "nombre":"One Of Them Girls",
+        "año":2020,
+        "id":"6uyiyatWPCqC59Mm4rO8xL"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lee Brice",
+        "genero":"country",
+        "nombre":"I Hope You’re Happy Now",
+        "año":2020,
+        "id":"0Al3wN3keprGTSgG8NBwjr"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lee Brice",
+        "genero":"country",
+        "nombre":"Memory I Don't Mess With",
+        "año":2020,
+        "id":"1zYZs8Vbjhbzx5M3olcRnm"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lee Brice",
+        "genero":"country",
+        "nombre":"Soul",
+        "año":2020,
+        "id":"3vCUelLOtiuNF78p9LNWZF"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"OurVinyl",
+        "genero":"country",
+        "nombre":"The Night (OurVinyl Sessions)",
+        "año":2020,
+        "id":"4MbfmcmXZ0mlWFiY0L149A"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kameron Marlowe",
+        "genero":"country",
+        "nombre":"Giving You Up - Acoustic",
+        "año":2020,
+        "id":"5NIGKX5at9iO87OyOHmoiV"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Braxton Keith",
+        "genero":"country",
+        "nombre":"Let Me Love You More",
+        "año":2020,
+        "id":"05LmKXDAFpp8hRHZyBRDie"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"Black Creek",
+        "año":2020,
+        "id":"4jB3Mw900goYibsFAueHph"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"Keep 'Em on They Toes",
+        "año":2020,
+        "id":"0f388trqcZyqGbPJUqGWpx"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"No Place Left to Leave",
+        "año":2020,
+        "id":"3ByY1rAdGseNiZ43YknF3d"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jamey Johnson",
+        "genero":"country",
+        "nombre":"Roll Me Up and Smoke Me When I Die - Live",
+        "año":2020,
+        "id":"5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jamey Johnson",
+        "genero":"country",
+        "nombre":"On The Road Again - Live",
+        "año":2020,
+        "id":"0vcJzE2LuNY9aoq2hdMjHZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jamey Johnson",
+        "genero":"country",
+        "nombre":"Okie From Muskogee - Live",
+        "año":2020,
+        "id":"529x2bhs2op70bGqGOoLk4"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"Welcome to Hard Times",
+        "año":2020,
+        "id":"0tij6loXatN15kmrAjWWRr"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"John Michael Montgomery",
+        "genero":"country",
+        "nombre":"Life's a Dance",
+        "año":2020,
+        "id":"6Q5XLz1eX6BTnJLutstUvi"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Reba McEntire",
+        "genero":"country",
+        "nombre":"Fancy",
+        "año":2020,
+        "id":"5wF0S5ORJ5rMcWZICC46Fb"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Holy Ghost Fire - Electrophunck Remix",
+        "año":2020,
+        "id":"0o6rg4HOpwgT4SnLRhAdXo"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Cocaine Country Dancing - Electrophunck Remix",
+        "año":2020,
+        "id":"6gDYs5MCh1FOMBLsvn0V1c"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Unchained Melody",
+        "año":2020,
+        "id":"2Sub2r3YIAjrVUy4dVf7lJ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Steeldrivers",
+        "genero":"country",
+        "nombre":"I Choose You",
+        "año":2020,
+        "id":"56QIi1ES8speRvNHIHaHHl"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Steeldrivers",
+        "genero":"country",
+        "nombre":"The Bartender",
+        "año":2020,
+        "id":"6vBOgkPAZ0dY2CQf5sY9HK"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Gabby Barrett",
+        "genero":"country",
+        "nombre":"I Hope",
+        "año":2020,
+        "id":"23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Gabby Barrett",
+        "genero":"country",
+        "nombre":"The Good Ones",
+        "año":2020,
+        "id":"3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Gabby Barrett",
+        "genero":"country",
+        "nombre":"I Hope (feat. Charlie Puth)",
+        "año":2020,
+        "id":"5cYFwgA5dHoqR3xGnlr9ew"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Steve Earle",
+        "genero":"country",
+        "nombre":"Roll Me Up and Smoke Me When I Die - Live",
+        "año":2020,
+        "id":"5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Steve Earle",
+        "genero":"country",
+        "nombre":"On The Road Again - Live",
+        "año":2020,
+        "id":"0vcJzE2LuNY9aoq2hdMjHZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Josh Meloy",
+        "genero":"country",
+        "nombre":"Met the Devil in Oklahoma",
+        "año":2020,
+        "id":"32GtaR8mm14DOmhWzG8Jik"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Muscadine Bloodline",
+        "genero":"country",
+        "nombre":"Pieces",
+        "año":2020,
+        "id":"73rxH6rYJQZtwfjKNb4mwZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Muscadine Bloodline",
+        "genero":"country",
+        "nombre":"Turn Back Time",
+        "año":2020,
+        "id":"6qIYUq7qoHFvqWuUjBVovi"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Little Big Town",
+        "genero":"country",
+        "nombre":"Wine, Beer, Whiskey",
+        "año":2020,
+        "id":"5avVDmK9FVJpd3MDO8I3Zl"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Megan Moroney",
+        "genero":"country",
+        "nombre":"Wonder",
+        "año":2021,
+        "id":"1z89jCXIK0JzyBtaa7Sn58"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Treaty Oak Revival",
+        "genero":"country",
+        "nombre":"Missed Call",
+        "año":2021,
+        "id":"6ybZUqlfk938oS6WeBmDab"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Treaty Oak Revival",
+        "genero":"country",
+        "nombre":"No Vacancy",
+        "año":2021,
+        "id":"3pVs5Zehts89WLyBPiYfxG"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Treaty Oak Revival",
+        "genero":"country",
+        "nombre":"Ode To Bourbon",
+        "año":2021,
+        "id":"4kvCtReby19JPkePLwy8Pq"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Treaty Oak Revival",
+        "genero":"country",
+        "nombre":"One Time Thing",
+        "año":2021,
+        "id":"68eJ2p1kk3elAYFfw8mJYS"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Ethel Cain",
+        "genero":"country",
+        "nombre":"Crush",
+        "año":2021,
+        "id":"0nsIevK1SeDfZzDOi6Si75"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kane Brown",
+        "genero":"country",
+        "nombre":"Famous Friends",
+        "año":2021,
+        "id":"00KyYtT6NaXwbPecina5Pj"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Eric Church",
+        "genero":"country",
+        "nombre":"Hell Of A View",
+        "año":2021,
+        "id":"4mXGooManGPH6xAWRAtRJU"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Florida Georgia Line",
+        "genero":"country",
+        "nombre":"Lil Bit (feat. Florida Georgia Line)",
+        "año":2021,
+        "id":"33aow0AcXYvT1FoWNzMcqN"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cody Johnson",
+        "genero":"country",
+        "nombre":"'Til You Can't",
+        "año":2021,
+        "id":"4k3lPl8YTKuY8c1HelVnm3"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jason Aldean",
+        "genero":"country",
+        "nombre":"If I Didn’t Love You",
+        "año":2021,
+        "id":"7IYoh1u7dFM1xIWSEYd5B8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jordan Davis",
+        "genero":"country",
+        "nombre":"Buy Dirt",
+        "año":2021,
+        "id":"69AIpwGNLxr4qS1X5ynx60"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lainey Wilson",
+        "genero":"country",
+        "nombre":"Things A Man Oughta Know",
+        "año":2021,
+        "id":"3S0sk6DSTgesXsUSAEHNr5"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lainey Wilson",
+        "genero":"country",
+        "nombre":"Dirty Looks",
+        "año":2021,
+        "id":"45EwtYrnqJH3AH2bFpEOC6"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Thomas Rhett",
+        "genero":"country",
+        "nombre":"What’s Your Country Song",
+        "año":2021,
+        "id":"4oR2cCQGs0Yt0Mgr2diV6V"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bailey Zimmerman",
+        "genero":"country",
+        "nombre":"Never Comin' Home",
+        "año":2021,
+        "id":"4hEA25qUMn3camHI87UhiI"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"KALEO",
+        "genero":"country",
+        "nombre":"Break My Baby",
+        "año":2021,
+        "id":"3BsoE7SgveujY2jeV2rVRw"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"KALEO",
+        "genero":"country",
+        "nombre":"Hey Gringo",
+        "año":2021,
+        "id":"4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"KALEO",
+        "genero":"country",
+        "nombre":"Backbone",
+        "año":2021,
+        "id":"2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jelly Roll",
+        "genero":"country",
+        "nombre":"Son Of A Sinner",
+        "año":2021,
+        "id":"6ngGiVX91DRmGDH4G5EgeO"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dan + Shay",
+        "genero":"country",
+        "nombre":"10,000 Hours (with Justin Bieber)",
+        "año":2021,
+        "id":"4j5ffIFh7bFT7GZciP1TCy"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dan + Shay",
+        "genero":"country",
+        "nombre":"Glad You Exist",
+        "año":2021,
+        "id":"3oV2RVOmwdWdf9BmGS4Oad"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Avery Anna",
+        "genero":"country",
+        "nombre":"Narcissist",
+        "año":2021,
+        "id":"3LLezpquftwn7QI1rYIovM"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"I Quit Drinking",
+        "año":2021,
+        "id":"6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brett Young",
+        "genero":"country",
+        "nombre":"Lady",
+        "año":2021,
+        "id":"2fSuoIlA1uTERXunbshSWh"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brett Young",
+        "genero":"country",
+        "nombre":"You Didn’t",
+        "año":2021,
+        "id":"5Jwcv2Le3Klwgrgyqa12ZA"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sons of Legion",
+        "genero":"country",
+        "nombre":"Remember My Name",
+        "año":2021,
+        "id":"74U3RSDvW0WmyUufIHGgjn"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sons of Legion",
+        "genero":"country",
+        "nombre":"Runnin'",
+        "año":2021,
+        "id":"702Ol1InVkK0Zwdg3SKGZP"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Poor Man's Poison",
+        "genero":"country",
+        "nombre":"Give and Take",
+        "año":2021,
+        "id":"4pZos1A9cAsvHx5kj1O38W"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Parker McCollum",
+        "genero":"country",
+        "nombre":"Pretty Heart",
+        "año":2021,
+        "id":"7nINhyXn6uwUkYLY5KQH0K"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Parker McCollum",
+        "genero":"country",
+        "nombre":"To Be Loved By You",
+        "año":2021,
+        "id":"2pUQX4d3Cjh3umGkVz0XyI"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Maren Morris",
+        "genero":"country",
+        "nombre":"Chasing After You",
+        "año":2021,
+        "id":"3MkXV52jXtsG4pvKp4cGE8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Maren Morris",
+        "genero":"country",
+        "nombre":"You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+        "año":2021,
+        "id":"4CHpVfAhuxNJ3ibExe6kxO"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Old Dominion",
+        "genero":"country",
+        "nombre":"I Was On a Boat That Day",
+        "año":2021,
+        "id":"7u6kAP26NFU2rwNKjFUpI8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Carrie Underwood",
+        "genero":"country",
+        "nombre":"If I Didn’t Love You",
+        "año":2021,
+        "id":"7IYoh1u7dFM1xIWSEYd5B8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tom MacDonald",
+        "genero":"country",
+        "nombre":"Clown World",
+        "año":2021,
+        "id":"2QD9yFCDFM0OyXSrkIqZzG"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tom MacDonald",
+        "genero":"country",
+        "nombre":"Fake Woke",
+        "año":2021,
+        "id":"22N2WWWq3pGweYgP5o5q7w"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sturgill Simpson",
+        "genero":"country",
+        "nombre":"Sam",
+        "año":2021,
+        "id":"1kKDVYavcoEH5N6R6ezM6T"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sierra Ferrell",
+        "genero":"country",
+        "nombre":"In Dreams",
+        "año":2021,
+        "id":"0ewKJ6eM0Z761OissISTW7"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sierra Ferrell",
+        "genero":"country",
+        "nombre":"Jeremiah",
+        "año":2021,
+        "id":"23ZnVd3Qa0kwsTJcfHVjJ0"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Billy Strings",
+        "genero":"country",
+        "nombre":"The Great Divide",
+        "año":2021,
+        "id":"3q3lSbfT5BnQlIvGwahgAD"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Billy Strings",
+        "genero":"country",
+        "nombre":"Know It All",
+        "año":2021,
+        "id":"687SHqnUp3yGfGiuwgE2WG"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Billy Strings",
+        "genero":"country",
+        "nombre":"In The Morning Light",
+        "año":2021,
+        "id":"094CEqqfSyUyMygzZNcfJC"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Chris Young",
+        "genero":"country",
+        "nombre":"Famous Friends",
+        "año":2021,
+        "id":"00KyYtT6NaXwbPecina5Pj"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Williams",
+        "genero":"country",
+        "nombre":"Rise Up (Lazarus)",
+        "año":2021,
+        "id":"5whJyPtbKSw3BNU61o9sPE"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Alison Krauss",
+        "genero":"country",
+        "nombre":"Can't Let Go",
+        "año":2021,
+        "id":"57nF5aaoeyHOBRnyjV6lCT"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dave Fenley",
+        "genero":"country",
+        "nombre":"Shallow",
+        "año":2021,
+        "id":"6GqrODNtHxtpAnbNRIv1Qe"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Chase Matthew",
+        "genero":"country",
+        "nombre":"County Line",
+        "año":2021,
+        "id":"7K4Y80atyigrNkZZVbOsQ1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Chase Matthew",
+        "genero":"country",
+        "nombre":"Pull Up",
+        "año":2021,
+        "id":"3DWl5nnIYM390wBQ1CxiMm"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dierks Bentley",
+        "genero":"country",
+        "nombre":"Beers On Me",
+        "año":2021,
+        "id":"19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cooper Alan",
+        "genero":"country",
+        "nombre":"Colt 45 (Country Remix)",
+        "año":2021,
+        "id":"0kgRRHa5CMeCciIgYT67re"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sam Hunt",
+        "genero":"country",
+        "nombre":"23",
+        "año":2021,
+        "id":"4PuAqZlL1tkidkuxfDlLbF"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"OurVinyl",
+        "genero":"country",
+        "nombre":"Champagne Supernova (OurVinyl Sessions)",
+        "año":2021,
+        "id":"0C0bw3UZM525pEFU6hYfVH"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"Truth About You",
+        "año":2021,
+        "id":"0M0YznaIOwAdoo2cT2KwpK"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"Bucket List",
+        "año":2021,
+        "id":"3SNwXLyFpMhd1YRay8oKH3"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"This Side of Town",
+        "año":2021,
+        "id":"45d1VpWqBmWbqkSL8hZCDx"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Upchurch",
+        "genero":"country",
+        "nombre":"Real Country",
+        "año":2021,
+        "id":"6YmmfDU2SajENgzwtRtUTn"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Braxton Keith",
+        "genero":"country",
+        "nombre":"A Little Bit Closer",
+        "año":2021,
+        "id":"2E3o3ztofEqaGD2QqVbQ7C"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Corey Kent",
+        "genero":"country",
+        "nombre":"Gold",
+        "año":2021,
+        "id":"4LhE9kmjMAujqJJhT6r6V4"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Corey Kent",
+        "genero":"country",
+        "nombre":"Ain't My Day",
+        "año":2021,
+        "id":"2PbIcS1N9Sdn293S0tIN0E"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Corey Kent",
+        "genero":"country",
+        "nombre":"Highways",
+        "año":2021,
+        "id":"2oVbfiz6AybMytuU5tsVR1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Redferrin",
+        "genero":"country",
+        "nombre":"Stuck",
+        "año":2021,
+        "id":"0zpxJZIcJUZZTAuhpkmas2"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Redferrin",
+        "genero":"country",
+        "nombre":"Wouldn't Hurt",
+        "año":2021,
+        "id":"4WvOA9c8SpIpOFmWjZt4yU"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"I Need Your Love",
+        "año":2021,
+        "id":"2xukUi9mX3gH3n6j0aPyD7"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"I Can Help",
+        "año":2021,
+        "id":"6jA2i54oeB8cq1c3YF2YQG"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Reba McEntire",
+        "genero":"country",
+        "nombre":"The Night The Lights Went Out In Georgia - Revived",
+        "año":2021,
+        "id":"2AvjlUXWAxxyDmfpUGQ4zz"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Charles Wesley Godwin",
+        "genero":"country",
+        "nombre":"Temporary Town",
+        "año":2021,
+        "id":"2WH77R5lLir7ZHW8ey7t8H"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Charles Wesley Godwin",
+        "genero":"country",
+        "nombre":"Jesse",
+        "año":2021,
+        "id":"7MyxpCWldoyrKvB61kahpS"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tyler Hubbard",
+        "genero":"country",
+        "nombre":"Country Boy Do (feat. Tyler Hubbard)",
+        "año":2021,
+        "id":"24MH7MzHl5XAYlmMdn85CF"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tyler Hubbard",
+        "genero":"country",
+        "nombre":"My Way (feat Tyler Hubbard)",
+        "año":2021,
+        "id":"3qppdX325WO677KrczGZrv"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tyler Hubbard",
+        "genero":"country",
+        "nombre":"Undivided",
+        "año":2021,
+        "id":"7ighoI7pr7eE4r0gyXZwX7"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Gabby Barrett",
+        "genero":"country",
+        "nombre":"Pick Me Up",
+        "año":2021,
+        "id":"2jB7EAkahL97QysjRYecTS"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Justin Moore",
+        "genero":"country",
+        "nombre":"We Didn't Have Much",
+        "año":2021,
+        "id":"0Iuw6WPws324i7G7sCejTX"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Scotty McCreery",
+        "genero":"country",
+        "nombre":"Damn Strait",
+        "año":2021,
+        "id":"0gNrujgnSfw4LuSvd0Jbs6"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Scotty McCreery",
+        "genero":"country",
+        "nombre":"It Matters To Her",
+        "año":2021,
+        "id":"4aSRUXfKuBbmje0eXNukuL"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Scotty McCreery",
+        "genero":"country",
+        "nombre":"You Time",
+        "año":2021,
+        "id":"3yFsyy1hw7v31NBrRJX2QM"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Little Big Town",
+        "genero":"country",
+        "nombre":"Fillin' My Cup (feat. Little Big Town)",
+        "año":2021,
+        "id":"01zCnAX0Qeo7sOFpGPcHob"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"City Spud",
+        "genero":"country",
+        "nombre":"Ms. Drive Me Crazy (feat. Darius Rucker & City Spud)",
+        "año":2021,
+        "id":"7lphCl31xQlZo4wl6hwt7m"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Joy Williams",
+        "genero":"country",
+        "nombre":"Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version)",
+        "año":2021,
+        "id":"2RJnNdu4pb3MypbBroHU0T"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Red Clay Strays",
+        "genero":"country",
+        "nombre":"Wondering Why",
+        "año":2022,
+        "id":"1HbzxLqpNVPdiBXvpC7Ovb"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Red Clay Strays",
+        "genero":"country",
+        "nombre":"Stone's Throw",
+        "año":2022,
+        "id":"65BmUqyPuH4QLfQjcoJPFL"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Red Clay Strays",
+        "genero":"country",
+        "nombre":"Moment of Truth",
+        "año":2022,
+        "id":"714tF0Vt9ohC9uWwEyIRAo"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Ethel Cain",
+        "genero":"country",
+        "nombre":"American Teenager",
+        "año":2022,
+        "id":"4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Ethel Cain",
+        "genero":"country",
+        "nombre":"Strangers",
+        "año":2022,
+        "id":"5Cc0Pe8p7c2OJxMj07ywvc"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Ethel Cain",
+        "genero":"country",
+        "nombre":"Sun Bleached Flies",
+        "año":2022,
+        "id":"6fKIyDJHZ9m84jRhSmpuwS"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Ethel Cain",
+        "genero":"country",
+        "nombre":"A House In Nebraska",
+        "año":2022,
+        "id":"6UxAKocZd98MRn0u5obryV"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kane Brown",
+        "genero":"country",
+        "nombre":"Thank God",
+        "año":2022,
+        "id":"1brnLTvarI9D1hLP6z2Ar8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kane Brown",
+        "genero":"country",
+        "nombre":"Like I Love Country Music",
+        "año":2022,
+        "id":"5C9jQ8ikTOieveuORd8wlf"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Paris Paloma",
+        "genero":"country",
+        "nombre":"the fruits",
+        "año":2022,
+        "id":"58VTP6KnZs12PcAj5rMJ4W"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Paris Paloma",
+        "genero":"country",
+        "nombre":"It's Called: Freefall",
+        "año":2022,
+        "id":"2IRjyyiU5P9WnmXJKcnwww"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Florida Georgia Line",
+        "genero":"country",
+        "nombre":"Up Down",
+        "año":2022,
+        "id":"1zQMvZU0A2De2oaYo3DLRE"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jon Pardi",
+        "genero":"country",
+        "nombre":"Mr. Saturday Night",
+        "año":2022,
+        "id":"109ETcT7xie3TKvt1Ser6t"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jon Pardi",
+        "genero":"country",
+        "nombre":"Your Heart Or Mine",
+        "año":2022,
+        "id":"7ETjhPaIU4UmHOiimJBZz9"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Jon Pardi",
+        "genero":"country",
+        "nombre":"Last Night Lonely",
+        "año":2022,
+        "id":"0k11c8vwyeNSGQex6UMa1v"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lainey Wilson",
+        "genero":"country",
+        "nombre":"Heart Like A Truck",
+        "año":2022,
+        "id":"5DIBVDJOHh7djepAjKHWCO"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lainey Wilson",
+        "genero":"country",
+        "nombre":"Watermelon Moonshine",
+        "año":2022,
+        "id":"3sYBFUXTv0STUoUINx9Qe8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"Something in the Orange",
+        "año":2022,
+        "id":"3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"Motorcycle Drive By",
+        "año":2022,
+        "id":"2HbpYFQbairMoU2YFyOP2x"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"Burn, Burn, Burn",
+        "año":2022,
+        "id":"5jfhLCSIFUO4ndzNRh4w4G"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Zach Bryan",
+        "genero":"country",
+        "nombre":"Oklahoma Smokeshow",
+        "año":2022,
+        "id":"0OWhKvvsHptt6vnnNUSM9a"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dylan Scott",
+        "genero":"country",
+        "nombre":"Good Times Go By Too Fast",
+        "año":2022,
+        "id":"7INk3focyW89pATBgageU7"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dylan Scott",
+        "genero":"country",
+        "nombre":"Can't Have Mine (Find You A Girl)",
+        "año":2022,
+        "id":"3jfywRZH6cB2iLyKqo4EZd"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dylan Scott",
+        "genero":"country",
+        "nombre":"Nobody",
+        "año":2022,
+        "id":"2pxN8Z0hMuIjLQkbUYHyhY"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dylan Scott",
+        "genero":"country",
+        "nombre":"New Truck",
+        "año":2022,
+        "id":"3Z7gf1gsEPpzBRdokLYkGy"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kelsea Ballerini",
+        "genero":"country",
+        "nombre":"IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+        "año":2022,
+        "id":"1jX9wlAgVkAl0fCZqkCI73"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Colter Wall",
+        "genero":"country",
+        "nombre":"Cypress Hills and the Big Country",
+        "año":2022,
+        "id":"0VMoMJY1x5R3NGwBPL9ojE"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Russell Dickerson",
+        "genero":"country",
+        "nombre":"God Gave Me A Girl",
+        "año":2022,
+        "id":"7kkLBfxW41iVO0cdLU9e9S"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Russell Dickerson",
+        "genero":"country",
+        "nombre":"She Likes It (feat. Jake Scott)",
+        "año":2022,
+        "id":"4uJDDG8vXJ6fZHtTfrPfMX"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sons of Legion",
+        "genero":"country",
+        "nombre":"Fire Starter",
+        "año":2022,
+        "id":"3YjfhJzOKPX2jL0gOJptBR"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Soap&Skin",
+        "genero":"country",
+        "nombre":"Ich tauche auf (feat. Soap&Skin)",
+        "año":2022,
+        "id":"5Wfg7vat4RnDmgZDUxGF12"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Warren Zeiders",
+        "genero":"country",
+        "nombre":"Ride the Lightning - 717 Tapes",
+        "año":2022,
+        "id":"04YKO5t4AZrsqKfGhhUb2j"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Warren Zeiders",
+        "genero":"country",
+        "nombre":"Up To No Good",
+        "año":2022,
+        "id":"03hcfTQjONwVFIYEu7Sx7u"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Whiskey Myers",
+        "genero":"country",
+        "nombre":"Heart of Stone",
+        "año":2022,
+        "id":"7dHnVfXljNwvlLGlr6lMlc"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Whiskey Myers",
+        "genero":"country",
+        "nombre":"John Wayne",
+        "año":2022,
+        "id":"4TcpoeAXkbJnXfxvOjJzCy"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Keith Urban",
+        "genero":"country",
+        "nombre":"Throw It Back (feat. Keith Urban)",
+        "año":2022,
+        "id":"4eBaGa3ykdcmrGSKlHrAnV"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"ERNEST",
+        "genero":"country",
+        "nombre":"Flower Shops (feat. Morgan Wallen)",
+        "año":2022,
+        "id":"1DbZAffh8GGwW41Q3AU8iC"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"ERNEST",
+        "genero":"country",
+        "nombre":"Flower Shops (feat. Morgan Wallen) (Acoustic)",
+        "año":2022,
+        "id":"5FjPH6pycWcPNtCMPvq6Gj"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Elle King",
+        "genero":"country",
+        "nombre":"Dear Alcohol (feat. Elle King)",
+        "año":2022,
+        "id":"2JspXl1hD5EUfyBln7r0F6"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tom MacDonald",
+        "genero":"country",
+        "nombre":"The System",
+        "año":2022,
+        "id":"3GOLkVAy82iWaF953nRPe4"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tom MacDonald",
+        "genero":"country",
+        "nombre":"Whiteboyz",
+        "año":2022,
+        "id":"6JRbb3Gpytv9olKoq9O9YP"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Evan Honer",
+        "genero":"country",
+        "nombre":"Jersey Giant",
+        "año":2022,
+        "id":"3hEkAosl2ZuO9FltxY5L1R"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Sierra Ferrell",
+        "genero":"country",
+        "nombre":"Years",
+        "año":2022,
+        "id":"29mTi7k11emagueZvOaXgS"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Wyatt Flores",
+        "genero":"country",
+        "nombre":"Please Don't Go",
+        "año":2022,
+        "id":"7fb4Qp5YoT4BKFdbj1Xu8r"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Wyatt Flores",
+        "genero":"country",
+        "nombre":"Losing Sleep",
+        "año":2022,
+        "id":"2jgsXLMRHhdWfDIlvI8cbx"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dave Fenley",
+        "genero":"country",
+        "nombre":"Stand by Me",
+        "año":2022,
+        "id":"2uqLJLLFdc9zR0jZCfa4NO"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dave Fenley",
+        "genero":"country",
+        "nombre":"I Will Always Love You",
+        "año":2022,
+        "id":"3FSKVylpJtOZbD50jOJDF0"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Chase Matthew",
+        "genero":"country",
+        "nombre":"Love You Again",
+        "año":2022,
+        "id":"1cAupeTLZyhhtfmRc4qaYy"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Chase Matthew",
+        "genero":"country",
+        "nombre":"Everything He Couldn't",
+        "año":2022,
+        "id":"239i2fCFmHmMrrYs4qH9e1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Saint Avangeline",
+        "genero":"country",
+        "nombre":"Lilith",
+        "año":2022,
+        "id":"4RF4iaYoM1XBbdvmC6zRtD"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Saint Avangeline",
+        "genero":"country",
+        "nombre":"Your Rarest of Flowers",
+        "año":2022,
+        "id":"4EwXt7qwBlfjul1rodqNBc"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Saint Avangeline",
+        "genero":"country",
+        "nombre":"Gardener of Eden",
+        "año":2022,
+        "id":"3PjrucNPcGVFewn81YJ0EW"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Saint Avangeline",
+        "genero":"country",
+        "nombre":"The Color Purple",
+        "año":2022,
+        "id":"5DkqtZHYVwyO5hDDOgjeZX"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Saint Avangeline",
+        "genero":"country",
+        "nombre":"Digital Snow",
+        "año":2022,
+        "id":"6Ol3tXDi5EI3Ls9MyoUq9M"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Tyler Braden",
+        "genero":"country",
+        "nombre":"Try Losing One",
+        "año":2022,
+        "id":"2rNAuVUZPkQfKBJPbE2eJT"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brantley Gilbert",
+        "genero":"country",
+        "nombre":"Son Of The Dirty South",
+        "año":2022,
+        "id":"6WaPKTy7RYb21gs8PasOPL"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brantley Gilbert",
+        "genero":"country",
+        "nombre":"Rolex® On A Redneck",
+        "año":2022,
+        "id":"1z4DZ2z4Lt5dlBcBFmtYyR"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Dead South",
+        "genero":"country",
+        "nombre":"People Are Strange",
+        "año":2022,
+        "id":"4sBXlQqVp4UpsI0wENiu88"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"The Dead South",
+        "genero":"country",
+        "nombre":"You Are My Sunshine",
+        "año":2022,
+        "id":"2VTUz4vnpsKwR9wluFNP59"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Josh Ross",
+        "genero":"country",
+        "nombre":"On A Different Night",
+        "año":2022,
+        "id":"4cF4vuC7Ci29yhnbuoFRZx"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dustin Lynch",
+        "genero":"country",
+        "nombre":"Thinking 'Bout You (feat. MacKenzie Porter)",
+        "año":2022,
+        "id":"5eUpUFdFaAeovPau6lQkqK"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Dustin Lynch",
+        "genero":"country",
+        "nombre":"Stars Like Confetti",
+        "año":2022,
+        "id":"4HXiZiCbYIiG03OQwXRYnE"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cole Swindell",
+        "genero":"country",
+        "nombre":"She Had Me At Heads Carolina",
+        "año":2022,
+        "id":"200x8ONbPfFzByUr3fVz46"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cole Swindell",
+        "genero":"country",
+        "nombre":"Never Say Never (with Lainey Wilson)",
+        "año":2022,
+        "id":"3iYEsBl8NBq1o1j5uY2Noe"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cole Swindell",
+        "genero":"country",
+        "nombre":"Single Saturday Night",
+        "año":2022,
+        "id":"6LnIxE8CqkK7faQV76nEHS"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Midland",
+        "genero":"country",
+        "nombre":"Sunrise Tells The Story",
+        "año":2022,
+        "id":"1fCl1BY97PPNnac9oewVBJ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Cooper Alan",
+        "genero":"country",
+        "nombre":"First Rodeo",
+        "año":2022,
+        "id":"2I75JDeFu2xQ1FaSU4otFO"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bryan Martin",
+        "genero":"country",
+        "nombre":"Memory to Drown",
+        "año":2022,
+        "id":"6d3rOaVzZshI2YRBl7WjQb"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bryan Martin",
+        "genero":"country",
+        "nombre":"Everyone's An Outlaw",
+        "año":2022,
+        "id":"5fyqWpeDtT2vqrT2sg4Ijw"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bryan Martin",
+        "genero":"country",
+        "nombre":"FAFO",
+        "año":2022,
+        "id":"76byB3pOWAII8p4KybeZQL"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bryan Martin",
+        "genero":"country",
+        "nombre":"More Than The Shine",
+        "año":2022,
+        "id":"7lCunNFGAmsaYUWIQR53G2"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bryan Martin",
+        "genero":"country",
+        "nombre":"Beauty in the Struggle",
+        "año":2022,
+        "id":"55bN4rlBZGJJPPt6I9MDsw"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Bryan Martin",
+        "genero":"country",
+        "nombre":"Lost",
+        "año":2022,
+        "id":"7nTCbyLTfmm3RZKi7qkTI0"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"OurVinyl",
+        "genero":"country",
+        "nombre":"Hungersite (OurVinyl Sessions)",
+        "año":2022,
+        "id":"0I7FNdQ22evWVR0VS5OX3d"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"We Got History",
+        "año":2022,
+        "id":"6Awl7JBDQjfm7xkS3LkhDi"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Mitchell Tenpenny",
+        "genero":"country",
+        "nombre":"Elephant in the Room (feat. Teddy Swims)",
+        "año":2022,
+        "id":"4F8PD0f1w8BJa6eheUKu6h"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"SOFIA ISELLA",
+        "genero":"country",
+        "nombre":"All of Human Knowledge Made Us Dumb",
+        "año":2022,
+        "id":"3tS55qdfVFF7VkQTyWunnG"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kameron Marlowe",
+        "genero":"country",
+        "nombre":"Giving You Up",
+        "año":2022,
+        "id":"1IqZi1kWPnE5RyQ7c6rm86"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kameron Marlowe",
+        "genero":"country",
+        "nombre":"Girl On Fire",
+        "año":2022,
+        "id":"3aMDzPibtzIRWzASMH44JF"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kameron Marlowe",
+        "genero":"country",
+        "nombre":"Steady Heart",
+        "año":2022,
+        "id":"1pkoZn0iGUIxFEaHHGQxMC"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Kameron Marlowe",
+        "genero":"country",
+        "nombre":"Burn 'Em All",
+        "año":2022,
+        "id":"60fj1EXr8FC63tztr9cvjA"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Anne Wilson",
+        "genero":"country",
+        "nombre":"My Jesus",
+        "año":2022,
+        "id":"7ETprIldSufrqcGF8MSBCZ"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Anne Wilson",
+        "genero":"country",
+        "nombre":"Sunday Sermons",
+        "año":2022,
+        "id":"3l9iNZD6J3nDZMlAhH48Q1"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Anne Wilson",
+        "genero":"country",
+        "nombre":"Living Water",
+        "año":2022,
+        "id":"3HmKJYBqbNhhbghGudS0Fs"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Anne Wilson",
+        "genero":"country",
+        "nombre":"Something About That Name",
+        "año":2022,
+        "id":"4ciS9nPEHe817gNWMem6xv"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Redferrin",
+        "genero":"country",
+        "nombre":"Tell 'Em Why",
+        "año":2022,
+        "id":"4hnK6Q3JSfSxnYIpxmxoOj"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Redferrin",
+        "genero":"country",
+        "nombre":"Doin' Good",
+        "año":2022,
+        "id":"0iat1oXi26nRLDqOTOZrfj"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Brent Cobb",
+        "genero":"country",
+        "nombre":"Wild And Blue",
+        "año":2022,
+        "id":"6hinPiQx1Us1iN1XBN5JG5"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Charley Crockett",
+        "genero":"country",
+        "nombre":"The Man from Waco",
+        "año":2022,
+        "id":"76AM6t1aDE12g7cjzEexER"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Paul Cauthen",
+        "genero":"country",
+        "nombre":"Country as Fuck",
+        "año":2022,
+        "id":"0ZphrJjSCb4hXHo6q64nMk"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Charles Wesley Godwin",
+        "genero":"country",
+        "nombre":"Jamie (feat. Charles Wesley Godwin)",
+        "año":2022,
+        "id":"11xeawurZXUDqRPxCasaDt"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Lauren Alaina",
+        "genero":"country",
+        "nombre":"Dancin' In The Moonlight (feat. Lauren Alaina)",
+        "año":2022,
+        "id":"1L0O1FRgee0LRZCtA1O6uA"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Justin Moore",
+        "genero":"country",
+        "nombre":"Lettin' The Night Roll",
+        "año":2022,
+        "id":"2T0p6NZh7rnR9vEBD99tbW"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Josh Meloy",
+        "genero":"country",
+        "nombre":"Porch Light",
+        "año":2022,
+        "id":"43SoxERu5UlXAgt4Es1VQU"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Josh Meloy",
+        "genero":"country",
+        "nombre":"You Here Tonight",
+        "año":2022,
+        "id":"1AIt0r0YN6pdW9QHmECLvr"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Oliver Anthony Music",
+        "genero":"country",
+        "nombre":"Aint Gotta Dollar",
+        "año":2022,
+        "id":"2USW8uFqLToqFKSVXDOEN8"
+    },
+    {
+        "tipo":"cancion",
+        "artista":"Muscadine Bloodline",
+        "genero":"country",
+        "nombre":"Dyin' For a Livin'",
+        "año":2022,
+        "id":"5AdIs84AXAFmTdWsrcvSDK"
+    }
+]
