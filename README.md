@@ -8,7 +8,7 @@
         tR=RRR         A través de este análisis de los datos extraídos a través de las APIs de Spotify    
          ;RRRR;           y last.fm, hemos querido aprovechar para hacer un recorrido por las canciones,
          ;RRRi            álbumes y artistas más escuchados en 5 géneros (pop, rock, metal, RnB, country) 
-         ;RRRV            elegidos compañeras del proyecto, en esos 5 años seleccionados.
+         ;RRRV            elegidos por las compañeras del proyecto para aplicar esa ventana de tiempo.
         ;RRRRR:        
       :RRRV.RX         Nuestra intención con la elección de ese rango de años es investigar cómo eran las  
      VRRR: ;R=            tendencias musicales tanto en pre-pandemia como post-pandemia por el COVID-19.
@@ -50,9 +50,10 @@ Análisis de datos de tendencias musicales tiempos de pre-pandemia, pandemia y p
 ## 1. ¿Cómo usar esto?
 
 Python 3.8 o superior.
-Versión de MySQL-Worbench.
 
-.Librerías:
+MySQL-Worbench *aquí hay que poner la versión que sea*
+
+**Librerías:**
 
 pandas
 `pip install pandas`
@@ -65,59 +66,65 @@ python-dotenv
 
 ### Instrucciones para usar python-dotenv (una librería que permite cargar variables de entorno desde un archivo *.env* a tu código Python)
 
-1. Crea un archivo *.env* en la misma carpeta que el *.ipynb* donde vas a usar tus credenciales.
-2. Escribe en él:
+1. Instala *python-dotenv*
+2. Crea un archivo *.env* en la misma **carpeta** que el *.ipynb* donde vas a usar tus credenciales.
+3. Escribe en él:
 
     `CLIENT_ID = tu_client_id_de_spotify`
     `CLIENT_SECRET=tu_client_secret_de_spotify`
 
-3. Crea un archivo *.gitignore* en la misma carpeta.
-4. Escribe dentro *`.env`* (así evitamos que GitHub suba el archivo con nuestras credenciales personales al repositorio, permanecerá en nuestra carpeta en el ordenador).
-5. Guarda los **dos archivos** y ejecuta el *.ipynb* donde lo quieras usar.
+4. Crea un archivo *.gitignore* en la misma carpeta.
+5. Escribe dentro *`.env`* (así evitamos que GitHub suba el archivo con nuestras credenciales personales al repositorio, permanecerá localmente en nuestra carpeta en el ordenador).
+6. Guarda los **estos dos nuevos archivos** y ejecuta las instrucciones siguientes en el *.ipynb* donde lo quieras usar.
 
-A continuación tendrás que importar la nueva librería:
+7. Tendrás que importar la nueva librería:
 
-    from dotenv import load_dotenv
-    import os
+        from dotenv import load_dotenv
+        import os
 
-Ejecutar dotenv:
+8. Ejecutar *dotenv*:
 
-    load_dotenv()  # carga nuestras claves
-    guardadasclient_id = os.getenv("CLIENT_ID")
-    client_secret = os.getenv("CLIENT_SECRET")
+        load_dotenv()  # carga nuestras claves
+        safeclient_id = os.getenv("CLIENT_ID")
+        safeclient_secret = os.getenv("CLIENT_SECRET")
 
-Y ya puedes sustituir tus credenciales por estas nuevas variables.
+    Ya puedes sustituir tus credenciales por estas nuevas variables (en el caso de este ejemplo *safeclient_id* y *safeclient_secret*) y ejecutar tu código.
 
 ### Instrucciones para replicar el proyecto:
 
-.Clona este repositorio:
+**Clona este repositorio:**
 
     git clone https://github.com/micaelalafratta/da-promo-60-modulo2-equipo3.git
 
-.Es recomendable tener cuenta de desarrollador en [Spotify](https://developer.spotify.com/) para obtener `CLIENT_ID` y `CLIENT_SECRET` (las credenciales de la API)
+Es recomendable tener cuenta de desarrollador en [Spotify](https://developer.spotify.com/) para obtener `CLIENT_ID` y `CLIENT_SECRET` (las credenciales de la API) para poder ejecutar una nueva extracción de datos.
 
-
-#
 ## 2. Estructura del repositorio
 
 Explicación de carpetas y archivos principales:
 
-    fase-1-extraccion-individual-x-genero: Datos crudos y procesados.
-#
-    /scripts: Scripts de limpieza y carga.
-#
-    /sql: Esquemas y consultas SQL.
-#
-    README.md: Este archivo.
+    -fase-1-extraccion-individual-x-genero 
+     |__country
+     |
+     |__metal
+     |
+     |__pop
+     |
+     |__r&b
+     |
+     |__rock
+     |
+    -last.fm
+     |
+    -working_agreement.md
+     |
+    -README.md 
 
-#
+
 ### 3. Fuente de los datos
 
-Origen de los datos (API) y fecha de obtención.
+*-----> Aquí va el origen de los datos (API) y fecha de obtención.*
 
-*Ejemplo:*
-
-    "Datos obtenidos de la API de Spotify para desarroladores en octubre 2025."
+Datos obtenidos de la API de Spotify para desarroladores en octubre 2025.
 
 #
 ## 4. Proceso de limpieza y transformación
