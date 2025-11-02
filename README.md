@@ -96,28 +96,23 @@ python-dotenv
 
     git clone https://github.com/micaelalafratta/da-promo-60-modulo2-equipo3.git
 
-Es recomendable tener cuenta de desarrollador en [Spotify](https://developer.spotify.com/) para obtener `CLIENT_ID` y `CLIENT_SECRET` (las credenciales de la API) para poder ejecutar una nueva extracción de datos.
+Es recomendable tener cuenta de desarrollador en [Spotify](https://developer.spotify.com/) para obtener `CLIENT_ID` y `CLIENT_SECRET` (las credenciales para el uso de la API) para poder ejecutar una nueva extracción de datos.
 
 ## 2. Estructura del repositorio
 
 Explicación de carpetas y archivos principales:
 
-    -fase-1-extraccion-individual-x-genero 
-     |__country
-     |
-     |__metal
-     |
-     |__pop
-     |
-     |__r&b
-     |
-     |__rock
-     |
-    -last.fm
-     |
-    -working_agreement.md
-     |
-    -README.md 
+        este_repositorio/
+        ├── extracción-spotify-spotipy (top canciones y albumes 2018-2022)
+        │   ├── country/
+        │   ├── metal/
+        │   ├── pop/
+        │   ├── r&b/
+        │   └── rock/
+        ├── extracción-last.fm/
+        ├── working_agreement.md
+        └── README.md
+
 
 
 ### 3. Fuente de los datos
