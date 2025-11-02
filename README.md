@@ -73,9 +73,9 @@ python-dotenv
     `CLIENT_ID = tu_client_id_de_spotify`
     `CLIENT_SECRET=tu_client_secret_de_spotify`
 
-4. Crea un archivo *.gitignore* en la misma carpeta.
+4. Crea un archivo *.gitignore* en la raíz (principal), si ya existe, comprueba que el siguiente paso está contenido en él.
 5. Escribe dentro *`.env`* (así evitamos que GitHub suba el archivo con nuestras credenciales personales al repositorio, permanecerá localmente en nuestra carpeta en el ordenador).
-6. Guarda los **estos dos nuevos archivos** y ejecuta las instrucciones siguientes en el *.ipynb* donde lo quieras usar.
+6. Guarda **estos dos archivos** y ejecuta las instrucciones siguientes en el *.ipynb* donde quieras usar tu credencial de API.
 
 7. Tendrás que importar la nueva librería:
 
