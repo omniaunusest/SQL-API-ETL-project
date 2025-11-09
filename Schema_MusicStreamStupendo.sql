@@ -6,23 +6,24 @@ USE MusicStreamStupendo;
 
 -- TABLE S
 CREATE TABLE spotify (	
-	id VARCHAR(40) PRIMARY KEY,
-    track_name VARCHAR(150),
-    artist_name VARCHAR(255),								-- FK para lastfm
+	id VARCHAR(50) PRIMARY KEY,
+    track_name VARCHAR(200),
+    artist_name VARCHAR(100),								-- FK para lastfm
     `year` YEAR,   											
     genre ENUM("country", "metal", "pop", "r&b", "rock"),
-    album_type VARCHAR(45),
+    album_type VARCHAR(50),
     release_date DATE,										--  YYYY-MM-DD
     popularity INT
 	);
 
     -- TABLE L
 CREATE TABLE lastfm (
-	artist_name VARCHAR(255) PRIMARY KEY, 	
+	tipo VARCHAR (20),
+	artista VARCHAR(100) PRIMARY KEY, 	
     biography TEXT,							
     listeners INT,							
     playcount INT,
-    similar_artists VARCHAR(500)
+    similar_artists VARCHAR(400)
 	);
     
     
