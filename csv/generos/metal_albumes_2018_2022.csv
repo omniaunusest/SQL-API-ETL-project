@@ -1,0 +1,524 @@
+tipo,artista,artista_id,genero,nombre,año,popularidad_artista
+album,Judas Priest,2tRsMl4eGxwoNabM08Dm4I,metal,Firepower,2018,65
+album,Megadeth,1Yox196W7bzVNZI7RBaPnf,metal,Killing Is My Business...And Business Is Good - The Final Kill,2018,70
+album,Shinedown,70BYFdaZbEKbeauJ670ysI,metal,ATTENTION ATTENTION,2018,71
+album,Breaking Benjamin,5BtHciL0e0zOP7prIHn3pP,metal,Ember,2018,71
+album,Parkway Drive,159qqlGwzE04xyqpfAwRLo,metal,Reverence,2018,63
+album,Five Finger Death Punch,5t28BP42x2axFnqOOMg3CM,metal,And Justice for None (Standard),2018,72
+album,Five Finger Death Punch,5t28BP42x2axFnqOOMg3CM,metal,And Justice for None (Deluxe),2018,72
+album,Pantera,14pVkFUHDL207LzLHtSA18,metal,Live at Dynamo Open Air 1998,2018,71
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,Unzipped (Super Deluxe Edition),2018,65
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,Unzipped (Deluxe Edition),2018,65
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,Unzipped,2018,65
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,The Purple Tour,2018,65
+album,Ghost,1Qp56T7n950O3EGMsSl81D,metal,Prequelle,2018,73
+album,Nine Inch Nails,0X380XXQSNBYuleKzav5UO,metal,Bad Witch,2018,71
+album,Hoobastank,2MqhkhX4npxDZ62ObR5ELO,metal,Push Pull,2018,67
+album,Disturbed,3TOqt5oJwL9BE2NG9MEwDa,metal,Evolution (Deluxe Edition),2018,75
+album,Disturbed,3TOqt5oJwL9BE2NG9MEwDa,metal,Evolution,2018,75
+album,Evanescence,5nGIFgo0shDenQYSE0Sn7c,metal,Synthesis Live,2018,76
+album,Bon Jovi,58lV9VcRSjABbAbfWS6skp,metal,This House Is Not For Sale (Deluxe),2018,78
+album,Bon Jovi,58lV9VcRSjABbAbfWS6skp,metal,This House Is Not For Sale,2018,78
+album,Dream Theater,2aaLAng2L2aWD2FClzwiep,metal,Lost Not Forgotten Archives: Distance Over Time Demos (2018),2018,61
+album,A Perfect Circle,4DFhHyjvGYa9wxdHUjtDkc,metal,Eat The Elephant,2018,63
+album,Apocalyptica,4Lm0pUvmisUHMdoky5ch2I,metal,Plays Metallica by Four Cellos - A Live Performance,2018,61
+album,Ghostemane,3uL4UpqShC4p2x1dJutoRW,metal,N / O / I / S / E,2018,65
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,DRAIN THE SWAMP,2018,67
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,SHOOT PEOPLE YOU DON'T LIKE,2018,67
+album,Ice Nine Kills,52qKfVcIV4GS8A8Vay2xtt,metal,The Silver Scream,2018,67
+album,Godsmack,6gZq1Q6bdOxsUPUG1TaFbF,metal,When Legends Rise,2018,67
+album,Alter Bridge,4DWX7u8BV0vZIQSpJQQDWU,metal,Live at the Royal Albert Hall Featuring the Parallax Orchestra,2018,61
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,The Sacrament of Sin (Deluxe Version),2018,61
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,The Sacrament of Sin,2018,61
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,The Symphony of Sin,2018,61
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,The Blessed Hellride,2018,63
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,Stronger Than Death,2018,63
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,Sonic Brew,2018,63
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,Skullage,2018,63
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,Mafia,2018,63
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,Hangover Music Vol. VI,2018,63
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,Alcohol Fueled Brewtality Live!,2018,63
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,1919 Eternal,2018,63
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,Grimmest Hits,2018,63
+album,Stone Sour,49qiE8dj4JuNdpYGRPdKbF,metal,Hydrograd (Deluxe Edition),2018,64
+album,Architects,3ZztVuWxHzNpl0THurTFCv,metal,Holy Hell,2018,66
+album,P.O.D.,6KO6G41BBLTDNYOLefWTMU,metal,Circles,2018,62
+album,STARSET,0kD8IT1CzF7js2XKM9lLLa,metal,Vessels 2.0,2018,64
+album,The Plot In You,1cJ5tVoeAEFcZBAwSZ0CtF,metal,DISPOSE,2018,65
+album,Bad Wolves,0eI3X5rAzHRZVe5FPk4MN1,metal,Disobey,2018,63
+album,Nightwish,2NPduAUeLVsfIauhRwuft1,metal,Decades,2018,65
+album,Rob Zombie,3HVdAiMNjYrQIKlOGxoGh5,metal,"Astro-Creep: 2000 Live - Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head (Live At Riot Fest)",2018,68
+album,Bullet For My Valentine,7iWiAD5LLKyiox2grgfmUT,metal,Gravity (Deluxe Edition),2018,66
+album,Bullet For My Valentine,7iWiAD5LLKyiox2grgfmUT,metal,Gravity,2018,66
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged VI,2018,64
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged V,2018,64
+album,Currents,5pqvAI85RMxL9K0xHvSwGu,metal,I Let the Devil In,2018,61
+album,Currents,5pqvAI85RMxL9K0xHvSwGu,metal,The Place I Feel Safest (Instrumental),2018,61
+album,Opeth,0ybFZ2Ab08V8hueghSXm6E,metal,Garden of the Titans (Live at Red Rocks Amphitheatre),2018,58
+album,Eluveitie,5X0N2k3qMnI8kSrGJT3kfT,metal,Slania (10 Years),2018,54
+album,W.A.S.P.,3BVkDHWRvLJEyKdvhLbjsq,metal,Reidolized (The Soundtrack to the Crimson Idol),2018,54
+album,ZillaKami,4G1zP5i0r57g1c1CxrPhfM,metal,CITY MORGUE VOL 1: HELL OR HIGH WATER,2018,62
+album,Epica,5HA5aLY3jJV7eimXWkRBBp,metal,Epica vs. Attack on Titan Songs,2018,55
+album,Celtian,0VpsiJTEi0fQsp0SEekO2K,metal,The Druid's Awaiting,2018,43
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,Spitak (Original Motion Picture Soundtrack),2018,57
+album,Machine Head,0lVlNsuGaOr9vMHCZIAKMt,metal,Catharsis,2018,56
+album,Ramirez,3H6CaRooDAoCeRCpYwOXj2,metal,"Blood Diamonds, Vol. 2",2018,64
+album,Stratovarius,1O8CSXsPwEqxcoBE360PPO,metal,Enigma: Intermission 2,2018,53
+album,Avatar,4jpaXieuls7LVzG1uma5Rs,metal,Avatar Country,2018,58
+album,Amaranthe,2KaW48xlLnXC2v8tvyhWsa,metal,HELIX,2018,57
+album,Amon Amarth,3pulcT2wt7FEG10lQlqDJL,metal,The Pursuit of Vikings: Live at Summer Breeze,2018,57
+album,Accept,3JDIAtVrJdQ7GFOX26LYpv,metal,Symphonic Terror (Live at Wacken 2017),2018,54
+album,Wind Walkers,2K2bsaNeuQAFkuVwrrlJe0,metal,The Lost Boys,2018,61
+album,DragonForce,2pH3wEn4eYlMMIIQyKPbVR,metal,Re-Powered Within,2018,57
+album,Mr. Big,5OfhOoKunSnuubxxRML8J3,metal,Live from Milan,2018,58
+album,Saliva,5S6hjAxgxjsLylsTtMIimO,metal,10 Lives,2018,62
+album,The Darkness,5r1bdqzhgRoHC3YcCV6N5a,metal,Live at Hammersmith,2018,57
+album,Lèpoka,1UM5OPJuE5dGDgyPSNSAqH,metal,Bibere Vivere,2018,40
+album,Of Mice & Men,4tususHNaR68xdgLstlGBA,metal,Defy,2018,58
+album,Amorphis,2UOVgpgiNTC6KK0vSC77aD,metal,Queen of Time (Deluxe Edition),2018,53
+album,Anthrax,3JysSUOyfVs1UQ0UaESheP,metal,State Of Euphoria (30th Anniversary Edition),2018,54
+album,Anthrax,3JysSUOyfVs1UQ0UaESheP,metal,Kings Among Scotland (Live),2018,54
+album,LANDMVRKS,6G43CiunIxMwb2tQ12vNP6,metal,Fantasy,2018,57
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,DXXM,2018,56
+album,Fit For A King,0OgdRTPItr9dw4XYp4JJUx,metal,Dark Skies,2018,58
+album,Savage Ga$p,0x7qiZJaal6j8qS7yCydFk,metal,"""the PRETTY BOY TAPE""",2018,58
+album,Dynazty,5deRBvKxJssHVa9n6B7tWV,metal,Firesign,2018,52
+album,Paradise Lost,0gIo6kGl4KsCeIbqtZVHYp,metal,Believe In Nothing (Remixed & Remastered),2018,53
+album,Paradise Lost,0gIo6kGl4KsCeIbqtZVHYp,metal,Host Remastered,2018,53
+album,KMFDM,3V4IvzRQYP5mzuVtkcHgVa,metal,Live in the USSA,2018,59
+album,The Amity Affliction,6kNKUYGn6VNGsRoXmyoDPK,metal,Misery,2018,58
+album,Lacuna Coil,4OAddazJM576euUnFSvXSL,metal,The 119 Show - Live In London,2018,53
+album,Angelus Apatrida,3bnPBquC93vbHmamojAf59,metal,Cabaret De La Guillotine,2018,33
+album,Kevin Sherwood,0etNimDSQLWFbktPBHQ5vb,metal,Call of Duty®: Black Ops 4 (Official Soundtrack),2018,57
+album,From Ashes to New,4HrkLxQHZ5mgCtIVpiH5QX,metal,The Future,2018,57
+album,Skindred,3jTlKw98Ql1jGRPYqhqHap,metal,Big Tings,2018,55
+album,All Them Witches,29Wmfm1CojrjQ3aQP0FI65,metal,ATW,2018,53
+album,Orbit Culture,7k29FbDq69ju2fe6zTskxY,metal,Redfog,2018,57
+album,Memphis May Fire,7cNNNhdJDrt3vgQjwSavNf,metal,Broken,2018,58
+album,The Word Alive,1CF8aEN939swnuIZGFI7Hk,metal,Violent Noise,2018,55
+album,Motionless In White,6MwPCCR936cYfM1dLsGVnl,metal,Disguise,2019,69
+album,Megadeth,1Yox196W7bzVNZI7RBaPnf,metal,Warheads On Foreheads,2019,70
+album,TOOL,2yEwvVSSSUkcLeSTNyHKh8,metal,Fear Inoculum,2019,71
+album,Helloween,4pQN0GB0fNEEOfQCaWotsY,metal,United Alive in Madrid (Live),2019,60
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,Slip of the Tongue (Super Deluxe Edition; 2019 Remaster),2019,65
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,Flesh & Blood (Deluxe Edition),2019,65
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,Slide It In (The Ultimate Edition; 2019 Remaster),2019,65
+album,Bad Omens,3Ri4H12KFyu98LMjSoij5V,metal,Finding God Before God Finds Me,2019,75
+album,Mötley Crüe,0cc6vw3VN8YlIcvr1v7tBL,metal,The Dirt Soundtrack,2019,71
+album,Sabaton,3o2dn2O0FCVsWDFSh8qxgG,metal,The Great War (The Soundtrack To The Great War),2019,72
+album,Sabaton,3o2dn2O0FCVsWDFSh8qxgG,metal,The Great War (History Version),2019,72
+album,Sabaton,3o2dn2O0FCVsWDFSh8qxgG,metal,The Great War,2019,72
+album,Korn,3RNrq3jvMZxD9ZyoOZbQOD,metal,The Nothing,2019,76
+album,Def Leppard,6H1RjVyNruCmrBEWRbD0VZ,metal,When The Walls Came Tumbling Down – Live In Oxford,2019,70
+album,Def Leppard,6H1RjVyNruCmrBEWRbD0VZ,metal,Too Many Jitterbugs - B-Sides and Rarities,2019,70
+album,Def Leppard,6H1RjVyNruCmrBEWRbD0VZ,metal,Raw - Early BBC Recordings,2019,70
+album,Papa Roach,4RddZ3iHvSpGV4dvATac9X,metal,Who Do You Trust? (Deluxe Version),2019,72
+album,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,metal,Sundowning,2019,79
+album,Slipknot,05fG473iIaoy82BF1aGhL8,metal,We Are Not Your Kind,2019,79
+album,Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,metal,Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll to~love to~hate to~learn Too~plot to~play to~be to~feel to~breed to~sweat to~dream to~hide to~live to~die to~GO TO,2019,77
+album,Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,metal,amo,2019,77
+album,Rammstein,6wWVKhxIU2cEi0K81v7HvP,metal,Rammstein,2019,78
+album,Metallica,2ye2Wgw4gimLv2eAKyk1NB,metal,Helping Hands…Live & Acoustic At The Masonic,2019,82
+album,Bon Jovi,58lV9VcRSjABbAbfWS6skp,metal,The Rarities Collection,2019,78
+album,Dream Theater,2aaLAng2L2aWD2FClzwiep,metal,Lost Not Forgotten Archives: Live in Berlin (2019),2019,61
+album,Dream Theater,2aaLAng2L2aWD2FClzwiep,metal,Distance Over Time (Bonus track version),2019,61
+album,Battle Beast,7k5jeohQCF20a8foBD9ize,metal,No More Hollywood Endings,2019,57
+album,Manowar,4CzUzn54Cp9TQr6a7JIlMZ,metal,Into Glory Ride (MMXIX Imperial Edition),2019,55
+album,Manowar,4CzUzn54Cp9TQr6a7JIlMZ,metal,Hail to England (MMXIX Imperial Edition),2019,55
+album,Killswitch Engage,37394IP6uhnjIpsawpMu4l,metal,Atonement,2019,63
+album,In Flames,57ylwQTnFnIhJh4nu4rxCs,metal,"I, the Mask",2019,61
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,SWAMP DRAINED,2019,67
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,SUPER DARK VR,2019,67
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,LIL DARKIE CLASSICS 2,2019,67
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,LIL DARKIE CLASSICS,2019,67
+album,Beast In Black,0rEuaTPLMhlViNCJrg3NEH,metal,From Hell With Love,2019,59
+album,Ice Nine Kills,52qKfVcIV4GS8A8Vay2xtt,metal,The Silver Scream (FINAL CUT),2019,67
+album,Alter Bridge,4DWX7u8BV0vZIQSpJQQDWU,metal,Walk The Sky,2019,61
+album,I Prevail,3Uobr6LgQpBbk6k4QGAb3V,metal,TRAUMA,2019,68
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,pride & glory (Deluxe Edition),2019,63
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,Sonic Brew (20th Anniversary Blend 5.99 - 5.19),2019,63
+album,Stone Sour,49qiE8dj4JuNdpYGRPdKbF,metal,"Hello, You Bastards: Live in Reno",2019,64
+album,Skid Row,4opTS86dN9uO313J9CE8xg,metal,Skid Row (30th Anniversary Deluxe Edition),2019,62
+album,STARSET,0kD8IT1CzF7js2XKM9lLLa,metal,DIVISIONS,2019,64
+album,Dayseeker,5FjQVp1Lb0kltmwIuu5kfj,metal,Sleeptalk (Deluxe),2019,68
+album,Dayseeker,5FjQVp1Lb0kltmwIuu5kfj,metal,Sleeptalk,2019,68
+album,Slayer,1IQ2e1buppatiN1bxUVkrk,metal,"The Repentless Killogy (Live at the Forum in Inglewood, CA)",2019,64
+album,Slayer,1IQ2e1buppatiN1bxUVkrk,metal,Praying To Satan,2019,64
+album,Bad Wolves,0eI3X5rAzHRZVe5FPk4MN1,metal,N.A.T.I.O.N.,2019,63
+album,Nightwish,2NPduAUeLVsfIauhRwuft1,metal,Decades: Live in Buenos Aires,2019,65
+album,Within Temptation,3hE8S8ohRErocpkY7uJW4a,metal,Resist (Extended Deluxe),2019,61
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged X,2019,64
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged IX,2019,64
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged VIII,2019,64
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged VII,2019,64
+album,Arch Enemy,0DCw6lHkzh9t7f8Hb4Z0Sx,metal,Covered In Blood,2019,57
+album,Opeth,0ybFZ2Ab08V8hueghSXm6E,metal,In Cauda Venenum (Swedish Version),2019,58
+album,Opeth,0ybFZ2Ab08V8hueghSXm6E,metal,In Cauda Venenum,2019,58
+album,Eluveitie,5X0N2k3qMnI8kSrGJT3kfT,metal,Live at Masters of Rock 2019,2019,54
+album,Eluveitie,5X0N2k3qMnI8kSrGJT3kfT,metal,Ategnatos,2019,54
+album,Slaughter to Prevail,24Oiw7BlvO1BETecDLJt6m,metal,Kostolom,2019,60
+album,Avantasia,1Ih0fEQQsy9EeAJbYEeQRa,metal,Moonglow,2019,52
+album,ZillaKami,4G1zP5i0r57g1c1CxrPhfM,metal,CITY MORGUE VOL 2: AS GOOD AS DEAD,2019,62
+album,Celtian,0VpsiJTEi0fQsp0SEekO2K,metal,En Tierra de Hadas,2019,43
+album,Blind Guardian,7jxJ25p0pPjk0MStloN6o6,metal,Legacy of the Dark Lands (No Interlude Version),2019,52
+album,Asking Alexandria,1caBfBEapzw8z2Qz9q0OaQ,metal,LP5 DLX,2019,63
+album,Ramirez,3H6CaRooDAoCeRCpYwOXj2,metal,Son Of Serpentine,2019,64
+album,Avatar,4jpaXieuls7LVzG1uma5Rs,metal,The King Live in Paris,2019,58
+album,HammerFall,2o18h28enlHxj887tATc58,metal,Dominion,2019,54
+album,Amon Amarth,3pulcT2wt7FEG10lQlqDJL,metal,Berserker,2019,57
+album,Sugar Ray,4uN3DsfENc7dp0OLO0FEIb,metal,Little Yachty,2019,61
+album,Our Last Night,00YTqRClk82aMchQQpYMd5,metal,Overcome The Darkness,2019,61
+album,Our Last Night,00YTqRClk82aMchQQpYMd5,metal,Let Light Overcome,2019,61
+album,DragonForce,2pH3wEn4eYlMMIIQyKPbVR,metal,Extreme Power Metal,2019,57
+album,The Darkness,5r1bdqzhgRoHC3YcCV6N5a,metal,Easter is Cancelled (Deluxe),2019,57
+album,Of Mice & Men,4tususHNaR68xdgLstlGBA,metal,EARTHANDSKY,2019,58
+album,Kreator,3BM0EaYmkKWuPmmHFUTQHv,metal,Live at Dynamo 1998,2019,52
+album,As I Lay Dying,2vd2HnNh4pdYa9gDVHFjEu,metal,Shaped By Fire,2019,56
+album,LANDMVRKS,6G43CiunIxMwb2tQ12vNP6,metal,"Live at Espace Julien, Marseille",2019,57
+album,Sonata Arctica,5YeoQ1L71cXDMpSpqxOjfH,metal,Talviyö,2019,51
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,Acquired Taste: Vxl. 1,2019,56
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,IMMXRTALISATIXN,2019,56
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,INFINITY,2019,56
+album,Lindemann,65A714FqhSPjoFZeffQbTv,metal,F & M (Deluxe),2019,55
+album,Wind Rose,67ps5pbKVO7V9Fcb4lTIXz,metal,Wintersaga,2019,53
+album,Savage Ga$p,0x7qiZJaal6j8qS7yCydFk,metal,i guess i'm over it,2019,58
+album,KMFDM,3V4IvzRQYP5mzuVtkcHgVa,metal,PARADISE,2019,59
+album,Children Of Bodom,1xUhNgw4eJDZfvumIpcz1B,metal,Hexed (Deluxe Version),2019,55
+album,Imminence,7rqJQQxuUOCk052MK5kLsH,metal,Turn the Light On,2019,56
+album,Lacuna Coil,4OAddazJM576euUnFSvXSL,metal,Black Anima (Bonus Tracks Version),2019,53
+album,Germ,4OYIkXBBN6ET96coWyWAXh,metal,GERM HAS A DEATHWISH,2019,62
+album,HAARPER,3v0QTRruILayLe5VsaYdvk,metal,Evol,2019,60
+album,HAARPER,3v0QTRruILayLe5VsaYdvk,metal,Naga,2019,60
+album,HAARPER,3v0QTRruILayLe5VsaYdvk,metal,Emeralds,2019,60
+album,The Devil Wears Prada,0NbQe5CNgh4YApOCDuHSjb,metal,The Act,2019,59
+album,Quiet Riot,1dLWg6m8RRhizsdqJbhyj3,metal,Hollywood Cowboys,2019,56
+album,Quiet Riot,1dLWg6m8RRhizsdqJbhyj3,metal,One Night in Milan,2019,56
+album,Salduie,5bdznkD4EBn0jQk2PYlmSM,metal,Viros Veramos,2019,38
+album,Breaking Benjamin,5BtHciL0e0zOP7prIHn3pP,metal,Aurora,2020,71
+album,Saurom,4B2Iosqk1yAbGbx08My1fM,metal,Música (Instrumental),2020,51
+album,Saurom,4B2Iosqk1yAbGbx08My1fM,metal,Música,2020,51
+album,Parkway Drive,159qqlGwzE04xyqpfAwRLo,metal,Viva The Underdogs,2020,63
+album,Five Finger Death Punch,5t28BP42x2axFnqOOMg3CM,metal,A Decade of Destruction Vol. 2,2020,72
+album,Five Finger Death Punch,5t28BP42x2axFnqOOMg3CM,metal,F8,2020,72
+album,Pantera,14pVkFUHDL207LzLHtSA18,metal,Reinventing the Steel (20th Anniversary Edition),2020,71
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,Love Songs (2020 Remix),2020,65
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,The ROCK Album (2020 Remix),2020,65
+album,Bad Omens,3Ri4H12KFyu98LMjSoij5V,metal,Finding God Before God Finds Me (Deluxe),2020,75
+album,Avenged Sevenfold,0nmQIMXWTXfhgOBdNzhGOs,metal,Live in the LBC,2020,76
+album,Avenged Sevenfold,0nmQIMXWTXfhgOBdNzhGOs,metal,Diamonds in the Rough,2020,76
+album,Marilyn Manson,2VYQTNDsvvKN9wmU5W7xpj,metal,WE ARE CHAOS,2020,71
+album,Nine Inch Nails,0X380XXQSNBYuleKzav5UO,metal,Ghosts VI: Locusts,2020,71
+album,Nine Inch Nails,0X380XXQSNBYuleKzav5UO,metal,Ghosts V: Together,2020,71
+album,Rage Against The Machine,2d0hyoQ5ynDBnkvAbJKORj,metal,The Battle Of Mexico City (Live),2020,70
+album,Iron Maiden,6mdiAmATAx73kdxrNrnlao,metal,"Nights of the Dead, Legacy of the Beast: Live in Mexico City",2020,72
+album,Def Leppard,6H1RjVyNruCmrBEWRbD0VZ,metal,Hysteria At The O2 (Live),2020,70
+album,Def Leppard,6H1RjVyNruCmrBEWRbD0VZ,metal,Hits Vegas (Live),2020,70
+album,Def Leppard,6H1RjVyNruCmrBEWRbD0VZ,metal,The Early Years,2020,70
+album,Papa Roach,4RddZ3iHvSpGV4dvATac9X,metal,20/20,2020,72
+album,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,metal,Sundowning (Deluxe),2020,79
+album,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,metal,Hybrid Theory (20th Anniversary Edition),2020,89
+album,Deftones,6Ghvu1VvMGScGpOUJBAHNH,metal,White Pony (20th Anniversary Deluxe Edition),2020,81
+album,Deftones,6Ghvu1VvMGScGpOUJBAHNH,metal,Ohms,2020,81
+album,Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,metal,POST HUMAN: SURVIVAL HORROR,2020,77
+album,Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,metal,Live at the Royal Albert Hall,2020,77
+album,Ozzy Osbourne,6ZLTlhejhndI4Rh53vYhrY,metal,Blizzard Of Ozz (40th Anniversary Expanded Edition),2020,75
+album,Ozzy Osbourne,6ZLTlhejhndI4Rh53vYhrY,metal,Ordinary Man,2020,75
+album,Rammstein,6wWVKhxIU2cEi0K81v7HvP,metal,Remixes,2020,78
+album,Metallica,2ye2Wgw4gimLv2eAKyk1NB,metal,S&M2,2020,82
+album,Bon Jovi,58lV9VcRSjABbAbfWS6skp,metal,2020 (Deluxe),2020,78
+album,Bon Jovi,58lV9VcRSjABbAbfWS6skp,metal,2020,2020,78
+album,Lamb of God,3JFsVIxOn7STeilPICkkB2,metal,Lamb of God,2020,62
+album,Dream Theater,2aaLAng2L2aWD2FClzwiep,metal,Distant Memories - Live in London (Bonus Track Edition),2020,61
+album,Apocalyptica,4Lm0pUvmisUHMdoky5ch2I,metal,Cell-0,2020,61
+album,Sepultura,6JW8wliOEwaDZ231ZY7cf4,metal,Quadra,2020,60
+album,Manowar,4CzUzn54Cp9TQr6a7JIlMZ,metal,"Black Wind, Fire and Steel: The Atlantic Albums 1987-1992",2020,55
+album,Ghostemane,3uL4UpqShC4p2x1dJutoRW,metal,ANTI-ICON,2020,65
+album,In Flames,57ylwQTnFnIhJh4nu4rxCs,metal,Clayman (20th Anniversary Edition),2020,61
+album,In Flames,57ylwQTnFnIhJh4nu4rxCs,metal,"I, The Mask (Arcade Version)",2020,61
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,SWAMP,2020,67
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,YIN,2020,67
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,THIS DOES NOT EXIST,2020,67
+album,Ice Nine Kills,52qKfVcIV4GS8A8Vay2xtt,metal,I Heard They KILL Live,2020,67
+album,Alter Bridge,4DWX7u8BV0vZIQSpJQQDWU,metal,Walk the Sky 2.0 (Deluxe),2020,61
+album,I Prevail,3Uobr6LgQpBbk6k4QGAb3V,metal,POST TRAUMATIC (Live / Deluxe),2020,68
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,Best of the Blessed (Deluxe Version),2020,61
+album,Trivium,278ZYwGhdK6QTzE3MFePnP,metal,What The Dead Men Say,2020,62
+album,Hollywood Undead,0CEFCo8288kQU7mJi25s6E,metal,"New Empire, Vol. 2",2020,66
+album,Hollywood Undead,0CEFCo8288kQU7mJi25s6E,metal,"New Empire, Vol. 1",2020,66
+album,Seether,6B5c4sch27tWHAGdarpPaW,metal,"Si Vis Pacem, Para Bellum",2020,70
+album,Nightwish,2NPduAUeLVsfIauhRwuft1,metal,HUMAN. :II: NATURE.,2020,65
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged XIV,2020,64
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged XIII,2020,64
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged XII,2020,64
+album,WWE,0spHbv2fw49lDMkbOAdaqX,metal,WWE: Uncaged XI,2020,64
+album,Peyton Parrish,62uiaKAdkbY94iXJnXyKzc,metal,Cowboy Man,2020,60
+album,Currents,5pqvAI85RMxL9K0xHvSwGu,metal,The Way It Ends (Instrumental),2020,61
+album,Currents,5pqvAI85RMxL9K0xHvSwGu,metal,The Way It Ends,2020,61
+album,ZillaKami,4G1zP5i0r57g1c1CxrPhfM,metal,TOXIC BOOGALOO,2020,62
+album,ZillaKami,4G1zP5i0r57g1c1CxrPhfM,metal,CITY MORGUE VOL 2: AS GOOD AS DEAD (DELUXE),2020,62
+album,Brothers of Metal,0WPCPYm5IDNtQjuJOGNPcy,metal,Emblas Saga,2020,56
+album,Testament,28hJdGN1Awf7u3ifk2lVkg,metal,Titans of Creation,2020,57
+album,Blind Guardian,7jxJ25p0pPjk0MStloN6o6,metal,Imaginations from the Other Side (Live),2020,52
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,Fuktronic,2020,57
+album,Asking Alexandria,1caBfBEapzw8z2Qz9q0OaQ,metal,Like A House On Fire,2020,63
+album,Ramirez,3H6CaRooDAoCeRCpYwOXj2,metal,THA PLAYA$ MANUAL,2020,64
+album,Lorna Shore,6vXYoy8ouRVib302zxaxFF,metal,Immortal,2020,62
+album,Avatar,4jpaXieuls7LVzG1uma5Rs,metal,Hunter Gatherer,2020,58
+album,KXLLSWXTCH,2VDZoCBGjxbHJbnzSX5nP6,metal,KILL!,2020,60
+album,HammerFall,2o18h28enlHxj887tATc58,metal,Live! Against the World,2020,54
+album,Amaranthe,2KaW48xlLnXC2v8tvyhWsa,metal,Manifest,2020,57
+album,Our Last Night,00YTqRClk82aMchQQpYMd5,metal,Let Light Overcome The Darkness,2020,61
+album,Mastodon,1Dvfqq39HxvCJ3GvfeIFuT,metal,Medium Rarities,2020,57
+album,Theory of a Deadman,74eX4C98E4FCrAMl39qRsJ,metal,Say Nothing,2020,62
+album,Lèpoka,1UM5OPJuE5dGDgyPSNSAqH,metal,El Baile de los Caídos,2020,40
+album,Def Con Dos,1O4hqQz2nV0jrlF9VEFBNK,metal,Gilipollas no tiene traducción,2020,34
+album,Kreator,3BM0EaYmkKWuPmmHFUTQHv,metal,London Apocalypticon (Live),2020,52
+album,Polaris,0v2e0oznnTaIXKLGKHphfX,metal,The Death of Me (Instrumental),2020,57
+album,Polaris,0v2e0oznnTaIXKLGKHphfX,metal,The Death of Me,2020,57
+album,Paleface Swiss,467M2s2YxXdlL2ZpDUNL3A,metal,Chapter 3: The Last Selection,2020,57
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,FANTASY VXID,2020,56
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,SCARHXURS,2020,56
+album,Fit For A King,0OgdRTPItr9dw4XYp4JJUx,metal,The Path,2020,58
+album,Saliva Grey,1a7xjqgtH0LtzVv80S9kVx,metal,Desperate (For) Humanity,2020,59
+album,Savage Ga$p,0x7qiZJaal6j8qS7yCydFk,metal,the long halloween,2020,58
+album,Dynazty,5deRBvKxJssHVa9n6B7tWV,metal,The Dark Delight,2020,52
+album,Paradise Lost,0gIo6kGl4KsCeIbqtZVHYp,metal,Draconian Times (25th Anniversary Edition),2020,53
+album,Paradise Lost,0gIo6kGl4KsCeIbqtZVHYp,metal,Obsidian,2020,53
+album,KMFDM,3V4IvzRQYP5mzuVtkcHgVa,metal,IN DUB,2020,59
+album,The Amity Affliction,6kNKUYGn6VNGsRoXmyoDPK,metal,Everyone Loves You... Once You Leave Them,2020,58
+album,Imminence,7rqJQQxuUOCk052MK5kLsH,metal,Turn the Light On (Deluxe Edition),2020,56
+album,Imminence,7rqJQQxuUOCk052MK5kLsH,metal,Turn the Light On: Acoustic Reimagination,2020,56
+album,Germ,4OYIkXBBN6ET96coWyWAXh,metal,The Hijinx Tape,2020,62
+album,Static-X,7JDSHlDdVTo7aZKdQZ53Vf,metal,"Project Regeneration, Vol. 1",2020,59
+album,The HU,0b2B3PwcYzQAhuJacmcYgc,metal,The Gereg (Deluxe Edition),2020,55
+album,From Ashes to New,4HrkLxQHZ5mgCtIVpiH5QX,metal,Panic,2020,57
+album,All Them Witches,29Wmfm1CojrjQ3aQP0FI65,metal,Nothing as the Ideal,2020,53
+album,In This Moment,6tbLPxj1uQ6vsRQZI2YFCT,metal,Mother,2020,60
+album,Orbit Culture,7k29FbDq69ju2fe6zTskxY,metal,Nija,2020,57
+album,The Word Alive,1CF8aEN939swnuIZGFI7Hk,metal,MONOMANIA,2020,55
+album,Judas Priest,2tRsMl4eGxwoNabM08Dm4I,metal,Reflections - 50 Heavy Metal Years of Music,2021,65
+album,Megadeth,1Yox196W7bzVNZI7RBaPnf,metal,That One Night: Live In Buenos Aires,2021,70
+album,Megadeth,1Yox196W7bzVNZI7RBaPnf,metal,Unplugged in Boston (Live 2001),2021,70
+album,Saurom,4B2Iosqk1yAbGbx08My1fM,metal,La Magia de la Luna,2021,51
+album,Saurom,4B2Iosqk1yAbGbx08My1fM,metal,20... Al Mundo De Los Sueños (En Vivo),2021,51
+album,Saurom,4B2Iosqk1yAbGbx08My1fM,metal,Orígenes (2000),2021,51
+album,Saurom,4B2Iosqk1yAbGbx08My1fM,metal,Legado De Juglares (1998),2021,51
+album,Saurom,4B2Iosqk1yAbGbx08My1fM,metal,Regreso a Las Tierras Medias (1997),2021,51
+album,Saurom,4B2Iosqk1yAbGbx08My1fM,metal,La Cripta Del Duende (1996),2021,51
+album,Motörhead,1DFr97A9HnbV3SKTJFu62M,metal,"The Löst Tapes Vol. 2 (Live in Norwich, 1998)",2021,64
+album,Motörhead,1DFr97A9HnbV3SKTJFu62M,metal,The Löst Tapes Vol. 1 (Live in Madrid 1995),2021,64
+album,Motörhead,1DFr97A9HnbV3SKTJFu62M,metal,Louder Than Noise… Live in Berlin,2021,64
+album,Helloween,4pQN0GB0fNEEOfQCaWotsY,metal,Helloween,2021,60
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,"Restless Heart (25th Anniversary Edition, 2021 Remix)",2021,65
+album,Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,metal,The BLUES Album (2020 Remix),2021,65
+album,Bad Omens,3Ri4H12KFyu98LMjSoij5V,metal,LIVE,2021,75
+album,Mötley Crüe,0cc6vw3VN8YlIcvr1v7tBL,metal,Looks That Kill (Live Pasadena '82),2021,71
+album,Sabaton,3o2dn2O0FCVsWDFSh8qxgG,metal,"The Great Show (The Great Tour Live In Prague, 2020)",2021,72
+album,Rage Against The Machine,2d0hyoQ5ynDBnkvAbJKORj,metal,Paintings Of Rebellion (Live '95),2021,70
+album,Iron Maiden,6mdiAmATAx73kdxrNrnlao,metal,Senjutsu,2021,72
+album,Def Leppard,6H1RjVyNruCmrBEWRbD0VZ,metal,"X, Yeah! & Songs From The Sparkle Lounge: Rarities From The Vault",2021,70
+album,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,metal,This Place Will Become Your Tomb (Instrumental),2021,79
+album,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,metal,This Place Will Become Your Tomb,2021,79
+album,Ozzy Osbourne,6ZLTlhejhndI4Rh53vYhrY,metal,Diary of a Madman (40th Anniversary Expanded Edition),2021,75
+album,Ozzy Osbourne,6ZLTlhejhndI4Rh53vYhrY,metal,Down To Earth (20th Anniversary Expanded Edition),2021,75
+album,Ozzy Osbourne,6ZLTlhejhndI4Rh53vYhrY,metal,No More Tears (30th Anniversary Expanded Edition),2021,75
+album,KISS,07XSN3sPlIlB2L2XNcTwJw,metal,Destroyer (45th Anniversary Super Deluxe),2021,73
+album,KISS,07XSN3sPlIlB2L2XNcTwJw,metal,KISS Off The Soundboard: Tokyo 2001,2021,73
+album,Metallica,2ye2Wgw4gimLv2eAKyk1NB,metal,Metallica (Remastered Deluxe Box Set),2021,82
+album,Metallica,2ye2Wgw4gimLv2eAKyk1NB,metal,Metallica (Remastered 2021),2021,82
+album,Limp Bizkit,165ZgPlLkK7bf5bDoFc6Sb,metal,STILL SUCKS,2021,79
+album,Evanescence,5nGIFgo0shDenQYSE0Sn7c,metal,The Bitter Truth,2021,76
+album,Lamb of God,3JFsVIxOn7STeilPICkkB2,metal,Lamb of God (Deluxe Version),2021,62
+album,Dream Theater,2aaLAng2L2aWD2FClzwiep,metal,A View From The Top Of The World,2021,61
+album,Sepultura,6JW8wliOEwaDZ231ZY7cf4,metal,Sepulquarta,2021,60
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,boros,2021,67
+album,Chevelle,56dO9zeHKuU5Gvfc2kxHNw,metal,NIRATIAS,2021,69
+album,Beast In Black,0rEuaTPLMhlViNCJrg3NEH,metal,Dark Connection,2021,59
+album,Ice Nine Kills,52qKfVcIV4GS8A8Vay2xtt,metal,Welcome To Horrorwood: The Silver Scream 2,2021,67
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,Missa Cantorem I,2021,61
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,Call of the Wild (Deluxe Version),2021,61
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,Call of the Wild,2021,61
+album,Gojira,0GDGKpJFhVpcjIGF8N6Ewt,metal,Fortitude,2021,64
+album,Black Label Society,0zfT626RwO6zN3RDYeRit5,metal,Doom Crew Inc.,2021,63
+album,Trivium,278ZYwGhdK6QTzE3MFePnP,metal,In The Court Of The Dragon,2021,62
+album,Spiritbox,4MzJMcHQBl9SIYSjwWn8QW,metal,Eternal Blue,2021,65
+album,Architects,3ZztVuWxHzNpl0THurTFCv,metal,For Those That Wish To Exist,2021,66
+album,P.O.D.,6KO6G41BBLTDNYOLefWTMU,metal,Satellite (Expanded Edition; 2021 Remaster),2021,62
+album,STARSET,0kD8IT1CzF7js2XKM9lLLa,metal,HORIZONS,2021,64
+album,The Plot In You,1cJ5tVoeAEFcZBAwSZ0CtF,metal,Swan Song,2021,65
+album,A Day To Remember,4NiJW4q9ichVqL1aUsgGAN,metal,You're Welcome,2021,68
+album,A Day To Remember,4NiJW4q9ichVqL1aUsgGAN,metal,Live at The Audio Compound,2021,68
+album,Bad Wolves,0eI3X5rAzHRZVe5FPk4MN1,metal,Dear Monsters,2021,63
+album,Twisted Sister,7b85ve82Sh36a3UAx74wut,metal,"Explode Into Space (Live, NY '80)",2021,60
+album,Seether,6B5c4sch27tWHAGdarpPaW,metal,Vicennial: 2 Decades of Seether,2021,70
+album,Seether,6B5c4sch27tWHAGdarpPaW,metal,"Curiosities, Rarities And Pariahs",2021,70
+album,Nightwish,2NPduAUeLVsfIauhRwuft1,metal,Once (Remastered),2021,65
+album,Rob Zombie,3HVdAiMNjYrQIKlOGxoGh5,metal,The Lunar Injection Kool Aid Eclipse Conspiracy,2021,68
+album,Bullet For My Valentine,7iWiAD5LLKyiox2grgfmUT,metal,Bullet For My Valentine,2021,66
+album,Dio,4CYeVo5iZbtYGBN4Isc3n6,metal,Holy Diver: Live,2021,61
+album,Dio,4CYeVo5iZbtYGBN4Isc3n6,metal,Evil Or Divine: Live In New York City,2021,61
+album,Staind,5KDIH2gF0VpelTqyQS7udb,metal,Live: It’s Been Awhile,2021,69
+album,The Pretty Reckless,2R57sY41L9XvGPiIgHOaYq,metal,Death by Rock and Roll,2021,61
+album,The Pretty Reckless,2R57sY41L9XvGPiIgHOaYq,metal,Death By Rock And Roll (Commentary Version),2021,61
+album,Caskets,2XIbOWDT5vZPW7jNyzdfcK,metal,Lost Souls,2021,59
+album,ZillaKami,4G1zP5i0r57g1c1CxrPhfM,metal,CITY MORGUE VOLUME 3: BOTTOM OF THE BARREL,2021,62
+album,ZillaKami,4G1zP5i0r57g1c1CxrPhfM,metal,DOG BOY,2021,62
+album,Epica,5HA5aLY3jJV7eimXWkRBBp,metal,Omega Alive,2021,55
+album,Epica,5HA5aLY3jJV7eimXWkRBBp,metal,Kingdom of Heaven Part 3 - The Antediluvian Universe - Omega Alive -,2021,55
+album,Epica,5HA5aLY3jJV7eimXWkRBBp,metal,Omega,2021,55
+album,Celtian,0VpsiJTEi0fQsp0SEekO2K,metal,Sendas de Leyenda,2021,43
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,Live In Edmonton,2021,57
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,I Am Not Alone (Original Motion Picture Soundtrack),2021,57
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,Truth To Power (Original Motion Picture Soundtrack),2021,57
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,Cinematique Series: Violent Violins,2021,57
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,Cinematique Series: Illuminate,2021,57
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,Cool Gardens Poetry Suite,2021,57
+album,Asking Alexandria,1caBfBEapzw8z2Qz9q0OaQ,metal,See What’s On The Inside,2021,63
+album,Machine Head,0lVlNsuGaOr9vMHCZIAKMt,metal,Burn My Eyes (Live-in-the-Studio 2019),2021,56
+album,Lorna Shore,6vXYoy8ouRVib302zxaxFF,metal,Immortal - Instrumental,2021,62
+album,KXLLSWXTCH,2VDZoCBGjxbHJbnzSX5nP6,metal,DISORDER,2021,60
+album,HammerFall,2o18h28enlHxj887tATc58,metal,Renegade 2.0 (20 Year Anniversary Edition),2021,54
+album,Amaranthe,2KaW48xlLnXC2v8tvyhWsa,metal,HELIX (2021 Version),2021,57
+album,Accept,3JDIAtVrJdQ7GFOX26LYpv,metal,Too Mean to Die,2021,54
+album,Mastodon,1Dvfqq39HxvCJ3GvfeIFuT,metal,Hushed and Grim,2021,57
+album,The Darkness,5r1bdqzhgRoHC3YcCV6N5a,metal,Streaming of a White Christmas (Live),2021,57
+album,The Darkness,5r1bdqzhgRoHC3YcCV6N5a,metal,Motorheart (Deluxe),2021,57
+album,Of Mice & Men,4tususHNaR68xdgLstlGBA,metal,Echo,2021,58
+album,As I Lay Dying,2vd2HnNh4pdYa9gDVHFjEu,metal,Shaped By Fire (Deluxe Version),2021,56
+album,Amorphis,2UOVgpgiNTC6KK0vSC77aD,metal,Live at Helsinki Ice Hall,2021,53
+album,Anthrax,3JysSUOyfVs1UQ0UaESheP,metal,Monsters Of Rock,2021,54
+album,LANDMVRKS,6G43CiunIxMwb2tQ12vNP6,metal,Lost in the Waves,2021,57
+album,Nevertel,0uTkKGuqdf7CtKlZLt9N0Y,metal,RE:WYRED.exe,2021,59
+album,Nevertel,0uTkKGuqdf7CtKlZLt9N0Y,metal,EVERYTHING IN MY MIND,2021,59
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,DeadRising,2021,56
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,Dxxm II,2021,56
+album,Lindemann,65A714FqhSPjoFZeffQbTv,metal,Live in Moscow,2021,55
+album,Savage Ga$p,0x7qiZJaal6j8qS7yCydFk,metal,forever yours,2021,58
+album,Paradise Lost,0gIo6kGl4KsCeIbqtZVHYp,metal,At the Mill,2021,53
+album,Imminence,7rqJQQxuUOCk052MK5kLsH,metal,Heaven in Hiding,2021,56
+album,Lacuna Coil,4OAddazJM576euUnFSvXSL,metal,Live From The Apocalypse,2021,53
+album,Angelus Apatrida,3bnPBquC93vbHmamojAf59,metal,Angelus Apatrida,2021,33
+album,Static-X,7JDSHlDdVTo7aZKdQZ53Vf,metal,Cult of Static (Expanded Version),2021,59
+album,Orbit Culture,7k29FbDq69ju2fe6zTskxY,metal,Nija (Deluxe Edition),2021,57
+album,Salduie,5bdznkD4EBn0jQk2PYlmSM,metal,Ambaxtos,2021,38
+album,Motionless In White,6MwPCCR936cYfM1dLsGVnl,metal,Scoring The End Of The World,2022,69
+album,Megadeth,1Yox196W7bzVNZI7RBaPnf,metal,"The Sick, The Dying… And The Dead!",2022,70
+album,Shinedown,70BYFdaZbEKbeauJ670ysI,metal,Planet Zero,2022,71
+album,Motörhead,1DFr97A9HnbV3SKTJFu62M,metal,"The Löst Tapes, Vol. 4 (Live in Heilbronn 1984)",2022,64
+album,Motörhead,1DFr97A9HnbV3SKTJFu62M,metal,Iron Fist (Deluxe 40th Anniversary Edition),2022,64
+album,Motörhead,1DFr97A9HnbV3SKTJFu62M,metal,The Löst Tapes Vol. 3 (Live in Malmö 2000),2022,64
+album,Parkway Drive,159qqlGwzE04xyqpfAwRLo,metal,Darker Still,2022,63
+album,Five Finger Death Punch,5t28BP42x2axFnqOOMg3CM,metal,AfterLife,2022,72
+album,Bad Omens,3Ri4H12KFyu98LMjSoij5V,metal,THE DEATH OF PEACE OF MIND,2022,75
+album,Ghost,1Qp56T7n950O3EGMsSl81D,metal,IMPERA,2022,73
+album,Mötley Crüe,0cc6vw3VN8YlIcvr1v7tBL,metal,Turn Me Loose (Live 1983),2022,71
+album,Sabaton,3o2dn2O0FCVsWDFSh8qxgG,metal,The Symphony To End All Wars (Symphonic Version),2022,72
+album,Sabaton,3o2dn2O0FCVsWDFSh8qxgG,metal,The War To End All Wars (History Edition),2022,72
+album,Sabaton,3o2dn2O0FCVsWDFSh8qxgG,metal,The War to End All Wars,2022,72
+album,Korn,3RNrq3jvMZxD9ZyoOZbQOD,metal,Requiem,2022,76
+album,Rage Against The Machine,2d0hyoQ5ynDBnkvAbJKORj,metal,Live & Rare,2022,70
+album,Def Leppard,6H1RjVyNruCmrBEWRbD0VZ,metal,Diamond Star Halos,2022,70
+album,Papa Roach,4RddZ3iHvSpGV4dvATac9X,metal,Ego Trip,2022,72
+album,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,metal,Sundowning (Instrumental),2022,79
+album,Slipknot,05fG473iIaoy82BF1aGhL8,metal,"The End, So Far",2022,79
+album,Audioslave,2ziB7fzrXBoh1HUPS6sVFn,metal,The Hultsfred Festival,2022,70
+album,Guns N' Roses,3qm84nBOXUEQ2vnTfUTTFC,metal,Use Your Illusion II (Deluxe Edition),2022,81
+album,Guns N' Roses,3qm84nBOXUEQ2vnTfUTTFC,metal,Use Your Illusion I (Deluxe Edition),2022,81
+album,Guns N' Roses,3qm84nBOXUEQ2vnTfUTTFC,metal,Use Your Illusion (Super Deluxe),2022,81
+album,Aerosmith,7Ey4PD4MYsKc5I2dolUwbH,metal,1971: The Road Starts Hear,2022,75
+album,Black Sabbath,5M52tdBnJaKSvOpJGz8mfZ,metal,Mob Rules (Remastered and Expanded Version),2022,75
+album,Black Sabbath,5M52tdBnJaKSvOpJGz8mfZ,metal,Heaven and Hell (Remastered and Expanded Edition),2022,75
+album,Ozzy Osbourne,6ZLTlhejhndI4Rh53vYhrY,metal,Patient Number 9,2022,75
+album,Rammstein,6wWVKhxIU2cEi0K81v7HvP,metal,Zeit,2022,78
+album,KISS,07XSN3sPlIlB2L2XNcTwJw,metal,KISS Off The Soundboard: Live In Des Moines,2022,73
+album,KISS,07XSN3sPlIlB2L2XNcTwJw,metal,KISS Off The Soundboard: Live In Donington,2022,73
+album,KISS,07XSN3sPlIlB2L2XNcTwJw,metal,KISS Off The Soundboard: Live In Virginia Beach,2022,73
+album,Scorpions,27T030eWyCQRmDyuvr1kxY,metal,Rock Believer (Deluxe),2022,73
+album,Lamb of God,3JFsVIxOn7STeilPICkkB2,metal,Omens,2022,62
+album,Dream Theater,2aaLAng2L2aWD2FClzwiep,metal,Euphoria (Live 1993),2022,61
+album,Dream Theater,2aaLAng2L2aWD2FClzwiep,metal,Lost Not Forgotten Archives: The Majesty Demos (1985-1986),2022,61
+album,Sepultura,6JW8wliOEwaDZ231ZY7cf4,metal,Live in São Paulo (2022 - Remaster),2022,60
+album,Battle Beast,7k5jeohQCF20a8foBD9ize,metal,Circus Of Doom,2022,57
+album,Killswitch Engage,37394IP6uhnjIpsawpMu4l,metal,Live at the Palladium,2022,63
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,LOST SONGS,2022,67
+album,Lil Darkie,62F9BiUmjqeXbBztCwiX1U,metal,THE SMALL DARK ONE,2022,67
+album,Alter Bridge,4DWX7u8BV0vZIQSpJQQDWU,metal,Pawns & Kings,2022,61
+album,The Cult,49DW3KvkyjHO35mK1JnSyS,metal,Under The Midnight Sun,2022,58
+album,I Prevail,3Uobr6LgQpBbk6k4QGAb3V,metal,TRUE POWER,2022,68
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,Missa Cantorem II,2022,61
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,The Monumental Mass: a Cinematic Metal Event,2022,61
+album,Powerwolf,5HFkc3t0HYETL4JeEbDB1v,metal,Hallowed Be the Holy Ground: Live at Wacken 2019,2022,61
+album,Skid Row,4opTS86dN9uO313J9CE8xg,metal,The Gang's All Here,2022,62
+album,Architects,3ZztVuWxHzNpl0THurTFCv,metal,the classic symptoms of a broken spirit,2022,66
+album,Architects,3ZztVuWxHzNpl0THurTFCv,metal,For Those That Wish To Exist At Abbey Road,2022,66
+album,P.O.D.,6KO6G41BBLTDNYOLefWTMU,metal,When Angels & Serpents Dance (2022 Remixed & Remastered),2022,62
+album,Dayseeker,5FjQVp1Lb0kltmwIuu5kfj,metal,Dark Sun,2022,68
+album,Hollywood Undead,0CEFCo8288kQU7mJi25s6E,metal,Hotel Kalifornia,2022,66
+album,Slayer,1IQ2e1buppatiN1bxUVkrk,metal,Reign This Night (Live 1984),2022,64
+album,Slayer,1IQ2e1buppatiN1bxUVkrk,metal,Damnation's Edge (Live),2022,64
+album,Bad Wolves,0eI3X5rAzHRZVe5FPk4MN1,metal,Dear Monsters (Deluxe),2022,63
+album,Seether,6B5c4sch27tWHAGdarpPaW,metal,Disclaimer (Deluxe Edition),2022,70
+album,Seether,6B5c4sch27tWHAGdarpPaW,metal,"Si Vis Pacem, Para Bellum (Deluxe Edition)",2022,70
+album,Drowning Pool,1E4r4z7ivGUcSAnCbINJ9v,metal,Strike A Nerve,2022,63
+album,Bullet For My Valentine,7iWiAD5LLKyiox2grgfmUT,metal,Bullet For My Valentine (Deluxe),2022,66
+album,Dio,4CYeVo5iZbtYGBN4Isc3n6,metal,Dio At Donington '87 (Live),2022,61
+album,Dio,4CYeVo5iZbtYGBN4Isc3n6,metal,Business In Hell (Live 1994),2022,61
+album,Dio,4CYeVo5iZbtYGBN4Isc3n6,metal,Wings Of Steel (Live 1983),2022,61
+album,Faith No More,6GbCJZrI318Ybm8mY36Of5,metal,Gathered In Their Masses (Live 1990),2022,61
+album,Arch Enemy,0DCw6lHkzh9t7f8Hb4Z0Sx,metal,Deceivers,2022,57
+album,The Pretty Reckless,2R57sY41L9XvGPiIgHOaYq,metal,Other Worlds,2022,61
+album,Peyton Parrish,62uiaKAdkbY94iXJnXyKzc,metal,Rise of Vikingr,2022,60
+album,Opeth,0ybFZ2Ab08V8hueghSXm6E,metal,In Cauda Venenum (Extended Edition),2022,58
+album,W.A.S.P.,3BVkDHWRvLJEyKdvhLbjsq,metal,Dancing With Danger (Live 1986),2022,54
+album,Avantasia,1Ih0fEQQsy9EeAJbYEeQRa,metal,A Paranormal Evening with the Moonflower Society,2022,52
+album,Kid Rock,7dOBabd5O4CvKrg4iriHTM,metal,Bad Reputation,2022,65
+album,Epica,5HA5aLY3jJV7eimXWkRBBp,metal,The Alchemy Project,2022,55
+album,Epica,5HA5aLY3jJV7eimXWkRBBp,metal,We Will Take You With Us,2022,55
+album,Epica,5HA5aLY3jJV7eimXWkRBBp,metal,Live At Paradiso,2022,55
+album,Blind Guardian,7jxJ25p0pPjk0MStloN6o6,metal,The God Machine,2022,52
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,MADOFF: The Monster of Wall Street (Soundtrack from the Netflix Series),2022,57
+album,Serj Tankian,0BEI7i5sgUuivcfwXLzFmM,metal,Live At Leeds,2022,57
+album,Asking Alexandria,1caBfBEapzw8z2Qz9q0OaQ,metal,See What's On The Inside (Deluxe),2022,63
+album,Danzig,34c4iQ5tkaZKu6Sv28BTde,metal,Crimson Highway (Live 1989),2022,58
+album,Machine Head,0lVlNsuGaOr9vMHCZIAKMt,metal,ØF KINGDØM AND CRØWN,2022,56
+album,Ramirez,3H6CaRooDAoCeRCpYwOXj2,metal,The Tragedy of a Clown,2022,64
+album,Lorna Shore,6vXYoy8ouRVib302zxaxFF,metal,Pain Remains,2022,62
+album,Stratovarius,1O8CSXsPwEqxcoBE360PPO,metal,Survive,2022,53
+album,HammerFall,2o18h28enlHxj887tATc58,metal,Hammer of Dawn,2022,54
+album,Amaranthe,2KaW48xlLnXC2v8tvyhWsa,metal,Manifest (Bonus Version),2022,57
+album,Amon Amarth,3pulcT2wt7FEG10lQlqDJL,metal,The Great Heathen Army,2022,57
+album,Our Last Night,00YTqRClk82aMchQQpYMd5,metal,Disney Goes Heavy,2022,61
+album,Our Last Night,00YTqRClk82aMchQQpYMd5,metal,Empires Fall (Deluxe),2022,61
+album,Our Last Night,00YTqRClk82aMchQQpYMd5,metal,Decades of Covers,2022,61
+album,Our Last Night,00YTqRClk82aMchQQpYMd5,metal,Empires Fall,2022,61
+album,Mr. Big,5OfhOoKunSnuubxxRML8J3,metal,No Sense In Runnin' (Live),2022,58
+album,We Came As Romans,6qO6LhD6FuXK5e2PtfAIMz,metal,Darkbloom,2022,61
+album,Of Mice & Men,4tususHNaR68xdgLstlGBA,metal,Echo (Deluxe Version),2022,58
+album,Kreator,3BM0EaYmkKWuPmmHFUTQHv,metal,Hate Über Alles,2022,52
+album,Kreator,3BM0EaYmkKWuPmmHFUTQHv,metal,Endorama (Ultimate Edition),2022,52
+album,Kreator,3BM0EaYmkKWuPmmHFUTQHv,metal,Bootleg Revolution (Live),2022,52
+album,Amorphis,2UOVgpgiNTC6KK0vSC77aD,metal,Halo,2022,53
+album,Anthrax,3JysSUOyfVs1UQ0UaESheP,metal,XL,2022,54
+album,Paleface Swiss,467M2s2YxXdlL2ZpDUNL3A,metal,Fear & Dagger,2022,57
+album,LANDMVRKS,6G43CiunIxMwb2tQ12vNP6,metal,Lost in the Waves (The Complete Edition),2022,57
+album,Sonata Arctica,5YeoQ1L71cXDMpSpqxOjfH,metal,Acoustic Adventures - Vol. Two,2022,51
+album,Sonata Arctica,5YeoQ1L71cXDMpSpqxOjfH,metal,Acoustic Adventures - Vol. One,2022,51
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,PSYCHX,2022,56
+album,Scarlxrd,6rYogEVj60BCIsLukpAnwr,metal,Acquired Taste: Vxl. 2,2022,56
+album,Fit For A King,0OgdRTPItr9dw4XYp4JJUx,metal,The Hell We Create,2022,58
+album,Saliva Grey,1a7xjqgtH0LtzVv80S9kVx,metal,WORM FOOD,2022,59
+album,Saliva Grey,1a7xjqgtH0LtzVv80S9kVx,metal,Bury the Man Surrounded by Flies,2022,59
+album,Cinderella,7HL4id2U7FSDJtfKQHMgQx,metal,Roller Coaster (Live 1991),2022,56
+album,Wind Rose,67ps5pbKVO7V9Fcb4lTIXz,metal,Wardens of the West Wind (Mastering 2022),2022,53
+album,Wind Rose,67ps5pbKVO7V9Fcb4lTIXz,metal,Shadows Over Lothadruin (Mastering 2022),2022,53
+album,Wind Rose,67ps5pbKVO7V9Fcb4lTIXz,metal,Warfront,2022,53
+album,Dynazty,5deRBvKxJssHVa9n6B7tWV,metal,Final Advent,2022,52
+album,KMFDM,3V4IvzRQYP5mzuVtkcHgVa,metal,HYËNA,2022,59
+album,Lacuna Coil,4OAddazJM576euUnFSvXSL,metal,Comalies XX,2022,53
+album,Germ,4OYIkXBBN6ET96coWyWAXh,metal,DIRTIESTNASTIEST$UICIDE,2022,62
+album,The HU,0b2B3PwcYzQAhuJacmcYgc,metal,Rumble Of Thunder,2022,55
+album,All Them Witches,29Wmfm1CojrjQ3aQP0FI65,metal,Live On The Internet,2022,53
+album,The Devil Wears Prada,0NbQe5CNgh4YApOCDuHSjb,metal,Color Decay,2022,59
+album,Quiet Riot,1dLWg6m8RRhizsdqJbhyj3,metal,Rehab: Relapsed & Remastered 2023,2022,56
+album,Quiet Riot,1dLWg6m8RRhizsdqJbhyj3,metal,Hit'N'Run (Live 1983),2022,56
+album,Memphis May Fire,7cNNNhdJDrt3vgQjwSavNf,metal,Remade In Misery,2022,58

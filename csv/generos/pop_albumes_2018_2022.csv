@@ -1,0 +1,491 @@
+tipo,artista,artista_id,genero,nombre,año,popularidad_artista
+album,TINI,7vXDAI8JwjW531ouMGbfcp,pop,Quiero Volver,2018,77
+album,Pablo Alborán,5M9Bb4adKAgrOFOhc05Y50,pop,Prometo (Edición especial),2018,73
+album,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,Balas Perdidas (Edición Especial),2018,79
+album,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,Balas Perdidas,2018,79
+album,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,pop,Dua Lipa (Complete Edition),2018,86
+album,Pitbull,0TnOYISbd1XYRBk9myaseg,pop,Gotti (Original Motion Picture Soundtrack),2018,84
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,En Vivo Puros Corridos,2018,90
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,Taylor Swift Karaoke: reputation,2018,100
+album,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,pop,Origins (Deluxe),2018,86
+album,Vanesa Martín,5kSJMVPcTITrSZxTrHllVN,pop,Todas las mujeres que habitan en mí (Deluxe Edition),2018,64
+album,Vanesa Martín,5kSJMVPcTITrSZxTrHllVN,pop,Todas las mujeres que habitan en mí,2018,64
+album,Maroon 5,04gDigrS5kc9YWfZHwBETP,pop,Red Pill Blues (Deluxe),2018,86
+album,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,pop,Live in Buenos Aires,2018,88
+album,Aitana,7eLcDZDYHXZCebtQmVFL25,pop,Sus Canciones (Operación Triunfo 2017),2018,76
+album,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,Dvende,2018,62
+album,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,pop,Singular Act I,2018,92
+album,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,pop,Sweetener,2018,91
+album,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,pop,A Star Is Born Soundtrack (Without Dialogue),2018,89
+album,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,pop,A Star Is Born Soundtrack,2018,89
+album,Manuel Carrasco,7qAoXV4U0qDxQAUqhszjAA,pop,La Cruz Del Mapa,2018,64
+album,Sia,5WUlDfRSoLAfcVSX1WnrxN,pop,Everyday Is Christmas (Deluxe Edition),2018,83
+album,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,pop,MANTRA,2018,78
+album,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,pop,7,2018,87
+album,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,pop,7: Anniversary Edition,2018,87
+album,Taburete,40Ippe6JeofRURQ4nbF8DT,pop,Madame Ayahuasca,2018,57
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,BDZ (Repackage),2018,83
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,"The year of ""YES""",2018,83
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,YES or YES,2018,83
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,Summer Nights,2018,83
+album,Gorillaz,3AA28KZvwAUcZuOKwyblJQ,pop,The Now Now,2018,83
+album,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,pop,Springsteen on Broadway,2018,77
+album,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,pop,Live On Columbia Records Radio Hour 1995,2018,77
+album,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,pop,Live At Hollywood Center Studios 1992 Vol.2,2018,77
+album,Yves Tumor,0qu422H5MOoQxGjd4IzHbS,pop,Safe In The Hands of Love,2018,71
+album,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,pop,If I Know Me,2018,89
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,I am YOU,2018,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,I am WHO,2018,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,I am NOT,2018,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,Mixtape,2018,84
+album,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Love Yourself 結 'Answer',2018,85
+album,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Love Yourself 轉 'Tear',2018,85
+album,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,FACE YOURSELF,2018,85
+album,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,pop,Isolation,2018,83
+album,Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,pop,MASTERS OF THE SUN VOL. 1,2018,82
+album,Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,pop,50 Years - Don't Stop,2018,84
+album,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,pop,Shawn Mendes,2018,82
+album,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,pop,Queen (Deluxe),2018,85
+album,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,pop,Queen,2018,85
+album,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,pop,Amala,2018,87
+album,Florence + The Machine,1moxjboGR7GNWYIMWsRjgG,pop,High As Hope,2018,79
+album,Tom Odell,2txHhyCwHjUEpJjWrEyqyX,pop,Jubilee Road (Expanded Edition),2018,77
+album,Los Rebujitos,6v8MdMs2ByHLXUdWonWFPK,pop,9+1,2018,56
+album,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,BLACKPINK IN YOUR AREA (Japanese Version),2018,81
+album,Khalid,6LuN9FCkKOj5PcnpouEgny,pop,Suncity,2018,82
+album,Niña Pastori,6UelqIK8qwhWFc2f6nSEh8,pop,Realmente Volando (En Directo),2018,58
+album,Niña Pastori,6UelqIK8qwhWFc2f6nSEh8,pop,Bajo Tus Alas,2018,58
+album,Maki,65GDNtLQdPv30IljvoE2KW,pop,Quisiera parar el tiempo (Incondicional trilogía parte dos),2018,55
+album,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Ubuntu,2018,73
+album,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,pop,Voicenotes,2018,80
+album,Los Chichos,1xivtET7hPQUzwgnLRQfEP,pop,Decálogo (Sus 10 Mayores Éxitos),2018,56
+album,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,pop,Sick Boy,2018,80
+album,Malú,3TLGNOdp1UWYMnV5XG9HkR,pop,Oxígeno,2018,60
+album,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,Camila,2018,79
+album,Laura Pausini,2e4nwiX8ZCU09LGLOpeqTH,pop,Fatti sentire ancora,2018,73
+album,Laura Pausini,2e4nwiX8ZCU09LGLOpeqTH,pop,Hazte sentir más (Deluxe),2018,73
+album,Laura Pausini,2e4nwiX8ZCU09LGLOpeqTH,pop,Hazte sentir más,2018,73
+album,Laura Pausini,2e4nwiX8ZCU09LGLOpeqTH,pop,Fatti sentire,2018,73
+album,Laura Pausini,2e4nwiX8ZCU09LGLOpeqTH,pop,Hazte sentir,2018,73
+album,Justin Timberlake,31TPClRtHm23RisEBtV3X7,pop,Man of the Woods,2018,82
+album,ElGrandeToto,4BFLElxtBEdsdwGA1kHTsx,pop,Illicit,2018,69
+album,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,pop,Expectations,2018,76
+album,Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,pop,Menos É Mais (Ao Vivo),2018,85
+album,Kany García,69UypehHabb68utzfjAVlV,pop,Soy Yo,2018,72
+album,Burna Boy,3wcj11K77LjEY1PkEazffa,pop,Outside,2018,80
+album,j-hope,0b1sIQumIAsNbqAoIClSpy,pop,Hope World,2018,78
+album,Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,pop,Melody Queen Shreya Ghoshal,2018,85
+album,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,pop,Icarus Falls,2018,78
+album,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,Entre Mil Historias,2018,53
+album,Nyno Vargas,2dkbKcHXhN7ooFBdqAV76G,pop,Dicen de mi,2018,54
+album,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,hopeless fountain kingdom (Plus),2018,81
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Mis Inicios,2018,82
+album,Antonio José,1dbp04JzZ81JXlMGupCnJ8,pop,A Un Milímetro De Ti Y Cada Vez Más Cerca (Edición Deluxe),2018,57
+album,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,pop,Liberation,2018,77
+album,Pitbull,0TnOYISbd1XYRBk9myaseg,pop,Libertad 548,2019,84
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,Pisteando Con La Regida,2019,90
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,Del Barrio Hasta Aquí,2019,90
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,Lover,2019,100
+album,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,pop,Norman Fucking Rockwell!,2019,89
+album,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,pop,Everyday Life,2019,88
+album,Aitana,7eLcDZDYHXZCebtQmVFL25,pop,Spoiler,2019,76
+album,Omar Montes,3lY9Fxceu60W1rbon7PkuF,pop,La Vida Mártir,2019,64
+album,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,pop,Singular Act II,2019,92
+album,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,pop,k bye for now (swt live),2019,91
+album,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,pop,"thank u, next",2019,91
+album,Shakira,0EmeFodog0BfCgMzAIvKQp,pop,Shakira In Concert: El Dorado World Tour,2019,86
+album,Alejandro Sanz,5sUrlPAHlS9NEirDB8SEbF,pop,#LAGIRA de #ELDISCO,2019,79
+album,Alejandro Sanz,5sUrlPAHlS9NEirDB8SEbF,pop,#ELDISCO,2019,79
+album,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,pop,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,91
+album,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,pop,No.6 Collaborations Project,2019,89
+album,Manuel Carrasco,7qAoXV4U0qDxQAUqhszjAA,pop,La Cruz Del Mapa - Directo Estadio Metropolitano Madrid,2019,64
+album,Sia,5WUlDfRSoLAfcVSX1WnrxN,pop,"LABRINTH, SIA & DIPLO PRESENT... LSD",2019,83
+album,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,pop,FANTASÍA,2019,78
+album,Lola Indigo,3bvfu2KAve4lPHrhEFDZna,pop,Akelarre,2019,65
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,Feel Special,2019,83
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,&TWICE,2019,83
+album,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,pop,Western Stars - Songs From The Film,2019,77
+album,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,pop,Western Stars,2019,77
+album,Javi Medina,6dwFgF51JkLBz93ocNJ0Ol,pop,Solo,2019,57
+album,Charli xcx,25uiPmTg16RbhZWAqwLBy5,pop,Charli,2019,82
+album,Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,pop,Cry,2019,84
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,Corridos Tumbados,2019,88
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,Mi Vida en un Cigarro,2019,88
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,Clé : LEVANTER,2019,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,Clé 2 : Yellow Wood,2019,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,Clé 1 : MIROH,2019,84
+album,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,MAP OF THE SOUL : PERSONA,2019,85
+album,El Arrebato,2dJyJptNE5bMmbN6z08iNJ,pop,Abrazos,2019,59
+album,Demarco Flamenco,4hFZibFsoIxictRvkZDjIc,pop,Le sonrío al agua,2019,57
+album,Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,pop,Fleetwood Mac 1975 to 1987,2019,84
+album,Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,pop,Before the Beginning - 1968-1970 Rare Live & Demo Sessions (Remastered),2019,84
+album,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,pop,Shawn Mendes (Deluxe),2019,82
+album,Juanes,0UWZUmn7sybxMCqrw9tGa7,pop,Más Futuro Que Pasado,2019,74
+album,India Martinez,6FOpWOxsjQxKEbLiJpU1xV,pop,Palmeras,2019,61
+album,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Fine Line,2019,81
+album,Beyoncé,6vWDO969PvNqNYHIOW5v0m,pop,The Lion King: The Gift,2019,84
+album,Beyoncé,6vWDO969PvNqNYHIOW5v0m,pop,HOMECOMING: THE LIVE ALBUM,2019,84
+album,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,pop,SHE IS COMING,2019,81
+album,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,pop,Hot Pink,2019,87
+album,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,pop,Amala (Deluxe Version),2019,87
+album,Anitta,7FNnA9vBm6EKceENgCGRMb,pop,Kisses,2019,79
+album,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL (Live),2019,81
+album,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,"BLACKPINK ARENA TOUR 2018 ""SPECIAL FINAL IN KYOCERA DOME OSAKA""",2019,81
+album,Khalid,6LuN9FCkKOj5PcnpouEgny,pop,Free Spirit,2019,82
+album,Hozier,2FXC3k01G6Gw61bmprjgqS,pop,"Wasteland, Baby! (Special Edition)",2019,82
+album,Hozier,2FXC3k01G6Gw61bmprjgqS,pop,"Wasteland, Baby!",2019,82
+album,Madonna,6tbjWDEIzxoDsBA1FuhfPW,pop,Madame X (International Deluxe),2019,79
+album,Madonna,6tbjWDEIzxoDsBA1FuhfPW,pop,Madame X (Deluxe),2019,79
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Mi Nuevo Yo,2019,84
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Corridos Tumbados,2019,84
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Todo Es Diferente,2019,84
+album,James Arthur,4IWBUUAFIplrNtaOHcJPRM,pop,YOU,2019,79
+album,Camela,6flBUmmOMLNhD4EJhGwgpG,pop,Rebobinando (25 Años),2019,58
+album,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,pop,Divinely Uninspired To A Hellish Extent (Extended Edition),2019,79
+album,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,pop,Divinely Uninspired To A Hellish Extent,2019,79
+album,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,pop,World War Joy,2019,80
+album,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,Romance,2019,79
+album,Reik,0vR2qb8m9WHeZ5ByCbimq2,pop,Ahora,2019,76
+album,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,pop,VIDA,2019,74
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Chhichhore,2019,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Kalank (Original Motion Picture Soundtrack),2019,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Pritam's Musical Journey,2019,88
+album,Keane,53A0W3U0s8diEn9RhXQhVz,pop,Cause And Effect (Deluxe),2019,74
+album,The Cure,7bu3H8JO7d0UbMoVzbo70s,pop,Curaetion-25: From There To Here | From Here To There (Live),2019,76
+album,The Cure,7bu3H8JO7d0UbMoVzbo70s,pop,Anniversary: 1978 - 2018 Live In Hyde Park London,2019,76
+album,Greeicy,5dbaLmK5SHLLg8Z4CcTJpX,pop,Baila,2019,69
+album,Kany García,69UypehHabb68utzfjAVlV,pop,Contra el Viento,2019,72
+album,Bee Gees,1LZEQNv7sE11VDY3SdxQeN,pop,Spick And Span,2019,76
+album,La Húngara,7xtnpHS34mLlxGZDVUBHSU,pop,Yo Te Esperaré,2019,57
+album,The Cranberries,7t0rwkOPGlDPEhaOcVtOt9,pop,In the End,2019,76
+album,Burna Boy,3wcj11K77LjEY1PkEazffa,pop,African Giant,2019,80
+album,P!nk,1KCSPY1glIKqW2TotWuXOR,pop,Hurts 2B Human,2019,78
+album,Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,pop,Banal Rahe Senur Sringaar - Special Teej Tyohaar Geet 2019,2019,85
+album,Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,pop,Parineeta,2019,85
+album,Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,pop,Voice of Shreya Ghoshal,2019,85
+album,Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,pop,Thikana,2019,85
+album,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,Miguel Campello en Directo (Madrid 15/12/2018),2019,53
+album,Backstreet Boys,5rSXSAkZ67PYJSvpUpkOr7,pop,DNA,2019,77
+album,Julieta Venegas,2QWIScpFDNxmS6ZEMIUvgm,pop,La Enamorada,2019,74
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Corridos 2019 Vol. 2,2019,82
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Aqui Seguimos De Pie,2019,82
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Pocos Pero Locos,2019,82
+album,Antonio José,1dbp04JzZ81JXlMGupCnJ8,pop,Antídoto,2019,57
+album,El Barrio,0fM3rWsshliRFUmJlBP6QZ,pop,El Danzar De Las Mariposas,2020,61
+album,TINI,7vXDAI8JwjW531ouMGbfcp,pop,TINI TINI TINI,2020,77
+album,Pablo Alborán,5M9Bb4adKAgrOFOhc05Y50,pop,Vértigo,2020,73
+album,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,pop,Club Future Nostalgia (DJ Mix),2020,86
+album,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,pop,Future Nostalgia,2020,86
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,Pisteando Con La Regida (Vol. 3),2020,90
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,Navidad Con La Regida,2020,90
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,"Otro Pedo, Otro Mundo",2020,90
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,Adicto,2020,90
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,Pisteando Con La Regida Vol. 2,2020,90
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,evermore,2020,100
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,100
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,folklore (deluxe version),2020,100
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,folklore,2020,100
+album,Vanesa Martín,5kSJMVPcTITrSZxTrHllVN,pop,Siete veces sí,2020,64
+album,David Bisbal,5gOJTI4TusSENizxhcG7jB,pop,En Tus Planes,2020,69
+album,Antonio Orozco,1ADdpen72RPuafRcv0YRBf,pop,Aviónica,2020,62
+album,Aitana,7eLcDZDYHXZCebtQmVFL25,pop,11 RAZONES,2020,76
+album,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,Maldiciones,2020,62
+album,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,Bendiciones,2020,62
+album,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,pop,Positions,2020,91
+album,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,pop,Changes,2020,91
+album,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,Por Primera Vez,2020,78
+album,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,pop,Chromatica,2020,89
+album,La Oreja de Van Gogh,4U7lXyKdSf1JbM1aXvsodC,pop,Un Susurro en la Tormenta,2020,73
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,Eyes Wide Open,2020,83
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,MORE & MORE,2020,83
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,&TWICE (Repackage),2020,83
+album,Akon,0z4gvV4rjIZ9wHck67ucSV,pop,Ain’t No Peace,2020,82
+album,Gorillaz,3AA28KZvwAUcZuOKwyblJQ,pop,"Song Machine, Season One: Strange Timez (Deluxe)",2020,83
+album,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,pop,Letter To You,2020,77
+album,Yves Tumor,0qu422H5MOoQxGjd4IzHbS,pop,Heaven To A Tortured Mind,2020,71
+album,Sam Smith,2wY79sveU1sp5g7SokKOiI,pop,Love Goes,2020,82
+album,Charli xcx,25uiPmTg16RbhZWAqwLBy5,pop,how i'm feeling now,2020,82
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,Las 3 Torres,2020,88
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,MUSICA <3,2020,88
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,Cruisin' with Junior H,2020,88
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,Atrapado en un Sueño (Deluxe),2020,88
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,Atrapado en un Sueño,2020,88
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,ALL IN,2020,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,IN LIFE,2020,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,GO LIVE,2020,84
+album,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,BE,2020,85
+album,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,MAP OF THE SOUL : 7 ~ THE JOURNEY ~,2020,85
+album,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,MAP OF THE SOUL : 7,2020,85
+album,Katy Perry,6jJ0s89eD6GaHleKKya26X,pop,Smile,2020,84
+album,El Arrebato,2dJyJptNE5bMmbN6z08iNJ,pop,+ Abrazos (Edición Especial),2020,59
+album,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,pop,Sin Miedo (del Amor y Otros Demonios) ∞ [Deluxe Version],2020,83
+album,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,pop,Sin Miedo (del Amor y Otros Demonios) ∞,2020,83
+album,Britney Spears,26dSoYclwsYLMAKD3tpOr4,pop,Glory (Deluxe),2020,81
+album,Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,pop,TRANSLATION,2020,82
+album,Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,pop,Transmission Impossible,2020,84
+album,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,pop,Wonder (Deluxe),2020,82
+album,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,pop,Wonder (Holiday Deluxe),2020,82
+album,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,pop,Wonder,2020,82
+album,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,pop,Rare (Deluxe),2020,81
+album,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,pop,Rare,2020,81
+album,Beyoncé,6vWDO969PvNqNYHIOW5v0m,pop,The Lion King: The Gift [Deluxe Edition],2020,84
+album,Rozalén,5soMpG6E6oApEiCZgrWeVz,pop,El Árbol y el Bosque,2020,61
+album,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,pop,Plastic Hearts,2020,81
+album,Green Day,7oPftvlwr6VrsViSDV7fJY,pop,No Fun Mondays,2020,81
+album,Green Day,7oPftvlwr6VrsViSDV7fJY,pop,Father of All...,2020,81
+album,Alejandro Fernández,6sq1yF0OZEWA4xoXVKW1L9,pop,Siempre Enamorado - Éxitos Originales,2020,76
+album,Alejandro Fernández,6sq1yF0OZEWA4xoXVKW1L9,pop,Hecho En México,2020,76
+album,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,THE ALBUM,2020,81
+album,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live),2020,81
+album,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,pop,Brightest Blue,2020,79
+album,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,pop,Lights 10,2020,79
+album,Jesse & Joy,1mX1TWKpNxDSAH16LgDfiR,pop,Aire (Versión Día),2020,76
+album,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Canciones Que Nos Marcaron,2020,73
+album,Fondo Flamenco,0YIhVMmaboWI25NVbZRkmo,pop,Maqueta 2005,2020,55
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Las 3 Torres,2020,84
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Soy El Nata,2020,84
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Trap Tumbado,2020,84
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Corridos Tumbados Vol. 2,2020,84
+album,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,pop,Heaven & Hell,2020,77
+album,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,pop,ALICIA,2020,79
+album,Carlos Vives,4vhNDa5ycK0ST968ek7kRr,pop,Cumbiana,2020,72
+album,Pablo López,4uyqaioPEdClDxU6zvYlAZ,pop,UNIKORNIO Once millones de versos después de ti,2020,58
+album,Cali Y El Dandee,5DUlefCLzVRzNWaNURTFpK,pop,Colegio,2020,66
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Ludo,2020,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Love Aaj Kal (Original Motion Picture Soundtrack),2020,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,The Forgotten Army (Original Series Soundtrack),2020,88
+album,Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,pop,Ao Vivo No Ibirapuera,2020,85
+album,Kany García,69UypehHabb68utzfjAVlV,pop,Mesa Para Dos,2020,72
+album,Kesha,6LqNN22kT3074XbTVUrhzX,pop,High Road,2020,79
+album,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,pop,Jason Derulo (10th Anniversary Deluxe),2020,77
+album,Burna Boy,3wcj11K77LjEY1PkEazffa,pop,Twice As Tall,2020,80
+album,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,5,2020,53
+album,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,BADLANDS (Live From Webster Hall),2020,81
+album,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,Manic,2020,81
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Corridos Bélicos,2020,82
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Corridos 2019,2020,82
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,No Paramos de Chambear,2020,82
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Corridos 2018,2020,82
+album,Antonio José,1dbp04JzZ81JXlMGupCnJ8,pop,Antídoto2,2020,57
+album,Ricky Martin,7slfeZO9LsJbWgpkIoXBUJ,pop,PAUSA (Headphone Mix),2020,73
+album,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,pop,Kid Krow,2020,80
+album,Ovi,4o0NtnL2m0lzZmEdRas1qv,pop,Las 3 Torres,2020,68
+album,Ovi,4o0NtnL2m0lzZmEdRas1qv,pop,Buen Viaje,2020,68
+album,Ovi,4o0NtnL2m0lzZmEdRas1qv,pop,AMEN,2020,68
+album,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,¿A Dónde Vamos?,2021,79
+album,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,pop,Future Nostalgia (The Moonlight Edition),2021,86
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,"Del Barrio Hasta Aquí, Vol. 2",2021,90
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,Red (Taylor's Version),2021,100
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,Fearless (Taylor's Version),2021,100
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,evermore (deluxe version),2021,100
+album,Vanesa Martín,5kSJMVPcTITrSZxTrHllVN,pop,Siete veces sí (Deluxe),2021,64
+album,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,pop,Blue Banisters,2021,89
+album,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,pop,Chemtrails Over The Country Club,2021,89
+album,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pop,SOUR,2021,85
+album,David Bisbal,5gOJTI4TusSENizxhcG7jB,pop,20 Años Contigo,2021,69
+album,Antonio Orozco,1ADdpen72RPuafRcv0YRBf,pop,Pedacitos De Mi,2021,62
+album,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,pop,An Evening With Silk Sonic,2021,90
+album,Maroon 5,04gDigrS5kc9YWfZHwBETP,pop,JORDI (Deluxe),2021,86
+album,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,pop,Music Of The Spheres,2021,88
+album,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,Detrás de Esta Pinta Hay un Flamenco,2021,62
+album,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,pop,Positions (Deluxe),2021,91
+album,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,pop,Justice (The Complete Edition),2021,91
+album,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,pop,Justice (Triple Chucks Deluxe),2021,91
+album,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,pop,Justice,2021,91
+album,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,Mis Manos,2021,78
+album,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,pop,Love For Sale (Deluxe),2021,89
+album,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,pop,Dawn Of Chromatica,2021,89
+album,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,pop,BORN THIS WAY THE TENTH ANNIVERSARY,2021,89
+album,Shakira,0EmeFodog0BfCgMzAIvKQp,pop,Laundry Service: Washed and Dried (Expanded Edition),2021,86
+album,Alejandro Sanz,5sUrlPAHlS9NEirDB8SEbF,pop,Sanz,2021,79
+album,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,pop,Happier Than Ever,2021,91
+album,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,pop,=,2021,89
+album,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,pop,2step (The Remixes),2021,89
+album,Manuel Carrasco,7qAoXV4U0qDxQAUqhszjAA,pop,Salida De Emergencia,2021,64
+album,Sia,5WUlDfRSoLAfcVSX1WnrxN,pop,Music (Songs From And Inspired By The Motion Picture),2021,83
+album,La Oreja de Van Gogh,4U7lXyKdSf1JbM1aXvsodC,pop,Esencial La Oreja de Van Gogh,2021,73
+album,Lola Indigo,3bvfu2KAve4lPHrhEFDZna,pop,La Niña,2021,65
+album,REI AMI,6U1dV7aL68N7Gb0Naq34V5,pop,FOIL,2021,87
+album,AUDREY NUNA,0Wwji82sLA0Hcvtuak3omb,pop,a liquid breakfast,2021,87
+album,Taburete,40Ippe6JeofRURQ4nbF8DT,pop,La Broma Infinita,2021,57
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,Formula of Love: O+T=<3,2021,83
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,Perfect World,2021,83
+album,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,pop,Bruce Springsteen & The E Street Band - The Legendary 1979 No Nukes Concerts,2021,77
+album,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,pop,Dangerous: The Double Album (Bonus),2021,89
+album,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,pop,Dangerous: The Double Album,2021,89
+album,Sam Smith,2wY79sveU1sp5g7SokKOiI,pop,Dear Evan Hansen (Original Motion Picture Soundtrack),2021,82
+album,Sam Smith,2wY79sveU1sp5g7SokKOiI,pop,Love Goes: Live at Abbey Road Studios,2021,82
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,$ad Boyz 4 Life,2021,88
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,SKZ2021,2021,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,NOEASY,2021,84
+album,ABBA,0LcJLqbBmaGUft1e9Mm8HV,pop,Voyage,2021,80
+album,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,pop,FINAL (Vol.1),2021,78
+album,Adele,4dpARuHxo51G3z768sgnrY,pop,30,2021,84
+album,Juanes,0UWZUmn7sybxMCqrw9tGa7,pop,Origen,2021,74
+album,Arijit Singh,4YRxDV8wJFPHPTeXepOstw,pop,YRF Top 10 - Nightout Sounds,2021,90
+album,Arijit Singh,4YRxDV8wJFPHPTeXepOstw,pop,YRF Top 10 - Bollywood Remixed,2021,90
+album,Arijit Singh,4YRxDV8wJFPHPTeXepOstw,pop,Pagglait (Original Motion Picture Soundtrack),2021,90
+album,Arijit Singh,4YRxDV8wJFPHPTeXepOstw,pop,YRF Top 10 - Midnight Hour,2021,90
+album,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,pop,Human (Deluxe),2021,82
+album,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,pop,Efectos Secundarios,2021,87
+album,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,pop,Beam Me Up Scotty,2021,85
+album,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,pop,Planet Her (Deluxe),2021,87
+album,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,pop,Planet Her,2021,87
+album,Tom Odell,2txHhyCwHjUEpJjWrEyqyX,pop,monsters,2021,77
+album,Green Day,7oPftvlwr6VrsViSDV7fJY,pop,BBC Sessions (Live),2021,81
+album,Green Day,7oPftvlwr6VrsViSDV7fJY,pop,Insomniac (25th Anniversary Deluxe Edition),2021,81
+album,Alejandro Fernández,6sq1yF0OZEWA4xoXVKW1L9,pop,Hecho En México (Edición Especial),2021,76
+album,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,BLACKPINK 2021 'THE SHOW' LIVE,2021,81
+album,Khalid,6LuN9FCkKOj5PcnpouEgny,pop,Scenic Drive (The Tape),2021,82
+album,Niña Pastori,6UelqIK8qwhWFc2f6nSEh8,pop,Sigo Navegando (25 Años),2021,58
+album,Maki,65GDNtLQdPv30IljvoE2KW,pop,X: Incondicional Trilogía Parte III,2021,55
+album,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,El Amor En Los Tiempos Del Perreo,2021,73
+album,Madonna,6tbjWDEIzxoDsBA1FuhfPW,pop,Madame X - Music From The Theater Xperience (Live),2021,79
+album,Madonna,6tbjWDEIzxoDsBA1FuhfPW,pop,True Blue (35th Anniversary Edition),2021,79
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,A Mis 20,2021,84
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Nata,2021,84
+album,James Arthur,4IWBUUAFIplrNtaOHcJPRM,pop,It'll All Make Sense In The End,2021,79
+album,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,pop,KEYS,2021,79
+album,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,pop,ALICIA: The Selects,2021,79
+album,Carlos Vives,4vhNDa5ycK0ST968ek7kRr,pop,"KOGI SESSIONS, Vol. 1 (Cumbiana Remixes)",2021,72
+album,Pablo López,4uyqaioPEdClDxU6zvYlAZ,pop,Un Piano Y Una Voz En 360º Desde La Maestranza De Sevilla (En Concierto 360 Grados),2021,58
+album,Malú,3TLGNOdp1UWYMnV5XG9HkR,pop,Mil Batallas,2021,60
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,83 (Original Motion Picture Soundtrack),2021,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Tadap,2021,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Sai Tujhe Pranam,2021,88
+album,Keane,53A0W3U0s8diEn9RhXQhVz,pop,Live At Largo,2021,74
+album,ENHYPEN,5t5FqBwTcgKTaWmfEbwQY9,pop,DIMENSION : DILEMMA,2021,80
+album,ElGrandeToto,4BFLElxtBEdsdwGA1kHTsx,pop,Caméléon,2021,69
+album,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,pop,Better Mistakes,2021,76
+album,Lorde,163tK9Wjr9P9DmM0AVK7lm,pop,Solar Power (Deluxe Edition),2021,80
+album,Lorde,163tK9Wjr9P9DmM0AVK7lm,pop,Solar Power,2021,80
+album,Nelly Furtado,2jw70GZXlAI8QzWeY2bgRc,pop,Loose (Expanded Edition),2021,77
+album,Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,pop,Manifesto Musical (Ao Vivo / Vol. 1),2021,85
+album,Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,pop,Poster Girl (Summer Edition),2021,78
+album,Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,pop,Poster Girl,2021,78
+album,Bee Gees,1LZEQNv7sE11VDY3SdxQeN,pop,Memories Come Alive (Live 1971),2021,76
+album,The Cranberries,7t0rwkOPGlDPEhaOcVtOt9,pop,Remembering Dolores,2021,76
+album,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,pop,Dancing With The Devil…The Art of Starting Over (Deluxe Edition),2021,78
+album,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,pop,Dancing With The Devil…The Art of Starting Over,2021,78
+album,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,pop,Dancing With The Devil…The Art of Starting Over (Expanded Edition),2021,78
+album,P!nk,1KCSPY1glIKqW2TotWuXOR,pop,All I Know So Far: Setlist,2021,78
+album,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,pop,Nobody Is Listening,2021,78
+album,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,Con Todos Mis Respetos,2021,53
+album,Nyno Vargas,2dkbKcHXhN7ooFBdqAV76G,pop,El Efecto Nyno... Continuará,2021,54
+album,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,"If I Can’t Have Love, I Want Power (Deluxe)",2021,81
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Desde La Oficina (En Vivo),2021,82
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Pisteando Con Amigos (En Vivo),2021,82
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,"Corridos Bélicos, Vol. 2",2021,82
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Corridos Bélicos (Con Banda),2021,82
+album,DYSTINCT,1cKyknhftNKXCjMBd2hDrG,pop,MON VOYAGE,2021,71
+album,Antonio José,1dbp04JzZ81JXlMGupCnJ8,pop,Fénix,2021,57
+album,Ayra Starr,3ZpEKRjHaHANcpk10u6Ntq,pop,19 & Dangerous,2021,75
+album,Ovi,4o0NtnL2m0lzZmEdRas1qv,pop,Retumban2,2021,68
+album,Björk,7w29UYBi0qsHi5RTcv3lmA,pop,Fossora,2022,73
+album,El Barrio,0fM3rWsshliRFUmJlBP6QZ,pop,Atemporal,2022,61
+album,Pablo Alborán,5M9Bb4adKAgrOFOhc05Y50,pop,La cuarta hoja,2022,73
+album,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,SI AYER FUERA HOY,2022,79
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,Pa Que Hablen,2022,90
+album,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,pop,Sigan Hablando,2022,90
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,Midnights (3am Edition),2022,100
+album,Taylor Swift,06HL4z0CvFAxyc27GXpf02,pop,Midnights,2022,100
+album,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,pop,Night Visions (Expanded Edition / Super Deluxe),2022,86
+album,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,pop,Mercury - Acts 1 & 2,2022,86
+album,Vanesa Martín,5kSJMVPcTITrSZxTrHllVN,pop,Placeres y pecados,2022,64
+album,Aitana,7eLcDZDYHXZCebtQmVFL25,pop,La Última (Banda Sonora Original),2022,76
+album,Omar Montes,3lY9Fxceu60W1rbon7PkuF,pop,Quejíos de un Maleante,2022,64
+album,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,pop,emails i can't send,2022,92
+album,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,De Adentro Pa Afuera,2022,78
+album,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,pop,Top Gun: Maverick (Music From The Motion Picture),2022,89
+album,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,pop,= (Tour Edition),2022,89
+album,Manuel Carrasco,7qAoXV4U0qDxQAUqhszjAA,pop,Corazón Y Flecha,2022,64
+album,Sia,5WUlDfRSoLAfcVSX1WnrxN,pop,Everyday Is Christmas (Snowman Deluxe Edition),2022,83
+album,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,pop,Dharma +,2022,78
+album,Tate McRae,45dkTj5sMRSjrmBSBeiHym,pop,i used to think i could fly,2022,89
+album,Lola Indigo,3bvfu2KAve4lPHrhEFDZna,pop,La Niña XXL,2022,65
+album,Lola Indigo,3bvfu2KAve4lPHrhEFDZna,pop,Akelarre (Edición Especial),2022,65
+album,AUDREY NUNA,0Wwji82sLA0Hcvtuak3omb,pop,a liquid breakfast DELUXE,2022,87
+album,Taburete,40Ippe6JeofRURQ4nbF8DT,pop,Matadero 5,2022,57
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,BETWEEN 1&2,2022,83
+album,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,Celebrate,2022,83
+album,Akon,0z4gvV4rjIZ9wHck67ucSV,pop,Konvicted (Complete Edition),2022,82
+album,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,pop,Only the Strong Survive,2022,77
+album,Javi Medina,6dwFgF51JkLBz93ocNJ0Ol,pop,Ángel,2022,57
+album,Charli xcx,25uiPmTg16RbhZWAqwLBy5,pop,CRASH (Deluxe),2022,82
+album,Charli xcx,25uiPmTg16RbhZWAqwLBy5,pop,CRASH,2022,82
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,CONTINGENTE,2022,88
+album,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,Mi Vida En Un Cigarro 2,2022,88
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,SKZ-REPLAY,2022,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,MAXIDENT,2022,84
+album,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,ODDINARY,2022,84
+album,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Proof,2022,85
+album,Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,pop,ELEVATION,2022,82
+album,Demarco Flamenco,4hFZibFsoIxictRvkZDjIc,pop,En una sola palabra,2022,57
+album,Juanes,0UWZUmn7sybxMCqrw9tGa7,pop,Un Día Normal (20th Anniversary Remastered),2022,74
+album,India Martinez,6FOpWOxsjQxKEbLiJpU1xV,pop,Nuestro Mundo,2022,61
+album,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,pop,Top Gun: Maverick (Music From The Motion Picture),2022,82
+album,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,pop,One Night In Malibu,2022,82
+album,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Harry's House,2022,81
+album,Beyoncé,6vWDO969PvNqNYHIOW5v0m,pop,RENAISSANCE,2022,84
+album,Antoñito Molina,32TNt1biE79JwouUBk0SOi,pop,La ley de mi naturaleza,2022,60
+album,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,pop,Queen Radio: Volume 1,2022,85
+album,Rozalén,5soMpG6E6oApEiCZgrWeVz,pop,Matriz,2022,61
+album,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,pop,ATTENTION: MILEY LIVE,2022,81
+album,Anitta,7FNnA9vBm6EKceENgCGRMb,pop,Versions of Me (Deluxe),2022,79
+album,Anitta,7FNnA9vBm6EKceENgCGRMb,pop,Versions of Me,2022,79
+album,Florence + The Machine,1moxjboGR7GNWYIMWsRjgG,pop,Dance Fever (Live At Madison Square Garden),2022,79
+album,Florence + The Machine,1moxjboGR7GNWYIMWsRjgG,pop,Dance Fever (Deluxe),2022,79
+album,Florence + The Machine,1moxjboGR7GNWYIMWsRjgG,pop,Dance Fever,2022,79
+album,Tom Odell,2txHhyCwHjUEpJjWrEyqyX,pop,Best Day of My Life,2022,77
+album,Los Rebujitos,6v8MdMs2ByHLXUdWonWFPK,pop,Marniático,2022,56
+album,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,BORN PINK,2022,81
+album,Jesse & Joy,1mX1TWKpNxDSAH16LgDfiR,pop,Clichés,2022,76
+album,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,777,2022,73
+album,Fondo Flamenco,0YIhVMmaboWI25NVbZRkmo,pop,Edición Especial,2022,55
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,NataKong,2022,84
+album,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Soy El Diablo,2022,84
+album,James Arthur,4IWBUUAFIplrNtaOHcJPRM,pop,It'll All Make Sense In The End (Deluxe),2022,79
+album,Camela,6flBUmmOMLNhD4EJhGwgpG,pop,Que la música te acompañe,2022,58
+album,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,pop,CHARLIE,2022,80
+album,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,pop,Santa Baby,2022,79
+album,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,pop,KEYS II,2022,79
+album,Carlos Vives,4vhNDa5ycK0ST968ek7kRr,pop,Cumbiana II,2022,72
+album,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,pop,So Far So Good (lofi remixes),2022,80
+album,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,pop,So Far So Good,2022,80
+album,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,Familia,2022,79
+album,Cali Y El Dandee,5DUlefCLzVRzNWaNURTFpK,pop,Malibu,2022,66
+album,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,pop,Ley De Gravedad,2022,74
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Brahmastra (Original Motion Picture Soundtrack),2022,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Ready (Cine Audio),2022,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Bhool Bhulaiyaa (Cine Audio),2022,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Bhool Bhulaiyaa 2 (Cine Audio),2022,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Bhool Bhulaiyaa 2,2022,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,83 - Tamil (Original Motion Picture Soundtrack),2022,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,83 - Malayalam (Original Motion Picture Soundtrack),2022,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,83 - Kannada (Original Motion Picture Soundtrack),2022,88
+album,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,83 - Telugu (Original Motion Picture Soundtrack),2022,88
+album,ENHYPEN,5t5FqBwTcgKTaWmfEbwQY9,pop,定め,2022,80
+album,ENHYPEN,5t5FqBwTcgKTaWmfEbwQY9,pop,DIMENSION : ANSWER,2022,80
+album,Haze,6c4WWQ2PYJlgnxtkQKqI5s,pop,Carne de Cañón,2022,54
+album,The Cure,7bu3H8JO7d0UbMoVzbo70s,pop,Wish (30th Anniversary Edition),2022,76
+album,Greeicy,5dbaLmK5SHLLg8Z4CcTJpX,pop,La Carta,2022,69
+album,Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,pop,Manifesto Musical (Ao Vivo),2022,85
+album,Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,pop,Manifesto Musical (Ao Vivo / Vol. 2),2022,85
+album,Kany García,69UypehHabb68utzfjAVlV,pop,El Amor Que Merecemos,2022,72
+album,Bee Gees,1LZEQNv7sE11VDY3SdxQeN,pop,Vaults - 24 Original Tracks - Early Years,2022,76
+album,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,pop,HOLY FVCK,2022,78
+album,Burna Boy,3wcj11K77LjEY1PkEazffa,pop,"Love, Damini",2022,80
+album,j-hope,0b1sIQumIAsNbqAoIClSpy,pop,Jack In The Box,2022,78
+album,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,pop,This Is Me...Then (20th Anniversary Edition),2022,75
+album,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,pop,Marry Me (Original Motion Picture Soundtrack),2022,75
+album,Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,pop,Life Is Good,2022,85
+album,Backstreet Boys,5rSXSAkZ67PYJSvpUpkOr7,pop,A Very Backstreet Christmas,2022,77
+album,Backstreet Boys,5rSXSAkZ67PYJSvpUpkOr7,pop,A Very Backstreet Christmas (Deluxe Edition),2022,77
+album,Julieta Venegas,2QWIScpFDNxmS6ZEMIUvgm,pop,Tu Historia,2022,74
+album,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,hopeless fountain kingdom (Live From Webster Hall),2022,81
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,"Corridos Bélicos, Vol. 3",2022,82
+album,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Corridones Belicones Duetos,2022,82
+album,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,pop,Stripped - 20th Anniversary Edition,2022,77
+album,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,pop,AGUILERA,2022,77
+album,Ayra Starr,3ZpEKRjHaHANcpk10u6Ntq,pop,19 & Dangerous (Deluxe),2022,75
+album,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,pop,Superache,2022,80
