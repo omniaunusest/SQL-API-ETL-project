@@ -27,6 +27,7 @@ CREATE TABLE lastfm (
 	);
     
     
+    
     -- pruebitas varias 
     
    SELECT spotify.track_name, spotify.artist_name,spotify.genre, spotify.popularity, lastfm.listeners, lastfm.playcount, lastfm.biography
