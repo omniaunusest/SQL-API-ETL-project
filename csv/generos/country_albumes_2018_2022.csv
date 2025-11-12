@@ -1,0 +1,496 @@
+tipo,artista,artista_id,genero,nombre,año,popularidad_artista
+album,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,country,Desperate Man,2018,71
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,My Way,2018,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,Made in the USA Collection,2018,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,Last Man Standing,2018,70
+album,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,country,Home State,2018,72
+album,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,country,Live on Red Barn Radio I & II,2018,76
+album,Kacey Musgraves,70kkdajctXSbqSMJbQO424,country,Golden Hour,2018,73
+album,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,country,Rearview Town,2018,75
+album,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,country,Life Changes (Deluxe Version),2018,73
+album,Dolly Parton,32vWCbZh0xZ4o9gkz4PsEU,country,Dumplin' Original Motion Picture Soundtrack,2018,71
+album,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,Goodnight Nashville,2018,79
+album,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,Waylon & Willie III,2018,79
+album,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,Waylon & Willie 2,2018,79
+album,Luke Combs,718COspgdWOnwOFpJHRZHS,country,This One's for You Too (Deluxe Edition),2018,83
+album,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,country,If I Know Me,2018,89
+album,Shaboozey,3y2cIKLjiOlp1Np37WiUdH,country,Lady Wrangler,2018,76
+album,The Chicks,25IG9fa7cbdmCIy3OnuH57,country,DCX MMXVI Live,2018,65
+album,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,country,Ticket To L.A.,2018,65
+album,Josh Turner,7vCtweS8UVAXTyau2j0rDT,country,I Serve A Savior,2018,64
+album,Colter Wall,3xYXYzm9H3RzyQgBrYwIcx,country,Songs of the Plains,2018,68
+album,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,country,Interstate Gospel,2018,67
+album,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,country,Dan + Shay,2018,67
+album,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,country,Songs for the Saints,2018,69
+album,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,country,Unapologetically (Deluxe Edition),2018,67
+album,Bishop Briggs,0yb46jwm7gqbZXVXZQ8Z1e,country,Church Of Scars,2018,61
+album,Toby Keith,2bA6fzP0lMAQ4kz6CF61w8,country,Should've Been A Cowboy (25th Anniversary Edition),2018,70
+album,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,country,Cry Pretty,2018,69
+album,Soap&Skin,2mAYpnSe3g2Y22JcZ2ddku,country,From Gas to Solid / you are my friend,2018,61
+album,LeAnn Rimes,2d3VHzlOEwXvmBdS4pzOPL,country,"It's Christmas, Eve (Original Motion Picture Soundtrack)",2018,62
+album,Elle King,3bhu7P5PfngueRHiB9hjcx,country,Shake The Spirit,2018,64
+album,Keith Urban,0u2FHSq3ln94y5Q57xazwf,country,Graffiti U,2018,67
+album,Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,country,The Mountain,2018,65
+album,Ane Brun,2L3kwZFd16zjHz9a5kEPAm,country,Leave Me Breathless (Live),2018,56
+album,Ane Brun,2L3kwZFd16zjHz9a5kEPAm,country,Live At Berwaldhallen,2018,56
+album,Glen Campbell,59hLmB5DrdihCYtNeFeW1U,country,Sings For The King,2018,61
+album,Glen Campbell,59hLmB5DrdihCYtNeFeW1U,country,Live Anthology,2018,61
+album,Cody Jinks,2v7wIbCkIzxOfT3GnqCexD,country,Lifers,2018,63
+album,Don Williams,4Ti0EKl2PVEms2NRMVGqNe,country,Don Williams His Great Songs,2018,61
+album,Don Williams,4Ti0EKl2PVEms2NRMVGqNe,country,The Essential Collection,2018,61
+album,Don Williams,4Ti0EKl2PVEms2NRMVGqNe,country,29 Country Best,2018,61
+album,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,country,All of It,2018,64
+album,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,Telling All My Secrets,2018,60
+album,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,The Wind,2018,60
+album,Reba McEntire,02rd0anEWfMtF7iMku9uor,country,My Kind Of Christmas,2018,62
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,River Rat,2018,63
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Supernatural,2018,63
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,The Oven,2018,63
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Creeker,2018,63
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,"Project X, Vol. 1",2018,63
+album,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Have Mercy,2018,60
+album,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,Lil G.L.'s Blue Bonanza,2018,60
+album,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,Lonesome as a Shadow,2018,60
+album,Tracy Lawrence,2BQVRw9md4UKcGUrDXABCD,country,Frozen in Time,2018,61
+album,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,Providence Canyon,2018,60
+album,Jeff Tweedy,2rDxtYUzTAYJJE3Bl3Z5IN,country,WARM,2018,51
+album,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,country,Seasons Change,2018,62
+album,The Bellamy Brothers,5iB5AWIa7qreioi0AF3Bxa,country,The Bellamy Brothers: Let Your Love Flow (Live),2018,58
+album,Josh Meloy,3EVsC9ZK7QMDuK4FPcZaEq,country,Washington Street,2018,62
+album,Brooks & Dunn,0XKOBt59crntr7HQXXO8Yz,country,Reboot,2019,71
+album,Ethel Cain,0avMDS4HyoCEP6RqZJWpY2,country,Golden Age,2019,69
+album,George Strait,5vngPClqofybhPERIqQMYd,country,Honky Tonk Time Machine,2019,73
+album,Cody Johnson,6zLBxLdl60ekBLpawtT63I,country,Ain't Nothin' to It,2019,75
+album,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,country,61 Days In Church Volume 5,2019,71
+album,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,country,Fully Loaded: God's Country,2019,70
+album,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,country,The Acoustic Sessions,2019,70
+album,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,country,Can't Say I Ain't Country,2019,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,Ride Me Back Home,2019,70
+album,HARDY,5QNm7E7RU2m64l6Gliu8Oy,country,HIXTAPE: Vol. 1,2019,73
+album,Nick Cave & The Bad Seeds,4UXJsSlnKd7ltsrHebV79Q,country,Ghosteen,2019,63
+album,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,country,Heartache Medication,2019,73
+album,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,country,Country Squire,2019,76
+album,John Denver,7EK1bQADBoqbYXnT4Cqv9w,country,Lime Creek Christmas,2019,67
+album,John Denver,7EK1bQADBoqbYXnT4Cqv9w,country,Simply - John Denver,2019,67
+album,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,country,Experiment Extended,2019,71
+album,Kacey Musgraves,70kkdajctXSbqSMJbQO424,country,The Kacey Musgraves Christmas Show,2019,73
+album,Zac Brown Band,6yJCxee7QumYr820xdIsjo,country,The Owl,2019,71
+album,Kenny Rogers,4tw2Lmn9tTPUv7Gy7mVPI4,country,The Love Of God (Deluxe Edition),2019,70
+album,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,country,9,2019,75
+album,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,country,Center Point Road,2019,73
+album,Riley Green,2QMsj4XJ7ne2hojxt6v5eb,country,Different 'Round Here (Big Machine Radio Release Special),2019,76
+album,Riley Green,2QMsj4XJ7ne2hojxt6v5eb,country,Different 'Round Here,2019,76
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,The Gift: The Journey of Johnny Cash: Original Score Music From A Film by Thom Zimny,2019,73
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,The Johnny Cash Story,2019,73
+album,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,DeAnn,2019,85
+album,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,Crosses and Crossroads,2019,79
+album,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,Whiskey Sessions II,2019,79
+album,Luke Combs,718COspgdWOnwOFpJHRZHS,country,What You See Is What You Get,2019,83
+album,Hozier,2FXC3k01G6Gw61bmprjgqS,country,"Wasteland, Baby! (Special Edition)",2019,82
+album,Hozier,2FXC3k01G6Gw61bmprjgqS,country,"Wasteland, Baby!",2019,82
+album,Barns Courtney,5tFRohaO5yEsuJxmMnlCO9,country,404,2019,61
+album,Kris Kristofferson,0vYQRW5LIDeYQOccTviQNX,country,The Bottom Line Archive: In Their Own Words With Vin Scelsa (Live),2019,62
+album,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,country,Wildcard,2019,67
+album,ERNEST,4GGfAshSkqoxpZdoaHm7ky,country,Locals Only,2019,69
+album,Wilco,2QoU3awHVdcHS8LrZEKvSM,country,Ode to Joy,2019,59
+album,Bishop Briggs,0yb46jwm7gqbZXVXZQ8Z1e,country,CHAMPION,2019,61
+album,Billy Ray Cyrus,60rpJ9SgigSd16DOAG7GSa,country,The SnakeDoctor Circus,2019,62
+album,Whiskey Myers,26opZSJcXshCmCwxgZQmBc,country,Whiskey Myers,2019,69
+album,Koe Wetzel,1Tie3AZgLQZqYEp8Fv4zOZ,country,Harold Saul High,2019,70
+album,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,country,Old Dominion,2019,67
+album,LeAnn Rimes,2d3VHzlOEwXvmBdS4pzOPL,country,Rimes (Live at Gruene Hall),2019,62
+album,Lady A,32WkQRZEVKSzVAAYqukAEA,country,Ocean (Big Machine Radio Release Special),2019,67
+album,Lady A,32WkQRZEVKSzVAAYqukAEA,country,Ocean,2019,67
+album,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,country,GIRL,2019,67
+album,Yelawolf,68DWke2VjdDmA75aJX5C57,country,Ghetto Cowboy,2019,65
+album,Yelawolf,68DWke2VjdDmA75aJX5C57,country,Trunk Muzik 3,2019,65
+album,The Dead South,3HR1xtIsUefdFnkI1XHgeA,country,Sugar & Joy,2019,58
+album,Billy Strings,1ZN1c1qWEGZNX1pGeKCPpf,country,Home,2019,62
+album,Sturgill Simpson,3vDpQbGnzRbRVirXlfQagB,country,SOUND & FURY,2019,62
+album,Zach Williams,6g10GEtmIVqIQBhPZh4ScQ,country,Rescue Story,2019,63
+album,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,country,If It Was Easy,2019,64
+album,The Highwaymen,6e7QpHYqEiyJGiM98IysLa,country,Lonely Are The Brave (Live 1992),2019,59
+album,Glen Campbell,59hLmB5DrdihCYtNeFeW1U,country,The Legacy (1961-2017),2019,61
+album,Vince Gill,3IhWQSrLj8EJjdvjFTpCyo,country,Okie,2019,61
+album,Marty Robbins,0Xi59sEw38vRvwleSAVqoo,country,El Paso in Concert,2019,61
+album,Marty Robbins,0Xi59sEw38vRvwleSAVqoo,country,Lovesick Blues (Remastered),2019,61
+album,Marty Robbins,0Xi59sEw38vRvwleSAVqoo,country,El Paso (Remastered),2019,61
+album,Marty Robbins,0Xi59sEw38vRvwleSAVqoo,country,Bounquet of Roses (Remastered),2019,61
+album,Brantley Gilbert,5q8HGNo0BjLWaTAhRtbwxa,country,Fire & Brimstone,2019,64
+album,Linda Ronstadt,1sXbwvCQLGZnaH0Jp2HTVc,country,Live in Hollywood (Deluxe Edition),2019,61
+album,Linda Ronstadt,1sXbwvCQLGZnaH0Jp2HTVc,country,Live in Hollywood,2019,61
+album,Cody Jinks,2v7wIbCkIzxOfT3GnqCexD,country,The Wanting,2019,63
+album,Cody Jinks,2v7wIbCkIzxOfT3GnqCexD,country,After the Fire,2019,63
+album,Don Williams,4Ti0EKl2PVEms2NRMVGqNe,country,Where Do I Go from Here,2019,61
+album,Don Williams,4Ti0EKl2PVEms2NRMVGqNe,country,Heroes of the Big Country - Don Williams,2019,61
+album,Don Williams,4Ti0EKl2PVEms2NRMVGqNe,country,Spend Some Time with Me,2019,61
+album,Flatland Cavalry,4SfGzWmeoNPKIOmiyc7Pav,country,Homeland Insecurity,2019,63
+album,Dylan Scott,78YqeIji3mgAS2K1Maca6x,country,Merry Christmas,2019,65
+album,John Fogerty,5ujCegv1BRbEPTCwQqFk6t,country,50 Year Trip: Live at Red Rocks,2019,57
+album,Travis Tritt,2M4Yt7oKGoYd0wqU44k4i2,country,Homegrown,2019,64
+album,Travis Tritt,2M4Yt7oKGoYd0wqU44k4i2,country,Live on Soundstage (Classic Series),2019,64
+album,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,Let It Roll (Big Machine Radio Release Special),2019,64
+album,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,Let It Roll,2019,64
+album,The Marshall Tucker Band,59QxeZBL6k9L4oJBGSyukd,country,New Year's in New Orleans! Roll up '78 and Light up '79!,2019,62
+album,Merle Haggard,2ptmyXoL7poH6Zq62h1QT9,country,Last Train to Nashville (Live 1981),2019,60
+album,Merle Haggard,2ptmyXoL7poH6Zq62h1QT9,country,When Times Were Good,2019,60
+album,Justin Moore,30e8DmahrEamvLbFRPdWmk,country,Late Nights And Longnecks (Big Machine Radio Release Special),2019,61
+album,Justin Moore,30e8DmahrEamvLbFRPdWmk,country,Late Nights And Longnecks,2019,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,She Thinks I Still Care,2019,61
+album,Reba McEntire,02rd0anEWfMtF7iMku9uor,country,Stronger Than The Truth,2019,62
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Hooligan,2019,63
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Parachute,2019,63
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Creeker 2,2019,63
+album,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Room 41,2019,60
+album,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,The Valley,2019,60
+album,Tracy Lawrence,2BQVRw9md4UKcGUrDXABCD,country,Made In America,2019,61
+album,Tracy Lawrence,2BQVRw9md4UKcGUrDXABCD,country,Texas Tornado,2019,61
+album,Watchhouse,675tsBPpaZtqyiBwEf3ZEP,country,Tides of a Teardrop,2019,60
+album,Jeff Tweedy,2rDxtYUzTAYJJE3Bl3Z5IN,country,WARMER,2019,51
+album,Patsy Cline,7dNsHhGeGU5MV01r06O8gK,country,She's Got You (Remastered),2019,58
+album,Patsy Cline,7dNsHhGeGU5MV01r06O8gK,country,I Fall to Pieces (Remastered),2019,58
+album,Patsy Cline,7dNsHhGeGU5MV01r06O8gK,country,Crazy (Remastered),2019,58
+album,Steve Earle,2UBTfUoLI07iRqGeUrwhZh,country,GUY,2019,58
+album,The Bellamy Brothers,5iB5AWIa7qreioi0AF3Bxa,country,Over the Moon,2019,58
+album,Charles Wesley Godwin,2ErsJAz6qJ5cqjoVAvfvaC,country,Seneca,2019,61
+album,Joy Williams,4TCXgdDPm10ensLNCVnIYa,country,Front Porch,2019,51
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,"Red Headed Stranger (Live From Austin City Limits, 1976)",2020,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,First Rose of Spring,2020,70
+album,HARDY,5QNm7E7RU2m64l6Gliu8Oy,country,A ROCK,2020,73
+album,Nick Cave & The Bad Seeds,4UXJsSlnKd7ltsrHebV79Q,country,Idiot Prayer (Nick Cave Alone at Alexandra Palace),2020,63
+album,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,country,Heartache Medication (Deluxe Version),2020,73
+album,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,country,Rancho Fiesta Sessions,2020,73
+album,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,country,Long Violent History,2020,76
+album,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,country,Born Here Live Here Die Here,2020,74
+album,Riley Green,2QMsj4XJ7ne2hojxt6v5eb,country,If It Wasn't For Trucks (Big Machine Radio Release Special),2020,76
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,Johnny Cash and The Royal Philharmonic Orchestra,2020,73
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,A Golden Hour Of Johnny Cash,2020,73
+album,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,country,Starting Over,2020,81
+album,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,Elisabeth,2020,85
+album,Shania Twain,5e4Dhzv426EvQe3aDb64jL,country,The Woman In Me (Super Deluxe Diamond Edition),2020,71
+album,Dolly Parton,32vWCbZh0xZ4o9gkz4PsEU,country,A Holly Dolly Christmas (Ultimate Deluxe Edition),2020,71
+album,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,Waylon & Willie IV,2020,79
+album,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,Self Medicated,2020,79
+album,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,A Beautiful Disaster,2020,79
+album,Luke Combs,718COspgdWOnwOFpJHRZHS,country,What You See Ain't Always What You Get (Deluxe Edition),2020,83
+album,The Chicks,25IG9fa7cbdmCIy3OnuH57,country,Gaslighter,2020,65
+album,Russell Dickerson,1E2AEtxaFaJtH0lO7kgNKw,country,Southern Symphony,2020,66
+album,Kris Kristofferson,0vYQRW5LIDeYQOccTviQNX,country,Boboquivari '71 [KCET Broadcast (Live & Remastered)],2020,62
+album,Emmylou Harris,5s6TJEuHTr9GR894wc6VfP,country,"Always On The Sunny Side (Live, Santa Cruz '79)",2020,58
+album,Emmylou Harris,5s6TJEuHTr9GR894wc6VfP,country,Out of Nashville,2020,58
+album,Josh Turner,7vCtweS8UVAXTyau2j0rDT,country,Country State Of Mind,2020,64
+album,Colter Wall,3xYXYzm9H3RzyQgBrYwIcx,country,Western Swing & Waltzes and Other Punchy Songs,2020,68
+album,Jimmy Buffett,28AyklUmMECPwdfo8NEsV0,country,Songs You Don't Know By Heart,2020,65
+album,Jimmy Buffett,28AyklUmMECPwdfo8NEsV0,country,Life On the Flip Side,2020,65
+album,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,country,Here And Now (Deluxe),2020,69
+album,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,country,Here And Now,2020,69
+album,Wilco,2QoU3awHVdcHS8LrZEKvSM,country,summerteeth (Deluxe Edition),2020,59
+album,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,country,ballerini,2020,67
+album,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,country,kelsea,2020,67
+album,Randy Travis,1pTuR132U5b4Rizal2Pr7m,country,Heart of Hearts: The Complete Albums 1990-1996,2020,68
+album,Randy Travis,1pTuR132U5b4Rizal2Pr7m,country,Deeper Than the Holler: The Complete Albums 1986-1989,2020,68
+album,Randy Travis,1pTuR132U5b4Rizal2Pr7m,country,Precious Memories (Worship & Faith),2020,68
+album,Koe Wetzel,1Tie3AZgLQZqYEp8Fv4zOZ,country,Sellout,2020,70
+album,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,country,One Man Band - Medley,2020,67
+album,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,country,My Gift,2020,69
+album,LeAnn Rimes,2d3VHzlOEwXvmBdS4pzOPL,country,CHANT: The Human & The Holy,2020,62
+album,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,country,Twenty Years Of Rascal Flatts - The Greatest Hits (Big Machine Radio Release Special),2020,69
+album,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,country,Twenty Years Of Rascal Flatts - The Greatest Hits,2020,69
+album,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,country,How They Remember You (Big Machine Radio Release Special),2020,69
+album,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,country,How They Remember You,2020,69
+album,Lady A,32WkQRZEVKSzVAAYqukAEA,country,Ocean (Deluxe Edition),2020,67
+album,Lady A,32WkQRZEVKSzVAAYqukAEA,country,On This Winter's Night (Deluxe),2020,67
+album,Keith Urban,0u2FHSq3ln94y5Q57xazwf,country,THE SPEED OF NOW Part 1,2020,67
+album,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,country,McGraw Machine Hits: 2013-2019 (Big Machine Radio Release Special),2020,70
+album,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,country,Here On Earth,2020,70
+album,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,country,SOUTHSIDE,2020,65
+album,Sturgill Simpson,3vDpQbGnzRbRVirXlfQagB,country,Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions),2020,62
+album,Sturgill Simpson,3vDpQbGnzRbRVirXlfQagB,country,Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions),2020,62
+album,Ane Brun,2L3kwZFd16zjHz9a5kEPAm,country,How Beauty Holds The Hand Of Sorrow,2020,56
+album,Ane Brun,2L3kwZFd16zjHz9a5kEPAm,country,After The Great Storm,2020,56
+album,The White Buffalo,3ohcHMuUq1717s8AH17hfT,country,On The Widow's Walk (Deluxe),2020,55
+album,The White Buffalo,3ohcHMuUq1717s8AH17hfT,country,On The Widow's Walk,2020,55
+album,Glen Campbell,59hLmB5DrdihCYtNeFeW1U,country,In The Beginning,2020,61
+album,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,country,Hey World,2020,66
+album,Brantley Gilbert,5q8HGNo0BjLWaTAhRtbwxa,country,Fire & Brimstone (Deluxe Edition),2020,64
+album,Brantley Gilbert,5q8HGNo0BjLWaTAhRtbwxa,country,Fire & Brimstone (Deluxe Edition / Big Machine Radio Release Special),2020,64
+album,The Crane Wives,5U6leWxYKsuTkd4kXcF1a6,country,Here I Am: Live from the Listening Room,2020,61
+album,Linda Ronstadt,1sXbwvCQLGZnaH0Jp2HTVc,country,Beneath The Halo Moon (Berkeley California '74 KMET Broadcast Remastered),2020,61
+album,Cody Jinks,2v7wIbCkIzxOfT3GnqCexD,country,Red Rocks Live,2020,63
+album,Muscadine Bloodline,0EyZDKtc41e4A3a3v69MxD,country,Burn It at Both Ends,2020,63
+album,John Fogerty,5ujCegv1BRbEPTCwQqFk6t,country,"Chasing Down A Hoodoo (Oakland, California Live '89)",2020,57
+album,John Fogerty,5ujCegv1BRbEPTCwQqFk6t,country,Fogerty's Factory (Expanded),2020,57
+album,John Fogerty,5ujCegv1BRbEPTCwQqFk6t,country,Fogerty's Factory,2020,57
+album,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,Live From The Palomino (Full Length),2020,64
+album,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,Live From The Palomino,2020,64
+album,Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,country,Tullahoma,2020,64
+album,The Marshall Tucker Band,59QxeZBL6k9L4oJBGSyukd,country,"New Year's Eve In California, 1973 (KSAN Broadcast)",2020,62
+album,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,III,2020,60
+album,Conway Twitty,7gi3jmwpUpNWdswT8eEprF,country,A Moment in Time: An Evening with Conway Twitty & Orchestra (Live),2020,60
+album,Justin Moore,30e8DmahrEamvLbFRPdWmk,country,Live at the Ryman,2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Grand Ole Opry's New Star,2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,"The Complete George Jones, Vol. 3",2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,"The Complete George Jones, Vol. 2",2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,"The Complete George Jones, Vol. 1",2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,White Lightning,2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Let's Spend an Evening with George Jones,2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Anthology: The Deluxe Collection (Remastered),2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Numero Uno Country,2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,The Various Singles of George Jones,2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,The Fabulous Country Music Sound of George Jones,2020,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,George Jones Sings Bob Willis,2020,61
+album,Reba McEntire,02rd0anEWfMtF7iMku9uor,country,Rumor Has It (30th Anniversary Edition),2020,62
+album,Corey Kent,3sUpZrkehiGBaMzs2h9Mmc,country,From the West,2020,61
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Everlasting Country,2020,63
+album,Waxahatchee,5IWCU0V9evBlW4gIeGY4zF,country,Saint Cloud,2020,57
+album,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,Welcome to Hard Times,2020,60
+album,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,"Field Recordings, Vol. 1",2020,60
+album,John Michael Montgomery,7mPcfx7PhnBh6n4HMCd61A,country,Life's a Dance: The Atlantic Albums 1992-2000,2020,60
+album,John Michael Montgomery,7mPcfx7PhnBh6n4HMCd61A,country,Sold: The Atlantic Singles 1992 - 2000,2020,60
+album,Little Big Town,3CygdxquGHurS7f9LjNLkv,country,Nightfall,2020,60
+album,The Steeldrivers,3bLSAQPeix7Xm2e5Gtn48R,country,Bad For You,2020,60
+album,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,Keep 'Em on They Toes,2020,60
+album,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,No Place Left to Leave (2006),2020,60
+album,Jeff Tweedy,2rDxtYUzTAYJJE3Bl3Z5IN,country,Love Is The King,2020,51
+album,Jeff Tweedy,2rDxtYUzTAYJJE3Bl3Z5IN,country,Showbiz Kids (Soundtrack to the HBO Documentary Film),2020,51
+album,Jeff Tweedy,2rDxtYUzTAYJJE3Bl3Z5IN,country,Chicago 2017,2020,51
+album,Ryan Adams,2qc41rNTtdLK0tV3mJn2Pm,country,Wednesdays,2020,53
+album,Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,country,Goldmine,2020,61
+album,Steve Earle,2UBTfUoLI07iRqGeUrwhZh,country,Ghosts of West Virginia,2020,58
+album,Shelby Lynne,3xx17YXYvPl9PBx6Jzalk4,country,Shelby Lynne,2020,48
+album,Josh Meloy,3EVsC9ZK7QMDuK4FPcZaEq,country,Oklahoma,2020,62
+album,Ethel Cain,0avMDS4HyoCEP6RqZJWpY2,country,Inbred,2021,69
+album,Cody Johnson,6zLBxLdl60ekBLpawtT63I,country,A Cody Johnson Christmas,2021,75
+album,Cody Johnson,6zLBxLdl60ekBLpawtT63I,country,Human The Double Album,2021,75
+album,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,country,Soul,2021,71
+album,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,country,Heart,2021,71
+album,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,country,Body Language (Deluxe),2021,70
+album,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,country,Body Language,2021,70
+album,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,country,Life Rolls On (Deluxe),2021,70
+album,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,country,Life Rolls On (Deluxe / Big Machine Radio Release Special),2021,70
+album,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,country,Life Rolls On,2021,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,The Willie Nelson Family,2021,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,Texas Willie,2021,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,Highway Call (Live '79),2021,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,That's Life,2021,70
+album,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,country,Buy Dirt,2021,72
+album,John Denver,7EK1bQADBoqbYXnT4Cqv9w,country,Shelter From The Storm (Live 1982),2021,67
+album,Treaty Oak Revival,3444S3C4U9Ts86BnCtSPRV,country,No Vacancy,2021,75
+album,Alan Jackson,4mxWe1mtYIYfP040G38yvS,country,Where Have You Gone,2021,73
+album,Lainey Wilson,6tPHARSq45lQ8BSALCfkFC,country,Sayin’ What I’m Thinkin’,2021,73
+album,Kacey Musgraves,70kkdajctXSbqSMJbQO424,country,star-crossed,2021,73
+album,Zac Brown Band,6yJCxee7QumYr820xdIsjo,country,The Comeback,2021,71
+album,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,country,Born Here Live Here Die Here (Deluxe Edition),2021,74
+album,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,country,MACON,2021,75
+album,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,country,Country Again (Side A),2021,73
+album,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,country,Country Again (Side A / Big Machine Radio Release Special),2021,73
+album,Riley Green,2QMsj4XJ7ne2hojxt6v5eb,country,Behind The Bar,2021,76
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,"Bear's Sonic Journals: Live At The Carousel Ballroom, April 24 1968",2021,73
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,Johnny Cash: Forever Words Expanded,2021,73
+album,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,Ballads of the Broken,2021,79
+album,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,country,Dangerous: The Double Album (Bonus),2021,89
+album,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,country,Dangerous: The Double Album,2021,89
+album,KALEO,7jdFEYD2LTYjfwxOdlVjmc,country,Surface Sounds,2021,71
+album,Kris Kristofferson,0vYQRW5LIDeYQOccTviQNX,country,Somewhere Along The Way (Live 1981),2021,62
+album,Kris Kristofferson,0vYQRW5LIDeYQOccTviQNX,country,Whisper Of The Raindrops (Live New York '79),2021,62
+album,Emmylou Harris,5s6TJEuHTr9GR894wc6VfP,country,Beyond the Palace (Live 1983),2021,58
+album,Emmylou Harris,5s6TJEuHTr9GR894wc6VfP,country,Ramble in Music City: The Lost Concert (Live),2021,58
+album,Emmylou Harris,5s6TJEuHTr9GR894wc6VfP,country,Pbs Soundstage,2021,58
+album,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,country,Brett Young & Friends Sing The Christmas Classics,2021,65
+album,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,country,Weekends Look A Little Acoustic These Days,2021,65
+album,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,country,Weekends Look A Little Different These Days (Big Machine Radio Release Special),2021,65
+album,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,country,Weekends Look A Little Different These Days,2021,65
+album,Josh Turner,7vCtweS8UVAXTyau2j0rDT,country,King Size Manger,2021,64
+album,Josh Turner,7vCtweS8UVAXTyau2j0rDT,country,Your Man (Deluxe Edition),2021,64
+album,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,country,The Marfa Tapes,2021,67
+album,Jimmy Buffett,28AyklUmMECPwdfo8NEsV0,country,Strollin' Down The Avenue (Live 1980),2021,65
+album,Parker McCollum,0Z8XVUAOBPM4x12wKnFHEQ,country,Gold Chain Cowboy (Special Edition),2021,66
+album,Parker McCollum,0Z8XVUAOBPM4x12wKnFHEQ,country,Gold Chain Cowboy,2021,66
+album,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,country,Good Things,2021,67
+album,Warren Zeiders,7kplJl06UmldxLKseURAYi,country,Acoustic Covers (Deluxe),2021,69
+album,Warren Zeiders,7kplJl06UmldxLKseURAYi,country,Acoustic Covers,2021,69
+album,Randy Travis,1pTuR132U5b4Rizal2Pr7m,country,First Impressions (Live 1986),2021,68
+album,Randy Travis,1pTuR132U5b4Rizal2Pr7m,country,My Wandering Ways (Live 1986),2021,68
+album,Toby Keith,2bA6fzP0lMAQ4kz6CF61w8,country,Peso in My Pocket,2021,70
+album,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,country,"Time, Tequila & Therapy",2021,67
+album,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,country,My Gift (Special Edition),2021,69
+album,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,country,My Savior,2021,69
+album,LeAnn Rimes,2d3VHzlOEwXvmBdS4pzOPL,country,Whatever We Wanna (Deluxe Edition),2021,62
+album,Lady A,32WkQRZEVKSzVAAYqukAEA,country,What A Song Can Do (Behind The Songs),2021,67
+album,Lady A,32WkQRZEVKSzVAAYqukAEA,country,What A Song Can Do,2021,67
+album,Lady A,32WkQRZEVKSzVAAYqukAEA,country,What A Song Can Do (Chapter One),2021,67
+album,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,country,Here On Earth (Ultimate Edition),2021,70
+album,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,country,Here On Earth (Ultimate Edition / Big Machine Radio Release Special),2021,70
+album,Yelawolf,68DWke2VjdDmA75aJX5C57,country,Mud Mouth,2021,65
+album,Yelawolf,68DWke2VjdDmA75aJX5C57,country,Mile Zero,2021,65
+album,Yelawolf,68DWke2VjdDmA75aJX5C57,country,Slumafia,2021,65
+album,Yelawolf,68DWke2VjdDmA75aJX5C57,country,TURQUOiSE TORNADO,2021,65
+album,Yelawolf,68DWke2VjdDmA75aJX5C57,country,Yelawolf Blacksheep,2021,65
+album,Chris Young,4BYxqVkZyFjtik7crYLg5Q,country,Famous Friends,2021,65
+album,The Dead South,3HR1xtIsUefdFnkI1XHgeA,country,Served Live,2021,58
+album,Billy Strings,1ZN1c1qWEGZNX1pGeKCPpf,country,Renewal,2021,62
+album,Sturgill Simpson,3vDpQbGnzRbRVirXlfQagB,country,The Ballad of Dood & Juanita,2021,62
+album,Zach Williams,6g10GEtmIVqIQBhPZh4ScQ,country,I Don't Want Christmas to End,2021,63
+album,Zach Williams,6g10GEtmIVqIQBhPZh4ScQ,country,Rescue Story (Deluxe Edition),2021,63
+album,Sierra Ferrell,3oVcF3VdpMuvMvLLyHPT4t,country,Long Time Coming,2021,63
+album,Glen Campbell,59hLmB5DrdihCYtNeFeW1U,country,Kentucky Means Paradise,2021,61
+album,Glen Campbell,59hLmB5DrdihCYtNeFeW1U,country,Live From The Troubadour,2021,61
+album,Vince Gill,3IhWQSrLj8EJjdvjFTpCyo,country,LIVE at the Prince of Wales Hotel 1988,2021,61
+album,Marty Robbins,0Xi59sEw38vRvwleSAVqoo,country,Keep A Movin' (Live 1982),2021,61
+album,Linda Ronstadt,1sXbwvCQLGZnaH0Jp2HTVc,country,Hiding In Shadows (Live '73),2021,61
+album,Cody Jinks,2v7wIbCkIzxOfT3GnqCexD,country,Mercy,2021,63
+album,Cody Jinks,2v7wIbCkIzxOfT3GnqCexD,country,Adobe Sessions (Unplugged),2021,63
+album,Don Williams,4Ti0EKl2PVEms2NRMVGqNe,country,Midnight In Reseda (Live 1982),2021,61
+album,Flatland Cavalry,4SfGzWmeoNPKIOmiyc7Pav,country,Welcome To Countryland,2021,63
+album,John Fogerty,5ujCegv1BRbEPTCwQqFk6t,country,Rollin' Stone (Live '85),2021,57
+album,Travis Tritt,2M4Yt7oKGoYd0wqU44k4i2,country,Set In Stone,2021,64
+album,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,The Sonic Ranch,2021,64
+album,Alison Krauss,5J6L7N6B4nI1M5cwa29mQG,country,Raise The Roof (Deluxe Edition),2021,60
+album,Alabama,6rJqqRce0Kvo2dJUXoHleC,country,Down The River (Live 1981),2021,64
+album,Billy Currington,1By9QBFnjZAoI83BZppHlt,country,Intuition,2021,65
+album,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,Naughty List,2021,60
+album,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,Midtown Diaries,2021,60
+album,Merle Haggard,2ptmyXoL7poH6Zq62h1QT9,country,Beyond The Borderline (with The Strangers) [Live 1995],2021,60
+album,Merle Haggard,2ptmyXoL7poH6Zq62h1QT9,country,"Rancho del Cielo, California (Live 1982)",2021,60
+album,Justin Moore,30e8DmahrEamvLbFRPdWmk,country,Straight Outta The Country (Big Machine Radio Release Special),2021,61
+album,Justin Moore,30e8DmahrEamvLbFRPdWmk,country,Straight Outta The Country,2021,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Takin' It Hard (1983) [Live],2021,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Ultimate Star Collection,2021,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Our Favourites,2021,61
+album,Reba McEntire,02rd0anEWfMtF7iMku9uor,country,Revived Remixed Revisited,2021,62
+album,Corey Kent,3sUpZrkehiGBaMzs2h9Mmc,country,'21,2021,61
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Same Ol Same Ol,2021,63
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,DJ Cliffy D Presents: Upchurch Remixed,2021,63
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Mud to Gold,2021,63
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Hideas: The Album,2021,63
+album,Waxahatchee,5IWCU0V9evBlW4gIeGY4zF,country,Saint Cloud +3,2021,57
+album,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,Music City USA,2021,60
+album,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,10 for Slim: Charley Crockett Sings James Hand,2021,60
+album,Tracy Lawrence,2BQVRw9md4UKcGUrDXABCD,country,"Hindsight 2020, Vol. 2: Price of Fame",2021,61
+album,Tracy Lawrence,2BQVRw9md4UKcGUrDXABCD,country,"Hindsight 2020, Vol 1: Stairway to Heaven Highway to Hell",2021,61
+album,Lauren Alaina,1v3tdpIdBSW14rHUfiEVOv,country,Sitting Pretty On Top Of The World,2021,61
+album,Watchhouse,675tsBPpaZtqyiBwEf3ZEP,country,Watchhouse,2021,60
+album,Jeff Tweedy,2rDxtYUzTAYJJE3Bl3Z5IN,country,Live Is The King,2021,51
+album,Ryan Adams,2qc41rNTtdLK0tV3mJn2Pm,country,Big Colors,2021,53
+album,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,country,Same Truck,2021,62
+album,Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,country,Goldmine (Deluxe),2021,61
+album,Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,country,Live From The Goldmine,2021,61
+album,Steve Earle,2UBTfUoLI07iRqGeUrwhZh,country,J.T.,2021,58
+album,The Bellamy Brothers,5iB5AWIa7qreioi0AF3Bxa,country,Covers from the Brothers,2021,58
+album,Charles Wesley Godwin,2ErsJAz6qJ5cqjoVAvfvaC,country,How the Mighty Fall,2021,61
+album,Shelby Lynne,3xx17YXYvPl9PBx6Jzalk4,country,The Servant,2021,48
+album,Zach Top,4FGPzWzgjURDNT7JQ8pYgH,country,Zach Top,2022,72
+album,The Red Clay Strays,6IKlXZEFOvk9itrP1s0knJ,country,Moment of Truth,2022,72
+album,Ethel Cain,0avMDS4HyoCEP6RqZJWpY2,country,Preacher’s Daughter,2022,69
+album,Cody Johnson,6zLBxLdl60ekBLpawtT63I,country,Cody Johnson & The Rockin’ CJB Live,2022,75
+album,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,country,"Cheers, It's Christmas (Super Deluxe)",2022,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,Live At Budokan,2022,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,Vaults,2022,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,A Beautiful Time,2022,70
+album,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,Way Up High (Live 1981),2022,70
+album,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,country,Mr. Saturday Night,2022,73
+album,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,country,Can I Take My Hounds to Heaven?,2022,76
+album,John Denver,7EK1bQADBoqbYXnT4Cqv9w,country,Silver Sun (Live 1971),2022,67
+album,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,country,Different Man,2022,71
+album,Lainey Wilson,6tPHARSq45lQ8BSALCfkFC,country,Bell Bottom Country,2022,73
+album,Zac Brown Band,6yJCxee7QumYr820xdIsjo,country,The Comeback (Deluxe),2022,71
+album,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,country,GEORGIA,2022,75
+album,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,country,Where We Started (Behind The Songs),2022,73
+album,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,country,Where We Started,2022,73
+album,Riley Green,2QMsj4XJ7ne2hojxt6v5eb,country,We Out Here: Live,2022,76
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,My Way Volume III,2022,73
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,My Way Volume II,2022,73
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,My Way,2022,73
+album,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,country,The Man in Black Walks the Line,2022,73
+album,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,All My Homies Hate Ticketmaster (Live from Red Rocks),2022,85
+album,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,American Heartbreak,2022,85
+album,Shania Twain,5e4Dhzv426EvQe3aDb64jL,country,Not Just A Girl (The Highlights),2022,71
+album,Dolly Parton,32vWCbZh0xZ4o9gkz4PsEU,country,Higher And Higher (Live 1977),2022,71
+album,Dolly Parton,32vWCbZh0xZ4o9gkz4PsEU,country,"Run, Rose, Run",2022,71
+album,Luke Combs,718COspgdWOnwOFpJHRZHS,country,Growin' Up,2022,83
+album,Shaboozey,3y2cIKLjiOlp1Np37WiUdH,country,"Cowboys Live Forever, Outlaws Never Die",2022,76
+album,Russell Dickerson,1E2AEtxaFaJtH0lO7kgNKw,country,Russell Dickerson,2022,66
+album,Kris Kristofferson,0vYQRW5LIDeYQOccTviQNX,country,"Live At Gilley’s - Pasadena, TX: September 15, 1981",2022,62
+album,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,country,Palomino,2022,67
+album,Kid Rock,7dOBabd5O4CvKrg4iriHTM,country,Bad Reputation,2022,65
+album,Warren Zeiders,7kplJl06UmldxLKseURAYi,country,717 Tapes the Album,2022,69
+album,"Hank Williams, Jr.",2dyeCWctcFRt3Pha76ONgb,country,Rich White Honky Blues,2022,67
+album,Wilco,2QoU3awHVdcHS8LrZEKvSM,country,Cruel Country,2022,59
+album,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,country,SUBJECT TO CHANGE,2022,67
+album,Whiskey Myers,26opZSJcXshCmCwxgZQmBc,country,Tornillo,2022,69
+album,Koe Wetzel,1Tie3AZgLQZqYEp8Fv4zOZ,country,Hell Paso,2022,70
+album,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,country,Denim & Rhinestones,2022,69
+album,LeAnn Rimes,2d3VHzlOEwXvmBdS4pzOPL,country,god's work,2022,62
+album,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,country,Humble Quest: In Rare Form,2022,67
+album,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,country,Humble Quest,2022,67
+album,Yelawolf,68DWke2VjdDmA75aJX5C57,country,Sometimes Y,2022,65
+album,Tom MacDonald,6DvlemMOlMH6VD9tB7BPRf,country,The Brave,2022,63
+album,Chris Young,4BYxqVkZyFjtik7crYLg5Q,country,Famous Friends (Deluxe Edition),2022,65
+album,The Dead South,3HR1xtIsUefdFnkI1XHgeA,country,"Easy Listening for Jerks, Pt. 2",2022,58
+album,Billy Strings,1ZN1c1qWEGZNX1pGeKCPpf,country,Me / And / Dad,2022,62
+album,Zach Williams,6g10GEtmIVqIQBhPZh4ScQ,country,A Hundred Highways,2022,63
+album,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,country,Self Inflicted Scars,2022,64
+album,Ane Brun,2L3kwZFd16zjHz9a5kEPAm,country,Nærmere,2022,56
+album,The White Buffalo,3ohcHMuUq1717s8AH17hfT,country,Year Of The Dark Horse,2022,55
+album,Brantley Gilbert,5q8HGNo0BjLWaTAhRtbwxa,country,So Help Me God (Deluxe Edition / Behind The Songs),2022,64
+album,Brantley Gilbert,5q8HGNo0BjLWaTAhRtbwxa,country,So Help Me God,2022,64
+album,Linda Ronstadt,1sXbwvCQLGZnaH0Jp2HTVc,country,Canciones de mi Padre (Deluxe Edition),2022,61
+album,Flatland Cavalry,4SfGzWmeoNPKIOmiyc7Pav,country,Far Out West Sessions,2022,63
+album,Saint Avangeline,0j49VqyyFRbclqg8Jv3Sdq,country,Gardener of Eden,2022,58
+album,Muscadine Bloodline,0EyZDKtc41e4A3a3v69MxD,country,Dispatch to 16th Ave.,2022,63
+album,Dylan Scott,78YqeIji3mgAS2K1Maca6x,country,Livin' My Best Life,2022,65
+album,Travis Tritt,2M4Yt7oKGoYd0wqU44k4i2,country,Set In Stone (Acoustic),2022,64
+album,Chase Matthew,7HTLVyjNf0VRxfIgNcfRRH,country,Born For This,2022,64
+album,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,The Last Resort: Greetings From (Behind The Songs),2022,64
+album,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,The Last Resort: Greetings From,2022,64
+album,Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,country,Blue In The Sky,2022,64
+album,Alison Krauss,5J6L7N6B4nI1M5cwa29mQG,country,Telluride Bluegrass Festival (Live 1989),2022,60
+album,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,country,Stereotype Broken,2022,64
+album,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,country,Stereotype,2022,64
+album,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,This Is the Heavy,2022,60
+album,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,The Low Light Sessions,2022,60
+album,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,Fortune Favors the Bold,2022,60
+album,Merle Haggard,2ptmyXoL7poH6Zq62h1QT9,country,Lonesome Whistle Blow (Live 1981),2022,60
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Your Heart,2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Cold Cold Heart,2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Treasure of Love,2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Done Gone,2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,More Starday & Musicor Originals,2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Starday & Musicor Originals,2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Will The Circle Be Unbroken (Original Starday Records Recordings),2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,George Jones - Duets From Musicor Records (Original Musicor Records Recordings),2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,All-Time Greats (Original Musicor Records Recordings),2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,You Gotta Be My Baby (Original Starday Records Recordings),2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,How Beautiful Heaven Must Be (Original Musicor Records Recordings),2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Two Of The Greatest: George Jones Sings Songs Written By Dallas Frazier (Original Musicor Records Recordings),2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Both Have Gone: George Jones Sings Songs Written By Dallas Frazier (Original Musicor Records Recordings),2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Five Classic Albums Plus (Grand Ole Opry's New Star / George Jones Sings / Sings White Lightning and Other Favorites / Salutes Hank Williams / Sings Bob Wills) (Digitally Remastered),2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,A Portrait of George Jones,2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,"Les idoles américaines de la country : George Jones, Vol. 5",2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,"Les idoles américaines de la country : George Jones, Vol. 4",2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,"Les idoles américaines de la country : George Jones, Vol. 6",2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,"Les idoles américaines de la country : George Jones, Vol. 3",2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,The Hank Williams Collection (Remastered Edition),2022,61
+album,George Jones,2OpqcUtj10HHvGG6h9VYC5,country,Made In The USA Collection (Extended Edition),2022,61
+album,Reba McEntire,02rd0anEWfMtF7iMku9uor,country,The Ultimate Christmas Collection,2022,62
+album,Reba McEntire,02rd0anEWfMtF7iMku9uor,country,My Chains Are Gone,2022,62
+album,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,People's Champ,2022,63
+album,Waxahatchee,5IWCU0V9evBlW4gIeGY4zF,country,I Walked With You A Ways,2022,57
+album,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Country Coming Down,2022,60
+album,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,The Man from Waco,2022,60
+album,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,Lil G.L. Presents: Jukebox Charley,2022,60
+album,Kameron Marlowe,31n3CN1jSC5ALUJ9dwT8UI,country,We Were Cowboys,2022,61
+album,The Blasting Company,4paO0IcImRazkM6c1RUt48,country,For Hire,2022,57
+album,Tracy Lawrence,2BQVRw9md4UKcGUrDXABCD,country,"Hindsight 2020, Vol. 3: Angelina",2022,61
+album,Little Big Town,3CygdxquGHurS7f9LjNLkv,country,Mr. Sun,2022,60
+album,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,"And Now, Let's Turn to Page…",2022,60
+album,Anne Wilson,75JvBeqW4BJ4xgnbMAq6MN,country,My Jesus (Anniversary Deluxe),2022,63
+album,Anne Wilson,75JvBeqW4BJ4xgnbMAq6MN,country,My Jesus,2022,63
+album,Watchhouse,675tsBPpaZtqyiBwEf3ZEP,country,Watchhouse (Duo),2022,60
+album,Ryan Adams,2qc41rNTtdLK0tV3mJn2Pm,country,Devolver,2022,53
+album,Ryan Adams,2qc41rNTtdLK0tV3mJn2Pm,country,FM,2022,53
+album,Ryan Adams,2qc41rNTtdLK0tV3mJn2Pm,country,Romeo & Juliet,2022,53
+album,Ryan Adams,2qc41rNTtdLK0tV3mJn2Pm,country,Chris,2022,53
+album,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,country,Same Truck (Deluxe),2022,62
+album,Steve Earle,2UBTfUoLI07iRqGeUrwhZh,country,JERRY JEFF,2022,58
+album,Shelby Lynne,3xx17YXYvPl9PBx6Jzalk4,country,"Love, Shelby",2022,48

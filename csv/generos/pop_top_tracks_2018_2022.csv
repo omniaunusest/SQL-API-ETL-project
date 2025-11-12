@@ -1,0 +1,395 @@
+tipo,artista,artista_id,genero,nombre,año,id,popularidad_cancion
+cancion,TINI,7vXDAI8JwjW531ouMGbfcp,pop,Consejo de Amor (feat. Morat),2018,7GrffUxvaKz4wKmyutin0P,71
+cancion,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,Cuando Nadie Ve,2018,71iAechwVKGu26pahzFL0k,77
+cancion,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,Besos En Guerra,2018,1mlGScrDQqHqmhdIqE8MmA,76
+cancion,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,No Se Va,2018,4khWEpnaijN0G1x019Uzdr,76
+cancion,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,Presiento,2018,2V4hc5gplg7EXlrRUvD4rp,71
+cancion,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,pop,Bad Liar,2018,2RSHsoi04658QL5xgQVov3,81
+cancion,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,pop,Natural,2018,2FY7b99s15jUprqC0M5NCT,81
+cancion,Vanesa Martín,5kSJMVPcTITrSZxTrHllVN,pop,Inventas,2018,48eeeHvDzNvtJiQh5XDs2N,56
+cancion,Aitana,7eLcDZDYHXZCebtQmVFL25,pop,Presiento,2018,2V4hc5gplg7EXlrRUvD4rp,71
+cancion,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,Cositas del Amor,2018,5USqXyZOu6JOb6mx5bk1Tm,55
+cancion,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,pop,Shallow,2018,2VxeLyX666F8uXCJ0dZF8B,84
+cancion,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,pop,Always Remember Us This Way,2018,2rbDhOo9Fh61Bbu23T2qCk,84
+cancion,Alejandro Sanz,5sUrlPAHlS9NEirDB8SEbF,pop,La tortura,2018,7klcjsUjOT35E862g1BlSC,57
+cancion,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,pop,lovely (with Khalid),2018,0u2P5u6lvoDfwTYjAADbn4,87
+cancion,Manuel Carrasco,7qAoXV4U0qDxQAUqhszjAA,pop,Qué Bonito Es Querer,2018,6uzGmmQ4CuG9HvZktEy0LF,64
+cancion,Sia,5WUlDfRSoLAfcVSX1WnrxN,pop,Dusk Till Dawn (feat. Sia) - Radio Edit,2018,3e7sxremeOE3wTySiOhGiP,81
+cancion,Sia,5WUlDfRSoLAfcVSX1WnrxN,pop,Snowman,2018,7uoFMmxln0GPXQ0AcCBXRq,81
+cancion,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,pop,Traicionera,2018,4Ft0391aLVNtCPPseh98lp,73
+cancion,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,pop,No Hay Nadie Más,2018,3IPJg1sdqLj12kFIndaonN,73
+cancion,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,What is Love?,2018,3zhbXKFjUDw40pTYyCgt1Y,77
+cancion,Yves Tumor,0qu422H5MOoQxGjd4IzHbS,pop,Licking An Orchid,2018,2VKAYeINenuAtm8r9bcWnf,47
+cancion,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,pop,Whiskey Glasses,2018,57TEkZN3f84tFJFHFrD4pO,80
+cancion,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,FAKE LOVE,2018,6m1TWFMeon7ai9XLOzdbiR,76
+cancion,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,pop,"After The Storm (feat. Tyler, The Creator & Bootsy Collins)",2018,1otG6j1WHNvl9WgXLWkHTo,81
+cancion,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,pop,Dead To Me,2018,6LOZws7T3jqZz78unPgFF9,74
+cancion,Demarco Flamenco,4hFZibFsoIxictRvkZDjIc,pop,Quisiera parar el tiempo (feat. Demarco Flamenco),2018,1hlgmYdihiXyDLgEU9BfJM,52
+cancion,Juanes,0UWZUmn7sybxMCqrw9tGa7,pop,Besos En Guerra,2018,1mlGScrDQqHqmhdIqE8MmA,76
+cancion,Daviles de Novelda,6E94QKXZv8BbO6QQJxcxLI,pop,Las Calles De Oro,2018,6RcmGfVU8BsZCkStC7DkIk,53
+cancion,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,pop,Candy,2018,1VJwtWR6z7SpZRwipI12be,80
+cancion,JENNIE,250b0Wlc5Vk0CoUsaCY84M,pop,SOLO,2018,2wVDWtLKXunswWecARNILj,69
+cancion,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,DDU-DU DDU-DU,2018,4lQsB3ERTWSNaAN1IkuNRl,73
+cancion,Khalid,6LuN9FCkKOj5PcnpouEgny,pop,lovely (with Khalid),2018,0u2P5u6lvoDfwTYjAADbn4,87
+cancion,Khalid,6LuN9FCkKOj5PcnpouEgny,pop,Better,2018,2OpBganfGk2GVdSlRdxzaX,79
+cancion,Khalid,6LuN9FCkKOj5PcnpouEgny,pop,Eastside (with Halsey & Khalid),2018,7FGq80cy8juXBCD2nrqdWU,77
+cancion,Niña Pastori,6UelqIK8qwhWFc2f6nSEh8,pop,Válgame Dios (with Antonio Orozco) - En Directo,2018,6GnHyBBUwSC0hvdi3G6ZVW,49
+cancion,Maki,65GDNtLQdPv30IljvoE2KW,pop,Quisiera parar el tiempo (feat. Demarco Flamenco),2018,1hlgmYdihiXyDLgEU9BfJM,52
+cancion,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Te Vi,2018,059bcIhyc2SBwm6sw2AZzd,78
+cancion,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Déjala Que Vuelva (feat. Manuel Turizo),2018,1j6xOGusnyXq3l6IryKF3G,76
+cancion,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Puntos Suspensivos,2018,04cd1MHVq1D8v1nuTZoCdv,71
+cancion,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Te Amo,2018,2RVrdr062uLFxXwIxwdXPH,71
+cancion,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,pop,Into Your Arms (feat. Ava Max),2018,0b11D9D0hMOYCIMN3OKreM,71
+cancion,James Arthur,4IWBUUAFIplrNtaOHcJPRM,pop,Rewrite The Stars (with James Arthur & Anne-Marie),2018,6mQLN3zRtAp6ovjusyYKrV,79
+cancion,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,pop,Attention,2018,5cF0dROlMOK5uNZtivgu50,87
+cancion,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,pop,How Long,2018,6wmAHw1szh5RCKSRjiXhPe,77
+cancion,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,pop,This Feeling,2018,4NBTZtAt1F13VvlSKe6KTl,70
+cancion,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,Havana (feat. Young Thug),2018,1rfofaqEpACxVEHIZBJe6W,79
+cancion,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,Never Be the Same,2018,4eWQlBRaTjPPUlzacqEeoQ,78
+cancion,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,Beautiful (feat. Camila Cabello),2018,4VUwkH455At9kENOfzTqmF,73
+cancion,Cali Y El Dandee,5DUlefCLzVRzNWaNURTFpK,pop,Sirena,2018,1juHIWqgFiDFAKuEBP24Lt,60
+cancion,Cali Y El Dandee,5DUlefCLzVRzNWaNURTFpK,pop,Por Qué Te Vas,2018,1CnjZK9rneIrUzQP09LWJI,60
+cancion,Justin Timberlake,31TPClRtHm23RisEBtV3X7,pop,Say Something (feat. Chris Stapleton),2018,1LhMopPAallLeaeNutqbgS,68
+cancion,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,pop,Meant to Be (feat. Florida Georgia Line),2018,4e4fqjx0Izh4svvTef1z7e,70
+cancion,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,pop,Say My Name,2018,4wqIXeDppYSMXaWsnTzpzT,69
+cancion,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,pop,I'm a Mess,2018,04ZTP5KsCypmtCmQg5tH9R,70
+cancion,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,pop,I Got You,2018,2jB9QaPJyVdz2Q0Va8rrnU,62
+cancion,Kany García,69UypehHabb68utzfjAVlV,pop,Confieso,2018,44kI7aJvJAYJkREVk0Rmei,72
+cancion,Kany García,69UypehHabb68utzfjAVlV,pop,Para Siempre,2018,3w6HBymB6v99gmhz4aiX1g,69
+cancion,Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,pop,Symphony (feat. Zara Larsson),2018,72gv4zhNvRVdQA0eOenCal,78
+cancion,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,pop,Solo (feat. Demi Lovato),2018,3NuK5xMlSlB6K2Qp16zf3h,70
+cancion,Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,pop,Pal,2018,79hQvdTHNBkq2fp2ZrM8b2,69
+cancion,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,pop,Dusk Till Dawn (feat. Sia) - Radio Edit,2018,3e7sxremeOE3wTySiOhGiP,81
+cancion,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,pop,Let Me,2018,2cEmWBBlCfR9wWrY9JmTyt,67
+cancion,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,pop,Entertainer,2018,4By48hpAtUx7F7F1yxvwvm,62
+cancion,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,Eastside (with Halsey & Khalid),2018,7FGq80cy8juXBCD2nrqdWU,77
+cancion,El Barrio,0fM3rWsshliRFUmJlBP6QZ,pop,El Danzar De Las Mariposas,2019,5vTNflh8i8j3w6sMnsh3Gh,55
+cancion,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,pop,Cinnamon Girl,2019,2mdEsXPu8ZmkHRRtAdC09e,86
+cancion,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pop,"All I Want - From ""High School Musical: The Musical: The Series""",2019,4Yxc55NX3tAXC2mHRAhtcW,78
+cancion,Omar Montes,3lY9Fxceu60W1rbon7PkuF,pop,Prendio - Remix,2019,4sbStZR5h3l5puBuXRVkkA,59
+cancion,Omar Montes,3lY9Fxceu60W1rbon7PkuF,pop,Alocao (With Bad Gyal),2019,6RyuoOJXNzlVWpfC5xQyeI,59
+cancion,Omar Montes,3lY9Fxceu60W1rbon7PkuF,pop,La Rubia - Remix 2,2019,7KKTnv81z6DmfPIGsZWjOW,58
+cancion,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,pop,7 rings,2019,6ocbgoVGwYJhOv1GgI9NsF,84
+cancion,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,Desconocidos,2019,56f5qnyAlZdlz8wrUDA50h,73
+cancion,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,pop,when the party's over,2019,43zdsphuZLzwA9k4DJhU0I,85
+cancion,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,pop,Cristina,2019,703iVQrfbQsXt7Uzgy1h8k,71
+cancion,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,pop,Un Año,2019,2vrpcQNg6itmgVZWsNjWe0,69
+cancion,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,FANCY,2019,2qQpFbqqkLOGySgNK8wBXt,75
+cancion,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,Feel Special,2019,3Hz3tTQwOdM6XkA0ALB2G9,72
+cancion,Galvan Real,2iA56rE7fZUnD4GdsSUj3G,pop,La Luna,2019,06Ke9F6uDCPCRlryHzBegD,58
+cancion,Galvan Real,2iA56rE7fZUnD4GdsSUj3G,pop,Azahara,2019,0UPa56v0oHyXm8HtEKkHdO,54
+cancion,Galvan Real,2iA56rE7fZUnD4GdsSUj3G,pop,Tu Juego,2019,5qUPWCVAWaztvtimGv0Ej3,52
+cancion,Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,pop,Cry,2019,7mDTvYD2ieE4Q28XFziMfJ,87
+cancion,Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,pop,Heavenly,2019,5E02BgqYNN9VzafXrYP6Np,81
+cancion,Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,pop,Touch,2019,1v7ptGUBS2DbbRmfIG0hU2,78
+cancion,Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,pop,Falling In Love,2019,3g7ngtg7xK3N9nKwAjDfH3,73
+cancion,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Boy With Luv (feat. Halsey),2019,4a9tbd947vo9K8Vti9JwcI,76
+cancion,El Arrebato,2dJyJptNE5bMmbN6z08iNJ,pop,Primaveras En El Pelo,2019,5UdVwPVRb5NWmQksw1Lilq,54
+cancion,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,pop,¿Dónde Están Corazón?,2019,1mkZZjz0X8YexDWXlx7zmX,66
+cancion,Demarco Flamenco,4hFZibFsoIxictRvkZDjIc,pop,Pa Ti y Pa Mí Na Má,2019,2013yX7IujgpGJHzz6Qqsi,51
+cancion,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,pop,Señorita,2019,6v3KW9xbzN5yKLt9YKDYA2,80
+cancion,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,pop,If I Can't Have You,2019,2bT1PH7Cw3J9p3t7nlXCdh,74
+cancion,Arijit Singh,4YRxDV8wJFPHPTeXepOstw,pop,"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",2019,2Fv2injs4qAm8mJBGaxVKU,78
+cancion,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Watermelon Sugar,2019,6UelLqGlWMcVH1E5c4H7lY,82
+cancion,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Adore You,2019,3jjujdWJ72nww5eGnfs2E7,79
+cancion,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Falling,2019,1ZMiCix7XSAbfAJlEZWMCp,79
+cancion,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Fine Line,2019,6VzcQuzTNTMFnJ6rBSaLH9,76
+cancion,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Golden,2019,45S5WTQEGOB1VHr1Q4FuPl,74
+cancion,Daviles de Novelda,6E94QKXZv8BbO6QQJxcxLI,pop,Prendio - Remix,2019,4sbStZR5h3l5puBuXRVkkA,59
+cancion,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,pop,Nothing Breaks Like a Heart (feat. Miley Cyrus),2019,02dRkCEc8Q5ch4TTcnLxOn,74
+cancion,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,pop,Streets,2019,60ynsPSSKe6O3sfwRnIBRf,83
+cancion,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,Kill This Love,2019,6hvczQ05jc1yGlp9zhb95V,75
+cancion,Khalid,6LuN9FCkKOj5PcnpouEgny,pop,Beautiful People (feat. Khalid),2019,70eFcWOvlMObDhURTqT4Fv,69
+cancion,Khalid,6LuN9FCkKOj5PcnpouEgny,pop,Talk (feat. Disclosure),2019,6TqXcAFInzjp0bODyvrWEq,71
+cancion,Hozier,2FXC3k01G6Gw61bmprjgqS,pop,Would That I,2019,0L3oQdYUvVbsOOPJSkZ3C3,69
+cancion,Hozier,2FXC3k01G6Gw61bmprjgqS,pop,Almost (Sweet Music),2019,7uttm8Iurm5uK67Vr9G2Sp,68
+cancion,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Amor Tumbado,2019,5aJ1M43pinROpwaPnO8KRj,76
+cancion,James Arthur,4IWBUUAFIplrNtaOHcJPRM,pop,Car's Outside,2019,0otRX6Z89qKkHkQ9OqJpKt,83
+cancion,James Arthur,4IWBUUAFIplrNtaOHcJPRM,pop,Falling Like The Stars,2019,395KzBy0bkb57dEvg6cfzJ,72
+cancion,James Arthur,4IWBUUAFIplrNtaOHcJPRM,pop,Naked,2019,2fmyrECK6bdfoGven0UMZx,70
+cancion,Camela,6flBUmmOMLNhD4EJhGwgpG,pop,Cuando zarpa el amor (feat. Juan Magán),2019,4TD052UwarqucOo1fsTq6P,53
+cancion,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,pop,Cheating on You,2019,0ClPIeT6MSgfSgQ9ZrJbAq,74
+cancion,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,pop,Someone You Loved,2019,7qEHsqek33rTcFNT9PFqLf,87
+cancion,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,pop,Before You Go,2019,2gMXnyrvIjhVBUZwvLZDMP,83
+cancion,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,pop,Bruises,2019,4Of7rzpRpV1mWRbhp5rAqG,79
+cancion,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,pop,Hold Me While You Wait,2019,60iSKGrGazRzICtMjADNSM,77
+cancion,KEVIN WOO,2RYonYiVhhzBz82UFXOvEN,pop,Falling,2019,5oZRnSPPjWVUQg97iYTKZv,25
+cancion,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,Señorita,2019,6v3KW9xbzN5yKLt9YKDYA2,80
+cancion,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,Shameless,2019,2ogKhhoMClkFXek7ZgxAhN,81
+cancion,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,My Oh My (feat. DaBaby),2019,3yOlyBJuViE2YSGn3nVE1K,76
+cancion,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,South of the Border (feat. Camila Cabello & Cardi B),2019,4vUmTMuQqjdnvlZmAH61Qk,74
+cancion,Reik,0vR2qb8m9WHeZ5ByCbimq2,pop,Me Niego (feat. Ozuna & Wisin),2019,4ggiDYAkJ7Yk8d5xOr7Xjo,75
+cancion,Reik,0vR2qb8m9WHeZ5ByCbimq2,pop,Amigos Con Derechos,2019,4yVO0wOhXsZC1RuPgHP524,74
+cancion,Reik,0vR2qb8m9WHeZ5ByCbimq2,pop,Un Año,2019,2vrpcQNg6itmgVZWsNjWe0,69
+cancion,Reik,0vR2qb8m9WHeZ5ByCbimq2,pop,Indeciso,2019,59s0s39NFWScuHDbHytI14,69
+cancion,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,pop,Despacito,2019,6habFhsOp2NvshLv26DqMb,80
+cancion,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,pop,Despacito - Remix,2019,1vnnXMrBeEWiRg3YCMCjQq,70
+cancion,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,pop,Échame La Culpa,2019,0mlAOSILGRys2IbvyOT5VJ,73
+cancion,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,pop,Imposible,2019,4cuGZb0iFyHtwaSKdKrJkF,63
+cancion,Belinda,5LeiVcEnsZcwc133TUhJNW,pop,Amor a Primera Vista,2019,5M6bJO7Cfl4lnPoAHG0EdD,71
+cancion,Canelita,7g9K2QjuqVLUniCCCHyF7j,pop,Llama Viva,2019,43JU28cSGBzrIFs43gYeIM,48
+cancion,Canelita,7g9K2QjuqVLUniCCCHyF7j,pop,Intentaré Olvidarte,2019,1m4iRnwrIJwfCX4qtc8PmL,46
+cancion,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,pop,Call You Mine,2019,2oejEp50ZzPuQTQ6v54Evp,66
+cancion,Greeicy,5dbaLmK5SHLLg8Z4CcTJpX,pop,Destino,2019,041Kcvnw8nOdq8xiRibPTG,67
+cancion,Greeicy,5dbaLmK5SHLLg8Z4CcTJpX,pop,Esta Noche,2019,4vhkI8x68EaGQR3Kn7Pwhc,63
+cancion,Greeicy,5dbaLmK5SHLLg8Z4CcTJpX,pop,Más Fuerte,2019,6PLihys6LLwbCI9GRByWZ0,62
+cancion,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,pop,Échame La Culpa,2019,0mlAOSILGRys2IbvyOT5VJ,73
+cancion,Burna Boy,3wcj11K77LjEY1PkEazffa,pop,Location (feat. Burna Boy),2019,3z4CGd63tpUn9a6oQSG0CI,76
+cancion,Burna Boy,3wcj11K77LjEY1PkEazffa,pop,On the Low,2019,1zIk8RJEKGvoH4FioFnGyJ,68
+cancion,Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,pop,"Jugraafiya - From ""Super 30""",2019,2TYxwTH2HhL6OLVkZlsDLV,72
+cancion,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,pop,Trampoline (with ZAYN),2019,5UpI3vWoP90LFNct9GBHMe,66
+cancion,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,pop,"A Whole New World (End Title) - From ""Aladdin""",2019,1iWHabUgUuuKLBa0TzTHfk,63
+cancion,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,Boy With Luv (feat. Halsey),2019,4a9tbd947vo9K8Vti9JwcI,76
+cancion,Pablo Alborán,5M9Bb4adKAgrOFOhc05Y50,pop,El Mismo Aire - con Pablo Alborán,2020,5EbtodsuLbxrFDH6j5avVS,74
+cancion,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,pop,Don't Start Now,2020,3PfIrDoz19wz7qK7tYeu62,82
+cancion,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,pop,Levitating (feat. DaBaby),2020,5nujrmhLynf4yMoMtj8AQF,81
+cancion,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,pop,Levitating,2020,39LLxExYz6ewLAcYrzQQyP,79
+cancion,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,pop,Break My Heart,2020,017PF4Q3l4DBUiWoXk4OWT,78
+cancion,Teddy Swims,33qOK5uJ8AR2xuQQAhHump,pop,You're Still The One,2020,4guQztGKAETkvuTekNeqBe,78
+cancion,Vanesa Martín,5kSJMVPcTITrSZxTrHllVN,pop,Resistiré,2020,5Z3eEWd02O1RekV96ohDPx,60
+cancion,David Bisbal,5gOJTI4TusSENizxhcG7jB,pop,A Partir De Hoy,2020,3Z7JMhKrVBiMvMd0xV1vyI,67
+cancion,David Bisbal,5gOJTI4TusSENizxhcG7jB,pop,Si Tú La Quieres,2020,5agt9CgF8dTRXgNtn1zflm,63
+cancion,Antonio Orozco,1ADdpen72RPuafRcv0YRBf,pop,Entre Sobras Y Sobras Me Faltas,2020,21kzkYl2j4Sq89FCj9HrqF,60
+cancion,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,Siempre Que Amanece,2020,4AsrtM9cxSYQJLp1978fm4,58
+cancion,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,El Motivo,2020,3bi1trbFYXsG4J1YqPEB4B,57
+cancion,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,El Dinero No Te Vale,2020,7LUXlPdTO8qBdzjOsKD7pT,55
+cancion,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,Deseo - Remix,2020,7HJ4NivEC8ZqVRCbIvlyAR,53
+cancion,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,pop,Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,2020,1oFAF1hdPOickyHgbuRjyX,84
+cancion,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,Tattoo - Remix with Camilo,2020,4G3PTss3mU33Tau7t4KbwE,76
+cancion,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,La Mitad,2020,63Zaf8Rci6eOUPqDQ4fUFx,75
+cancion,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,El Mismo Aire - con Pablo Alborán,2020,5EbtodsuLbxrFDH6j5avVS,74
+cancion,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,Despeinada,2020,0JAZWvvqttGFm4UMDsPQXC,73
+cancion,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,Favorito,2020,0jT8Nl0shPS8115is0wD2Q,70
+cancion,Shakira,0EmeFodog0BfCgMzAIvKQp,pop,GIRL LIKE ME,2020,1zLBsSVxETQOfINOLYvT5m,78
+cancion,Lola Indigo,3bvfu2KAve4lPHrhEFDZna,pop,High (Remix),2020,2HpbDdD3JLpAPMJFYCeC6o,59
+cancion,Ovy On The Drums,3m5qlPf2OkihLz3dRYnkPA,pop,Inolvidable,2020,0OTtnwUO8natNWSwdZvXVF,77
+cancion,REI AMI,6U1dV7aL68N7Gb0Naq34V5,pop,Freak (feat. REI AMI),2020,5jkbw3FDS3bSSb4oLKYbjf,69
+cancion,Taburete,40Ippe6JeofRURQ4nbF8DT,pop,5 Sentidos,2020,0Y0T4EjRnR7sM2fTTygp2Y,52
+cancion,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,I CAN'T STOP ME,2020,37ZtpRBkHcaq6hHy0X98zn,73
+cancion,Yves Tumor,0qu422H5MOoQxGjd4IzHbS,pop,Kerosene!,2020,2OoKzfr7RB5o9cxHArUoIS,56
+cancion,Yves Tumor,0qu422H5MOoQxGjd4IzHbS,pop,Romanticist,2020,3nRhH5u3TE6HtvBH6mNwzY,52
+cancion,Yves Tumor,0qu422H5MOoQxGjd4IzHbS,pop,Gospel For A New Century,2020,4qYvkWQqCcIWEBWekegE4y,51
+cancion,Yves Tumor,0qu422H5MOoQxGjd4IzHbS,pop,Super Stars,2020,4dWltT1kwOojQQyZJMs5tw,48
+cancion,Yves Tumor,0qu422H5MOoQxGjd4IzHbS,pop,Strawberry Privilege,2020,3UkXcs4GRtUms9kHm4wKIp,47
+cancion,Sam Smith,2wY79sveU1sp5g7SokKOiI,pop,Dancing With A Stranger (with Normani),2020,3xgT3xIlFGqZjYW9QlhJWp,77
+cancion,Sam Smith,2wY79sveU1sp5g7SokKOiI,pop,Fire On Fire,2020,7t3Xdbufg7q2onVsR8RBdY,78
+cancion,Charli xcx,25uiPmTg16RbhZWAqwLBy5,pop,party 4 u,2020,2RdEC8Ff83WkX7kDVCHseE,85
+cancion,Galvan Real,2iA56rE7fZUnD4GdsSUj3G,pop,Amigos,2020,78OSjd1nAuqqFIH6LJAQGj,56
+cancion,Galvan Real,2iA56rE7fZUnD4GdsSUj3G,pop,Volverte A Ver,2020,0Dknud8D2I3cl8tjGXqI9s,55
+cancion,Galvan Real,2iA56rE7fZUnD4GdsSUj3G,pop,Deseo - Remix,2020,7HJ4NivEC8ZqVRCbIvlyAR,53
+cancion,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,God’s Menu,2020,4XPXrcpyNr30Km6aPiflJy,76
+cancion,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Life Goes On,2020,5FVbvttjEvQ8r2BgUcJgNg,79
+cancion,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Dynamite,2020,5QDLhrAOJJdNAmCTJ8xMyW,79
+cancion,Katy Perry,6jJ0s89eD6GaHleKKya26X,pop,Harleys In Hawaii,2020,3B4etxytImrRKQgV3XHjnR,77
+cancion,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,pop,telepatía,2020,6tDDoYIxWvMLTdKpjFkc1B,82
+cancion,Gracie Abrams,4tuJ0bMpJh08umKkEXKUI5,pop,"I miss you, I’m sorry",2020,4nyF5lmSziBAt7ESAUjpbx,82
+cancion,Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,pop,GIRL LIKE ME,2020,1zLBsSVxETQOfINOLYvT5m,78
+cancion,Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,pop,RITMO (Bad Boys For Life),2020,5NyS3oxTlos3Agl2YtZwrC,70
+cancion,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,pop,Monster (Shawn Mendes & Justin Bieber),2020,1HbA4N1MiOsPthALesGFR1,69
+cancion,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,pop,Wonder,2020,6ZuahEctZD6w75peme58hm,68
+cancion,India Martinez,6FOpWOxsjQxKEbLiJpU1xV,pop,Resistiré,2020,5Z3eEWd02O1RekV96ohDPx,60
+cancion,India Martinez,6FOpWOxsjQxKEbLiJpU1xV,pop,Convénceme,2020,12oFSoib1tf0r2rd1Fgsfe,51
+cancion,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,pop,Lose You To Love Me,2020,4l0Mvzj72xxOpRrp6h8nHi,77
+cancion,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,pop,People You Know,2020,63mdJr3NMY3wReOkNE6c6W,75
+cancion,Daviles de Novelda,6E94QKXZv8BbO6QQJxcxLI,pop,Deseo - Remix,2020,7HJ4NivEC8ZqVRCbIvlyAR,53
+cancion,Rozalén,5soMpG6E6oApEiCZgrWeVz,pop,Resistiré,2020,5Z3eEWd02O1RekV96ohDPx,60
+cancion,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,pop,Angels Like You,2020,1daDRI9ahBonbWD8YcxOIB,81
+cancion,Alejandro Fernández,6sq1yF0OZEWA4xoXVKW1L9,pop,Caballero,2020,6jrK6Y8d9tvjAjurI4W99u,67
+cancion,Liderj,4oFwW8GNt4Seyt1dK3ij2S,pop,Solamente Tu,2020,7wFeqlk1zfBqx5UBDZgOZd,54
+cancion,Liderj,4oFwW8GNt4Seyt1dK3ij2S,pop,Una Noche,2020,6iWjlv56iKYAbRpL43KV8S,54
+cancion,Liderj,4oFwW8GNt4Seyt1dK3ij2S,pop,Si Te Hablara,2020,4Kh8vTxVJTGxoKqGKY6nII,53
+cancion,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,How You Like That,2020,4SFknyjLcyTLJFPKD2m96o,75
+cancion,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,Lovesick Girls,2020,4Ws314Ylb27BVsvlZOy30C,71
+cancion,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,Pretty Savage,2020,1XnpzbOGptRwfJhZgLbmSr,72
+cancion,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,pop,Hate Me,2020,15og0pCEcTFWEXOFKdcJlU,79
+cancion,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,pop,Lights,2020,0LRCcpSgeozipxPpRg5wzx,69
+cancion,Jesse & Joy,1mX1TWKpNxDSAH16LgDfiR,pop,Te Esperé,2020,6W8Rl6LMWjCL17EvLlkyxc,75
+cancion,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,pop,Sweet but Psycho,2020,7DnAm9FOTWE3cUvso43HhI,83
+cancion,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,pop,Kings & Queens,2020,7a53HqqArd4b9NF4XAmlbI,82
+cancion,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,pop,My Head & My Heart,2020,1KixkQVDUHggZMU9dUobgm,73
+cancion,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,pop,So Am I,2020,2Xnv3GntqbBH1juvUYSpHG,72
+cancion,Camela,6flBUmmOMLNhD4EJhGwgpG,pop,Poquito A Poco,2020,17wwjEdG0c4aO4LP8k0B5M,50
+cancion,Cali Y El Dandee,5DUlefCLzVRzNWaNURTFpK,pop,+ (MÁS),2020,1MXzojJav1N4cREWTFm1iZ,65
+cancion,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,pop,Tanto,2020,0ZqhB08GsFc4xfV07AsXzE,66
+cancion,Pritam,1wRPtKGflJrBx9BmLsSwlU,pop,Shayad,2020,1smFN2CLqGROu0J0UyvDfL,75
+cancion,Canelita,7g9K2QjuqVLUniCCCHyF7j,pop,Cantar y Bailar,2020,6nMRk3a0DUd0ywgfvnI0cz,47
+cancion,ElGrandeToto,4BFLElxtBEdsdwGA1kHTsx,pop,love nwantiti (feat. ElGrande Toto) - North African Remix,2020,1EYeZGTMCjV7uVey5fNWXM,63
+cancion,Haze,6c4WWQ2PYJlgnxtkQKqI5s,pop,7 Vírgenes - Original Motion Picture Soundtrack,2020,0eRPdGoIWHNDAkhuVIAkoW,50
+cancion,Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,pop,Higher Love,2020,1kKYjjfNYxE0YYgLa7vgVY,71
+cancion,Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,pop,Briga Feia - Ao Vivo,2020,7bukHRNgGLRySTJEVvLoIR,74
+cancion,Kany García,69UypehHabb68utzfjAVlV,pop,Color Esperanza 2020,2020,3eSJmGWqoBRx5wbFCtvPtz,66
+cancion,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,pop,Still With You,2020,0eFMbKCRw8KByXyWBw8WO7,80
+cancion,La Húngara,7xtnpHS34mLlxGZDVUBHSU,pop,Habibi - Remix,2020,4MstqNRLu2FvZjAPv0WVLr,34
+cancion,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,pop,Savage Love (Laxed - Siren Beat),2020,1xQ6trAsedVPCdbtDAmk0c,70
+cancion,Oscar el Ruso,1aOK2Zm4Wsm4I4DuoQIXsZ,pop,Solamente Tu,2020,7wFeqlk1zfBqx5UBDZgOZd,54
+cancion,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,Without Me,2020,6FZDfxM3a3UCqtzo5pxSLZ,83
+cancion,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,Be Kind (with Halsey),2020,3Z8FwOEN59mRMxDCtb8N0A,71
+cancion,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,pop,Heather,2020,4xqrdfXkTW4T0RauPLv3WA,84
+cancion,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,pop,The Cut That Always Bleeds,2020,7wTqEW5nrMhvyEhEyTnOMd,84
+cancion,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,pop,Maniac,2020,6KfoDhO4XUWSbnyKjNp9c4,75
+cancion,Ovi,4o0NtnL2m0lzZmEdRas1qv,pop,Te Extraño,2020,4woupD6nz235hkCKdIkQJT,69
+cancion,Ovi,4o0NtnL2m0lzZmEdRas1qv,pop,Pienso en Ella,2020,79fkYjEJlscHdgAtYWYfUO,66
+cancion,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,A Dónde Vamos,2021,21t07fSxEHAjazqclabTEJ,71
+cancion,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,Enamórate De Alguien Más,2021,1pDgS6HDNrrIawdhYEvI0s,70
+cancion,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,pop,Cold Heart - PNAU Remix,2021,6JIC3hbC28JZKZ8AlAqX8h,78
+cancion,Luis Cortés,49wxwtIqjRKbj0d3eHDMRJ,pop,En Sueños,2021,3YFfdub6AUsrzdcBTeWIQL,57
+cancion,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pop,traitor,2021,5CZ40GBx1sQ9agT82CLQCT,86
+cancion,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pop,deja vu,2021,6HU7h9RYOaPRFeh0R3UeAr,85
+cancion,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pop,drivers license,2021,5wANPM4fQCJwkGd4rN57mH,85
+cancion,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pop,happier,2021,2tGvwE8GcFKwNdAXMnlbfl,83
+cancion,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pop,good 4 u,2021,4ZtFanR9U6ndgddUvNcjcG,81
+cancion,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pop,favorite crime,2021,5JCoSi02qi3jJeHdZXMmR8,82
+cancion,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pop,"jealousy, jealousy",2021,0MMyJUC3WNnFS1lit5pTjk,80
+cancion,David Bisbal,5gOJTI4TusSENizxhcG7jB,pop,Me Enamoré De Ti,2021,2ryX03NGAeVt9JJs00MuOi,59
+cancion,Maroon 5,04gDigrS5kc9YWfZHwBETP,pop,Memories,2021,4cktbXiXOapiLBMprHFErI,82
+cancion,Aitana,7eLcDZDYHXZCebtQmVFL25,pop,Mon Amour - Remix,2021,5TMLavqGRKNxgzMBrVpC9R,75
+cancion,Maka,4lHAjTCvXGu8QIM3cEe93m,pop,Besos Como Puñales,2021,3uYCUaPNYSHFvHb4ELEfGh,54
+cancion,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,pop,STAY (with Justin Bieber),2021,567e29TDzLwZwfDuEpGTwo,80
+cancion,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,pop,Ghost,2021,6I3mqTwhRpn34SLVafSH7G,84
+cancion,Camilo,28gNT5KBp7IjEOQoevXf9N,pop,Vida de Rico,2021,4nTduFjaTmGysc9WKNuCcs,68
+cancion,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,pop,Happier Than Ever,2021,4RVwu0g32PAqgUiJoXsdF8,84
+cancion,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,pop,Bad Habits,2021,3rmo8F54jFF8OgYsqTxm5d,82
+cancion,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,pop,Shivers,2021,50nfwKoDiSYg8zOCREWAm5,82
+cancion,Tate McRae,45dkTj5sMRSjrmBSBeiHym,pop,you broke me first,2021,4l0RmWt52FxpVxMNni6i63,85
+cancion,Lola Indigo,3bvfu2KAve4lPHrhEFDZna,pop,La Niña de la Escuela,2021,1g4cZvi0nLeeIycd0Rkljj,63
+cancion,Taburete,40Ippe6JeofRURQ4nbF8DT,pop,Una Foto en Blanco y Negro,2021,1iBZ1b5ULbGnyhq5Xhpqql,54
+cancion,TWICE,7n2Ycct7Beij7Dj7meI4X0,pop,The Feels,2021,308Ir17KlNdlrbVLHWhlLe,73
+cancion,Javi Medina,6dwFgF51JkLBz93ocNJ0Ol,pop,Amor y Muerte,2021,7CkJfQByYyFdu9jRRXk858,55
+cancion,Javi Medina,6dwFgF51JkLBz93ocNJ0Ol,pop,Besos Como Puñales,2021,3uYCUaPNYSHFvHb4ELEfGh,54
+cancion,Galvan Real,2iA56rE7fZUnD4GdsSUj3G,pop,La Magia,2021,1uw6eHdMtRlX6MtiZVJYB9,60
+cancion,Galvan Real,2iA56rE7fZUnD4GdsSUj3G,pop,Volver a ser Romeo (feat. Galvan Real),2021,0TzLYdOfR2fAnmDDVTSjOX,51
+cancion,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,My Universe,2021,46HNZY1i7O6jwTA7Slo2PI,74
+cancion,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Permission to Dance,2021,3XYRV7ZSHqIRDG87DKTtry,73
+cancion,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,pop,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),2021,09gysnJpfQ3ublBmJDfcEC,75
+cancion,Gracie Abrams,4tuJ0bMpJh08umKkEXKUI5,pop,Mess It Up,2021,0PLhwCmQ7cC3ThRGPn3HxF,77
+cancion,Valeria Castro,7JTVqKJ414qRPuDPhdKnHD,pop,cuídate,2021,5D7hSm0LjrDq1OcDtXpKbE,58
+cancion,Valeria Castro,7JTVqKJ414qRPuDPhdKnHD,pop,guerrera,2021,1op8GBKx3U5BrDDvOAKYbO,55
+cancion,Valeria Castro,7JTVqKJ414qRPuDPhdKnHD,pop,la corriente,2021,0ba2ivMbQf3VC62yseBbRO,49
+cancion,Britney Spears,26dSoYclwsYLMAKD3tpOr4,pop,Hold Me Closer,2021,5TJEBoTCDbJXiKMdCN9pd3,65
+cancion,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,pop,SUBEME LA RADIO,2021,0mnAmQX1pciMncT2qFCNmK,69
+cancion,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,pop,DUELE EL CORAZON,2021,5adqS3stLaSPAEOszOnpXG,68
+cancion,Adele,4dpARuHxo51G3z768sgnrY,pop,Easy On Me,2021,46IZ0fSY2mpAiktS3KOqds,81
+cancion,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,pop,Run,2021,6KL88T4Ma4ABXqzgUoEwkd,72
+cancion,Daviles de Novelda,6E94QKXZv8BbO6QQJxcxLI,pop,Flamenco y Bachata,2021,6ynErSDSlxqsxg0D3LJ8sK,59
+cancion,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,pop,Tusa,2021,0dKg2vGC1hFqcK5LGTaKzX,69
+cancion,Rozalén,5soMpG6E6oApEiCZgrWeVz,pop,"Para Aute: Pasaba por Aquí (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodríguez, Vanesa Martin & Xoel López)",2021,7D9idjcIEbErDKK2vtUM2D,58
+cancion,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,pop,Kiss Me More (feat. SZA),2021,3DarAbFujv6eYNliUTyqtz,85
+cancion,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,pop,Woman,2021,6Uj1ctrBOjOas8xZXGqKk4,83
+cancion,Liderj,4oFwW8GNt4Seyt1dK3ij2S,pop,Me Llaman Loco,2021,4rxMPIs2BUJTs6UVjbJBqd,47
+cancion,Maki,65GDNtLQdPv30IljvoE2KW,pop,Volver a ser Romeo (feat. Galvan Real),2021,0TzLYdOfR2fAnmDDVTSjOX,51
+cancion,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Pa' Olvidarme De Ella,2021,3lR4O0vtkhCAvVEUEWUL0S,72
+cancion,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Tan Bonita,2021,6mm3K0yWp6uzfOMuipM9Zh,69
+cancion,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Una Vida Para Recordar,2021,6n8CqMxK4RqmUrX6gsJseD,65
+cancion,Natanael Cano,0elWFr7TW8piilVRYJUe4P,pop,Diamantes,2021,0JDrG1g5HXbfgGtRKT0ofH,78
+cancion,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,pop,"Alone, Pt. II",2021,28VbwtsYnj85UEODGpQRem,71
+cancion,KEVIN WOO,2RYonYiVhhzBz82UFXOvEN,pop,Got It,2021,0DQFhEbScJHo0H8vkpVQ18,31
+cancion,Phil Collins,4lxfqrEsLX6N1N4OCSkILp,pop,"You'll Be In My Heart - From ""Tarzan""/Soundtrack Version",2021,1fTDYdx5zYfWJSX0JlKO8o,70
+cancion,Neckwav,5bXNU0MAF2HSqyFPhYtscH,pop,withoutyou,2021,6aMr19dWts8J6jrWCczm8m,30
+cancion,Moncho Chavea,7fL1kRUb9Zv1xxgOmsuUPn,pop,Rakata - Remix,2021,7kbKXgIpWuljf9WUYoelqg,49
+cancion,Canelita,7g9K2QjuqVLUniCCCHyF7j,pop,Dale Comba,2021,0rDwA3VxwFO0eHLpmLclSN,53
+cancion,ENHYPEN,5t5FqBwTcgKTaWmfEbwQY9,pop,Drunk-Dazed,2021,1wcr8DjnN59Awev8nnKpQ4,76
+cancion,ENHYPEN,5t5FqBwTcgKTaWmfEbwQY9,pop,FEVER,2021,0UzymivvUH5s8z4PeWZJaK,75
+cancion,Angeliyo El Blanco,44eG7dPD6scjhUJAMN0rFp,pop,Estilo Gitano,2021,14MBQP4rtfvXLPZK3b1u9C,51
+cancion,Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,pop,Ruin My Life,2021,4nyY8oVjbX2d4qzlpiVM5n,74
+cancion,La Húngara,7xtnpHS34mLlxGZDVUBHSU,pop,Tú Me Dejaste De Querer,2021,5ddFjrPG8NgQQ6xlOQIVd2,71
+cancion,La Húngara,7xtnpHS34mLlxGZDVUBHSU,pop,Otro Bonito Final,2021,2NaUp5dI0Q3xjPhtJZFQrE,41
+cancion,P!nk,1KCSPY1glIKqW2TotWuXOR,pop,Cover Me In Sunshine,2021,0UKUfxIkDAMZz7hMdiVX3m,63
+cancion,ROSÉ,3eVa5w3URK5duf6eyVDbu9,pop,Gone,2021,2dHoVW9AxJVSRebPRyV2aA,66
+cancion,ROSÉ,3eVa5w3URK5duf6eyVDbu9,pop,On The Ground,2021,2pn8dNVSpYnAtlKFC8Q0DJ,66
+cancion,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,pop,Sweat,2021,6ZHRi0QxzSnlevyhyNkj4a,63
+cancion,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,Me Quedo Contigo,2021,5D0JfdpGhV0zLQicft0rE2,55
+cancion,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,La Quiero a Morir,2021,78sSlHHLTGwIZKEOr0YG6l,52
+cancion,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,Procuro Olvidarte,2021,2Vtm9P7GZ38baY6UnZfH7W,51
+cancion,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,Se Nos Rompió el Amor,2021,0p26JoVqMt3jmosFxEQmaB,47
+cancion,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,Aunque Tú No Lo Sepas,2021,0YCAuMQa2k7jBjWgc0w7wt,47
+cancion,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,El Sitio de Mi Recreo,2021,5Oe4t3vLPabGRtjx6UYbaN,46
+cancion,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,So Payaso,2021,1e9TrZIpqGu4hVabYF0MHl,45
+cancion,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,Remedios para la Tristeza,2021,3wFqjW1Grq2HIeov7cHcZT,44
+cancion,Nyno Vargas,2dkbKcHXhN7ooFBdqAV76G,pop,"Hola, mi amor (feat. Lérica, Junco)",2021,3XTteF1iEYhRVBgLYSU58c,47
+cancion,Nyno Vargas,2dkbKcHXhN7ooFBdqAV76G,pop,Ojitos Negros,2021,5I7b11Wg3hnKtgSlKnv71b,50
+cancion,Nyno Vargas,2dkbKcHXhN7ooFBdqAV76G,pop,Ve y dile (feat. Antonio José),2021,0EKlq1rb1wW6HNhvCECe2v,48
+cancion,Nyno Vargas,2dkbKcHXhN7ooFBdqAV76G,pop,No me lo creo RMX,2021,2mPIbHxd0GHe3Bt18O8csN,47
+cancion,Halsey,26VFTg2z8YR0cCuwLzESi2,pop,Could Have Been Me,2021,16nCYYc1lCxCyvaR1lgo0i,71
+cancion,Big Lois,6SSd8YlAkq26bt11sct3Uo,pop,Tiroteo,2021,3rRy8AYtIR7KPzgrg5X6al,47
+cancion,Antonio José,1dbp04JzZ81JXlMGupCnJ8,pop,Lo Que Hará Mi Boca,2021,5BR3QNDYlMVpKGgWjTWkJR,57
+cancion,Antonio José,1dbp04JzZ81JXlMGupCnJ8,pop,Himno A La Alegría,2021,7F5rc8a0xD6DCloB2kROq9,52
+cancion,Ayra Starr,3ZpEKRjHaHANcpk10u6Ntq,pop,Bloody Samaritan,2021,1OoPhcM78evXIxjmSzCnmf,65
+cancion,Ovi,4o0NtnL2m0lzZmEdRas1qv,pop,Los 4 Ases (Corrido Tumbado),2021,2MLb1cIk2HkTyfLjh1NEcz,64
+cancion,Ovi,4o0NtnL2m0lzZmEdRas1qv,pop,Día De Pago,2021,56CnVxbOqzOXBJrVxnMTtk,62
+cancion,El Barrio,0fM3rWsshliRFUmJlBP6QZ,pop,El Licenciao,2022,1Xu2nkrg3bmKxiEVLqjqJL,54
+cancion,Pablo Alborán,5M9Bb4adKAgrOFOhc05Y50,pop,Amigos (con Maria Becerra),2022,20NeR3CwuyGfRktTncKRU7,59
+cancion,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,Porfa no te vayas,2022,2XA5q5FBwqrlkGBzzOOVeK,71
+cancion,Morat,5C4PDR4LnhZTbVnKWXuDKD,pop,Debí Suponerlo,2022,2pIIRKRwWSi1Sb29VYLOOa,70
+cancion,Luis Cortés,49wxwtIqjRKbj0d3eHDMRJ,pop,Hoja en Blanco - Versión flamenca,2022,7GWd0DCMkcWr0dHC9MHsVI,57
+cancion,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,pop,Bones,2022,54ipXppHLA8U4yqpOFTUhr,82
+cancion,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,pop,Enemy (with JID) - from the series Arcane League of Legends,2022,3CIyK1V4JEJkg02E4EJnDl,79
+cancion,Marta Santos,2NeFajzkAQ4UfviWdzf0pK,pop,Las Cosas Pequeñitas,2022,5LU8Lk8uSCdMgBaqcTujmi,62
+cancion,Marta Santos,2NeFajzkAQ4UfviWdzf0pK,pop,La Bachata,2022,46dmazd1o2QIs1DfjyyTx5,59
+cancion,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,pop,TV,2022,3GYlZ7tbxLOxe6ewMNVTkw,83
+cancion,Manuel Carrasco,7qAoXV4U0qDxQAUqhszjAA,pop,FUE,2022,69billX7itLzkgWjqWSFFn,56
+cancion,Manuel Carrasco,7qAoXV4U0qDxQAUqhszjAA,pop,Hay Que Vivir El Momento,2022,1QB4PhoYBGDwDoZ7xl5MaI,53
+cancion,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,pop,Pareja Del Año,2022,655JkvIwu2rDCaD1hPf04g,73
+cancion,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,pop,Tacones Rojos,2022,6ylDpki1VpIsc525KC1ojF,72
+cancion,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,pop,I'm Good (Blue),2022,4uUG5RXrOk84mYEfFvj3cK,85
+cancion,Taburete,40Ippe6JeofRURQ4nbF8DT,pop,Roto y Elegante,2022,4R93vEvbVvzWjq9C6ZNHUR,55
+cancion,Akon,0z4gvV4rjIZ9wHck67ucSV,pop,"Sorry, Blame It On Me",2022,61BqwgSRTyWH9M4uPjsC3B,70
+cancion,Javi Medina,6dwFgF51JkLBz93ocNJ0Ol,pop,Tal Vez,2022,5h8DeHVRTy12Kt9K34YX5g,54
+cancion,Junior H,7Gi6gjaWy3DxyilpF1a8Is,pop,Extssy Model,2022,24teIhDYO2RocTA2v5dY0r,82
+cancion,Stray Kids,2dIgFjalVxs4ThymZ67YCE,pop,MANIAC,2022,63irPUP3xB74fHdw1Aw9zR,76
+cancion,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Butter,2022,6jjYDGxVJsWS0a5wlVF5vS,74
+cancion,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Left and Right (Feat. Jung Kook of BTS),2022,5Odq8ohlgIbQKMZivbWkEo,72
+cancion,BTS,3Nrfpe0tUJi4K4DXYWgMUX,pop,Run BTS,2022,69xohKu8C1fsflYAiSNbwM,75
+cancion,Demarco Flamenco,4hFZibFsoIxictRvkZDjIc,pop,No Necesito Más,2022,7g8RkRX7XTpXW8RjLAu5hl,52
+cancion,Demarco Flamenco,4hFZibFsoIxictRvkZDjIc,pop,Alegría,2022,1Z1TF0TlghvUvcwL4OAAuh,50
+cancion,India Martinez,6FOpWOxsjQxKEbLiJpU1xV,pop,SI ELLA SUPIERA,2022,0quM3iWAOKw9OGIMBsppSC,61
+cancion,India Martinez,6FOpWOxsjQxKEbLiJpU1xV,pop,5 SENTÍOS,2022,1XWpZ1v5Il3jli4SJjaKCf,52
+cancion,Arijit Singh,4YRxDV8wJFPHPTeXepOstw,pop,Apna Bana Le,2022,1hA697u7e1jX2XM8sWA6Uy,78
+cancion,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,As It Was,2022,4Dvkj6JhhA12EX05fT7y2e,88
+cancion,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Matilda,2022,6uvh0In7u1Xn4HgxOfAn8O,78
+cancion,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Late Night Talking,2022,1qEmFfgcLObUfQm0j1W2CK,76
+cancion,Harry Styles,6KImCVD70vtIoJWnq6nGn3,pop,Satellite,2022,0rzaRSujxA0bKyjJl6vHYq,72
+cancion,Daviles de Novelda,6E94QKXZv8BbO6QQJxcxLI,pop,AMANTES,2022,3Q7o2zzvXj7QiSCumjBpvu,52
+cancion,Daviles de Novelda,6E94QKXZv8BbO6QQJxcxLI,pop,La Musiquita,2022,5LNJHJJd8aBY0aW9CgSgbz,51
+cancion,Antoñito Molina,32TNt1biE79JwouUBk0SOi,pop,Y te voy a querer,2022,6ejDR4zHUdTUuzdnwuCrHK,58
+cancion,Antoñito Molina,32TNt1biE79JwouUBk0SOi,pop,Me estoy volviendo loco,2022,2BwrXqrvawHTSUjncMivxP,56
+cancion,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,pop,Super Freaky Girl,2022,2yjlYDiNiQkdxVqTlaSrlX,68
+cancion,Rozalén,5soMpG6E6oApEiCZgrWeVz,pop,Justito a Tiempo,2022,6ILOgC8xfVrVQCI7jlMReR,45
+cancion,BM,5TP8Ubo4jLKEi4Mw2O8fAk,pop,M.A (Mejores Amigos),2022,61wAL7pFMMfvYv9SXIiYAB,59
+cancion,Anitta,7FNnA9vBm6EKceENgCGRMb,pop,Envolver,2022,3FkeNbs9Zeiqkr3WkbOiGp,66
+cancion,Tom Odell,2txHhyCwHjUEpJjWrEyqyX,pop,Another Love - Tiësto Remix,2022,4Et6tUEO7biKxZEfJXpNj1,70
+cancion,Tom Odell,2txHhyCwHjUEpJjWrEyqyX,pop,Best Day Of My Life,2022,1GIsnE71uUtWvGpvnJCTXO,69
+cancion,Liderj,4oFwW8GNt4Seyt1dK3ij2S,pop,Yo quiero,2022,61lV45UFfZw7Y91OLqqZbY,47
+cancion,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,Pink Venom,2022,5zwwW9Oq7ubSxoCGyW1nbY,74
+cancion,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,pop,Shut Down,2022,7gRFDGEzF9UkBV233yv2dc,72
+cancion,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,pop,Los Cachos,2022,3eUR4NZa2hc8ZulyFYdCv8,65
+cancion,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,pop,Left and Right (Feat. Jung Kook of BTS),2022,5Odq8ohlgIbQKMZivbWkEo,72
+cancion,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,pop,Light Switch,2022,1jEBSDN5vYViJQr78W7jr2,72
+cancion,Carlos Vives,4vhNDa5ycK0ST968ek7kRr,pop,Canción Bonita,2022,72JgJxo8yuHhcu2Yi1aKt5,61
+cancion,Pablo López,4uyqaioPEdClDxU6zvYlAZ,pop,Quasi,2022,4raY0xxADxSo4sachP0rFr,47
+cancion,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,pop,Bam Bam (feat. Ed Sheeran),2022,2DB4DdfCFMw1iaR6JaR03a,68
+cancion,Cali Y El Dandee,5DUlefCLzVRzNWaNURTFpK,pop,Nada,2022,1U7QlWG6O98xgsJtVjYREj,59
+cancion,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,pop,I'm Good (Blue),2022,4uUG5RXrOk84mYEfFvj3cK,85
+cancion,Haze,6c4WWQ2PYJlgnxtkQKqI5s,pop,La Reina,2022,7iABjosu2IYiZHXRKd2Cre,44
+cancion,Angeliyo El Blanco,44eG7dPD6scjhUJAMN0rFp,pop,Tu Corazón,2022,5mfc9Rg2dHFW5mnOkmYGZL,50
+cancion,Greeicy,5dbaLmK5SHLLg8Z4CcTJpX,pop,Los Besos,2022,50SFVefoyzWnJy1oQWfRtr,63
+cancion,Kany García,69UypehHabb68utzfjAVlV,pop,DPM (De Pxta Madre),2022,4wJXlFV0oh88ktxE54uqKE,66
+cancion,Kany García,69UypehHabb68utzfjAVlV,pop,Muero,2022,0eJROXHvyjJwaSwavzP7Nr,59
+cancion,Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,pop,Words (feat. Zara Larsson),2022,1bgKMxPQU7JIZEhNsM1vFs,72
+cancion,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,pop,Left and Right (Feat. Jung Kook of BTS),2022,5Odq8ohlgIbQKMZivbWkEo,72
+cancion,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,pop,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],2022,0jY618wuln0b5b8sCxFgjk,71
+cancion,Jin,5vV3bFXnN6D6N3Nj4xRvaV,pop,The Astronaut,2022,0h7QMc9ZRzA9QJrbEHytn2,69
+cancion,Burna Boy,3wcj11K77LjEY1PkEazffa,pop,Last Last,2022,57DarSfRMIVRCeDBGW0l5S,70
+cancion,Burna Boy,3wcj11K77LjEY1PkEazffa,pop,For My Hand (feat. Ed Sheeran),2022,3ltc9j6uh3LvO7FuXm6Ix3,63
+cancion,j-hope,0b1sIQumIAsNbqAoIClSpy,pop,MORE,2022,7GARzfC1mwhDuk4t9WOACq,64
+cancion,Miguel Campello,0OzDyhPnwvUVGRNWrVILlg,pop,Penúltimo beso (feat. Miguel Campello),2022,1JbcfK2RTfcmsfypYm54KU,43
+cancion,Nyno Vargas,2dkbKcHXhN7ooFBdqAV76G,pop,Fuera de Mi (feat. José Alma),2022,6wtfaK1PKLBuG3ejInDhaF,46
+cancion,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,pop,Los Botones Azules,2022,3ZGkdrigbWXLgHungXfZkt,73
+cancion,Big Lois,6SSd8YlAkq26bt11sct3Uo,pop,Que Te Perdone Dios,2022,658n6xRY3vR0vOgCxLeTLT,48
+cancion,Ayra Starr,3ZpEKRjHaHANcpk10u6Ntq,pop,Rush,2022,1xs8bOvm3IzEYmcLJVOc34,71
+cancion,Ricky Martin,7slfeZO9LsJbWgpkIoXBUJ,pop,Canción Bonita,2022,72JgJxo8yuHhcu2Yi1aKt5,61
+cancion,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,pop,Memories,2022,5UXJzLFdBn6u9FJTCnoHrH,79
+cancion,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,pop,Astronomy,2022,2JN3ugW1cEahbYw0I5mw5U,74
+cancion,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,pop,Family Line,2022,0iNZGC211wst3VjtobNnC5,75
+cancion,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,pop,People Watching,2022,3TFoEJe5zNuHZStRboWPxg,72
+cancion,Roberto Ferrante,2aiM1OfMODFLUXaQgEVPK1,pop,Estrellita De Madrugada - Original 2022 Remaster (Ft. Daddy Yankee),2022,7hEUCqOfvkXLTk5tdET15f,62
+cancion,Ovi,4o0NtnL2m0lzZmEdRas1qv,pop,COLOGNE,2022,1ULnQ2yn5LeQX4LrROm1RD,74

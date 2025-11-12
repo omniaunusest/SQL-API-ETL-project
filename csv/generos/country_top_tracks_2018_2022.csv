@@ -1,0 +1,382 @@
+tipo,artista,artista_id,genero,nombre,año,id,popularidad_cancion
+cancion,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,country,Meant to Be (feat. Florida Georgia Line),2018,4e4fqjx0Izh4svvTef1z7e,70
+cancion,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,country,Slow Dance In A Parking Lot,2018,6MBUUSIWCzaXW4q58Ktrv9,68
+cancion,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,country,Singles You Up,2018,4LiMQ6G9n84rDUBs9wtwz6,67
+cancion,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,country,Take It From Me,2018,3dCZm5HrG0jIXAHfNkg2H0,66
+cancion,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,country,Shake the Frost (Live),2018,19MkwMrRjO7773zpuGss1o,75
+cancion,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,country,Charleston Girl (Live),2018,3R6yNicsZrWF8ybl02imcB,71
+cancion,Kacey Musgraves,70kkdajctXSbqSMJbQO424,country,Slow Burn,2018,6ET9kf9riLETWs9lePUEAI,67
+cancion,Kacey Musgraves,70kkdajctXSbqSMJbQO424,country,Butterflies,2018,30VHURM5NOfoZmqp2iKawS,66
+cancion,Kacey Musgraves,70kkdajctXSbqSMJbQO424,country,Rainbow,2018,79qxwHypONUt3AFq0WPpT9,64
+cancion,Kacey Musgraves,70kkdajctXSbqSMJbQO424,country,Golden Hour,2018,0pMfPzdRiPAoSM9yWF4OcT,62
+cancion,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,country,You Make It Easy,2018,2TXtN9MoV308Y0z1HvyTfV,76
+cancion,Riley Green,2QMsj4XJ7ne2hojxt6v5eb,country,When She Comes Home Tonight,2018,3QE9qyQrIgefznSchAYJPB,72
+cancion,Luke Combs,718COspgdWOnwOFpJHRZHS,country,Beautiful Crazy,2018,2rxQMGVafnNaRaXlRMWPde,78
+cancion,Luke Combs,718COspgdWOnwOFpJHRZHS,country,She Got the Best of Me,2018,698eQRku24PIYPQPHItKlA,77
+cancion,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,country,Whiskey Glasses,2018,57TEkZN3f84tFJFHFrD4pO,80
+cancion,Barns Courtney,5tFRohaO5yEsuJxmMnlCO9,country,Sinners,2018,0eUgkunDciOOiao9Sjw3PW,56
+cancion,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,country,Catch,2018,53cGGBxGPaRjP0HVUESyW5,59
+cancion,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,country,Here Tonight,2018,38nVuIj9mi5a8oopOJhSJk,59
+cancion,Kid Rock,7dOBabd5O4CvKrg4iriHTM,country,American Bad Ass - 2018 Remaster,2018,1ut6qrFOKodxA2vIs9sQW1,55
+cancion,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,country,Tequila,2018,42fw0rxRO2xbesF6mJfd4Y,67
+cancion,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,country,Speechless,2018,3GJ4hzg4lrGwU51Y3VARbF,67
+cancion,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,country,All To Myself,2018,08tq1XcHwVt5PHXUo87i0D,60
+cancion,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,country,Get Along,2018,6n6OQfBpCgzF9oEg8zhBN7,67
+cancion,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,country,This Feeling,2018,4NBTZtAt1F13VvlSKe6KTl,70
+cancion,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,country,Miss Me More,2018,5NfJGBAL9mgFPRQxKJmiX2,59
+cancion,Bishop Briggs,0yb46jwm7gqbZXVXZQ8Z1e,country,River,2018,3mRLHiSHYtC8Hk7bzZdUs1,75
+cancion,Bishop Briggs,0yb46jwm7gqbZXVXZQ8Z1e,country,White Flag,2018,2ph6BRhGcUzc2W9wIulG5k,61
+cancion,Bishop Briggs,0yb46jwm7gqbZXVXZQ8Z1e,country,Never Tear Us Apart,2018,0zdzgfhY18Au7dD1hOrTrX,57
+cancion,Bishop Briggs,0yb46jwm7gqbZXVXZQ8Z1e,country,River - King Kavalier Remix,2018,0hQvOfNoBr9EV2jCIF6JCQ,53
+cancion,Bishop Briggs,0yb46jwm7gqbZXVXZQ8Z1e,country,Dream,2018,3fHZJOvXmyHeFLFS1sDE30,51
+cancion,Bishop Briggs,0yb46jwm7gqbZXVXZQ8Z1e,country,Wild Horses,2018,1vHyZsydQf4h2yDhujnqvQ,49
+cancion,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,country,The Champion - Bonus Track,2018,2F6JxWMP2ZfmVErc3ZTmqQ,57
+cancion,Soap&Skin,2mAYpnSe3g2Y22JcZ2ddku,country,What A Wonderful World,2018,1HVCTkwQwbYQvNjiv4Os8d,40
+cancion,Soap&Skin,2mAYpnSe3g2Y22JcZ2ddku,country,Safe With Me,2018,6JXNQLqk8iSHgHp4ag7498,34
+cancion,Soap&Skin,2mAYpnSe3g2Y22JcZ2ddku,country,Italy,2018,6d8fUSacSzAzpYukmdGibg,34
+cancion,Elle King,3bhu7P5PfngueRHiB9hjcx,country,Baby Outlaw,2018,6duWrSlajEdgjAfaiKZV31,47
+cancion,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,country,The Middle,2018,09IStsImFySgyp0pIQdqAc,78
+cancion,Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,country,Burning Man,2018,4a1oIihVt6xSnDRpgX387M,61
+cancion,Cody Jinks,2v7wIbCkIzxOfT3GnqCexD,country,Must Be the Whiskey,2018,324iakwekGIBGV93syJsVe,68
+cancion,Muscadine Bloodline,0EyZDKtc41e4A3a3v69MxD,country,Can't Tell You No,2018,1bvAesXIGNwaE4U7N4QPbj,63
+cancion,Tyler Braden,63wjVVauFUQ4gBw6QXTT5N,country,Leave Me Alone,2018,6OI4kx6HcKUAgZKGr9IlXg,54
+cancion,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,country,Break Up in the End,2018,5Z19ylxppfnfdP4JH0u8oj,59
+cancion,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,Drunk Me,2018,1G4cdOtF36ZCs6i2dZoC87,60
+cancion,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Turn up the Night,2018,1gQf9pbGGzVkph7BUfwi6X,53
+cancion,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Everybody Walkin' This Land,2018,4Zd9xGAwSs1Hw2hhKRnsJ6,52
+cancion,Lauren Alaina,1v3tdpIdBSW14rHUfiEVOv,country,Ladies In The '90s,2018,4Whem9s6OoP7yFT60m2tU9,46
+cancion,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,Come Home Soon,2018,1cphwoceaKmjUZSRKYbFh2,55
+cancion,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,country,Five More Minutes,2018,3qTmB5HxP9ilJaiM6B1yuk,70
+cancion,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,country,This Is It,2018,74CEfiZthUGX5yUNNUM4bj,62
+cancion,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,country,In Between,2018,2IuazAsyvbb3fFZb0Uvsmk,51
+cancion,Josh Meloy,3EVsC9ZK7QMDuK4FPcZaEq,country,Washington Street,2018,7lXhOInU1PuJad7zK6pzPt,56
+cancion,Brooks & Dunn,0XKOBt59crntr7HQXXO8Yz,country,"1, 2 Many",2019,226le7T3p82reYWzsi9Hsz,69
+cancion,Brooks & Dunn,0XKOBt59crntr7HQXXO8Yz,country,Brand New Man - with Luke Combs,2019,001UkMQHw4zXfFNdKpwXAF,65
+cancion,The Red Clay Strays,6IKlXZEFOvk9itrP1s0knJ,country,Good Godly Woman,2019,6GWMddXRoGtOQRMwxItviV,65
+cancion,Cody Johnson,6zLBxLdl60ekBLpawtT63I,country,On My Way to You,2019,3OjNkFFZavF89xvRqWCXmU,69
+cancion,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,country,God's Country,2019,4TCeFZNjGNQIpCuZmJkkE2,66
+cancion,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,country,Nobody But You (Duet with Gwen Stefani),2019,5M8goiFYynmNxhueYW6grR,63
+cancion,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,country,Simple,2019,4L9Ds4mpD3SuYoWwFUlv16,66
+cancion,HARDY,5QNm7E7RU2m64l6Gliu8Oy,country,ONE BEER (feat. Lauren Alaina & Devin Dawson),2019,2tev2oEdAUyNtR1U8gQ8c4,66
+cancion,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,country,Heartache Medication,2019,5qdQPrWmZv8xYhMJCDrdHF,74
+cancion,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,country,All Your'n,2019,0fCwTrRNfoNk962ati8n2K,78
+cancion,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,country,One Thing Right,2019,7gZXCjAy6nxKCQWLEeX4LZ,70
+cancion,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,country,Saturday Nights REMIX,2019,0W5oXFrxZNBTIS1eMW9Ofz,51
+cancion,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,country,Beer Can’t Fix,2019,7idmHTAQQPUFqdjXkoooXD,65
+cancion,Riley Green,2QMsj4XJ7ne2hojxt6v5eb,country,There Was This Girl,2019,7grWGhX8SHNmyGOkMNVMCt,71
+cancion,Riley Green,2QMsj4XJ7ne2hojxt6v5eb,country,I Wish Grandpas Never Died,2019,7Dxes6VnfbZYV0S2QTnVuT,69
+cancion,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,Heading South,2019,2Dct3GykKZ58hpWRFfe2Qd,80
+cancion,Dolly Parton,32vWCbZh0xZ4o9gkz4PsEU,country,There Was Jesus,2019,6oizwmD5yHvlQUw0xvirrY,67
+cancion,Hozier,2FXC3k01G6Gw61bmprjgqS,country,Would That I,2019,0L3oQdYUvVbsOOPJSkZ3C3,69
+cancion,Hozier,2FXC3k01G6Gw61bmprjgqS,country,Almost (Sweet Music),2019,7uttm8Iurm5uK67Vr9G2Sp,68
+cancion,Barns Courtney,5tFRohaO5yEsuJxmMnlCO9,country,"""99""",2019,0FDtfURDoNGv0sjNnvscPR,52
+cancion,Barns Courtney,5tFRohaO5yEsuJxmMnlCO9,country,Babylon,2019,2SlHCUAxHuyqGJ51tMIaH8,51
+cancion,Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,country,Bluebird,2019,0kPeZAyIhIfeZNrtfjJGDB,63
+cancion,Poor Man's Poison,0YHgnSkV3S5mvSSCTRWDi5,country,Hell's Comin' with Me,2019,5N0lmKQfQpXNQNjUGlPKIT,72
+cancion,Wilco,2QoU3awHVdcHS8LrZEKvSM,country,Love Is Everywhere (Beware),2019,0cWKIr2hzxT6vuxFrCzcMz,54
+cancion,Bishop Briggs,0yb46jwm7gqbZXVXZQ8Z1e,country,CHAMPION,2019,14oFxKTXuTpYgKe2vy0Cih,51
+cancion,Billy Ray Cyrus,60rpJ9SgigSd16DOAG7GSa,country,Old Town Road (feat. Billy Ray Cyrus) - Remix,2019,2YpeDb67231RjR0MgVLzsG,76
+cancion,Billy Ray Cyrus,60rpJ9SgigSd16DOAG7GSa,country,Old Town Road - Diplo Remix,2019,3kgKVcBpBGuSeaEC0AZGlb,53
+cancion,Billy Ray Cyrus,60rpJ9SgigSd16DOAG7GSa,country,Old Town Road - Remix,2019,6jmZlyf9DxcIoRrjw02YXm,49
+cancion,Whiskey Myers,26opZSJcXshCmCwxgZQmBc,country,Bury My Bones,2019,6yggZbtgrxPNwWOs06cS8L,66
+cancion,Whiskey Myers,26opZSJcXshCmCwxgZQmBc,country,Little More Money,2019,6hEQXazbYVULgnYoK4xa99,57
+cancion,Koe Wetzel,1Tie3AZgLQZqYEp8Fv4zOZ,country,Ragweed,2019,3MxWqiFH3s8Mll4CljGLfa,65
+cancion,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,country,One Man Band,2019,7cA3PnUQDlUyBBwpRozQeo,75
+cancion,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,country,Make It Sweet,2019,3Mnr3yyQk1aUPYgbpOQE31,58
+cancion,Lady A,32WkQRZEVKSzVAAYqukAEA,country,What If I Never Get Over You,2019,0qkdE1C0ufnUISKwhg8Wh6,63
+cancion,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,country,The Bones,2019,7yFhA2fUsL2oIMWlw5DaHQ,66
+cancion,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,country,The Bones - with Hozier,2019,1yTTMcUhL7rtz08Dsgb7Qb,63
+cancion,Yelawolf,68DWke2VjdDmA75aJX5C57,country,You and Me,2019,53QA7j4pHWAtbE3D0Glh7Q,67
+cancion,The Dead South,3HR1xtIsUefdFnkI1XHgeA,country,Broken Cowboy,2019,4LDpOJkDGGyuxvXyLFYSSN,55
+cancion,The Dead South,3HR1xtIsUefdFnkI1XHgeA,country,Black Lung,2019,382o5X75WPYVvWNJI2HqCQ,54
+cancion,The Dead South,3HR1xtIsUefdFnkI1XHgeA,country,Diamond Ring,2019,2ZkOdMecUO8UZtNEmL5htz,46
+cancion,Billy Strings,1ZN1c1qWEGZNX1pGeKCPpf,country,Taking Water,2019,6CFWS3OAIybkmUQHOZt33S,59
+cancion,Billy Strings,1ZN1c1qWEGZNX1pGeKCPpf,country,Away From The Mire,2019,6oPDKGwBri4OLQX5IYu02T,56
+cancion,Billy Strings,1ZN1c1qWEGZNX1pGeKCPpf,country,Watch It Fall,2019,348k0fvTj8lMXdkUR7mJZ4,55
+cancion,Zach Williams,6g10GEtmIVqIQBhPZh4ScQ,country,There Was Jesus,2019,6oizwmD5yHvlQUw0xvirrY,67
+cancion,Zach Williams,6g10GEtmIVqIQBhPZh4ScQ,country,Rescue Story,2019,0P0IfSuzTC6bLUsHjmDuvW,66
+cancion,Zach Williams,6g10GEtmIVqIQBhPZh4ScQ,country,Less Like Me,2019,7gmH5daETvXydroHAJoZQT,57
+cancion,Dave Fenley,6qGu24WJrspRNLeieoWQai,country,Stuck on You,2019,6pEfFObFiaxylYr9yHX3V1,66
+cancion,Dave Fenley,6qGu24WJrspRNLeieoWQai,country,Help Me Hold On,2019,07gDXogi68AUkCvJ4LiF53,53
+cancion,Dave Fenley,6qGu24WJrspRNLeieoWQai,country,Turn the Page,2019,628jPE3QF6leQNwUC4m7nJ,48
+cancion,Cody Jinks,2v7wIbCkIzxOfT3GnqCexD,country,Ain't a Train,2019,26rNkQarR1C3XItosI6P3i,56
+cancion,Muscadine Bloodline,0EyZDKtc41e4A3a3v69MxD,country,Put Me in My Place,2019,4CEEBr79p52p9U7mkBfzUy,58
+cancion,Muscadine Bloodline,0EyZDKtc41e4A3a3v69MxD,country,Mind of Its Own,2019,59bMm226RptkgTWiNaF6sR,55
+cancion,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,Cheatin’ Songs,2019,01dBLHq3UWyDRWDZJXj235,61
+cancion,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,Mr. Lonely,2019,6V6Fma9lttQBnIaeHdZ4eC,55
+cancion,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,Fourteen Gears,2019,6oQZavCjiMN7q2tGmK8K2F,54
+cancion,Tyler Braden,63wjVVauFUQ4gBw6QXTT5N,country,Thank Me for That,2019,5s8wmYKFbYfHO0W49vKuv4,62
+cancion,OurVinyl,4MhBe0d439ToDXCWlT3wae,country,Sure Don't Miss You (OurVinyl Session),2019,7Mze4xkzLpL2MJROXVuOOZ,44
+cancion,OurVinyl,4MhBe0d439ToDXCWlT3wae,country,State Line (OurVinyl Sessions),2019,4nww7V9xrzGSyxzb14G0pG,43
+cancion,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,Slow Ride,2019,4C6wFHj4l4an2UCVGXR6c5,56
+cancion,Justin Moore,30e8DmahrEamvLbFRPdWmk,country,Why We Drink,2019,4lSfhHd5Knwl8yQw2cVjAD,60
+cancion,Justin Moore,30e8DmahrEamvLbFRPdWmk,country,The Ones That Didn’t Make It Back Home,2019,6Vmb8Ru0BvjWGozOVGApRd,58
+cancion,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Holler Boys,2019,3z0dzcrMa0e9TpP6xxKwaU,60
+cancion,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,"Hey Boy, Hey Girl",2019,47f6eZgviwSZciXGv2iWYg,54
+cancion,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Cocaine Country Dancing,2019,2v7nHAyV9SyyuAJKX3Ntaj,57
+cancion,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Holy Ghost Fire,2019,4bzvtKQtQj97GCc58blg0K,51
+cancion,Lauren Alaina,1v3tdpIdBSW14rHUfiEVOv,country,ONE BEER (feat. Lauren Alaina & Devin Dawson),2019,2tev2oEdAUyNtR1U8gQ8c4,66
+cancion,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,Feet Off The Ground (feat. Jade Bird),2019,5HlqJxuU7T8Tqn56f2d3Pg,49
+cancion,Watchhouse,675tsBPpaZtqyiBwEf3ZEP,country,Golden Embers,2019,4OkKz8LhKo846kN3nncNZs,55
+cancion,Watchhouse,675tsBPpaZtqyiBwEf3ZEP,country,The Wolves,2019,0n7eIgN6SqXohLpAEd27Jr,54
+cancion,Charles Wesley Godwin,2ErsJAz6qJ5cqjoVAvfvaC,country,Hardwood Floors,2019,7ombTZVkZmszWGo4QX4nSo,61
+cancion,Charles Wesley Godwin,2ErsJAz6qJ5cqjoVAvfvaC,country,Seneca Creek,2019,1aH17xIbWJQToV9dEa89z8,54
+cancion,Josh Meloy,3EVsC9ZK7QMDuK4FPcZaEq,country,Natural Born Killer,2019,3MOU5I7wm7ItM6A9zz34YL,51
+cancion,Joy Williams,4TCXgdDPm10ensLNCVnIYa,country,Front Porch,2019,5sVyefkGgQeYCgnqr4KslQ,56
+cancion,Joy Williams,4TCXgdDPm10ensLNCVnIYa,country,The Trouble with Wanting,2019,5ZUObJNpVt2l9GogUSfALc,52
+cancion,Joy Williams,4TCXgdDPm10ensLNCVnIYa,country,No Place Like You,2019,2ZcVl0rG4CFi7KHNeUxvFa,35
+cancion,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,country,Roll Me Up and Smoke Me When I Die - Live,2020,5iis9J2sptrUy0VIpFVIg1,61
+cancion,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,country,Roll Me Up and Smoke Me When I Die - Live,2020,5iis9J2sptrUy0VIpFVIg1,61
+cancion,HARDY,5QNm7E7RU2m64l6Gliu8Oy,country,GIVE HEAVEN SOME HELL,2020,6kBbetvAHiBSNIpndZBs6W,70
+cancion,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,country,Be Like That - feat. Swae Lee & Khalid,2020,5f1joOtoMeyppIcJGZQvqJ,65
+cancion,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,country,Knockin' Boots,2020,2opQESZb7JsRKCvWMBPeuv,66
+cancion,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,country,One Margarita,2020,1Y3TlYJNhIa7k4YAvFkJAB,63
+cancion,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,country,Broke (feat. Thomas Rhett),2020,1etcoCl2mkHpMHkMVco8iz,64
+cancion,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,country,You Should Probably Leave,2020,2UikqkwBv7aIvlixeVXHWt,83
+cancion,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,country,Starting Over,2020,3K07bGe8iljQ3mOKArHLDo,78
+cancion,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,country,Cold,2020,24nhOvYX2gk3txBbMzXeUB,73
+cancion,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,country,Joy Of My Life,2020,4EuaDcxHmHKS6gZ5iuGba0,75
+cancion,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,Revival,2020,2QfX9Pdz3q66fN3kCXl0Js,77
+cancion,Teddy Swims,33qOK5uJ8AR2xuQQAhHump,country,You're Still The One,2020,4guQztGKAETkvuTekNeqBe,78
+cancion,Luke Combs,718COspgdWOnwOFpJHRZHS,country,Forever After All,2020,6IBcOGPsniK3Pso1wHIhew,79
+cancion,Russell Dickerson,1E2AEtxaFaJtH0lO7kgNKw,country,Love You Like I Used To,2020,5oVEXLYT47mTPnHwTGHciX,62
+cancion,Russell Dickerson,1E2AEtxaFaJtH0lO7kgNKw,country,Home Sweet,2020,6gbgP1TVtL3OjcMOdzY1BD,58
+cancion,Kris Kristofferson,0vYQRW5LIDeYQOccTviQNX,country,Roll Me Up and Smoke Me When I Die - Live,2020,5iis9J2sptrUy0VIpFVIg1,61
+cancion,Kris Kristofferson,0vYQRW5LIDeYQOccTviQNX,country,On The Road Again - Live,2020,0vcJzE2LuNY9aoq2hdMjHZ,57
+cancion,Emmylou Harris,5s6TJEuHTr9GR894wc6VfP,country,Roll Me Up and Smoke Me When I Die - Live,2020,5iis9J2sptrUy0VIpFVIg1,61
+cancion,Emmylou Harris,5s6TJEuHTr9GR894wc6VfP,country,On The Road Again - Live,2020,0vcJzE2LuNY9aoq2hdMjHZ,57
+cancion,Josh Turner,7vCtweS8UVAXTyau2j0rDT,country,"Forever And Ever, Amen",2020,17BbthWRrVc1kukJua4uh5,51
+cancion,Colter Wall,3xYXYzm9H3RzyQgBrYwIcx,country,Cowpoke,2020,0QJKUh0ga2ubfuVs8DM7bq,69
+cancion,Jimmy Buffett,28AyklUmMECPwdfo8NEsV0,country,Roll Me Up and Smoke Me When I Die - Live,2020,5iis9J2sptrUy0VIpFVIg1,61
+cancion,Jimmy Buffett,28AyklUmMECPwdfo8NEsV0,country,On The Road Again - Live,2020,0vcJzE2LuNY9aoq2hdMjHZ,57
+cancion,Parker McCollum,0Z8XVUAOBPM4x12wKnFHEQ,country,Young Man's Blues,2020,6ywiHcxaHBR39gRhud37XK,59
+cancion,Sons of Legion,4WBCjNjq0MGPsvcXyOPWKW,country,Power,2020,6tNZq8XsV3FWUR0u4gDrDF,60
+cancion,Sons of Legion,4WBCjNjq0MGPsvcXyOPWKW,country,Brand New Day,2020,365Hns7Hf2P1s05HoCyf2V,58
+cancion,Poor Man's Poison,0YHgnSkV3S5mvSSCTRWDi5,country,Feed the Machine,2020,40wmXUgVB0N5eLK8CuOhm3,70
+cancion,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,country,half of my hometown (feat. Kenny Chesney),2020,1yRke3PmsyFrYlFZOAkABk,61
+cancion,Koe Wetzel,1Tie3AZgLQZqYEp8Fv4zOZ,country,Drunk Driving,2020,3ERb3f5nGNwRcNLNoN3KRg,67
+cancion,LeAnn Rimes,2d3VHzlOEwXvmBdS4pzOPL,country,The Right Kind Of Wrong,2020,0bJ03Oyk12EZhfn5OEfOVu,50
+cancion,Keith Urban,0u2FHSq3ln94y5Q57xazwf,country,One Too Many,2020,3X7H1FAiWAW937WvsFeMhe,58
+cancion,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,country,Body Like A Back Road,2020,7FpBQ067pHB67deawpbbcY,68
+cancion,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,country,Kinfolks,2020,52lGuLAkIVbm4LZkSf9nj0,58
+cancion,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,country,Hard To Forget,2020,10xuH52YSXHWFwCaF1fsDd,59
+cancion,Tom MacDonald,6DvlemMOlMH6VD9tB7BPRf,country,People So Stupid,2020,3rjJAqZWPjDhsTkCmc2HcY,58
+cancion,Sturgill Simpson,3vDpQbGnzRbRVirXlfQagB,country,I Don't Mind,2020,0NkiEX9bdIm7a06pJBbOYs,59
+cancion,Sturgill Simpson,3vDpQbGnzRbRVirXlfQagB,country,All Around You,2020,2su9lOnI21rEmHdBcWjM2B,56
+cancion,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,country,One Of Them Girls,2020,6uyiyatWPCqC59Mm4rO8xL,69
+cancion,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,country,I Hope You’re Happy Now,2020,0Al3wN3keprGTSgG8NBwjr,67
+cancion,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,country,Memory I Don't Mess With,2020,1zYZs8Vbjhbzx5M3olcRnm,62
+cancion,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,country,Soul,2020,3vCUelLOtiuNF78p9LNWZF,58
+cancion,Vince Gill,3IhWQSrLj8EJjdvjFTpCyo,country,Roll Me Up and Smoke Me When I Die - Live,2020,5iis9J2sptrUy0VIpFVIg1,61
+cancion,Vince Gill,3IhWQSrLj8EJjdvjFTpCyo,country,On The Road Again - Live,2020,0vcJzE2LuNY9aoq2hdMjHZ,57
+cancion,Dave Fenley,6qGu24WJrspRNLeieoWQai,country,Grandpa (Tell Me 'bout the Good Old Days),2020,1XhDpX7rrCFrI3ExwrNoU3,54
+cancion,Flatland Cavalry,4SfGzWmeoNPKIOmiyc7Pav,country,West Texas in My Eye,2020,7rr2MisgPp9gRn1ydcwpe7,58
+cancion,Muscadine Bloodline,0EyZDKtc41e4A3a3v69MxD,country,Pieces,2020,73rxH6rYJQZtwfjKNb4mwZ,69
+cancion,Muscadine Bloodline,0EyZDKtc41e4A3a3v69MxD,country,Turn Back Time,2020,6qIYUq7qoHFvqWuUjBVovi,58
+cancion,Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,country,Ridin’ Roads,2020,2VPmBOuy7ZAOFSzKwW2IEt,63
+cancion,Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,country,Thinking 'Bout You (feat. Lauren Alaina),2020,6NebrV4ZigAoXIRbe11hxh,60
+cancion,Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,country,Good Girl,2020,3NgcaTIgVh77DdwAInp996,60
+cancion,Alison Krauss,5J6L7N6B4nI1M5cwa29mQG,country,Amazing Grace (arr. Mercurio),2020,1OWoYQ9tGoufbJGY0YOdAI,51
+cancion,OurVinyl,4MhBe0d439ToDXCWlT3wae,country,The Night (OurVinyl Sessions),2020,4MbfmcmXZ0mlWFiY0L149A,44
+cancion,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,Everlasting Lover,2020,6XQBVqp1fPRg3EQkiakXii,65
+cancion,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,"Hays, Kansas",2020,4E654vaYmzVx4x91uGZAW4,58
+cancion,Reba McEntire,02rd0anEWfMtF7iMku9uor,country,Fancy,2020,5wF0S5ORJ5rMcWZICC46Fb,64
+cancion,Corey Kent,3sUpZrkehiGBaMzs2h9Mmc,country,Boys Growing Up,2020,5nI6vZtAi36Mnx35GYTBAm,49
+cancion,Waxahatchee,5IWCU0V9evBlW4gIeGY4zF,country,Lilacs,2020,53hfvs9b0ykU1m7NgSWNiW,50
+cancion,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Holy Ghost Fire - Electrophunck Remix,2020,0o6rg4HOpwgT4SnLRhAdXo,50
+cancion,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Cocaine Country Dancing - Electrophunck Remix,2020,6gDYs5MCh1FOMBLsvn0V1c,50
+cancion,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Unchained Melody,2020,2Sub2r3YIAjrVUy4dVf7lJ,45
+cancion,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,Welcome to Hard Times,2020,0tij6loXatN15kmrAjWWRr,62
+cancion,Braxton Keith,5JHw4x1RYIlwNfCq6FNXxf,country,Let Me Love You More,2020,05LmKXDAFpp8hRHZyBRDie,57
+cancion,John Michael Montgomery,7mPcfx7PhnBh6n4HMCd61A,country,Life's a Dance,2020,6Q5XLz1eX6BTnJLutstUvi,58
+cancion,Kameron Marlowe,31n3CN1jSC5ALUJ9dwT8UI,country,Giving You Up - Acoustic,2020,5NIGKX5at9iO87OyOHmoiV,53
+cancion,Jamey Johnson,5yhxqYI0JBwUKfXpSEjiM8,country,Roll Me Up and Smoke Me When I Die - Live,2020,5iis9J2sptrUy0VIpFVIg1,61
+cancion,Jamey Johnson,5yhxqYI0JBwUKfXpSEjiM8,country,On The Road Again - Live,2020,0vcJzE2LuNY9aoq2hdMjHZ,57
+cancion,Jamey Johnson,5yhxqYI0JBwUKfXpSEjiM8,country,Okie From Muskogee - Live,2020,529x2bhs2op70bGqGOoLk4,50
+cancion,Little Big Town,3CygdxquGHurS7f9LjNLkv,country,"Wine, Beer, Whiskey",2020,5avVDmK9FVJpd3MDO8I3Zl,62
+cancion,The Steeldrivers,3bLSAQPeix7Xm2e5Gtn48R,country,I Choose You,2020,56QIi1ES8speRvNHIHaHHl,57
+cancion,The Steeldrivers,3bLSAQPeix7Xm2e5Gtn48R,country,The Bartender,2020,6vBOgkPAZ0dY2CQf5sY9HK,52
+cancion,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,Black Creek,2020,4jB3Mw900goYibsFAueHph,73
+cancion,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,Keep 'Em on They Toes,2020,0f388trqcZyqGbPJUqGWpx,59
+cancion,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,No Place Left to Leave,2020,3ByY1rAdGseNiZ43YknF3d,50
+cancion,Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,country,I Hope,2020,23T0OX7QOiIUFShSzbJ5Uo,71
+cancion,Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,country,The Good Ones,2020,3hLuHKzG1cmlRpq53ZVWd8,70
+cancion,Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,country,I Hope (feat. Charlie Puth),2020,5cYFwgA5dHoqR3xGnlr9ew,60
+cancion,Steve Earle,2UBTfUoLI07iRqGeUrwhZh,country,Roll Me Up and Smoke Me When I Die - Live,2020,5iis9J2sptrUy0VIpFVIg1,61
+cancion,Steve Earle,2UBTfUoLI07iRqGeUrwhZh,country,On The Road Again - Live,2020,0vcJzE2LuNY9aoq2hdMjHZ,57
+cancion,Josh Meloy,3EVsC9ZK7QMDuK4FPcZaEq,country,Met the Devil in Oklahoma,2020,32GtaR8mm14DOmhWzG8Jik,64
+cancion,Ethel Cain,0avMDS4HyoCEP6RqZJWpY2,country,Crush,2021,0nsIevK1SeDfZzDOi6Si75,69
+cancion,Cody Johnson,6zLBxLdl60ekBLpawtT63I,country,'Til You Can't,2021,4k3lPl8YTKuY8c1HelVnm3,77
+cancion,Megan Moroney,5Ppie0uPnbnvGBYRwYmlt0,country,Wonder,2021,1z89jCXIK0JzyBtaa7Sn58,73
+cancion,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,country,Hell Of A View,2021,4mXGooManGPH6xAWRAtRJU,67
+cancion,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,country,Lil Bit (feat. Florida Georgia Line),2021,33aow0AcXYvT1FoWNzMcqN,65
+cancion,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,country,Buy Dirt,2021,69AIpwGNLxr4qS1X5ynx60,77
+cancion,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,country,Famous Friends,2021,00KyYtT6NaXwbPecina5Pj,62
+cancion,Treaty Oak Revival,3444S3C4U9Ts86BnCtSPRV,country,Missed Call,2021,6ybZUqlfk938oS6WeBmDab,80
+cancion,Treaty Oak Revival,3444S3C4U9Ts86BnCtSPRV,country,No Vacancy,2021,3pVs5Zehts89WLyBPiYfxG,77
+cancion,Treaty Oak Revival,3444S3C4U9Ts86BnCtSPRV,country,Ode To Bourbon,2021,4kvCtReby19JPkePLwy8Pq,76
+cancion,Treaty Oak Revival,3444S3C4U9Ts86BnCtSPRV,country,One Time Thing,2021,68eJ2p1kk3elAYFfw8mJYS,71
+cancion,Lainey Wilson,6tPHARSq45lQ8BSALCfkFC,country,Things A Man Oughta Know,2021,3S0sk6DSTgesXsUSAEHNr5,71
+cancion,Lainey Wilson,6tPHARSq45lQ8BSALCfkFC,country,Dirty Looks,2021,45EwtYrnqJH3AH2bFpEOC6,67
+cancion,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,country,If I Didn’t Love You,2021,7IYoh1u7dFM1xIWSEYd5B8,69
+cancion,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,country,What’s Your Country Song,2021,4oR2cCQGs0Yt0Mgr2diV6V,66
+cancion,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,country,Son Of A Sinner,2021,6ngGiVX91DRmGDH4G5EgeO,74
+cancion,Bailey Zimmerman,3win9vGIxFfBRag9S63wwf,country,Never Comin' Home,2021,4hEA25qUMn3camHI87UhiI,67
+cancion,KALEO,7jdFEYD2LTYjfwxOdlVjmc,country,Break My Baby,2021,3BsoE7SgveujY2jeV2rVRw,65
+cancion,KALEO,7jdFEYD2LTYjfwxOdlVjmc,country,Hey Gringo,2021,4aPeeN8IYOCMNBGI0p7169,63
+cancion,KALEO,7jdFEYD2LTYjfwxOdlVjmc,country,Backbone,2021,2mVblJ1gaLw0TZz822Oy31,61
+cancion,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,country,Lady,2021,2fSuoIlA1uTERXunbshSWh,62
+cancion,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,country,You Didn’t,2021,5Jwcv2Le3Klwgrgyqa12ZA,59
+cancion,Avery Anna,5rjz63sgMaAUAyBMyCUK5D,country,Narcissist,2021,3LLezpquftwn7QI1rYIovM,62
+cancion,Parker McCollum,0Z8XVUAOBPM4x12wKnFHEQ,country,Pretty Heart,2021,7nINhyXn6uwUkYLY5KQH0K,67
+cancion,Parker McCollum,0Z8XVUAOBPM4x12wKnFHEQ,country,To Be Loved By You,2021,2pUQX4d3Cjh3umGkVz0XyI,59
+cancion,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,country,"10,000 Hours (with Justin Bieber)",2021,4j5ffIFh7bFT7GZciP1TCy,68
+cancion,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,country,Glad You Exist,2021,3oV2RVOmwdWdf9BmGS4Oad,56
+cancion,Sons of Legion,4WBCjNjq0MGPsvcXyOPWKW,country,Remember My Name,2021,74U3RSDvW0WmyUufIHGgjn,61
+cancion,Sons of Legion,4WBCjNjq0MGPsvcXyOPWKW,country,Runnin',2021,702Ol1InVkK0Zwdg3SKGZP,57
+cancion,Poor Man's Poison,0YHgnSkV3S5mvSSCTRWDi5,country,Give and Take,2021,4pZos1A9cAsvHx5kj1O38W,62
+cancion,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,country,I Quit Drinking,2021,6OcCk1dbAb7XNHsC098oEM,70
+cancion,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,country,I Was On a Boat That Day,2021,7u6kAP26NFU2rwNKjFUpI8,57
+cancion,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,country,If I Didn’t Love You,2021,7IYoh1u7dFM1xIWSEYd5B8,69
+cancion,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,country,Chasing After You,2021,3MkXV52jXtsG4pvKp4cGE8,58
+cancion,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,country,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),2021,4CHpVfAhuxNJ3ibExe6kxO,56
+cancion,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,country,23,2021,4PuAqZlL1tkidkuxfDlLbF,60
+cancion,Tom MacDonald,6DvlemMOlMH6VD9tB7BPRf,country,Clown World,2021,2QD9yFCDFM0OyXSrkIqZzG,56
+cancion,Tom MacDonald,6DvlemMOlMH6VD9tB7BPRf,country,Fake Woke,2021,22N2WWWq3pGweYgP5o5q7w,56
+cancion,Chris Young,4BYxqVkZyFjtik7crYLg5Q,country,Famous Friends,2021,00KyYtT6NaXwbPecina5Pj,62
+cancion,Billy Strings,1ZN1c1qWEGZNX1pGeKCPpf,country,The Great Divide,2021,3q3lSbfT5BnQlIvGwahgAD,58
+cancion,Billy Strings,1ZN1c1qWEGZNX1pGeKCPpf,country,Know It All,2021,687SHqnUp3yGfGiuwgE2WG,55
+cancion,Billy Strings,1ZN1c1qWEGZNX1pGeKCPpf,country,In The Morning Light,2021,094CEqqfSyUyMygzZNcfJC,54
+cancion,Sturgill Simpson,3vDpQbGnzRbRVirXlfQagB,country,Sam,2021,1kKDVYavcoEH5N6R6ezM6T,59
+cancion,Zach Williams,6g10GEtmIVqIQBhPZh4ScQ,country,Rise Up (Lazarus),2021,5whJyPtbKSw3BNU61o9sPE,44
+cancion,Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,country,Beers On Me,2021,19ZzEzb4BVK1wVO4brrmZz,63
+cancion,Cooper Alan,0AtQAehoytV7j1r4O16dRb,country,Colt 45 (Country Remix),2021,0kgRRHa5CMeCciIgYT67re,64
+cancion,Sierra Ferrell,3oVcF3VdpMuvMvLLyHPT4t,country,In Dreams,2021,0ewKJ6eM0Z761OissISTW7,64
+cancion,Sierra Ferrell,3oVcF3VdpMuvMvLLyHPT4t,country,Jeremiah,2021,23ZnVd3Qa0kwsTJcfHVjJ0,57
+cancion,Dave Fenley,6qGu24WJrspRNLeieoWQai,country,Shallow,2021,6GqrODNtHxtpAnbNRIv1Qe,48
+cancion,Chase Matthew,7HTLVyjNf0VRxfIgNcfRRH,country,County Line,2021,7K4Y80atyigrNkZZVbOsQ1,69
+cancion,Chase Matthew,7HTLVyjNf0VRxfIgNcfRRH,country,Pull Up,2021,3DWl5nnIYM390wBQ1CxiMm,60
+cancion,Alison Krauss,5J6L7N6B4nI1M5cwa29mQG,country,Can't Let Go,2021,57nF5aaoeyHOBRnyjV6lCT,42
+cancion,OurVinyl,4MhBe0d439ToDXCWlT3wae,country,Champagne Supernova (OurVinyl Sessions),2021,0C0bw3UZM525pEFU6hYfVH,47
+cancion,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,Truth About You,2021,0M0YznaIOwAdoo2cT2KwpK,58
+cancion,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,Bucket List,2021,3SNwXLyFpMhd1YRay8oKH3,51
+cancion,Justin Moore,30e8DmahrEamvLbFRPdWmk,country,We Didn't Have Much,2021,0Iuw6WPws324i7G7sCejTX,61
+cancion,Redferrin,4oCk0xbmAtqXZFzXtH3AgF,country,Stuck,2021,0zpxJZIcJUZZTAuhpkmas2,65
+cancion,Redferrin,4oCk0xbmAtqXZFzXtH3AgF,country,Wouldn't Hurt,2021,4WvOA9c8SpIpOFmWjZt4yU,52
+cancion,Tyler Hubbard,3BEV5FcxOtkQJ7lLRKMh3V,country,Country Boy Do (feat. Tyler Hubbard),2021,24MH7MzHl5XAYlmMdn85CF,54
+cancion,Tyler Hubbard,3BEV5FcxOtkQJ7lLRKMh3V,country,My Way (feat Tyler Hubbard),2021,3qppdX325WO677KrczGZrv,49
+cancion,Tyler Hubbard,3BEV5FcxOtkQJ7lLRKMh3V,country,Undivided,2021,7ighoI7pr7eE4r0gyXZwX7,43
+cancion,Reba McEntire,02rd0anEWfMtF7iMku9uor,country,The Night The Lights Went Out In Georgia - Revived,2021,2AvjlUXWAxxyDmfpUGQ4zz,54
+cancion,Corey Kent,3sUpZrkehiGBaMzs2h9Mmc,country,Gold,2021,4LhE9kmjMAujqJJhT6r6V4,57
+cancion,Corey Kent,3sUpZrkehiGBaMzs2h9Mmc,country,Ain't My Day,2021,2PbIcS1N9Sdn293S0tIN0E,54
+cancion,Corey Kent,3sUpZrkehiGBaMzs2h9Mmc,country,Highways,2021,2oVbfiz6AybMytuU5tsVR1,53
+cancion,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,This Side of Town,2021,45d1VpWqBmWbqkSL8hZCDx,53
+cancion,Upchurch,2pSObt5Fk8izuX8ZfI3jRn,country,Real Country,2021,6YmmfDU2SajENgzwtRtUTn,52
+cancion,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,I Need Your Love,2021,2xukUi9mX3gH3n6j0aPyD7,52
+cancion,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,I Can Help,2021,6jA2i54oeB8cq1c3YF2YQG,52
+cancion,Braxton Keith,5JHw4x1RYIlwNfCq6FNXxf,country,A Little Bit Closer,2021,2E3o3ztofEqaGD2QqVbQ7C,60
+cancion,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,country,Damn Strait,2021,0gNrujgnSfw4LuSvd0Jbs6,62
+cancion,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,country,It Matters To Her,2021,4aSRUXfKuBbmje0eXNukuL,61
+cancion,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,country,You Time,2021,3yFsyy1hw7v31NBrRJX2QM,49
+cancion,Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,country,Pick Me Up,2021,2jB7EAkahL97QysjRYecTS,57
+cancion,Charles Wesley Godwin,2ErsJAz6qJ5cqjoVAvfvaC,country,Temporary Town,2021,2WH77R5lLir7ZHW8ey7t8H,59
+cancion,Charles Wesley Godwin,2ErsJAz6qJ5cqjoVAvfvaC,country,Jesse,2021,7MyxpCWldoyrKvB61kahpS,56
+cancion,City Spud,3L2SIGZah4QZSvN4wC8rHl,country,Ms. Drive Me Crazy (feat. Darius Rucker & City Spud),2021,7lphCl31xQlZo4wl6hwt7m,39
+cancion,Joy Williams,4TCXgdDPm10ensLNCVnIYa,country,Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version),2021,2RJnNdu4pb3MypbBroHU0T,60
+cancion,The Red Clay Strays,6IKlXZEFOvk9itrP1s0knJ,country,Wondering Why,2022,1HbzxLqpNVPdiBXvpC7Ovb,82
+cancion,The Red Clay Strays,6IKlXZEFOvk9itrP1s0knJ,country,Stone's Throw,2022,65BmUqyPuH4QLfQjcoJPFL,70
+cancion,The Red Clay Strays,6IKlXZEFOvk9itrP1s0knJ,country,Moment of Truth,2022,714tF0Vt9ohC9uWwEyIRAo,64
+cancion,Ethel Cain,0avMDS4HyoCEP6RqZJWpY2,country,American Teenager,2022,4ltqfN12ohaVZdM6C45gMg,68
+cancion,Ethel Cain,0avMDS4HyoCEP6RqZJWpY2,country,Strangers,2022,5Cc0Pe8p7c2OJxMj07ywvc,67
+cancion,Ethel Cain,0avMDS4HyoCEP6RqZJWpY2,country,Sun Bleached Flies,2022,6fKIyDJHZ9m84jRhSmpuwS,65
+cancion,Ethel Cain,0avMDS4HyoCEP6RqZJWpY2,country,A House In Nebraska,2022,6UxAKocZd98MRn0u5obryV,63
+cancion,Paris Paloma,2EXpthNgSeTDeX8nGwxppp,country,the fruits,2022,58VTP6KnZs12PcAj5rMJ4W,66
+cancion,Paris Paloma,2EXpthNgSeTDeX8nGwxppp,country,It's Called: Freefall,2022,2IRjyyiU5P9WnmXJKcnwww,63
+cancion,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,country,Up Down,2022,1zQMvZU0A2De2oaYo3DLRE,51
+cancion,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,country,Mr. Saturday Night,2022,109ETcT7xie3TKvt1Ser6t,71
+cancion,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,country,Your Heart Or Mine,2022,7ETjhPaIU4UmHOiimJBZz9,70
+cancion,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,country,Last Night Lonely,2022,0k11c8vwyeNSGQex6UMa1v,68
+cancion,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,country,Thank God,2022,1brnLTvarI9D1hLP6z2Ar8,68
+cancion,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,country,Like I Love Country Music,2022,5C9jQ8ikTOieveuORd8wlf,58
+cancion,Lainey Wilson,6tPHARSq45lQ8BSALCfkFC,country,Heart Like A Truck,2022,5DIBVDJOHh7djepAjKHWCO,75
+cancion,Lainey Wilson,6tPHARSq45lQ8BSALCfkFC,country,Watermelon Moonshine,2022,3sYBFUXTv0STUoUINx9Qe8,72
+cancion,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,Something in the Orange,2022,3WMj8moIAXJhHsyLaqIIHI,85
+cancion,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,"Burn, Burn, Burn",2022,5jfhLCSIFUO4ndzNRh4w4G,78
+cancion,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,Oklahoma Smokeshow,2022,0OWhKvvsHptt6vnnNUSM9a,77
+cancion,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,country,Motorcycle Drive By,2022,2HbpYFQbairMoU2YFyOP2x,77
+cancion,Russell Dickerson,1E2AEtxaFaJtH0lO7kgNKw,country,God Gave Me A Girl,2022,7kkLBfxW41iVO0cdLU9e9S,62
+cancion,Russell Dickerson,1E2AEtxaFaJtH0lO7kgNKw,country,She Likes It (feat. Jake Scott),2022,4uJDDG8vXJ6fZHtTfrPfMX,54
+cancion,Sons of Legion,4WBCjNjq0MGPsvcXyOPWKW,country,Fire Starter,2022,3YjfhJzOKPX2jL0gOJptBR,65
+cancion,ERNEST,4GGfAshSkqoxpZdoaHm7ky,country,Flower Shops (feat. Morgan Wallen),2022,1DbZAffh8GGwW41Q3AU8iC,74
+cancion,ERNEST,4GGfAshSkqoxpZdoaHm7ky,country,Flower Shops (feat. Morgan Wallen) (Acoustic),2022,5FjPH6pycWcPNtCMPvq6Gj,54
+cancion,Warren Zeiders,7kplJl06UmldxLKseURAYi,country,Ride the Lightning - 717 Tapes,2022,04YKO5t4AZrsqKfGhhUb2j,64
+cancion,Warren Zeiders,7kplJl06UmldxLKseURAYi,country,Up To No Good,2022,03hcfTQjONwVFIYEu7Sx7u,62
+cancion,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,country,IF YOU GO DOWN (I'M GOIN' DOWN TOO),2022,1jX9wlAgVkAl0fCZqkCI73,64
+cancion,Whiskey Myers,26opZSJcXshCmCwxgZQmBc,country,Heart of Stone,2022,7dHnVfXljNwvlLGlr6lMlc,62
+cancion,Whiskey Myers,26opZSJcXshCmCwxgZQmBc,country,John Wayne,2022,4TcpoeAXkbJnXfxvOjJzCy,58
+cancion,Soap&Skin,2mAYpnSe3g2Y22JcZ2ddku,country,Ich tauche auf (feat. Soap&Skin),2022,5Wfg7vat4RnDmgZDUxGF12,41
+cancion,Elle King,3bhu7P5PfngueRHiB9hjcx,country,Dear Alcohol (feat. Elle King),2022,2JspXl1hD5EUfyBln7r0F6,53
+cancion,Keith Urban,0u2FHSq3ln94y5Q57xazwf,country,Throw It Back (feat. Keith Urban),2022,4eBaGa3ykdcmrGSKlHrAnV,56
+cancion,Tom MacDonald,6DvlemMOlMH6VD9tB7BPRf,country,The System,2022,3GOLkVAy82iWaF953nRPe4,62
+cancion,Tom MacDonald,6DvlemMOlMH6VD9tB7BPRf,country,Whiteboyz,2022,6JRbb3Gpytv9olKoq9O9YP,55
+cancion,The Dead South,3HR1xtIsUefdFnkI1XHgeA,country,People Are Strange,2022,4sBXlQqVp4UpsI0wENiu88,53
+cancion,The Dead South,3HR1xtIsUefdFnkI1XHgeA,country,You Are My Sunshine,2022,2VTUz4vnpsKwR9wluFNP59,50
+cancion,Evan Honer,1GERDglQrxe4ynLzcdG6qP,country,Jersey Giant,2022,3hEkAosl2ZuO9FltxY5L1R,74
+cancion,Cooper Alan,0AtQAehoytV7j1r4O16dRb,country,First Rodeo,2022,2I75JDeFu2xQ1FaSU4otFO,59
+cancion,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,country,Memory to Drown,2022,6d3rOaVzZshI2YRBl7WjQb,66
+cancion,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,country,Everyone's An Outlaw,2022,5fyqWpeDtT2vqrT2sg4Ijw,66
+cancion,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,country,FAFO,2022,76byB3pOWAII8p4KybeZQL,62
+cancion,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,country,More Than The Shine,2022,7lCunNFGAmsaYUWIQR53G2,60
+cancion,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,country,Beauty in the Struggle,2022,55bN4rlBZGJJPPt6I9MDsw,59
+cancion,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,country,Lost,2022,7nTCbyLTfmm3RZKi7qkTI0,54
+cancion,Sierra Ferrell,3oVcF3VdpMuvMvLLyHPT4t,country,Years,2022,29mTi7k11emagueZvOaXgS,59
+cancion,Josh Ross,1ZGTSMjK1D2HrpPTOh916U,country,On A Different Night,2022,4cF4vuC7Ci29yhnbuoFRZx,59
+cancion,Dave Fenley,6qGu24WJrspRNLeieoWQai,country,Stand by Me,2022,2uqLJLLFdc9zR0jZCfa4NO,56
+cancion,Dave Fenley,6qGu24WJrspRNLeieoWQai,country,I Will Always Love You,2022,3FSKVylpJtOZbD50jOJDF0,50
+cancion,Brantley Gilbert,5q8HGNo0BjLWaTAhRtbwxa,country,Son Of The Dirty South,2022,6WaPKTy7RYb21gs8PasOPL,61
+cancion,Brantley Gilbert,5q8HGNo0BjLWaTAhRtbwxa,country,Rolex® On A Redneck,2022,1z4DZ2z4Lt5dlBcBFmtYyR,57
+cancion,Saint Avangeline,0j49VqyyFRbclqg8Jv3Sdq,country,Lilith,2022,4RF4iaYoM1XBbdvmC6zRtD,73
+cancion,Saint Avangeline,0j49VqyyFRbclqg8Jv3Sdq,country,Your Rarest of Flowers,2022,4EwXt7qwBlfjul1rodqNBc,62
+cancion,Saint Avangeline,0j49VqyyFRbclqg8Jv3Sdq,country,Gardener of Eden,2022,3PjrucNPcGVFewn81YJ0EW,55
+cancion,Saint Avangeline,0j49VqyyFRbclqg8Jv3Sdq,country,The Color Purple,2022,5DkqtZHYVwyO5hDDOgjeZX,46
+cancion,Dylan Scott,78YqeIji3mgAS2K1Maca6x,country,Good Times Go By Too Fast,2022,7INk3focyW89pATBgageU7,67
+cancion,Dylan Scott,78YqeIji3mgAS2K1Maca6x,country,Can't Have Mine (Find You A Girl),2022,3jfywRZH6cB2iLyKqo4EZd,64
+cancion,Dylan Scott,78YqeIji3mgAS2K1Maca6x,country,Nobody,2022,2pxN8Z0hMuIjLQkbUYHyhY,58
+cancion,Dylan Scott,78YqeIji3mgAS2K1Maca6x,country,New Truck,2022,3Z7gf1gsEPpzBRdokLYkGy,57
+cancion,Wyatt Flores,46lEQmDJLJeyltECJYJv1Y,country,Please Don't Go,2022,7fb4Qp5YoT4BKFdbj1Xu8r,73
+cancion,Wyatt Flores,46lEQmDJLJeyltECJYJv1Y,country,Losing Sleep,2022,2jgsXLMRHhdWfDIlvI8cbx,66
+cancion,Chase Matthew,7HTLVyjNf0VRxfIgNcfRRH,country,Love You Again,2022,1cAupeTLZyhhtfmRc4qaYy,63
+cancion,Chase Matthew,7HTLVyjNf0VRxfIgNcfRRH,country,Everything He Couldn't,2022,239i2fCFmHmMrrYs4qH9e1,59
+cancion,Chase Matthew,7HTLVyjNf0VRxfIgNcfRRH,country,We Had It Good,2022,46avSW86tqLgvCf5AyHbjA,56
+cancion,Midland,1DTZRmlVZBxx2wRQBtx6yi,country,Sunrise Tells The Story,2022,1fCl1BY97PPNnac9oewVBJ,50
+cancion,Tyler Braden,63wjVVauFUQ4gBw6QXTT5N,country,Try Losing One,2022,2rNAuVUZPkQfKBJPbE2eJT,57
+cancion,Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,country,Thinking 'Bout You (feat. MacKenzie Porter),2022,5eUpUFdFaAeovPau6lQkqK,69
+cancion,Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,country,Stars Like Confetti,2022,4HXiZiCbYIiG03OQwXRYnE,62
+cancion,OurVinyl,4MhBe0d439ToDXCWlT3wae,country,Slow Ready (OurVinyl Sessions),2022,2ejjD17iYBt8dt7sXSoDgT,42
+cancion,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,country,She Had Me At Heads Carolina,2022,200x8ONbPfFzByUr3fVz46,71
+cancion,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,country,Never Say Never (with Lainey Wilson),2022,3iYEsBl8NBq1o1j5uY2Noe,59
+cancion,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,country,Single Saturday Night,2022,6LnIxE8CqkK7faQV76nEHS,57
+cancion,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,country,We Got History,2022,6Awl7JBDQjfm7xkS3LkhDi,59
+cancion,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,Russell County Line,2022,7JQavxjJS7gEB6oxhhGyJj,66
+cancion,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,Annabel,2022,7ITmo5NjVDUngYlNPQTZpk,61
+cancion,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,Last Call,2022,4wmBYAdQdhpMERTwop1PwW,55
+cancion,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,Damn Darlin',2022,05BCDYfufm00iGfNKp9xss,55
+cancion,49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,country,All I Need,2022,5wVXycjmL2iigPO8Yzsji4,54
+cancion,Redferrin,4oCk0xbmAtqXZFzXtH3AgF,country,Tell 'Em Why,2022,4hnK6Q3JSfSxnYIpxmxoOj,58
+cancion,Redferrin,4oCk0xbmAtqXZFzXtH3AgF,country,Doin' Good,2022,0iat1oXi26nRLDqOTOZrfj,48
+cancion,Paul Cauthen,6yHM0XQEdu9sIlbILMaKBp,country,Country as Fuck,2022,0ZphrJjSCb4hXHo6q64nMk,48
+cancion,Charley Crockett,3BJX1nYizKvWpZTY5HOAr4,country,The Man from Waco,2022,76AM6t1aDE12g7cjzEexER,57
+cancion,Kameron Marlowe,31n3CN1jSC5ALUJ9dwT8UI,country,Giving You Up,2022,1IqZi1kWPnE5RyQ7c6rm86,62
+cancion,Kameron Marlowe,31n3CN1jSC5ALUJ9dwT8UI,country,Girl On Fire,2022,3aMDzPibtzIRWzASMH44JF,55
+cancion,Kameron Marlowe,31n3CN1jSC5ALUJ9dwT8UI,country,Steady Heart,2022,1pkoZn0iGUIxFEaHHGQxMC,53
+cancion,Kameron Marlowe,31n3CN1jSC5ALUJ9dwT8UI,country,Burn 'Em All,2022,60fj1EXr8FC63tztr9cvjA,51
+cancion,Lauren Alaina,1v3tdpIdBSW14rHUfiEVOv,country,Dancin' In The Moonlight (feat. Lauren Alaina),2022,1L0O1FRgee0LRZCtA1O6uA,52
+cancion,Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,country,Wild And Blue,2022,6hinPiQx1Us1iN1XBN5JG5,47
+cancion,Anne Wilson,75JvBeqW4BJ4xgnbMAq6MN,country,My Jesus,2022,7ETprIldSufrqcGF8MSBCZ,68
+cancion,Anne Wilson,75JvBeqW4BJ4xgnbMAq6MN,country,Sunday Sermons,2022,3l9iNZD6J3nDZMlAhH48Q1,62
+cancion,Anne Wilson,75JvBeqW4BJ4xgnbMAq6MN,country,Living Water,2022,3HmKJYBqbNhhbghGudS0Fs,57
+cancion,Anne Wilson,75JvBeqW4BJ4xgnbMAq6MN,country,Something About That Name,2022,4ciS9nPEHe817gNWMem6xv,55
+cancion,Oliver Anthony Music,6IkfE2JyVoKwBZXvuytKX3,country,Aint Gotta Dollar,2022,2USW8uFqLToqFKSVXDOEN8,58
+cancion,Charles Wesley Godwin,2ErsJAz6qJ5cqjoVAvfvaC,country,Jamie (feat. Charles Wesley Godwin),2022,11xeawurZXUDqRPxCasaDt,65
+cancion,Josh Meloy,3EVsC9ZK7QMDuK4FPcZaEq,country,Porch Light,2022,43SoxERu5UlXAgt4Es1VQU,75
+cancion,Josh Meloy,3EVsC9ZK7QMDuK4FPcZaEq,country,You Here Tonight,2022,1AIt0r0YN6pdW9QHmECLvr,68
