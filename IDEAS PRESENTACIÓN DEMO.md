@@ -1,23 +1,51 @@
+# MusicStream version Stupendo: la alternativa que sintoniza con los usuarios y con los tiempos
+
+---
+
+## Introducción
+MusicStream v. Stupendo no es solo un análisis de datos musicales, es **la alternativa que conecte con los usuarios y anticipa los tiempos**. 
+
+Tómale el pulso al presente y adelántate a las tendencias antes de que surjan, con un equipo ético y rostros humanos al frente para la nueva generación de contenidos digitales asistidos por IA.
+
+**Preguntas iniciales para el público:**
+- "¿Qué canción os recuerda el inicio de la cuarentena?"
+- "¿A qué sonó vuestro confinamiento?"
+- "¿Creéis que la gente escuchó más música melancólica o animada/bailable en 2020?"
+
+---
+
+## Propuesta de Valor
+- **Es Humano:** Para usuarios que quieren que sus servicios digitales conecten con ellos. No solo con la música en streaming.
+- **Es Ético:** Transparencia en el tratamiento de los datos.
+- **Innovador:** No esperes a ser el futuro, hagamos el presente.
+
+---
+
+## Estructura Narrativa: 
+
+### Un viaje a través de los datos: el Soundtrack de la Pandemia, ¿reconfiguró el COVID-19 la música global?
+
+#### 1. Inicio del Viaje (Pre-COVID): ¿Qué era 'normal'?
+Tendencias de los 5 géneros en 2018-2019. Estableciendo el punto de partida.
+- Ejemplo: "¿Cuál fue el artista más escuchado en 2019?"
+
+#### 2. El Epicentro (2020): El momento del cambio.
+
+Podemos presentar las mayores caídas y subidas de popularidad de los géneros durante el confinamiento. Este es el momento cumbre de la historia del viaje de nuestros datos.
+- ¿Cómo reconfiguró el COVID-19 la música a nivel global?
+- Cambios en los hábitos de escucha: ¿melancolía o baile?
+- Ejemplo: "¿Hubo un aumento en la escucha de música relajante o de fiesta?"
+
+### 3. ¿La ‘Nueva Normalidad’?
+Planteamos cómo las tendencias se estabilizaron o cambiaron permanentemente en 2021-2023. Podemos intentar hacer una conclusión de las tendencias.
+- ¿Qué artistas y géneros se mantuvieron relevantes?
+- Ejemplo: "¿Qué tendencias musicales surgieron y se quedaron?"
 
 
-## 1. **El Título y la Introducción**:
-“El Soundtrack de la Pandemia: Cómo el COVID-19 Reconfiguró la Música Global."
 
-"¿Qué canción os recuerda el inicio de la cuarentena?"
-
-“¿A qué sonó vuestro confinamiento? "
-
-“¿Creéis que la gente escuchó más música melancólica o animada/bailable en 2020?"
-
-## 2. **Estructura Narrativa**: presentación como un viaje a través de los datos, destacando los insights más interesantes.
-
-- Inicio del Viaje (Pre-COVID): ¿Qué era 'normal'? Tendencias de los 5 géneros en 2018-2019. Estableciendo el punto de partida.
-
-- El Epicentro (2020): El momento del cambio. Podemos presentar las mayores caídas y subidas de popularidad de los géneros durante el confinamiento. Este es el momento cumbre de la historia del viaje de nuestros datos.
-
-- La Reconstrucción (Post-COVID): La ‘Nueva Normalidad’. Planteamos cómo las tendencias se estabilizaron o cambiaron permanentemente en 2021-2023. Podemos intentar hacer una conclusión de las tendencias.
-
-## 3. Fase 3: **Análisis y Consultas de Datos. Realiza consultas SQL para responder a las siguientes preguntas**
+## Visualizaciones Clave
+- **Gráficos de tendencias:** Evolución de géneros y artistas antes, durante y después del COVID-19.
+- **Nube de palabras:** Títulos de canciones más escuchadas en 2020.
 
 Ideas para el análisis específico (las queries del ejercicio planteadas en el ejercicio): 
 
@@ -41,9 +69,13 @@ Quizás a esta parte podemos meterle alguna pregunta propia, del tipo:
 #
     Análisis Intra-Género (Ejemplo Country): ¿Se escucharon más canciones sobre la vida en la naturaleza -al aire libre- o hubo un boom de canciones más introspectivas?
 
-## 4. Parte más técnica (y la conexión con el Módulo 2, como acercamiento a la parte técnica/académica). Cómo funciona el Data Analytics: **Demostración de nuestro trabajo**.
+## Broche técnico
 
-Podemos exponer, brevemente, cómo usamos lo aprendido en este módulo: Python, APIs, y Pandas para obtener y analizar los datos. 
+Cómo funciona el Data Analytics: **Demostración de nuestro trabajo**.
+
+Conexión con el Módulo 2, como acercamiento a la parte técnica/académica. 
+
+Podemos exponer, brevemente, cómo usamos lo aprendido en este módulo: Python, APIs, y Pandas para obtener y analizar los datos.
 
 ¿CÓMO?
 
@@ -57,30 +89,15 @@ Le he contado al chaty mi idea y me ha devuelto esta propuesta de cierre de aná
 - SQL (almacenamiento): Un diagrama de base de datos simple que muestre cómo normalizaron los datos antes de analizarlos (referencia a la Lección de Normalización).
 
 **Chaty-Consejo**: No muestren código largo, solo capturas de pantalla clave de una función o línea de código que demuestre la complejidad técnica.
+MusicStream v. Stupendo no solo analiza datos, sino que los convierte en historias. Desde lo simple ("¿Cuál fue el artista más escuchado?") hasta lo complejo ("¿Cómo reconfiguró el COVID-19 la música a nivel global?"), nuestra herramienta te permite explorar el soundtrack de la pandemia y más allá.
 
-## 5. Cerrar con un diagnóstico:
-1. Diagnóstico: *El género Pop perdió $X\%$ de popularidad entre 2019 y 2020*.  
-2. Hipótesis (Basada en Datos): *Creemos que se debe a que la gente buscó géneros menos comerciales y más de nicho (como Metal o Country) como escape.*
-3. Conclusión (Recomendación): *Para entender las tendencias Post-COVID, las discográficas deberían enfocarse en promocionar artistas con letras que resalten la resiliencia y la conexión social.*
+## Cierre: Llamada a la Acción y Próximos Pasos:
 
-Esto transforma vuestro trabajo de una simple "tarea" a un análisis de mercado con valor agregado.
 
-#
+**Servicios digitales que conectan con sus usuarios más allá de los algoritmos.**
 
-### Requisitos ejercicio:
+**Preguntas finales para el público:**
+- "¿Qué otro evento global creéis que podría cambiar las tendencias musicales?"
 
-- **Demostrad la funcionalidad del producto:**  
-Si la presentación es para demostrar un producto, es importante que demostremos su funcionalidad. Podemos hacerlo mediante un video o demostrando el producto en vivo. Es importante asegurarse de que el producto funciona correctamente antes de la presentación.
-
-- **Resaltad los aspectos más importantes:**    
-En cualquier presentación, hay aspectos que son más importantes que otros. Debéis **resaltar los aspectos que sean más relevantes** para su objetivo. Por ejemplo, si queréis atraer inversores, deberéis resaltar los beneficios y la rentabilidad del producto.
-
-- **Dejar muy claro quién ha sido vuestro cliente y qué fue lo que os pidió**.  
-- **Explicar qué necesidades cubre o qué problemas soluciona el producto, cuál es el beneficio principal que aporta y qué lo hace único comparado con otros productos parecidos del mercado**.
-
-- **Aportaciones "únicas y diferenciadoras" de cada equipo al proyecto**:   
-    - Cómo ha sido la organización del equipo, el reparto de tareas y la coordinación a la hora de trabajar todas en el mismo código.
-    - Cuál de las tareas o los puntos ha sido el que más esfuerzo ha requerido.
-    - Cuál de las tareas o partes del producto es la que hace que el equipo esté más orgulloso.
-    - Las tecnologías qué habéis utilizado y para qué sirven, y algunas partes del código que habéis desarrollado que merezca la pena resaltar.
-
+### **Next Steps**: 
+        .
